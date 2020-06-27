@@ -1,0 +1,19 @@
+<div>
+  <div class="container-nav">
+    <div class="navigation">        
+        <div class="header-logo">
+          <a href="/"><img src="/img/IBGGC-header-logo.png"></a>
+        </div>
+        <nav>
+          <ul class="nav-menu">
+            {{ range .Site.Menus.main }}
+                    <li class="link"><a href="{{ .URL }}" class="navbar-item">{{ .Name }}</a></li>
+                    {{ end }}
+          </ul>
+        </nav>
+    </div>
+  </div>
+</div>
+
+
+                    

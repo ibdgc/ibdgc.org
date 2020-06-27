@@ -1,0 +1,22 @@
+{{ define "main"}}
+
+<section>
+	<div class="container">
+		<div class="text-width">
+	        <div class="content">
+	        	<p class="title-bug">Research</p>
+	            <h1  class="home-header">{{ .Title }}</h1>
+	            {{ .Content }}
+	            {{ range .Pages }}
+	            <a href="{{ .Permalink }}">{{ .Title }}</a>
+	            {{ end }}
+	        </div>
+        </div>
+		<div>
+		   {{ range $idx, $category := .Params.categories }}
+	      {{- if ne $idx 0 }}, {{ end }}<a href="{{ "categories/" | relURL }}{{ $category | urlize }}">{{ $category }}</a>
+	      {{- end }}
+	 	</div>	
+	</div>
+</section>
+{{end}}

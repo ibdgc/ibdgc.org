@@ -1,0 +1,59 @@
+{{ define "main" }}
+<section>
+	<div class="container">
+	    <div class="home-intro">
+	    	{{ with .Params.titlebug }}
+	        <p class="title-bug">{{ . }}</p>
+	        {{ end }}
+	        <h1 class="home-header">{{ .Title }}</h1>
+	        <p class="short-paragraph">With the recent renewal of the IBD Genetics Consortium, NIDDK has issued two funding opportunity announcements to encourage collaborations on IBD research.</p>
+	    </div>
+	    <div class="text-width">
+	        <h2 class="grey">Steering Committee</h2>
+	        <p>The IBDGC encourages applications for ancillary studies that complement its ongoing activities. Both IBDGC investigators and those not previously associated with the Consortium are welcome to apply. Proposed studies may use existing Consortium data and biospecimens, and may also propose to collect new data from existing study participants. Ancillary studies may also utilize the central resources of the Consortium (e.g., NIDDK Central Repository, Data Coordinating Center), provided that such use is approved in advance and is supported by funding from the proposed study.</p>
+	        <h2 class="grey">Consortium Liaison</h2>
+	        <p>Those wishing to apply for an ancillary study must have a Consortium liaison who can serve as the main point of contact between the applicant and the Consortium. Any IBDGC investigator (including co-investigators) may serve as a liaison; the liaison may be involved in the study but that is not required. If you need help in identifying someone who can serve as a liaison, please contact Dr. Judy Cho or <a href="">Dr. John Rioux</a>.</p>
+	        <h2 class="grey">Consortium Pre-review</h2>
+	        <p>Before an application for an ancillary study may be submitted to NIDDK, the proposal must be reviewed by the Consortium’s Ancillary Studies Committee. This review evaluates the proposed study according to the following criteria:</p>
+	          <ul>
+	            <li>Is the proposed study relevant to the Consortium’s overall goals?</li>
+	            <li>Does the study have scientific merit?</li>
+	            <li>Is the investigator well-qualified to carry out the proposed research?</li>
+	            <li>Is the study design appropriate?</li>
+	            <li>Is there potential for interference with other Consortium activities?</li>
+	          </ul>
+	        <p>Applicants will receive feedback from this review which will help them prepare their proposal for the NIH review process.</p>
+	        <h2>More Information</h2>
+	        <p>Materials for preparing an application for submission to the Consortium’s Ancillary Studies Committee are available below:</p>
+	          <ul>
+	            <li><a href="">IBDGC Ancillary R01/R21 Proposal Form</a></li>
+	            <li><a href="">IBDGC Ancillary Studies Policy and Guidelines</a></li>
+	            <li><a href="">IBDGC Data and Sample Sharing Plan</a></li>
+	          </ul>
+	          <p>Please note that applicants wishing to submit a proposal for the February 21, 2020 NIH deadline must submit a proposal (using the form above) to Dr. Judy Cho or Dr. John Rioux by midnight ET December 4th, 2019. You will receive a decision from the NIDDK IBDGC Steering Committee no later than midnight ET December 20th, 2019. Official letters for support from the Consortium for inclusion in your NIH application will be sent during the week of January 6th, 2020.</p>            
+	    </div>
+	</div>
+</section>
+<section class="blue-background">
+  <div class="container">
+    <div class="explore-column-header">
+      <p class="title-bug white-text">R21</p>
+      <h2 class="white-text">Ancillary Studies to the NIDDK Inflammatory Bowel Disease Genetics Consortium (R21 - Clinical Trial Optional)
+     </h2>
+      <ul class="white-text">
+        <li><a href="">Announcement of Funding Opportunity</a></li>
+        <li><a href="">RFA-DK-17-018</a></li>
+        <li>Letter of Intent Due To NIDDK: 30 days prior to the application due date</li>
+        <li>Application Due To NIDDK: February 21, 2020</li>
+      </ul> 
+  </div>
+</section>
+<section>
+  <div class="container">
+      <div class="text-width">
+	{{ .Content }}
+	  </div>
+  </div>
+</section>
+
+{{ end }}

@@ -1,0 +1,99 @@
+{{ define "main" }}
+
+    <header>
+      <div class="hero-text">
+        <div class="hero-headline">
+          Advancing genetic research to elucidate the pathophysiology of IBD for improved patient outcomes.
+        </div>
+        <div class="button"><a href="" style="color: #ffffff;">Learn More</div></a></div>        
+      </div>
+    </header>
+
+    
+<section>
+  <div class="container">
+    <div class="standard">
+      <div class="home-intro">
+        <p class="title-bug">Welcome</p>
+        <h1 class="home-header">Welcome Headline for the Home Page</h1>
+        <p class="short-paragraph">Since 2002, the NIH-funded IBD Genetics Consortium has been dedicated to increasing our understanding of the genetics and pathophysiology of inflammatory bowel disease to facilitate the development of better treatment and prevention strategies.</p>
+      </div>
+    </div>
+  </div>
+</section>
+{{ .Content }}
+<section>
+  <div class="container">
+          <p class="title-bug">News</p>
+      <h2>The Latest from IBDGC</h2>
+    <div class="flex-grid-thirds">
+    	{{- range ( where site.RegularPages "Section" "newsarticle" | first 3 ) }}
+      <div class="col"><h5><a href="{{ .Permalink }}">{{ .Title }}</a></h5>
+        <p>{{ .Summary }}</p>
+        <div class="button"><a href="{{ .Permalink }}">Learn More</a></div>
+      </div>
+      {{- end }}
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="standard">
+    <div class="home-left-column">
+      <h2>Genetic Research Center</h2>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis. Dolor sit amet, consectetur adipiscing elit.</p>
+      <div class="button">Learn More</div>
+    </div>
+    <div class="home-right-column">
+      <img src="https://via.placeholder.com/570x683.pngC/O https://placeholder.com/">
+    </div>   
+  </div>
+</section>
+
+<section class="blue-background">
+  <div class="standard">
+    <div class="explore-column-header">
+      <p class="title-bug white-text">Explore</p>
+      <h2 class="white-text">IBDGC Departments and Collaborators</h2>
+    </div>
+    <div class="explore-left-column">
+      <h5 class="white-text">Our Members</h5>
+      <p class="white-text">
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis. Dolor sit amet, consectetur adipiscing elit.</p>
+      <p class="link-learn-more"><a href="">Learn More</a></p>
+      <h5 class="white-text">International Consortium</h5>
+      <p class="white-text">
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis. Dolor sit amet, consectetur adipiscing elit.</p>
+      <p class="link-learn-more"><a href="">Learn More</a></p>
+      <h5 class="white-text">Participate in a Study</h5>
+      <p class="white-text">
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis. Dolor sit amet, consectetur adipiscing elit.</p>
+      <p class="link-learn-more"><a href="">Learn More</a></p>
+    </div> 
+    <div class="explore-right-column">
+      <h5 class="white-text">Our Collaborators</h5>
+      <p class="white-text">
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis. Dolor sit amet, consectetur adipiscing elit.</p>
+      <p class="link-learn-more"><a href="">Learn More</a></p>
+      <h5 class="white-text">Resource Sharing</h5>
+      <p class="white-text">
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis. Dolor sit amet, consectetur adipiscing elit.</p>
+      <p class="link-learn-more"><a href="">Learn More</a></p>
+    </div> 
+  </div>
+</section>
+
+<section>
+  <div class="standard">
+    <div class="home-right-column">
+      <h5>Genetic Research Center</h5>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis. Dolor sit amet, consectetur adipiscing elit.</p>
+      <div class="button">Learn More</div>
+    </div>
+    <div class="home-left-column">
+      <img src="https://via.placeholder.com/570x683.pngC/O https://placeholder.com/">
+    </div>   
+  </div>
+</section>
+
+{{ end }}

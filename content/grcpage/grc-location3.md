@@ -64,7 +64,7 @@ Sub-aim 3c: Determine the genetic associations, molecular mechanisms, and clinic
 of Paneth cell defects in African American and Hispanic CD patients
 
 
-##### Interests of the Mount Sinai GRC group beyond the GRC abstract
+##### Interests of the Cedars-Sinai GRC group beyond the GRC abstract
 1. Genetic and genomic studies to identify risk factors for IBD and also to study pleiotropic effects between IBD and other traits.
 2. Genotype x Phenotype studies (clinical, radiological, histological)
 3. Genotype x Microbiome Studies

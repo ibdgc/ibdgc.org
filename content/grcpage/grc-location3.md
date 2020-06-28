@@ -1,41 +1,89 @@
 ---
-title: "Lcation 3"
+title: "Cedars-Sinai IBD Genetic Research Center"
 date: 2020-06-20T12:48:18-07:00
 draft: true
 layout: grcpage
-name: John Doe
-position: Titles and Position
+name: Dermot McGovern, MD PhD FRCP(Lon) 
+position: Professor, Medicine and Biomedical Sciences
+Director, Translational Research in the Inflammatory Bowel and Immunobiology Research Institute
+###image: missing
 ---
 
-My major research efforts currently are, a) defining mechanisms of stromal/epithelial-immune cell cross talk in IBD, b) defining components of treatment refractory (specifically, non-response to pro-inflammatory cytokine blockade) IBD at the cellular and tissue level, and c) predicting differences in clinical outcomes of interest across IBD clinical subtypes and populations, d) exploring the role of rare, IBD-associated variants of high effects, e) organizing large datasets for NIDDK IBDGC and IIBDGC, and f) developing select treatment targets based on IBD genetic and single cell expression findings. Since 2015, I have served as the Director for Personalized Medicine Institute at Mount Sinai. I am extremely excited by the explosion of data and new data tools that are accelerating collaborative efforts to benefit patients through genetic and genomic studies; I am eager to continue applying new data-approaches to benefit the NIDDK IBDGC.
+Dermot McGovern completed his GI fellowship and obtained a PhD in complex disease genetics at the University of Oxford, England before moving to Cedars-Sinai, Los Angeles 11 years ago. Dr McGovern is the Director of Translational Medicine at the F. Widjaja Foundation Imflammatory Bowel and Immunobiology Research Institute at Cedars-Sinai and also directs the Cedars-Sinai Precision Medicine Initiative. He holds the Joshua and Lisa Greer Endowed Chair in IBD Genetics. Dr. McGovern’s clinical interests include the extra-intestinal complications of IBD and also the overlap between IBD and other immune-mediated and metabolic diseases. Dr. McGovern serves on the National Scientific Advisory Committee for the Crohn’s and Colitis Foundation as well as the steering committees of the National and International IBD Genetics Consortia. He also chairs the CCFA local advisory medical committee. Dr. McGovern serves on the editorial board for the IBD Journal. He has been elected a member of the American Society for Clinical Investigation (ASCI) and also the International Organization for the Study of IBD (IOIBD). Dr. McGovern’s group is funded by the NIH to study the effect of genetics on the susceptibility to and natural history of IBD in diverse populations. Dr McGovern’s group analyze multi’-omic’ datasets to identify potential biomarkers and therapeutic targets of IBD that ‘feed’ the Drug Development Unit he co-directs. His group also have a significant interest in the pharmacogenetics of therapies used in IBD. Extending these studies to diverse populations including African-Americans, Hispanics, and the Ashkenazi Jewish population is a major focus of his group. His group is also funded by the Crohn’s and Colitis Foundation, The Litwin Foundation, and the Helmsley Charitable Trust. Dr. McGovern’s group have published approximately 150 peer-reviewed papers in journals including Nature, Science, Cell, Nature Genetics, The Lancet, and Gastroenterology.
 
-[Mount Sinai Profile](https;//) 
+For additional information:
+
+[Cedars-Sinai Profile](https;//) 
+
+***
 
 ##### Co-investigators:
-Bruce Sands, MD, Chief, Gastroenterology Division.
-Miriam Merad MD, PhD, Director, Immunology Institute
-Ephraim Kenigsberg, PhD, Ke Hao PhD
+Thad Stappenbeck MD PhD, (Cleveland Clinic)
+Simon Gayther, (Cedars-Sinai)
 
-##### GRC Abstract:
-This application from the Mount Sinai Health System proposes participation as a genetic research center (GRC) within the NIDDK Inflammatory Bowel Disease Genetics Consortium (IBDGC). IBD genetic discovery has disproportionately focused on European ancestry cohorts, despite high and rising prevalence in all US populations. In Aim 1, participation as a multi-disciplinary GRC in Consortium-wide projects is proposed. Expanding sequence and genotype data on non-European ancestry cohorts is proposed. New analytic methodologies have been developed whereby more ancestrally complex populations, such as Hispanic cohorts, can not only be meaningfully analyzed, but may confer substantial benefits in unlocking the overall genetic architecture of polygenic diseases, such as IBD. The application of novel clinical research tools involving efficient electronic health record and development of more objective endpoints can deepen longitudinal phenotype data for already recruited patients. Given the continued centrality of anti-TNF therapies in an era of multiple new therapies, studies to examine anti-TNF non-response (ileal resection, surgical specimens) and response (new anti-TNF initiation, endoscopically-based) are proposed. Specifically, in Aim 2, definition of intestinal single-cell expression features with anti-TNF non-response and response is proposed using mass cytometry protein analyses (Cytof), and single cell mRNA sequencing. Single cell analyses in IBD tissues shows enormous promise in systematically explicating the precise contributions in the most relevant context of the over 200 genome-wide significant IBD associations. Early single cell analyses point to a highly complex innate immune cell architecture, which may be distinct between various high effect IBD-associated risk alleles of innate immunity. Scaling key results through correlative techniques feasible in larger cohorts, such as using paraffin-embedded tissues and peripheral blood samples is proposed. The advent of multiple new therapies makes this a particularly propitious time to protocolize clinical practice, both to improve patient care, as well as to mine biosamples for IBD research. The insight that is gained through these studies can prioritize genes, cells and pathways from which to scale key results and protocols across the NIDDK IBDGC. The long-term goal of these studies is to efficiently develop protocols to most effectively treat IBD patients, catalyzing the advent of Precision IBD. Ancillary R01 liaison: Yuval Itan, PhD
+##### Lead Clinicians:
+Stephan Targan, MD (Cedars-Sinai)
+Gil Melmed, MD (Cedars-Sinai)
+Christina Ha, MD (Cedars-Sinai)
+Gaurav Syal, MD (Cedars-Sinai)
+Philip Fleshner, MD (Cedars-Sinai)
+
+##### NIDDK IBDGC-related funding:
+The Cedars GRC, together with the IBD genetics community, has contributed to the enormous
+advances in IBD genetics over the last few years. Over 200 IBD susceptibility loci have been identified
+but many challenges remain. Through this proposal we plan to address a number of these issues.
+To date, there has been little direct impact on clinical care from IBD genetic advances. In specific aim
+1 we will address very significant unmet medical needs adopting novel methods, expertise from both
+academia and industry and truly unique cohorts to determine factors associated with true-non response
+to anti-TNFs as well as factors associated with pharmacokinetic and immunogenicity after biologic
+treatment. Similarly, we will leverage collaborations from around the world to study the largest cohort
+of perianal fistulizing Crohn’s disease, a particularly severe phenotype of disease that responds poorly
+to medication and has a high prevalence in African-Americans.
+
+**SPECIFIC AIM 1:** Define genetic determinants of unmet medical needs in inflammatory bowel
+disease.
+Sub-aim 1a: Define genetic factors associated with true non-response (TNR), pharmacokinetic,
+and immunogenic parameters of biologic therapies in IBD.
+Sub-aim 1b: Define genetic variation associated with the development of perianal Crohn’s
+disease.
+
+**SPECIFIC AIM 2** Functional characterization of genetic risk variants associated with IBD.
+Sub-aim 2a. Characterization of the regulatory landscape in ileal CD tissues.
+Sub-aim 2b: Functional characterization of tissue specific regulatory and transcriptomic
+landscapes for IBD risk loci.
+Sub-aim 2c: Expression quantitative trait locus (eQTL) analysis of IBD risk regions.
+Sub-aim 2d: Connecting IBD-associated regulatory variants to target genes using
+chromosome conformation capture assays.
+
+**SPECIFIC AIM 3:** Defining novel genetic determinants and environment interplay of Paneth cell
+phenotypes in CD patients
+Sub-aim 3a: Determine the genetic associations, molecular mechanisms, and clinical relevance
+of Paneth cell defects in European ancestry CD.
+Sub-aim 3b: Determine the genetic associations, molecular mechanisms, and clinical relevance
+of Paneth cell defects in East Asian ancestry CD patients
+Sub-aim 3c: Determine the genetic associations, molecular mechanisms, and clinical relevance
+of Paneth cell defects in African American and Hispanic CD patients
+
 
 ##### Interests of the Mount Sinai GRC group beyond the GRC abstract
-* Role of innate immune cell differentiation 
-* Enteroids and reactive oxygen species 
-* Role of GPCRs in IBD
-* Comparative single cell analyses between European vs. African-American individuals 
-* (Collaborative) Natural language processing and machine learning image analyses of hard outcome measures (endoscopy, pathology, radiology) of IBD
+1. Genetic and genomic studies to identify risk factors for IBD and also to study pleiotropic effects between IBD and other traits.
+2. Genotype x Phenotype studies (clinical, radiological, histological)
+3. Genotype x Microbiome Studies
+4. Non-Northern European IBD population studies (Ashkenazi Jews, East Asians, African Americans, Hispanics).
+5. Pharmacogenomics
+
 
 ##### Selected publications
-Martin JC, Chang C, Boschetti G, Ungaro R, Giri M, Grout JA, Gettler K, Chuang LS, Nayar S, Greenstein AJ, Dubinsky M, Walker L, Leader A, Fine JS, Whitehurst CE, Mbow ML, Kugathasan S, Denson LA, Hyams JS, Friedman JR, Desai PT, Ko HM, Laface I, Akturk G, Schadt EE, Salmon H, Gnjatic S, Rahman AH, Merad M*, Cho JH*, Kenigsberg E*. *, equal contributions. Single-cell analysis of Crohn’s disease lesions identifies a pathogenic cellular module associated with resistance to anti-TNF therapy. Cell 2019; 1493. Chuang LS, Morrison J, Hsu NY, Labrias P, Nayar S, Chen E, Villaverde N, Facey JA, Boschetti G, Giri M, Castillo-Martin M, Thin TH, Sharma Y, Chu J, Cho JH. Zebrafish modeling of intestinal injury, bacterial exposures and medications defines epithelial in vivo responses relevant to human inflammatory bowel disease. Disease Models and Mechanisms August 13, 2019 Somineni HK, Venkateswaran S, Kilaru V, Marigorta UM, Mo A, Okou DT, Kellermayer R, Mondal K, Cobb D, Walters TD, Griffiths A, Noe JD, Crandall WV, Rosh JR, Mack DR, Heyman MB, Baker SS, Stephens MC, Baldassano RN, Markowitz JF, Dubinsky MC, Cho J, Hyams JS, Denson LA, Gibson G, Cutler DJ, Conneely KN, Smith AK, Kugathasan S. Blood-Derived DNA Methylation Signatures of Crohn Disease and Severity of Intestinal Inflammation. Gastroenterology. 2019 Feb 16.
-        Contijoch EJ, Britton GJ, Yang C, Mogno I, Li Z, Ng R, Llewellyn SR, Hira S, Johnson C, Rabinowitz KM, Barkan R, Dotan I, Hirten RP, Fu SC, Luo Y, Yang N, Luong T, Labrias PR, Lira S, Peter I, Grinspan A, Clemente JC, Kosoy R, Kim-Schulze S, Qin X, Castillo A, Hurley A, Atreja A, Rogers J, Fasihuddin F, Saliaj M, Nolan A, Reyes-Mercedes P, Rodriguez C, Aly S, Santa-Cruz K, Peters L, Suárez-Fariñas M, Huang R, Hao K, Zhu J, Zhang B, Losic B, Irizar H, Song WM, Di Narzo A, Wang W, Cohen BL, DiMaio C, Greenwald D, Itzkowitz S, Lucas A, Marion J, Maser E, Ungaro R, Naymagon S, Novak J, Shah B, Ullman T, Rubin P, George J, Legnani P, Telesco SE, Friedman JR, Brodmerkel C, Plevy S, Cho JH, Colombel JF, Schadt EE, Argmann C, Dubinsky M, Kasarskis A, Sands B, Faith JJ. Gut microbiota density influences host physiology and is shaped by host and microbial factors. Elife. 2019 Jan 22;8. pii: e40553. doi: 10.7554/eLife.40553.
-        Gettler K, Giri M, Kenigsberg E, Martin J, Chuang LS, Hsu NY, Denson LA, Hyams JS, Griffiths A, Noe JD, Crandall WV, Mack DR, Kellermayer R, Abraham C, Hoffman G, Kugathasan S, Cho JH. Prioritizing Crohn’s disease genes by integrating association signals with gene expression implicates monocyte subsets. Genes Immun 2019 Jan 29.
-        Rivas, MA, Avila BE, Koskela J, Huang H, Stevens C, Pirnen M, Haritunians T, Neale BM, Kurki M, Ganna A, Schiff E, Pontikos N, Weisburd B, Lek M, Karczewski KJ, Bloom J, Minikel EV, Petersen BS, Beaugerie L, Seksik P, Cosnes C, Schreiber S, Bokemeyer B, Bethke J, International IBD Genetics Consortium, NIDDK IBD Genetics Consoritum, T2D-GENES Consortium, Heap G, Ahmad T, Plagnol V, Segal AW, Targan S, Turner D, Saavalainen P, Farkkila M, Kontula K, Palotie A, Brant SR, Duerr RH, Silverberg MS, Rioux JD, Weersma RK, Franke A, Jostins L, Anderson CA, Barrett JC, MacArthur DG, Jalas C, Sokol H, Xavier RJ, Pulver A, *Cho JH, *McGovern DPB, *Daly MJ. *corresponding authors. Insights​ ​into​ ​the​ ​genetic​ ​epidemiology​ ​of​ ​Crohn’s​ ​and​ ​rare​ ​diseases​ ​in​ ​the​ ​Ashkenazi​ ​Jewish population. In press, Plos Genetics 2018, e1007329
-        Hui KY, Fernandez-Hernandez H, Hu J, Schaffner A, Pankratz N, Hsu NY, Chuang LS, Carmi S, Villaverde N, Li X, Rivas M, Levine AP, Bao X, Labrias PR, Haritunians T, Ruane D, Gettler K, Chen E, Li D, Schiff ER, Pontikos N, Barzilai N, Brant SR, Bressman S, Cheifetz AS, Clark LN, Daly MJ, Desnick RJ, Duerr RH, Katz S, Lencz T, Myers RH, Ostrer H, Ozelius L, Payami H, Peter Y, Rioux JD, Segal AW, Scott WK, Silverberg MS, Vance JM, Ubarretxena-Belandia I, Foroud T, Atzmon G, Pe’er I, Ioannou Y, McGovern DPB, Yue Z, Schadt EE, Cho JH*, Peter I*. *indicates equal contributions. Functional Variants in LRRK2 Confer Pleiotropic Effects on Crohn’s Disease and Parkinson’s Disease Risk. Science Translational Medicine 2018 eaai7795
-        Huang H, Fang M, Jostins L, Mirkov MU, Boucher G, Anderson CA, Andersen V, Cleynen I, Cortes A, Crins F, D'Amato M, Deffontaine V, Dimitrieva J, Docampo E, Mahmoud Elansary M, Farh KK, Franke A, Gori AS, Goyette P, Halfvarson J, Haritunians T, Knight J, Lawrance IC, Lees CW, Louis E, Mariman R, Theo Meuwissen T, Myriam Mni M, Momozaws Y, Parkes M, Spain SL, Théâtre E, Trynka G, Satsangi J, Sommeren SV, Vermeire S, Xavier RJ, International IBD Genetics Consortium, Weersms RK, Duerr RH, Mathew CG, Rioux JD, McGovern DPB, Cho JH, Georges M, Daly MJ, Barrett JC. Association mapping of inflammatory bowel disease loci to single variant resolution. Nature 2017; 547: 173-178
-        Cummings RJ, Barbet G, Bongers G, Hartmann BM, Gettler K, Muniz L, Furtado GC, Cho J, Lira SA, Blander JM. Different phagocytes sample apoptotic cells in situ to orchestrate distinct programs of tissue homeostasis. Nature 2016; 539: 565-569
-        Li D, Achkar JP, Haritunians T, Jacobs JP, Hui KY, D’Amato M, Brand S, Radford-Smith G, Halfvarson J, Niess JH, Kugathasan S, Buning C, Schumm LP, Klei L, Anathakrishnan A, Aumais G, Baidoo L, Dubinsky M, Fiocchi C, Glas J, Milgrom R, Proctor DD, Regueiro M, Simms LA, Stempak JM, Targan SR, Torkvist L, Sharma Y, Devlin B, Borneman J, Hakonarson H, Xavier RJ, Daly M, Brant SR, Rioux JD, Silverberg MS, Cho JH, Braun J, McGovern DPB, Duerr RH. A pleiotropic missense variant in SLC39A8 is associated with Crohn’s disease and human gut microbiome composition. Gastroenterology 2016; 724-32.
-        Chuang LS, Villaverde N, Hui KY, Mortha A, Rahman A, Levine  AP, Haritunians T, Sok Meng Ng SME, Zhang W, Hsu NY, Facey JA, Luong T, Fernandez-Hernandez H, Li D, Rivas M, Schiff ER, Gusev A, Schumm LP, Bowen BM, Sharma Y, Ning K, Remark R, Gnjatic S, Legnani P, George J, Sands BE, Stempak JM, Datta LW, Lipka S, Katz S, Cheifetz AS, Barzilai N, Pontikos N, Abraham C, Dubinsky M, Targan S, Taylor K, Rotter JI, Scherl EJ, Desnick RJ, Abreu MT, Zhao H, Atzmon G, Pe’er I, Kugathasan S, Hakonarson H, McCauley JL, Lencz T, Darvasi A, Plagnol V, Silverberg MS, Muise AM, Brant SR, Daly MJ, Segal AW, Duerr RH, Merad M, McGovern DPB, Peter I, Cho JH.  A Frameshift in CSF2RB Predominant Among Ashkenazi Jews Increases Risk for Crohn's Disease and Reduces Monocyte Signaling via GMCSF. Gastroenterology 2016; 151: 710-723.
-        Parian A, Limketkai B, Koh J, Brant SR, Bitton A, Cho JH, Duerr RH, McGovern DP, Proctor DD, Regueiro MD, Rioux JD, Schumm P, Taylor KD, Silverberg MS, Steinhart AH, Hernaez R, Lazarev M. Appendectomy does not decrease the risk of future colectomy in UC: results from a large cohort and meta-analysis. e-published Gut. 2016 Apr 13.
-        Cleynen I, Boucher G, Jostins L, Schumm LP, Zeissig S, Ahmad T, Andersen V, Andrews JM, Annese V, Brand S, Brant SR, Cho JH, Daly MJ, Dubinsky M, Duerr RH, Ferguson LR, Franke A, Gearry RB, Goyette P, Hakonarson H, Halfvarson J, Hov JR, Huang H, Kennedy NA, Kupcinskas L, Lawrance IC, Lee JC, Satsangi J, Schreiber S, Théâtre E, van der Meulen-de Jong AE, Weersma RK, Wilson DC; International Inflammatory Bowel Disease Genetics Consortium, Parkes M, Vermeire S, Rioux JD, Mansfield J, Silverberg MS, Radford-Smith G, McGovern DP, Barrett JC, Lees CW. Inherited determinants of Crohn's disease and ulcerative colitis phenotypes: a genetic association study. Lancet. 2016; 387:156-67.
-        Huang C, Haritunians T, Okou DT, Cutler DJ,  Zwick ME, Taylor KD, Alexander DST, Baldassano RN, Cross RK, Dassopoulos T, Dhere TA, Duerr RH, Hanson JS, Hou JK, Hussain SZ, Isaacs KL, Kachelries KE, Kader H, Kappelman MD, Katz J, Kellermayer R, Kirschner BS, Kuemmerle JF, Kumar A, Kwon JH, Lazarev M, Manno P, Moulton DE, Osuntokun BO, Patel A, Rioux JD, Rotter JI, Saeed S, Scherl EJ, Silverberg MS, Silverman A, Targan SR, Valentine J, Wang M, Simpson CL, Bridges SL, Kimberly RP, Rich SS, Cho JH, Di Rienzo A, Kao LWH, McGovern DPB, Brant SR, Kugathasan S. Identification of Major Genetic Susceptibility Loci for Inflammatory Bowel Disease in African Americans. Gastroenterology 2015; 149: 1575-86
+[Malassezia is Associated with Crohn’s Disease and Exacerbates Colitis in Mouse Models. Cell Host & Microbe.](https://) Limon JJ, Tang J, Li D, Wolf AJ, Michelsen KS, Funari V, Gargus M, Nguyen C, Sharma P, Maymi VI, Iliev ID, Skalski JH, Brown J, Landers C, Borneman J, Braun J, Targan SR, McGovern DPB, Underhill DM.  2019 Mar 13;25(3):377-388.e6. Epub 2019 Mar 5. doi: 10.1016/j.chom.2019.01.007. PMID: 30850233; PMCID: PMC6417942
+
+[Multi-omics of the gut microbial ecosystem in inflammatory bowel diseases.](https://)Lloyd-Price J, Arze C, Ananthakrishnan AN, Schirmer M, Avila-Pacheco J, Poon TW, Andrews E, Ajami NJ, Bonham KS, Brislawn CJ, Casero D, Courtney H, Gonzalez A, Graeber TG, Hall AB, Lake K, Landers CJ, Mallick H, Plichta DR, Prasad M, Rahnavard G, Sauk J, Shungin D, Vázquez-Baeza Y, White RA 3rd; IBDMDB Investigators, Braun J, Denson LA, Jansson JK, Knight R, Kugathasan S, McGovern DPB, Petrosino JF, Stappenbeck TS, Winter HS, Clish CB, Franzosa EA, Vlamakis H, Xavier RJ, Huttenhower C. Nature. 2019 May;569(7758):655-662. doi: 10.1038/s41586-019-1237-9. Epub 2019 May 29. PMID: 31142855
+
+[Late-Onset Crohn's Disease Is A Subgroup Distinct in Genetic and Behavioral Risk Factors With UC-Like Characteristics.](https://) Li D, Haritunians T, Landers C, Potdar AA, Yang S, Huang H, Schumm LP, Daly M, Targan SR, McGovern DPB.  Inflamm Bowel Dis. 2018 Oct 12;24(11):2413-2422. doi: 10.1093/ibd/izy148.PMID: 29860388; PMCID: PMC6195175
+
+[Interaction between smoking and ATG16L1T300A triggers Paneth cell defects in Crohn's disease.](https://) Liu TC, Kern JT, VanDussen KL, Xiong S, Kaiko GE, Wilen CB, Rajala MW, Caruso R, Holtzman MJ, Gao F, McGovern DPB, Nunez G, Head RD, Stappenbeck TS. J Clin Invest. 2018 Nov 1;128(11):5110-5122. Epub 2018 Oct 15. doi: 10.1172/JCI120453. PMID: 30137026; PMCID: PMC6205411
+
+[Insights into the genetic epidemiology of Crohn's and rare diseases in the Ashkenazi Jewish population. PLoS Genet.](https://) Rivas MA, Avila BE, Koskela J, Huang H, Stevens C, Pirinen M, Haritunians T, Neale BM, Kurki M, Ganna A, Graham D, Glaser B, Peter I, Atzmon G, Barzilai N, Levine AP, Schiff E, Pontikos N, Weisburd B, Lek M, Karczewski KJ, Bloom J, Minikel EV, Petersen BS, Beaugerie L, Seksik P, Cosnes J, Schreiber S, Bokemeyer B, Bethge J; International IBD Genetics Consortium; NIDDK IBD Genetics Consortium; T2D-GENES Consortium, Heap G, Ahmad T, Plagnol V, Segal AW, Targan S, Turner D, Saavalainen P, Farkkila M, Kontula K, Palotie A, Brant SR, Duerr RH, Silverberg MS, Rioux JD, Weersma RK, Franke A, Jostins L, Anderson CA, Barrett JC, MacArthur DG, Jalas C, Sokol H, Xavier RJ, Pulver A, Cho JH, McGovern DPB, Daly MJ. 2018 May 24;14(5):e1007329. doi: 10.1371/journal.pgen.1007329. PMID: 29795570
+
+[Functional variants in the LRRK2 gene confer shared effects on risk for Crohn's disease and Parkinson's disease.](https://) Hui KY, Fernandez-Hernandez H, Hu J, Schaffner A, Pankratz N, Hsu NY, Chuang LS, Carmi S, Villaverde N, Li X, Rivas M, Levine AP, Bao X, Labrias PR, Haritunians T, Ruane D, Gettler K, Chen E, Li D, Schiff ER, Pontikos N, Barzilai N, Brant SR, Bressman S, Cheifetz AS, Clark LN, Daly MJ, Desnick RJ, Duerr RH, Katz S, Lencz T, Myers RH, Ostrer H, Ozelius L, Payami H, Peter Y, Rioux JD, Segal AW, Scott WK, Silverberg MS, Vance JM, Ubarretxena-Belandia I, Foroud T, Atzmon G, Pe'er I, Ioannou Y, McGovern DPB, Yue Z, Schadt EE, Cho JH, Peter I.  Sci Transl Med. 2018 Jan 10;10(423). pii: eaai7795. doi: 10.1126/scitranslmed.aai7795. PMID: 29321258; PMCID: PMC6028002
+
+[Genome-wide Association Study Identifies African-Specific Susceptibility Loci in African Americans with Inflammatory Bowel Disease.](https://) Brant SR, Okou DT, Simpson CL, Cutler DJ, Haritunians T, Bradfield JP, Chopra P, Prince J, Begum F, Kumar A, Huang C, Venkateswaran S, Datta LW, Wei Z, Thomas K, Herrinton LJ, Klapproth JA, Quiros AJ, Seminerio J, Liu Z, Alexander JS, Baldassano RN, Dudley-Brown S, Cross RK, Dassopoulos T, Denson LA, Dhere TA, Dryden GW, Hanson JS, Hou JK, Hussain SZ, Hyams JS, Isaacs KL, Kader H, Kappelman MD, Katz J, Kellermayer R, Kirschner BS, Kuemmerle JF, Kwon JH, Lazarev M, Li E, Mack D, Mannon P, Moulton DE, Newberry RD, Osuntokun BO, Patel AS, Saeed SA, Targan SR, Valentine JF, Wang MH, Zonca M, Rioux JD, Duerr RH, Silverberg MS, Cho JH, Hakonarson H, Zwick ME, McGovern DP, Kugathasan S. Gastroenterology. 2017 Jan;152(1):206-217.e2. Epub 2016 Sep 28. doi: 10.1053/j.gastro.2016.09.032. PMID: 27693347; PMCID: PMC5164948

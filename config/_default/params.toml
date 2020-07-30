@@ -1,0 +1,21 @@
+theme = "ibdgc_theme"
+font = "ibdgc_font_set"
+main_menu = {align = "r", show_logo = true}
+
+# See Breaking Change in 4.5 (https://sourcethemes.com/academic/updates/v4.5.0/)
+# Also see https://github.com/gcushen/hugo-academic/issues/1230
+
+[comments]
+  # Comment provider:
+  #   0: Disabled
+  #   1: Disqus (https://disqus.com)
+  #   2: Commento (https://commento.io)
+  engine = 0
+
+  # Which page types are commentable?
+  commentable = {page = true, post = true, docs = true}
+
+  # Configuration of Disqus.
+  [comments.disqus]
+    shortname = ""  # Paste the shortname from your Disqus dashboard.
+    show_count = true  # Show comment count in page header? (true/false)

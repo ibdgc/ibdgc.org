@@ -7,5 +7,5 @@ google_fonts = "Montserrat:400,700|Roboto:400,400italic,700|Roboto+Mono"
 # Font families
 heading_font = "Montserrat"
 body_font = "Roboto"
-nav_font = "Roboto"
+nav_font = "open-sans"
 mono_font = "Roboto Mono"

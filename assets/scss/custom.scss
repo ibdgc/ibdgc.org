@@ -1,9 +1,48 @@
 // Custom styles for IBDGC website
 
 .navbar .navbar-nav .nav-link:hover {
-    color: rgba(190, 194, 194, 0.6) !important;
+    color: rgb(103, 180, 157) !important;
+}
+
+.navbar .navbar-nav .dropdown-item:hover {
+    color: rgb(103, 180, 157) !important;
 }
 
 .navbar .navbar-nav .nav-link.active {
     font-weight: normal !important;
+}
+
+#hero.home-section.wg-hero {
+    height: 700px;
+}
+
+#hero.home-section div.hero-lead {
+    color: rgb(15, 22, 26);
+    font-family: titling-gothic-fb;
+    font-style: normal;
+    font-size: 26pt;
+    font-weight: 100;
+    line-height: 36pt;
+    width: 430pt;
+    margin-left: 48pt;
+    margin-bottom: 32pt;
+    border-bottom-color: rgb(112, 112, 112);
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+}
+
+#hero.home-section .cta-btns {
+    margin-top: 56pt;
+    margin-left: 48pt;
+}
+
+#hero.home-section a.btn-primary {
+    border-radius: 0px;
+    color: #ffffff;
+    font-family: titling-gothic-fb;
+    font-style: normal;
+    font-size: 14pt;
+    font-weight: 200;
+    padding-top: 12pt;
+    padding-bottom: 12pt;
 }

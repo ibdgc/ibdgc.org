@@ -18,6 +18,25 @@ summaryLength = "30"
   name = "ABOUT"
   url = "/about"
   weight = 200
+  identifier = "about-menu"
+
+[[menu.main]]
+  name = "Mission"
+  url = ""
+  weight = 10
+  parent = "about-menu"
+
+[[menu.main]]
+  name = "NIDDK Consortium History"
+  url = ""
+  weight = 20
+  parent = "about-menu"
+
+[[menu.main]]
+  name = "Genetic Research Centers"
+  url = ""
+  weight = 30
+  parent = "about-menu"
 
 [[menu.main]]
   name = "NEWS"
@@ -28,6 +47,25 @@ summaryLength = "30"
   name = "RESEARCH"
   url = "/research"
   weight =400
+  identifier = "research-menu"
+
+[[menu.main]]
+  name = "Ongoing Studies"
+  url = ""
+  weight = 10
+  parent = "research-menu"
+
+[[menu.main]]
+  name = "Ancillary Studies"
+  url = ""
+  weight = 10
+  parent = "research-menu"
+
+[[menu.main]]
+  name = "Publications"
+  url = ""
+  weight = 10
+  parent = "research-menu"
 
 [[menu.main]]
   name = "PATIENTS"

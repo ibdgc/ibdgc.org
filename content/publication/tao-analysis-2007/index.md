@@ -1,0 +1,13 @@
+---
+title: "Analysis of keratin polypeptides 8 and 19 variants in inflammatory bowel disease."
+date: 2007-07-01
+publishDate: 2020-08-03T19:38:06.697321Z
+authors: ["Guo-Zhong Tao", "Pavel Strnad", "Qin Zhou", "Ahmad Kamal", "Leilei Zhang", "Nahid D. Madani", "Subra Kugathasan", "Steven R. Brant", "Judy H. Cho", "M. Bishr Omary", "Richard H. Duerr"]
+publication_types: ["2"]
+abstract: "BACKGROUND/AIMS: Keratin-8 (KRT8)-null mice develop spontaneous colitis and predisposition to liver injury. Human studies show that some KRT8 variants predispose to end-stage liver disease and progression and suggest that such variants might associate with UC or CD. We asked whether mutations in KRT8 or KRT19, the major intestinal keratins, are associated with UC/CD. METHODS: Exonic  regions of the KRT8/KRT19 genes were polymerase chain reaction-amplified using genomic DNA from 2 independent groups. Group I included 91 unrelated patients with CD, 93 unrelated patients with UC, and 70 unrelated/unaffected volunteers. KRT8 variants were also tested with pyrosequencing in Group II that included 682  independent nuclear families with both parents and at least 1 CD/UC-affected offspring and 273 unaffected controls. Both cohorts were enriched for familial IBD. RESULTS: In Group I, KRT19 variants were identified in CD/UC patients within the promoter and exons 1+2, with similar mutation frequencies in the control/CD/UC groups. In contrast, 16 of 184 CD+UC patients harbored KRT8 heterozygous variants involving Gly62-to-Cys and Arg341-to-His and a novel Arg341-to-Cys, which were noted in 4 volunteers (Arg341-to-His) and correlated with extensive UC (P = .005). One family with unaffected parents had 3 pediatric-affected siblings with severe disease, 2 of whom are compound heterozygous (Gly62-to-Cys/Arg341-to-His). However, there was no significant departure from random transmission of the 3 alleles in Group II IBD families. CONCLUSIONS: KRT8 and KRT19 variants are not overtransmitted or associated with familial IBD, although a potential role in sporadic IBD cannot be excluded. A novel but rare keratin-8 Arg341-to-Cys is identified in IBD patients."
+featured: false
+publication: "*Clinical gastroenterology and hepatology : the official clinical practice journal of the American Gastroenterological Association*"
+tags: ["Humans", "Genetic Predisposition to Disease", "Alleles", "Genotype", "Prognosis", "Polymerase Chain Reaction", "DNA/*genetics", "*Mutation", "Biopsy/methods", "Electrophoresis", "Polyacrylamide Gel", "Endoscopy", "Gastrointestinal", "Immunoblotting", "Inflammatory Bowel Diseases/*genetics/metabolism/pathology", "Keratin-19/*genetics/metabolism", "Keratin-8/*genetics/metabolism"]
+doi: "10.1016/j.cgh.2007.02.017"
+---
+

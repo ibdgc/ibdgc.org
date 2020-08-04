@@ -24,7 +24,7 @@
     font-weight: 100;
     line-height: 36pt;
     width: 430pt;
-    margin-left: 48pt;
+    margin-left: 40pt;
     margin-bottom: 32pt;
     border-bottom-color: rgb(112, 112, 112);
     border-bottom-style: solid;
@@ -33,7 +33,7 @@
 
 #hero.home-section .cta-btns {
     margin-top: 56pt;
-    margin-left: 48pt;
+    margin-left: 40pt;
 }
 
 #hero.home-section a.btn-primary {
@@ -45,4 +45,18 @@
     font-weight: 200;
     padding-top: 12pt;
     padding-bottom: 12pt;
+}
+
+h1, h2, h3 {
+    font-style: normal;
+    color: rgb(23, 51, 72);
+    font-weight: 200;
+}
+
+.article-style p {
+    color: rgb(115, 135, 156);
+}
+
+.article-metadata a {
+    color: rgb(115, 135, 156);
 }

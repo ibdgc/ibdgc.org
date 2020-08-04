@@ -1,0 +1,13 @@
+---
+title: "Susceptibility to Crohn's disease is mediated by KIR2DL2/KIR2DL3 heterozygosity and the HLA-C ligand"
+date: 2009-10-01
+publishDate: 2020-08-03T19:38:06.584888Z
+authors: ["Jill A. Hollenbach", "Martha B. Ladner", "Koy Saeteurn", "Kent D. Taylor", "Ling Mei", "Talin Haritunians", "Dermot P. B. McGovern", "Henry A. Erlich", "Jerome I. Rotter", "Elizabeth A. Trachtenberg"]
+publication_types: ["2"]
+abstract: "In the present study, we investigated the relationship between the KIR loci and the genes encoding their HLA ligands and genetic susceptibility to Crohn's disease (CD). Analyses of the interactions between KIR3DL1, KIR2DL1, KIR2DL2, and KIR2DL3 with their respective HLA ligands indicate that there is a protective effect for KIR2DL2 in the absence of its HLA ligand C1. Given that KIR2DL2 and KIR2DL3 segregate as alleles, we compared their genotypic distributions to expectations under Hardy-Weinberg Equilibrium (HWE) with regard to the HLA ligand C1 status. While all the genotypic distributions conform to expectations under HWE in controls, in C2 ligand homozygous cases there is significant deviation from HWE, with a reduction of KIR2DL2, KIR2DL3 heterozygotes. KIR2DL2, KIR2DL3 heterozygosity is the only genotypic combination that confers protection from CD. In addition to the protective effect (OR = 0.44, CI = 0.22-0.87; p = 0.018) observed in C2 ligand homozygotes, the KIR2DL2, KIR2DL3 genotype is predisposing (OR = 1.34, CI = 1.03-4.53; p = 0.031) in the presence of C1 ligand. A test for trend of HLA class I C ligand group genotypes with KIR2DL2, KIR2DL3 heterozygosity in cases and controls indicates that C1, C2 ligand group heterozygotes have an intermediate effect on predisposition. These results show for the first time that disease susceptibility may be related to heterozygosity at a specific KIR locus, and that HLA ligand genotype influences the relative effect of the KIR genotype."
+featured: false
+publication: "*Immunogenetics*"
+tags: ["Humans", "Adult", "Case-Control Studies", "Crohn Disease", "European Continental Ancestry Group", "Genetic Predisposition to Disease", "Polymorphism", "Single Nucleotide", "Alleles", "Genotype", "Heterozygote", "Jews", "HLA-C Antigens", "Receptors", "KIR2DL3", "California", "Cohort Studies", "Ligands", "Receptors", "KIR2DL2", "Single-Blind Method", "Spectrometry", "Mass", "Matrix-Assisted Laser Desorption-Ionization"]
+doi: "10.1007/s00251-009-0396-5"
+---
+

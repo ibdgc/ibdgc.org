@@ -1,0 +1,42 @@
+<footer class="site-footer">
+  <div class="row">
+    <div class="column">
+      <img src="/img/footer_logo.png" alt="">
+      <p>Funded by the NIDDK</p>
+    </div>
+    <div class="column keep-in-touch">
+        <div class="keep-in-touch">Contact Information</div>
+        <div class="address">
+            Dr. Ksenija Sabic, IBDGC Data Coordinating Center <br>
+            Department of Genetics and Genomic Sciences <br>
+            Icahn School of Medicine at Mount Sinai <br>
+            Hess Center for Science and Medicine (CSM) <br>
+            1470 Madison Avenue, 8th Fl., Box 1498 <br>
+            New York, NY 10029
+        </div>
+        
+        <div class="social-icons">
+          <ul>
+            <li><a href="mailto:ksenija.sabic@mssm.edu" class="fas fa-envelope"></a></li>
+            <li><a href="https://twitter.com/ibdgc" class="fa fa-twitter-square"></a></li>
+            <li><a href="https://www.facebook.com/mountsinaiIBD" class="fa fa-facebook-square"></a></li>
+          </ul>
+        </div>
+    
+    {{ if not (in (slice "docs" "updates") .Type) }}
+    <span class="float-right" aria-hidden="true">
+      <a href="#" class="back-to-top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
+    {{ end }}
+    
+    </div>
+    
+  </div>
+  <div class="copyright">
+      Contents &copy; 2020 NIDDK IBD Genetics Consortium
+  </div>
+</footer>

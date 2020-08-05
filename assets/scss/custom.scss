@@ -1,5 +1,6 @@
 // Custom styles for IBDGC website
 
+// Manubar
 .navbar .navbar-nav .nav-link:hover {
     color: rgb(103, 180, 157) !important;
 }
@@ -12,6 +13,8 @@
     font-weight: normal !important;
 }
 
+
+// Hero unit on home page
 #hero.home-section.wg-hero {
     height: 700px;
 }
@@ -47,6 +50,8 @@
     padding-bottom: 12pt;
 }
 
+
+// General text styling
 h1, h2, h3 {
     font-style: normal;
     color: rgb(23, 51, 72);
@@ -59,4 +64,110 @@ h1, h2, h3 {
 
 .article-metadata a {
     color: rgb(115, 135, 156);
+}
+
+
+// Footer
+// Start by pushing footer to bottom of page (see https://www.pakstech.com/blog/create-theme-layout/)
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: calc(100vh - 70px);
+}
+
+article {
+    flex: 1;
+}
+
+// Expand background color to edges of page
+.container {
+    max-width: 100%;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.site-footer {
+    color: #ffffff;
+    background-color: rgb(118, 135, 154);
+    font-size: 12pt;
+    padding-top: 6pt;
+    padding-bottom: 0;
+}
+
+// Multiple columns (see https://www.w3schools.com/howto/howto_css_three_columns.asp)
+.site-footer .column {
+    float: left;
+    width: 50%;
+    padding: 12pt 24pt;
+}
+
+// Clear floats after the columns
+.site-footer .row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+// Responsive layout: when the screen is less than 600px wide, make the
+// columns stack on top of each other instead of next to each other
+@media screen and (max-width:720px) {
+    .site-footer .column {
+        width: 100%;
+    }
+}
+
+.site-footer .fas.fa-chevron-up.fa-2x {
+    color: #ffffff;
+}
+
+.site-footer .copyright {
+    font-size: 10pt;
+    color: #ffffff;
+    background-color: rgb(85, 106, 131);
+    padding: 8pt 12pt;
+}
+
+.site-footer .column img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    min-width: 124pt;
+    padding: 8pt;
+}
+
+.site-footer .column .keep-in-touch {
+    font-family: titling-gothic-fb;
+    font-weight: 200;
+}
+
+.site-footer .column .keep-in-touch:after {
+    content: "";
+    display: block;
+    width: 66.66%;
+    padding-top: 6px;
+    border-bottom: 1px solid #ffffff;
+    margin-bottom: 12px;
+}
+
+.site-footer .column .address {
+    font-size: 10pt;
+    line-height: 12pt;
+}
+
+.social-icons ul {
+    list-style-type: none;
+    float: left;
+    margin: 0;
+    padding: 0;
+}
+
+.social-icons ul li {
+    display: inline-block;
+    padding: 10px 10px 0 0;
+}
+
+.social-icons ul li a {
+    color: #ffffff;
+    font-size: 16pt;
 }

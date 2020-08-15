@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Consortium Publications
 
 # View.
 #   1 = List

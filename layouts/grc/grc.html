@@ -20,7 +20,9 @@
           <p>{{ . }}</p>
         {{ end }}
         <ul class="grc-links">
+          {{ if isset .Params "external_link" }}
           <li><a href="{{ .Params.external_link }}">Website</a></li>
+          {{ end }}
           {{ if isset .Params "pubs" }}
           <li><a href="/authors/{{ .Params.pubs }}">Publications</a></li>
           {{ end }}

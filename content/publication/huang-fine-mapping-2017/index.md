@@ -8,7 +8,7 @@ abstract: "Inflammatory bowel diseases are chronic gastrointestinal inflammatory
 featured: false
 publication: "*Nature*"
 tags: ["Aged", "Female", "Humans", "Male", "Middle Aged", "Adult", "Aged", "80 and over", "Young Adult", "Adolescent", "Colitis", "Ulcerative", "Crohn Disease", "Genetic Predisposition to Disease", "Genome-Wide Association Study", "Genotype", "Inflammatory Bowel Diseases", "Genetic Variation", "Quantitative Trait Loci", "Transcription Factors", "Binding Sites", "Chromatin", "Epigenesis", "Genetic", "Linkage Disequilibrium", "Smad3 Protein", "Crohn Disease/genetics", "Inflammatory Bowel Diseases/*genetics", "Genetic Predisposition to Disease/*genetics", "Colitis", "Ulcerative/genetics", "Chromatin/genetics", "Epigenesis", "Genetic/genetics", "Genetic Variation/*genetics", "Linkage Disequilibrium/genetics", "Quantitative Trait Loci/*genetics", "Smad3 Protein/genetics", "Transcription Factors/metabolism"]
-grcs: ["mssm"]
+grcs: ["mssm","montreal"]
 doi: "10.1038/nature22969"
 ---
 

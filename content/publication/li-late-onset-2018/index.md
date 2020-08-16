@@ -8,6 +8,7 @@ abstract: "Background: Age of onset is linked to variations in clinical phenotyp
 featured: false
 publication: "*Inflammatory Bowel Diseases*"
 tags: ["Female", "Humans", "Male", "Middle Aged", "Adult", "Risk Factors", "Young Adult", "Adolescent", "United States", "Child", "Colitis", "Ulcerative", "Crohn Disease", "Polymorphism", "Single Nucleotide", "Genotype", "Child", "Preschool", "Phenotype", "Follow-Up Studies", "Prognosis", "Cohort Studies"]
+grcs: ["cedars"]
 doi: "10.1093/ibd/izy148"
 ---
 

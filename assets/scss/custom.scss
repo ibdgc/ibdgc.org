@@ -216,7 +216,10 @@ div.grc .row:after {
     color: #ffffff;
 }
 
-.grc h1, h2 {
+.grc h1,
+.grc h2,
+.grc h3,
+.grc h4 {
     font-weight: 200;
 }
 
@@ -224,6 +227,10 @@ div.grc .row:after {
     font-size: 18pt;
     line-height: 24pt;
     padding-bottom: 24pt;
+}
+
+.grc h2 {
+    font-size: 16pt;
 }
 
 .grc-info > h1:first-child {
@@ -238,7 +245,7 @@ div.grc .row:after {
 
 .grc-pi-titles > h2 {
     font-size: 12pt;
-    line-height: 12pt;
+    line-height: 14pt;
     margin-top: 6pt;
     margin-bottom: auto;
 }
@@ -330,4 +337,9 @@ ul.grc-links {
 
 .grc-content .far.fa-file-alt.pub-icon {
     color: #ffffff;
+}
+
+.tucked-under {
+    margin-top: -6pt;
+    margin-left: 12pt;
 }

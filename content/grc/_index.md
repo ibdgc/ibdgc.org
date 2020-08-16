@@ -17,3 +17,6 @@ header:
   image: ""
 ---
 
+The Genetic Research Centers (GRCs) are functional units consisting of a
+principal investigator, research coordinator(s), clinicians and analysts,
+charged with project development and subject recruitment.

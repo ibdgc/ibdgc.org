@@ -16,7 +16,9 @@
         </div>
       </div>
       <div class="grc-member-description">
-        <p>{{ .Params.bio }}</p>
+        {{ range .Params.bio }}
+          <p>{{ . }}</p>
+        {{ end }}
         <ul class="grc-links">
           <li><a href="{{ .Params.external_link }}">Website</a></li>
           {{ if isset .Params "pubs" }}
@@ -38,11 +40,11 @@
     
     {{/* Use featured image to show GRC */}}
     {{ $image := (.Resources.ByType "image").GetMatch "*featured*" }}
-    {{ if $image }}
     <div class="grc-image">
-      <img src="{{ $image.RelPermalink }}" alt="" class="grc-image">
+      {{ if $image }}
+        <img src="{{ $image.RelPermalink }}" alt="" class="grc-image">
+      {{ end }}
     </div>
-    {{ end }}
     
     {{ range .Pages }}
       <div class="grc-member">

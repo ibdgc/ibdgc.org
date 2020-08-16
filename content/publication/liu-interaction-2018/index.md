@@ -8,6 +8,7 @@ abstract: "It is suggested that subtyping of complex inflammatory diseases can b
 featured: false
 publication: "*The Journal of Clinical Investigation*"
 tags: ["Female", "Humans", "Male", "Crohn Disease", "Genetic Predisposition to Disease", "Animals", "Mice", "Smoking", "Mutation", "Missense", "Apoptosis", "Autophagy-Related Proteins", "Carrier Proteins", "Inflammatory bowel disease", "Paneth Cells", "Gastroenterology", "Immunology", "Mice", "Knockout", "PPAR gamma", "Rosiglitazone"]
+grcs: ["cedars"]
 doi: "10.1172/JCI120453"
 ---
 

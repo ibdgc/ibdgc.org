@@ -8,6 +8,7 @@ abstract: "Genome-wide association studies and follow-up meta-analyses in Crohn'
 featured: false
 publication: "*PLoS genetics*"
 tags: ["Humans", "Ethnic Groups", "Colitis", "Ulcerative", "Crohn Disease", "Genetic Predisposition to Disease", "Genome-Wide Association Study", "Polymorphism", "Single Nucleotide", "Receptors", "Interleukin", "High-Throughput Nucleotide Sequencing", "Ubiquitin-Protein Ligases", "Canada", "CARD Signaling Adaptor Proteins", "*Genome-Wide Association Study", "CARD Signaling Adaptor Proteins/*genetics", "Colitis", "Ulcerative/*genetics/pathology", "Crohn Disease/*genetics/pathology", "Receptors", "Interleukin/*genetics", "Ubiquitin-Protein Ligases/*genetics"]
+grcs: ["montreal"]
 doi: "10.1371/journal.pgen.1003723"
 ---
 

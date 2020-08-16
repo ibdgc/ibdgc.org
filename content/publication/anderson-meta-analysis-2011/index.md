@@ -8,6 +8,7 @@ abstract: "Genome-wide association studies and candidate gene studies in ulcerat
 featured: false
 publication: "*Nature Genetics*"
 tags: ["Humans", "Colitis", "Ulcerative", "Crohn Disease", "Genome-Wide Association Study", "Risk", "Colitis", "Ulcerative/*genetics", "Crohn Disease/genetics"]
+grcs: ["montreal"]
 doi: "10.1038/ng.764"
 ---
 

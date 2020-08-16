@@ -8,6 +8,7 @@ abstract: "The goal of this work was to develop a label-free, comprehensive, and
 featured: false
 publication: "*Journal of Proteome Research*"
 tags: ["Humans", "Reproducibility of Results", "Computational Biology", "Metabolome", "Principal Component Analysis", "annotation", "Chromatography", "Liquid", "coverage", "Healthy Volunteers", "lipid isomers", "lipidomics", "lipids", "Lipids", "mass spectrometry", "Molecular Sequence Annotation", "reproducibility", "Tandem Mass Spectrometry", "untargeted", "WGCNA", "workflow"]
+grcs: ["montreal"]
 doi: "10.1021/acs.jproteome.8b00270"
 ---
 

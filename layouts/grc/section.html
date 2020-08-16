@@ -4,16 +4,16 @@
 {{ partial "page_header" . }}
 
 <div class="universal-wrapper">
-  {{ with .Content }}
-  <div class="article-style">{{ . }}</div>
-  {{ end }}
-  <ul class="list-unstyled">
-    {{ if gt (len .Sections) 0}}
-    {{ range .Sections }}
-    <li><h3><a href="{{.RelPermalink}}">{{.LinkTitle}}</a></h3> {{with .Params.summary}}<p>{{. | plainify | emojify}}</p>{{end}}</li>
-    {{end}}
-    {{end}}
-  </ul>
+  <div class="article-style">
+    {{ with .Content }}{{ . }}{{ end }}
+    <ul class="list-unstyled">
+      {{ if gt (len .Sections) 0}}
+      {{ range .Sections }}
+      <li><h3><a href="{{.RelPermalink}}">{{.LinkTitle}}</a></h3> {{with .Params.pi}}<p class="tucked-under">{{ . }}, Principal Investigator</p>{{end}}</li>
+      {{end}}
+      {{end}}
+    </ul>
+  </div>
 </div>
 
 {{- end -}}

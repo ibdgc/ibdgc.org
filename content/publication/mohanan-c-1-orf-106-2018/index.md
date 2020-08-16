@@ -8,6 +8,7 @@ abstract: "Polymorphisms in C1orf106 are associated with increased risk of infla
 featured: false
 publication: "*Science (New York, N.Y.)*"
 tags: ["Humans", "Animals", "Mice", "Inflammatory Bowel Diseases", "Risk", "Intestinal Mucosa", "Polymorphism", "Genetic", "Adherens Junctions", "ADP-Ribosylation Factors", "Caco-2 Cells", "Guanine Nucleotide Exchange Factors", "HEK293 Cells", "Immunoprecipitation", "Mice", "Mutant Strains", "Phosphoproteins", "Proteolysis", "Ubiquitination"]
+grcs: ["montreal"]
 doi: "10.1126/science.aan0814"
 ---
 

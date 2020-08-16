@@ -8,6 +8,7 @@ abstract: "BACKGROUND & AIMS: Genome-wide association studies have identified 20
 featured: false
 publication: "*Gastroenterology*"
 tags: ["Female", "Humans", "Male", "Risk Factors", "Case-Control Studies", "Colitis", "Ulcerative", "Crohn Disease", "Alleles", "Genotype", "Inflammatory Bowel Diseases", "Mutation", "Missense", "Cation Transport Proteins", "Gastrointestinal Microbiome", "Genetic Pleiotropy", "Genetics", "Microbiota", "*Mutation", "Missense", "*Genetics", "*Inflammatory Bowel Diseases", "*Microbiota", "Cation Transport Proteins/*genetics", "Colitis", "Ulcerative/*genetics/microbiology", "Crohn Disease/*genetics/microbiology", "Gastrointestinal Microbiome/*genetics"]
+grcs: ["mssm"]
 doi: "10.1053/j.gastro.2016.06.051"
 ---
 

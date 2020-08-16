@@ -8,6 +8,7 @@ abstract: "BACKGROUND & AIMS: Crohn's disease (CD) has the highest prevalence in
 featured: false
 publication: "*Gastroenterology*"
 tags: ["IBD", "Female", "Humans", "Male", "Risk Factors", "Case-Control Studies", "Crohn Disease", "Risk Factor", "Cytokine Receptor Common beta Subunit", "Ethnic Variation", "Frameshift Mutation", "Granulocyte-Macrophage Colony-Stimulating Factor", "Inflammatory Bowel Disease", "Intestines", "Jews", "Monocytes", "Signal Transduction", "Jews/*genetics", "*Risk Factor", "*Ethnic Variation", "*Frameshift Mutation", "*IBD", "*Inflammatory Bowel Disease", "Crohn Disease/ethnology/*genetics/pathology", "Cytokine Receptor Common beta Subunit/*genetics", "Granulocyte-Macrophage Colony-Stimulating Factor/*metabolism", "Intestines/cytology/pathology", "Monocytes/metabolism", "Signal Transduction/genetics"]
+grcs: ["mssm"]
 doi: "10.1053/j.gastro.2016.06.045"
 ---
 

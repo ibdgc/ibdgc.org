@@ -217,7 +217,7 @@ div.grc .row:after {
     padding-bottom: 24pt;
 }
 
-.grc-info > h1 {
+.grc-info > h1:first-child {
     border-bottom: 1px solid #fff;
 }
 
@@ -232,6 +232,11 @@ div.grc .row:after {
     line-height: 12pt;
     margin-top: 6pt;
     margin-bottom: auto;
+}
+
+.grc-content h1 {
+    margin-bottom: 9pt;
+    padding-bottom: 0;
 }
 
 .grc-pi {
@@ -312,4 +317,8 @@ img.grc-member-image {
 ul.grc-links {
     list-style-type: none;
     padding-left: 0;
+}
+
+.grc-content .far.fa-file-alt.pub-icon {
+    color: #ffffff;
 }

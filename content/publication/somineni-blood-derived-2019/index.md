@@ -8,6 +8,7 @@ abstract: "BACKGROUND & AIMS: Crohn's disease is a relapsing and remitting infla
 featured: false
 publication: "*Gastroenterology*"
 tags: ["IBD", "children", "epigenetic alteration", "RISK study"]
+grcs: ["mssm"]
 doi: "10.1053/j.gastro.2019.01.270"
 ---
 

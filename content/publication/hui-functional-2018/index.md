@@ -8,6 +8,7 @@ abstract: "Crohn's disease (CD), a form of inflammatory bowel disease, has a hig
 featured: false
 publication: "*Science Translational Medicine*"
 tags: ["Humans", "Risk Factors", "Reproducibility of Results", "Crohn Disease", "Genetic Predisposition to Disease", "Alleles", "Gene Frequency", "Genome", "Human", "Phenotype", "Genetic Loci", "Autophagy", "Cytoskeleton", "Exome", "Gene Regulatory Networks", "Genetic Variation", "Leucine-Rich Repeat Serine-Threonine Protein Kinase-2", "Macrophages", "Odds Ratio", "Open Reading Frames", "Parkinson Disease", "Whole Exome Sequencing", "*Genetic Predisposition to Disease", "*Genetic Variation", "Crohn Disease/*enzymology/*genetics", "Cytoskeleton/metabolism", "Exome/genetics", "Leucine-Rich Repeat Serine-Threonine Protein Kinase-2/*genetics", "Macrophages/metabolism/pathology", "Open Reading Frames/genetics", "Parkinson Disease/*enzymology/*genetics"]
+grcs: ["mssm"]
 doi: "10.1126/scitranslmed.aai7795"
 ---
 

@@ -24,7 +24,10 @@
           {{ end }}
         </ul>
       </div>
-      {{ .Content }}
+      <div class="grc-content">
+        {{ .Content }}
+        {{ partial "featured_pubs.html" . }}
+      </div>
     </div>
   
   </div>

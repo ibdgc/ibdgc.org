@@ -1,9 +1,9 @@
 ---
 # Adapted from themes/academic/archetypes/project/index.md
-title: "Icahn School of Medicine at Mount Sinai (MSSM)"
+title: "Icahn School of Medicine at Mount Sinai"
 subtitle: "IBD Genetics Research Center"
 pi: "Judy Cho, MD"
-pi_titles: ["Principal Investigator of the IBDGC Data Coordinating Center"]
+pi_titles: ["Principal Investigator, IBDGC Data Coordinating Center"]
 picture: "/img/mssm/judy-cho-pic.jpg"
 bio: "My major research efforts currently are: a) defining mechanisms of stromal/epithelial-immune cell cross talk in IBD; b) defining components of treatment refractory (specifically, non-response to pro-inflammatory cytokine blockade) IBD at the cellular and tissue level; c) predicting differences in clinical outcomes of interest across IBD clinical subtypes and populations; d) exploring the role of rare, IBD-associated variants of high effects; e) organizing large datasets for NIDDK IBDGC and IIBDGC; and f) developing select treatment targets based on IBD genetic and single cell expression findings. Since 2015, I have served as Director of the Personalized Medicine Institute at Mount Sinai. I am extremely excited by the explosion of data and new data tools that are accelerating collaborative efforts to benefit patients through genetic and genomic studies; I am eager to continue applying new data-approaches to benefit the NIDDK IBDGC."
 tags: []
@@ -15,15 +15,19 @@ external_link: "https://icahn.mssm.edu/profiles/judy-h-cho"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
+
+publications:
+    count: 12
+    order: "desc"
 ---
 
-### Co-investigators
+# Co-investigators
 
 - Bruce Sands, MD, Chief, Gastroenterology Division
 - Miriam Merad MD, PhD, Director, Immunology Institute
 - Ephraim Kenigsberg, PhD, Ke Hao PhD
 
-### GRC Abstract
+# GRC Abstract
 
 This application from the Mount Sinai Health System proposes participation as
 a genetic research center (GRC) within the NIDDK Inflammatory Bowel Disease
@@ -61,7 +65,7 @@ treat IBD patients, catalyzing the advent of Precision IBD.
 
 Ancillary R01 liaison: Yuval Itan, PhD
 
-### Interests of the Mount Sinai GRC group beyond the GRC abstract
+# Interests of the Mount Sinai GRC group beyond the GRC abstract
 
 - Role of innate immune cell differentiation 
 - Enteroids and reactive oxygen species 

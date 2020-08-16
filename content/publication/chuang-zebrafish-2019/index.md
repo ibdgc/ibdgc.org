@@ -8,6 +8,7 @@ abstract: "Genome-wide association studies have identified over 200 genomic loci
 featured: false
 publication: "*Disease Models & Mechanisms*"
 tags: ["Crohn's disease", "IBD", "Humans", "Animals", "Disease Models", "Animal", "Inflammatory Bowel Diseases", "Intestines", "Autophagy", "Enterocytes", "Dextran Sulfate", "Acids", "Bacterial Proteins", "Dinoprostone", "DSS injury model", "Epithelial barrier", "Epithelium", "Lysosome-rich enterocytes", "Lysosomes", "Models", "Biological", "Mucins", "Mucus", "Zebrafish"]
+grcs: ["mssm"]
 doi: "10.1242/dmm.037432"
 ---
 

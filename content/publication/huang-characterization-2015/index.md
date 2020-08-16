@@ -8,6 +8,7 @@ abstract: "BACKGROUND & AIMS: Inflammatory bowel disease (IBD) has familial aggr
 featured: false
 publication: "*Gastroenterology*"
 tags: ["Aged", "Female", "Humans", "Male", "Middle Aged", "Adult", "Risk Factors", "Young Adult", "United States", "African Americans", "Colitis", "Ulcerative", "Crohn Disease", "European Continental Ancestry Group", "Genetic Predisposition to Disease", "Polymorphism", "Single Nucleotide", "Inflammatory Bowel Diseases", "Ethnicity", "Genetic Loci", "Genetic Variant", "Intestinal Inflammation", "Race", "*Polymorphism", "Single Nucleotide", "Crohn Disease/genetics", "Inflammatory Bowel Diseases/*genetics", "Colitis", "Ulcerative/genetics", "African Americans/*genetics", "European Continental Ancestry Group/*genetics", "United States/ethnology"]
+grcs: ["mssm"]
 doi: "10.1053/j.gastro.2015.07.065"
 ---
 

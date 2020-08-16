@@ -8,6 +8,7 @@ abstract: "MicroRNAs (miRNAs) are key modulators of gene expression in Crohn's d
 featured: false
 publication: "*J Crohns Colitis*"
 url_pdf: "https://academic.oup.com/ecco-jcc/article-lookup/doi/10.1093/ecco-jcc/jjz076"
+grcs: ["toronto"]
 doi: "10.1093/ecco-jcc/jjz076"
 ---
 

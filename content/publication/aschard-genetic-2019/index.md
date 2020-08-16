@@ -8,6 +8,7 @@ abstract: "Several bacteria in the gut microbiota have been shown to be associat
 featured: false
 publication: "*PLoS genetics*"
 tags: ["Female", "Humans", "Male", "Middle Aged", "Adult", "Genetic Predisposition to Disease", "Polymorphism", "Single Nucleotide", "Genetic Association Studies", "Inflammatory Bowel Diseases", "Gastrointestinal Microbiome", "Nod2 Signaling Adaptor Protein", "Models", "Genetic", "Genetic Variation", "CARD Signaling Adaptor Proteins", "Clostridiales", "Faecalibacterium prausnitzii", "Host Microbial Interactions"]
+grcs: ["toronto"]
 doi: "10.1371/journal.pgen.1008018"
 ---
 

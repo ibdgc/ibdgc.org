@@ -8,6 +8,7 @@ abstract: "GWAS have identified textgreater200 risk loci for Inflammatory Bowel 
 featured: false
 publication: "*Nature communications*"
 tags: ["Aged", "Female", "Humans", "Male", "Middle Aged", "Adult", "Aged", "80 and over", "Genetic Predisposition to Disease", "Polymorphism", "Single Nucleotide", "Genotype", "Genetic Association Studies", "Sequence Analysis", "DNA", "Quantitative Trait Loci", "Cohort Studies", "Gene Expression Profiling", "Crohn Disease/genetics", "Inflammatory Bowel Diseases/*genetics", "*Multifactorial Inheritance"]
+grcs: ["toronto"]
 doi: "10.1038/s41467-018-04365-8"
 ---
 

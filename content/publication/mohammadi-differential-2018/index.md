@@ -8,6 +8,7 @@ abstract: "Background and Aims: MicroRNAs [miRNAs] have emerged as important reg
 featured: false
 publication: "*Journal of Crohn's & Colitis*"
 tags: ["Aged", "Female", "Humans", "Male", "Middle Aged", "Adult", "Young Adult", "Case-Control Studies", "Colitis", "Ulcerative", "Crohn Disease", "Colon", "Signal Transduction", "Autophagy", "Severity of Illness Index", "Autophagy-Related Proteins", "Biomarkers", "Transforming Growth Factor beta", "Smad3 Protein", "Prospective Studies", "HeLa Cells", "Diagnosis", "Differential", "Leukocytes", "Mononuclear", "MicroRNAs", "Up-Regulation"]
+grcs: ["toronto"]
 doi: "10.1093/ecco-jcc/jjy010"
 ---
 

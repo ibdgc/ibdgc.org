@@ -8,7 +8,7 @@ abstract: "As part of a broader collaborative network of exome sequencing studie
 featured: false
 publication: "*PLoS genetics*"
 tags: ["Humans", "Crohn Disease", "Genetic Predisposition to Disease", "Genome-Wide Association Study", "Polymorphism", "Single Nucleotide", "Haplotypes", "Jews", "Algorithms", "Genetics", "Population", "Models", "Genetic", "Molecular Epidemiology", "Rare Diseases", "Crohn Disease/epidemiology/*genetics", "Genetic Predisposition to Disease/*genetics", "Jews/*genetics", "Rare Diseases/epidemiology/*genetics"]
-grcs: ["mssm","cedars"]
+grcs: ["mssm","cedars","toronto"]
 doi: "10.1371/journal.pgen.1007329"
 ---
 

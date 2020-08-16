@@ -1,6 +1,7 @@
 {{/* Featured GRC Publications (adapted from featured.html widget) */}}
 
-{{ $grc := (path.Base $.File.Dir) }}
+{{ $grc := "" }}
+{{ if $.File }}{{ $grc = (path.Base $.File.Dir) }}{{ end }}
 {{ $items_count := $.Params.publications.count | default 5 }}
 {{ $items_sort := $.Params.publications.order | default "desc" }}
 

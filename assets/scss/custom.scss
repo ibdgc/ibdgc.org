@@ -79,6 +79,10 @@ article {
     flex: 1;
 }
 
+div.universal-wrapper {
+    flex: 1;
+}
+
 // Expand background color to edges of page
 .container {
     max-width: 100%;
@@ -203,7 +207,12 @@ div.grc .row:after {
     font-size: 12pt;
 }
 
-.grc h1, h2, h3, h4, h5, h6 {
+.grc h1,
+.grc h2,
+.grc h3,
+.grc h4,
+.grc h5,
+.grc h6 {
     color: #ffffff;
 }
 

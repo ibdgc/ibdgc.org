@@ -28,7 +28,7 @@
 
 [[main]]
   name = "Genetic Research Centers"
-  url = ""
+  url = "/grc"
   weight = 30
   parent = "about-menu"
 

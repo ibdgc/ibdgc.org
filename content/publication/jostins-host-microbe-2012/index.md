@@ -8,6 +8,7 @@ abstract: "Crohn's disease and ulcerative colitis, the two common forms of infla
 featured: false
 publication: "*Nature*"
 tags: ["Humans", "Reproducibility of Results", "Colitis", "Ulcerative", "Crohn Disease", "Genetic Predisposition to Disease", "Genome-Wide Association Study", "Polymorphism", "Single Nucleotide", "Host-Pathogen Interactions", "Inflammatory Bowel Diseases", "Genome", "Human", "Haplotypes", "Mycobacterium", "Mycobacterium Infections", "Mycobacterium tuberculosis", "Phenotype", "*Genome-Wide Association Study", "Genetic Predisposition to Disease/*genetics", "*Host-Pathogen Interactions/genetics/immunology", "Colitis", "Ulcerative/genetics/immunology/microbiology/physiopathology", "Crohn Disease/genetics/immunology/microbiology/physiopathology", "Genome", "Human/genetics", "Haplotypes/genetics", "Inflammatory Bowel Diseases/*genetics/immunology/*microbiology/physiopathology", "Mycobacterium Infections/genetics/microbiology", "Mycobacterium tuberculosis/immunology/pathogenicity", "Mycobacterium/*immunology/pathogenicity", "Polymorphism", "Single Nucleotide/genetics"]
+grcs: ["pittsburgh"]
 doi: "10.1038/nature11582"
 ---
 

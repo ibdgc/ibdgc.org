@@ -8,6 +8,7 @@ abstract: "The major histocompatibility complex (MHC) on chromosome 6p is an est
 featured: false
 publication: "*Genes and immunity*"
 tags: ["Humans", "Genome-Wide Association Study", "Polymorphism", "Single Nucleotide", "Alleles", "Gene Frequency", "Genotype", "*Genetic Predisposition to Disease", "Colitis", "Ulcerative/*genetics", "Crohn Disease/genetics", "*Chromosomes", "Human", "Pair 6", "Amino Acid Substitution", "HLA-DR beta-Chains/*genetics"]
+grcs: ["pittsburgh"]
 doi: "10.1038/gene.2011.79"
 ---
 

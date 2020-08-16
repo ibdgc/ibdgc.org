@@ -8,7 +8,7 @@ abstract: "Genome-wide association studies of the related chronic inflammatory b
 featured: false
 publication: "*Nature Genetics*"
 tags: ["Humans", "Colitis", "Ulcerative", "Crohn Disease", "Genetic Predisposition to Disease", "Genome-Wide Association Study", "Genotyping Techniques", "HLA-DRB1 Chains", "Polymorphism", "Single Nucleotide", "Alleles", "Genotype", "Inflammatory Bowel Diseases", "Phenotype", "Chromosome Mapping", "Genetic Linkage", "Heterozygote", "Major Histocompatibility Complex", "*Polymorphism", "Single Nucleotide", "Crohn Disease/genetics", "Inflammatory Bowel Diseases/*genetics", "HLA-DRB1 Chains/*genetics", "Chromosome Mapping/*methods", "Colitis", "Ulcerative/genetics", "Major Histocompatibility Complex/*genetics"]
-grcs: ["montreal"]
+grcs: ["montreal","pittsburgh"]
 doi: "10.1038/ng.3176"
 ---
 

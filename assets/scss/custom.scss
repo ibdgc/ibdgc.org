@@ -281,7 +281,8 @@ div.grc-image {
 }
 
 img.grc-image {
-    height: 85%;
+    max-height: 90%;
+    max-width: 90%;
     margin-top: 12pt;
     padding-top: 12pt;
 }

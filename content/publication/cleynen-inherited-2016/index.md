@@ -8,7 +8,7 @@ abstract: "BACKGROUND: Crohn's disease and ulcerative colitis are the two major 
 featured: false
 publication: "*Lancet (London, England)*"
 tags: ["Female", "Humans", "Male", "Adult", "Young Adult", "Colitis", "Ulcerative", "Crohn Disease", "Genetic Predisposition to Disease", "HLA-DRB1 Chains", "Polymorphism", "Single Nucleotide", "Alleles", "Genotype", "Genetic Association Studies", "Phenotype", "Major Histocompatibility Complex", "Hepatocyte Growth Factor", "Immunoassay", "Nod2 Signaling Adaptor Protein", "Proto-Oncogene Proteins", "Risk Assessment", "*Genetic Predisposition to Disease", "Colitis", "Ulcerative/*genetics", "Crohn Disease/*genetics", "*Genetic Association Studies", "Hepatocyte Growth Factor/genetics", "HLA-DRB1 Chains/genetics", "Major Histocompatibility Complex/genetics", "Nod2 Signaling Adaptor Protein/genetics", "Proto-Oncogene Proteins/genetics"]
-grcs: ["mssm","montreal"]
+grcs: ["mssm","montreal","pittsburgh"]
 doi: "10.1016/S0140-6736(15)00465-1"
 ---
 

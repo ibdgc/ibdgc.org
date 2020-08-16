@@ -8,6 +8,7 @@ abstract: "Genetic defects that affect intestinal epithelial barrier function ca
 featured: false
 publication: "*Mucosal Immunology*"
 tags: ["Humans", "Male", "Child", "Genetic Predisposition to Disease", "Polymorphism", "Single Nucleotide", "Animals", "Genotype", "Mice", "Child", "Preschool", "Colon", "Genes", "Modifier", "Genetic Association Studies", "Genome", "High-Throughput Nucleotide Sequencing", "Host-Pathogen Interactions", "Inflammatory Bowel Diseases", "Mice", "Inbred C57BL", "Mutation", "Missense", "NADPH Oxidase 1", "Reactive Oxygen Species", "Inflammatory Bowel Diseases/*genetics", "*Genotype", "Colon/*physiology", "Genes", "Modifier/*genetics", "Mutation", "Missense/genetics", "NADPH Oxidase 1/*genetics", "Reactive Oxygen Species/metabolism"]
+grcs: ["pittsburgh"]
 doi: "10.1038/mi.2017.74"
 ---
 

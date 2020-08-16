@@ -8,6 +8,7 @@ abstract: "The inflammatory bowel diseases Crohn's disease and ulcerative coliti
 featured: false
 publication: "*Science (New York, N.Y.)*"
 tags: ["Humans", "Case-Control Studies", "Genetic Predisposition to Disease", "Alleles", "Genome", "Human", "Haplotypes", "Genetic Testing", "Signal Transduction", "Linkage Disequilibrium", "Cohort Studies", "Genetic Markers", "*Polymorphism", "Single Nucleotide", "Jews/genetics", "Interleukin-23/metabolism", "Crohn Disease/*genetics", "Colitis", "Ulcerative/genetics", "Chromosomes", "Human", "Pair 1/genetics", "Receptors", "Interleukin/*genetics/physiology"]
+grcs: ["pittsburgh"]
 doi: "10.1126/science.1135245"
 ---
 

@@ -8,6 +8,7 @@ abstract: "Ulcerative colitis is a chronic inflammatory disease of the colon tha
 featured: false
 publication: "*Nature Genetics*"
 tags: ["Female", "Humans", "Male", "Risk Factors", "Case-Control Studies", "Colitis", "Ulcerative", "Genetic Predisposition to Disease", "Genome-Wide Association Study", "Polymorphism", "Single Nucleotide", "Receptors", "Interleukin", "Genotype", "Butyrophilins", "Chromosomes", "Human", "Pair 1", "Chromosomes", "Human", "Pair 12", "Chromosomes", "Human", "Pair 6", "HLA-DQ Antigens", "HLA-DQ beta-Chains", "Membrane Glycoproteins", "Recombination", "Genetic", "*Chromosomes", "Human", "Pair 1", "*Chromosomes", "Human", "Pair 12", "*Genetic Predisposition to Disease", "*Genome-Wide Association Study", "Colitis", "Ulcerative/*genetics", "HLA-DQ Antigens/genetics", "Membrane Glycoproteins/genetics", "Receptors", "Interleukin/genetics"]
+grcs: ["pittsburgh"]
 doi: "10.1038/ng.275"
 ---
 

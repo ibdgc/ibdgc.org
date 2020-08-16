@@ -8,7 +8,7 @@ abstract: "OBJECTIVES: Early appendectomy is inversely associated with the devel
 featured: false
 publication: "*Gut*"
 tags: ["Female", "Humans", "Male", "Middle Aged", "Adult", "Risk Factors", "Young Adult", "Adolescent", "Time Factors", "Colitis", "Ulcerative", "Smoking", "Severity of Illness Index", "Databases", "Factual", "Retrospective Studies", "INFLAMMATORY BOWEL DISEASE", "ULCERATIVE COLITIS", "Appendectomy", "APPENDIX", "Colectomy", "COLORECTAL SURGERY", "*APPENDIX", "*COLORECTAL SURGERY", "*INFLAMMATORY BOWEL DISEASE", "*ULCERATIVE COLITIS", "Appendectomy/*statistics & numerical data", "Colectomy/*statistics & numerical data", "Colitis", "Ulcerative/diagnosis/*surgery"]
-grcs: ["mssm"]
+grcs: ["mssm","pittsburgh"]
 doi: "10.1136/gutjnl-2016-311550"
 ---
 

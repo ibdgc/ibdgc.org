@@ -8,6 +8,7 @@ abstract: "BACKGROUND: Genome-wide association studies have identified at least 
 featured: false
 publication: "*Inflammatory bowel diseases*"
 tags: ["Humans", "Risk Factors", "Case-Control Studies", "Alleles", "Prognosis", "*Genetic Predisposition to Disease", "*Epistasis", "Genetic", "Quantitative Trait Loci/*genetics", "Crohn Disease/*diagnosis/*genetics", "Genome-Wide Association Study/*methods"]
+grcs: ["pittsburgh"]
 doi: "10.1097/MIB.0b013e31828706a0"
 ---
 

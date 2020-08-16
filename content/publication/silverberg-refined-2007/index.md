@@ -8,6 +8,7 @@ abstract: "Although the general association of the inflammatory bowel disease (I
 featured: false
 publication: "*European journal of human genetics : EJHG*"
 tags: ["Female", "Humans", "Male", "Adult", "Polymorphism", "Single Nucleotide", "Haplotypes", "Chromosomes", "Human", "Pair 5/*genetics", "Crohn Disease/*ethnology/*genetics", "Genetic Predisposition to Disease/*ethnology", "Jews/genetics"]
+grcs: ["pittsburgh"]
 doi: "10.1038/sj.ejhg.5201756"
 ---
 

@@ -8,6 +8,7 @@ abstract: "Prostaglandin E2 (PGE2), IL-23 and IL-1beta are implicated in inflamm
 featured: false
 publication: "*Cytokine*"
 tags: ["IBD", "GWAS", "Humans", "inflammatory bowel disease", "Cell Line", "Chromatin", "1-hydroxy prostaglandin E1", "1-OH-PGE1", "C(T)", "ChIP", "chromatin immunoprecipitation", "Chromatin/genetics/metabolism", "Cyclic AMP/metabolism", "E prostanoid", "EP", "genome wide association studies", "Histones/genetics/*metabolism", "IL-17A", "IL-17F", "Immunologic Memory/immunology", "Interleukin-17/*genetics/metabolism", "Interleukin-1beta/metabolism", "Interleukin-23/metabolism", "PGE2", "prostaglandin E2", "Prostaglandin E2", "Prostaglandins E/metabolism", "Receptors", "Prostaglandin E", "EP4 Subtype/*metabolism", "RNA", "Messenger/biosynthesis", "Signal Transduction/immunology", "T helper", "Th", "Th17", "Th17 Cells/immunology/*metabolism", "threshold cycle"]
+grcs: ["pittsburgh"]
 doi: "10.1016/j.cyto.2013.05.010"
 ---
 

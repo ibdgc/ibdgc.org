@@ -8,7 +8,7 @@ abstract: "BACKGROUND: A subset of patients with ulcerative colitis (UC) have a 
 featured: false
 publication: "*Inflammatory Bowel Diseases*"
 tags: ["Female", "Humans", "Male", "Middle Aged", "Adult", "Young Adult", "Colitis", "Ulcerative", "Polymorphism", "Single Nucleotide", "Genetic Association Studies", "Phenotype", "North America", "Chromosomes", "Human", "Pair 5", "Colitis", "Ulcerative/*genetics", "*Phenotype", "*Genetic Association Studies", "Chromosomes", "Human", "Pair 5/genetics"]
-grcs: ["montreal"]
+grcs: ["montreal","pittsburgh"]
 doi: "10.1097/MIB.0000000000000913"
 ---
 

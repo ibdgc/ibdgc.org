@@ -8,6 +8,7 @@ abstract: "Genome-wide association studies (GWAS) have identified at least 133 u
 featured: false
 publication: "*Human genetics*"
 tags: ["Humans", "Genome-Wide Association Study", "Polymorphism", "Single Nucleotide", "Alleles", "Genotype", "Phenotype", "Colitis", "Ulcerative/*genetics", "*Epistasis", "Genetic", "*Gene-Environment Interaction"]
+grcs: ["pittsburgh"]
 doi: "10.1007/s00439-013-1395-z"
 ---
 

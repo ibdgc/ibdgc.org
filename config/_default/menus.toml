@@ -63,34 +63,8 @@
 
 [[main]]
   name = "PATIENTS"
-  url = "/patients"
+  url = ""
   weight = 500
-
-
-[[footer]]
-  name = "DATA"
-  url = "/data"
-  weight = 100
-
-[[footer]]
-  name = "ABOUT"
-  url = "/about"
-  weight = 200
-
-[[footer]]
-  name = "NEWS"
-  url = "/news"
-  weight = 300
-
-[[footer]]
-  name = "RESEARCH"
-  url = "/research"
-  weight = 400
-
-[[footer]]
-  name = "PATIENTS"
-  url = "/patients"
-  weight = 500 
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

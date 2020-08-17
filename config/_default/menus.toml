@@ -5,12 +5,12 @@
 
 [[main]]
   name = "DATA"
-  url = "/data"
+  url = "/"
   weight = 100
 
 [[main]]
   name = "ABOUT"
-  url = "/about"
+  url = ""
   weight = 200
   identifier = "about-menu"
 

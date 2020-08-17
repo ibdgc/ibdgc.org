@@ -1,0 +1,8 @@
+<ul class="grc-links">
+  {{ if isset .Params "url" }}
+  <li><a href="{{ .Get `url` }}">Website</a></li>
+  {{ end }}
+  {{ if isset .Params "pubs" }}
+  <li><a href="{{ .Get `pubs` }}">Publications</a></li>
+  {{ end }}
+</ul>

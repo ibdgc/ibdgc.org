@@ -1,0 +1,100 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+[[main]]
+  name = "DATA"
+  url = "/data"
+  weight = 100
+
+[[main]]
+  name = "ABOUT"
+  url = "/about"
+  weight = 200
+  identifier = "about-menu"
+
+[[main]]
+  name = "Mission"
+  url = ""
+  weight = 10
+  parent = "about-menu"
+
+[[main]]
+  name = "NIDDK Consortium History"
+  url = ""
+  weight = 20
+  parent = "about-menu"
+
+[[main]]
+  name = "Genetic Research Centers"
+  url = "/grc"
+  weight = 30
+  parent = "about-menu"
+
+[[main]]
+  name = "NEWS"
+  url = "/news"
+  weight = 300
+
+[[main]]
+  name = "RESEARCH"
+  url = "/research"
+  weight =400
+  identifier = "research-menu"
+
+[[main]]
+  name = "Ongoing Studies"
+  url = ""
+  weight = 10
+  parent = "research-menu"
+
+[[main]]
+  name = "Ancillary Studies"
+  url = ""
+  weight = 10
+  parent = "research-menu"
+
+[[main]]
+  name = "Publications"
+  url = "publication"
+  weight = 10
+  parent = "research-menu"
+
+[[main]]
+  name = "PATIENTS"
+  url = "/patients"
+  weight = 500
+
+
+[[footer]]
+  name = "DATA"
+  url = "/data"
+  weight = 100
+
+[[footer]]
+  name = "ABOUT"
+  url = "/about"
+  weight = 200
+
+[[footer]]
+  name = "NEWS"
+  url = "/news"
+  weight = 300
+
+[[footer]]
+  name = "RESEARCH"
+  url = "/research"
+  weight = 400
+
+[[footer]]
+  name = "PATIENTS"
+  url = "/patients"
+  weight = 500 
+
+# Link to a PDF of your resume/CV from the menu.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+# [[main]]
+#    name = "CV"
+#    url = "files/cv.pdf"
+#    weight = 70

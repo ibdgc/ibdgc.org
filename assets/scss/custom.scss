@@ -1,0 +1,346 @@
+// Custom styles for IBDGC website
+
+// Manubar
+.navbar .navbar-nav .nav-link:hover {
+    color: rgb(103, 180, 157) !important;
+}
+
+.navbar .navbar-nav .dropdown-item:hover {
+    color: rgb(103, 180, 157) !important;
+}
+
+.navbar .navbar-nav .nav-link.active {
+    font-weight: normal !important;
+}
+
+
+// Hero unit on home page
+#hero.home-section.wg-hero {
+    height: 700px;
+}
+
+#hero.home-section div.hero-lead {
+    color: rgb(15, 22, 26);
+    font-family: titling-gothic-fb;
+    font-style: normal;
+    font-size: 26pt;
+    font-weight: 100;
+    line-height: 36pt;
+    width: 430pt;
+    margin-left: 40pt;
+    margin-bottom: 32pt;
+    border-bottom-color: rgb(112, 112, 112);
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+}
+
+#hero.home-section .cta-btns {
+    margin-top: 56pt;
+    margin-left: 40pt;
+}
+
+#hero.home-section a.btn-primary {
+    border-radius: 0px;
+    color: #ffffff;
+    font-family: titling-gothic-fb;
+    font-style: normal;
+    font-size: 14pt;
+    font-weight: 200;
+    padding-top: 12pt;
+    padding-bottom: 12pt;
+}
+
+
+// General text styling
+h1, h2, h3 {
+    font-style: normal;
+    color: rgb(23, 51, 72);
+    font-weight: 200;
+}
+
+.article-style p {
+    color: rgb(115, 135, 156);
+}
+
+.article-metadata a {
+    color: rgb(115, 135, 156);
+}
+
+
+// Footer
+// Start by pushing footer to bottom of page (see https://www.pakstech.com/blog/create-theme-layout/)
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: calc(100vh - 70px);
+}
+
+article {
+    flex: 1;
+}
+
+div.universal-wrapper {
+    flex: 1;
+}
+
+// Expand background color to edges of page
+.container {
+    max-width: 100%;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.site-footer {
+    color: #ffffff;
+    background-color: rgb(118, 135, 154);
+    font-size: 12pt;
+    padding-top: 6pt;
+    padding-bottom: 0;
+}
+
+// Multiple columns (see https://www.w3schools.com/howto/howto_css_three_columns.asp)
+.site-footer .column {
+    float: left;
+    width: 50%;
+    padding: 12pt 24pt;
+}
+
+// Clear floats after the columns
+.site-footer .row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+// Responsive layout: when the screen is less than 720px wide, make the
+// columns stack on top of each other instead of next to each other
+@media screen and (max-width:720px) {
+    .site-footer .column {
+        width: 100%;
+    }
+}
+
+.site-footer .fas.fa-chevron-up.fa-2x {
+    color: #ffffff;
+}
+
+.site-footer .copyright {
+    font-size: 10pt;
+    color: #ffffff;
+    background-color: rgb(85, 106, 131);
+    padding: 8pt 12pt;
+}
+
+.site-footer .column img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    min-width: 124pt;
+    padding: 8pt;
+}
+
+.site-footer .column .keep-in-touch {
+    font-family: titling-gothic-fb;
+    font-weight: 200;
+}
+
+.site-footer .column .keep-in-touch:after {
+    content: "";
+    display: block;
+    width: 66.66%;
+    padding-top: 6px;
+    border-bottom: 1px solid #ffffff;
+    margin-bottom: 12px;
+}
+
+.site-footer .column .address {
+    font-size: 10pt;
+    line-height: 12pt;
+}
+
+.social-icons ul {
+    list-style-type: none;
+    float: left;
+    margin: 0;
+    padding: 0;
+}
+
+.social-icons ul li {
+    display: inline-block;
+    padding: 10px 10px 0 0;
+}
+
+.social-icons ul li a {
+    color: #ffffff;
+    font-size: 16pt;
+}
+
+
+// GRC pages (2 columns)
+div.grc .column {
+    float: left;
+    width: 50%;
+    padding: 12pt 24pt;
+}
+
+// Clear floats after the columns
+div.grc .row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+// Responsive layout: when the screen is less than 720px wide, make the
+// columns stack on top of each other instead of next to each other
+@media screen and (max-width:720px) {
+    div.grc .column {
+        width: 100%;
+    }
+}
+
+.grc {
+    color: #ffffff;
+    background-color: rgb(54, 70, 90);
+    flex: 1;
+    margin-bottom: -72px;
+    font-size: 12pt;
+}
+
+.grc h1,
+.grc h2,
+.grc h3,
+.grc h4,
+.grc h5,
+.grc h6 {
+    color: #ffffff;
+}
+
+.grc h1,
+.grc h2,
+.grc h3,
+.grc h4 {
+    font-weight: 200;
+}
+
+.grc h1 {
+    font-size: 18pt;
+    line-height: 24pt;
+    padding-bottom: 24pt;
+}
+
+.grc h2 {
+    font-size: 16pt;
+}
+
+.grc-info > h1:first-child {
+    border-bottom: 1px solid #fff;
+}
+
+.grc-pi-titles > h1 {
+    margin-top: 0;
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+
+.grc-pi-titles > h2 {
+    font-size: 12pt;
+    line-height: 14pt;
+    margin-top: 6pt;
+    margin-bottom: auto;
+}
+
+.grc-content h1 {
+    margin-bottom: 9pt;
+    padding-bottom: 0;
+}
+
+.grc-pi {
+    margin-top: 12pt;
+    margin-bottom: 12pt;
+    width: 100%;
+    display: flex;
+}
+
+.grc-info div.grc-member-description {
+    padding-bottom: 16pt;
+    border-bottom: 1px solid #fff;
+    margin-bottom: 12pt;
+}
+
+div.grc-right-top {
+    line-height: 24pt;
+}
+
+div.grc-image {
+    background-image: url("../img/building-graphic-bkg.png");
+    background-position: center;
+    height: 450px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+img.grc-image {
+    max-height: 90%;
+    max-width: 90%;
+    margin-top: 12pt;
+    padding-top: 12pt;
+}
+
+div.grc-member {
+    margin-top: 12pt;
+    border-bottom: 1px solid #fff;
+    padding-bottom: 16pt;
+}
+
+div.grc-container div.grc-member:last-child {
+    border-bottom: 0;
+    margin-bottom: 48pt;
+}
+
+div.grc-member-header {
+    width: 100%;
+    display: flex;
+    margin-top: 12pt;
+    margin-bottom: 12pt;
+}
+
+img.grc-member-image {
+    float: left;
+    height: 120px;
+    margin-right: 12pt;
+}
+
+.grc-member-titles {
+    margin-top: auto;
+}
+
+.grc-member-titles > h1 {
+    font-size: 16pt;
+    line-height: 16pt;
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+
+.grc-member-titles > h2 {
+    font-size: 12pt;
+    line-height: 16pt;
+    padding-top: 0;
+    padding-bottom: 0;
+    margin-top: 1pt;
+    margin-bottom: 0;
+}
+
+ul.grc-links {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.grc-content .far.fa-file-alt.pub-icon {
+    color: #ffffff;
+}
+
+.tucked-under {
+    margin-top: -6pt;
+    margin-left: 12pt;
+}

@@ -1,0 +1,27 @@
+{{/* Featured GRC Publications (adapted from featured.html widget) */}}
+
+{{ $grc := "" }}
+{{ if $.File }}{{ $grc = (path.Base $.File.Dir) }}{{ end }}
+{{ $items_count := $.Params.publications.count | default 5 }}
+{{ $items_sort := $.Params.publications.order | default "desc" }}
+
+{{/* Query */}}
+{{ $query := where (where site.RegularPages "Type" "publication") "Params.grcs" "intersect" (slice $grc) }}
+
+{{/* Sort */}}
+{{ $sort_by := "Date" }}
+{{ $query = sort $query $sort_by $items_sort }}
+
+{{/* Limit */}}
+{{ $query = first $items_count $query }}
+
+{{/* Localisation */}}
+{{ $i18n := "" }}
+{{ $i18n = "more_publications" }}
+
+{{ if $query }}
+  <h1>Selected Publications</h1>
+  {{ range $post := $query }}
+    {{ partial "li_list" . }}
+  {{end}}
+{{ end }}

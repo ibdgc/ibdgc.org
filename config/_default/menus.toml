@@ -5,7 +5,7 @@
 
 [[main]]
   name = "DATA"
-  url = "/"
+  url = "/data"
   weight = 100
 
 [[main]]
@@ -16,13 +16,13 @@
 
 [[main]]
   name = "Mission"
-  url = ""
+  url = "/about"
   weight = 10
   parent = "about-menu"
 
 [[main]]
   name = "NIDDK Consortium History"
-  url = ""
+  url = "/about"
   weight = 20
   parent = "about-menu"
 
@@ -63,7 +63,7 @@
 
 [[main]]
   name = "PATIENTS"
-  url = ""
+  url = "/patients"
   weight = 500
 
 # Link to a PDF of your resume/CV from the menu.

@@ -1,14 +1,14 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "About"
+title: "Data"
 subtitle: ""
 summary: ""
 authors: []
 tags: []
 categories: []
-date: 2020-08-31T06:49:33-05:00
-lastmod: 2020-08-31T06:49:33-05:00
+date: 2020-08-31T06:48:34-05:00
+lastmod: 2020-08-31T06:48:34-05:00
 featured: false
 draft: false
 

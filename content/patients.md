@@ -1,14 +1,14 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "About"
+title: "Patients"
 subtitle: ""
 summary: ""
 authors: []
 tags: []
 categories: []
-date: 2020-08-31T06:49:33-05:00
-lastmod: 2020-08-31T06:49:33-05:00
+date: 2020-08-31T06:47:40-05:00
+lastmod: 2020-08-31T06:47:40-05:00
 featured: false
 draft: false
 

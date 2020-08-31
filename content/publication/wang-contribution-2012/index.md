@@ -8,6 +8,7 @@ abstract: "BACKGROUND: African Americans (AAs) are an admixed population of West
 featured: false
 publication: "*Inflammatory Bowel Diseases*"
 tags: ["Female", "Humans", "Male", "Adult", "Risk Factors", "African Americans", "Crohn Disease", "European Continental Ancestry Group", "Genetic Predisposition to Disease", "Polymorphism", "Single Nucleotide", "Receptors", "Interleukin", "Genotype", "Inflammatory Bowel Diseases", "Haplotypes", "Nod2 Signaling Adaptor Protein", "Autophagy-Related Proteins", "Carrier Proteins", "GTP-Binding Proteins", "Receptors", "Interleukin/genetics", "Crohn Disease/*genetics", "Genetic Predisposition to Disease/*genetics", "Nod2 Signaling Adaptor Protein/genetics", "Polymorphism", "Single Nucleotide/genetics", "African Americans/*genetics", "Carrier Proteins/genetics", "European Continental Ancestry Group/*genetics", "GTP-Binding Proteins/genetics", "Inflammatory Bowel Diseases/genetics"]
+grcs: ["rutgers"]
 doi: "10.1002/ibd.22931"
 ---
 

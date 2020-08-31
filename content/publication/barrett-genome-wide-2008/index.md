@@ -8,6 +8,7 @@ abstract: "Several risk factors for Crohn's disease have been identified in rece
 featured: false
 publication: "*Nature Genetics*"
 tags: ["Humans", "Crohn Disease", "Genetic Predisposition to Disease", "Genome", "Human", "Quantitative Trait Loci", "*Genetic Predisposition to Disease", "Crohn Disease/*genetics", "*Genome", "Human", "*Quantitative Trait Loci"]
+grcs: ["rutgers"]
 doi: "10.1038/ng.175"
 ---
 

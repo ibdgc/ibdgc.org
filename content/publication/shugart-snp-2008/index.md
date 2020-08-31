@@ -8,6 +8,7 @@ abstract: "Inflammatory bowel disease (IBD) is a complex genetic disorder of two
 featured: false
 publication: "*Genes and Immunity*"
 tags: ["Female", "Humans", "Male", "Colitis", "Ulcerative", "Crohn Disease", "Polymorphism", "Single Nucleotide", "Genetic Linkage", "Jews", "Pedigree", "Quantitative Trait Loci", "Chromosomes", "Human", "Pair 1", "Genetic Markers", "Chromosomes", "Human", "Pair 3", "Chromosomes", "Human", "Pair 13", "Lod Score", "Crohn Disease/epidemiology/*genetics", "Jews/*genetics", "Chromosomes", "Human", "Pair 1/*genetics", "Chromosomes", "Human", "Pair 13/*genetics", "Chromosomes", "Human", "Pair 3/*genetics", "Colitis", "Ulcerative/epidemiology/genetics", "Genetic Linkage/genetics", "Genetic Markers/genetics", "Polymorphism", "Single Nucleotide/*genetics", "Quantitative Trait Loci/genetics"]
+grcs: ["rutgers"]
 doi: "10.1038/sj.gene.6364460"
 ---
 

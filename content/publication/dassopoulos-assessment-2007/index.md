@@ -8,6 +8,7 @@ abstract: "BACKGROUND: The NIDDK IBD Genetics Consortium (IBDGC) collects DNA an
 featured: false
 publication: "*Inflammatory bowel diseases*"
 tags: ["Humans", "Reproducibility of Results", "ROC Curve", "Sensitivity and Specificity", "*Phenotype", "Crohn Disease/genetics", "Colitis", "Ulcerative/genetics", "Inflammatory Bowel Diseases/classification/*genetics", "Observer Variation"]
+grcs: ["rutgers"]
 doi: "10.1002/ibd.20144"
 ---
 

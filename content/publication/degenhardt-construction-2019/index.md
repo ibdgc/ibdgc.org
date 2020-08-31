@@ -8,6 +8,7 @@ abstract: "Genotype imputation of the human leukocyte antigen (HLA) region is a 
 featured: false
 publication: "*Human Molecular Genetics*"
 tags: ["Humans", "Ethnic Groups", "African Americans", "European Continental Ancestry Group", "Polymorphism", "Single Nucleotide", "Alleles", "Gene Frequency", "Genotype", "High-Throughput Nucleotide Sequencing", "Haplotypes", "Retrospective Studies", "Cluster Analysis", "Asian Continental Ancestry Group", "Histocompatibility Antigens Class II", "HLA Antigens", "Benchmarking", "Histocompatibility Antigens Class I", "HLA-DRB3 Chains", "HLA-DRB4 Chains", "HLA-DRB5 Chains"]
+grcs: ["rutgers"]
 doi: "10.1093/hmg/ddy443"
 ---
 

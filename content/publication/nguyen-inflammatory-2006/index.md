@@ -8,6 +8,7 @@ abstract: "OBJECTIVES: Inflammatory bowel disease (IBD), comprising primarily of
 featured: false
 publication: "*The American journal of gastroenterology*"
 tags: ["Female", "Humans", "Male", "Adult", "United States", "European Continental Ancestry Group", "Colonic Diseases", "*African Americans", "*Colitis", "Ulcerative", "*Crohn Disease/complications/epidemiology", "*Hispanic Americans", "Duodenal Diseases", "Erythema Nodosum/complications", "Esophageal Diseases", "Minority Groups", "Prevalence", "Rectal Diseases", "Sacroiliac Joint", "Stomach Diseases", "Uveitis/etiology"]
+grcs: ["rutgers"]
 doi: "10.1111/j.1572-0241.2006.00504.x"
 ---
 

@@ -8,6 +8,7 @@ abstract: "OBJECTIVES: In classifying Crohn's disease (CD) location, proximal (L
 featured: false
 publication: "*The American Journal of Gastroenterology*"
 tags: ["Female", "Humans", "Male", "Adult", "Risk Factors", "Cross-Sectional Studies", "Crohn Disease", "Phenotype", "Constriction", "Pathologic", "Databases", "Factual", "Duodenum", "Esophagus", "Ileitis", "Intestinal Obstruction", "Jejunum", "Multivariate Analysis", "Constriction", "Pathologic/etiology/surgery", "Crohn Disease/classification/complications/*pathology/surgery", "Duodenum/*pathology", "Esophagus/*pathology", "Ileitis/complications/pathology/surgery", "Intestinal Obstruction/etiology/surgery", "Jejunum/*pathology"]
+grcs: ["rutgers"]
 doi: "10.1038/ajg.2012.389"
 ---
 

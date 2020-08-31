@@ -8,6 +8,7 @@ abstract: "We present a genome-wide association study of ileal Crohn disease and
 featured: false
 publication: "*Nature Genetics*"
 tags: ["Humans", "Crohn Disease", "Genetic Predisposition to Disease", "Polymorphism", "Single Nucleotide", "Animals", "Mice", "Autophagy", "RNA Interference", "North America", "Autophagy-Related Proteins", "Carrier Proteins", "Transcription Factors", "Immunohistochemistry", "Gene Expression Profiling", "Chromosomes", "Human", "Pair 10", "HeLa Cells", "Homeodomain Proteins", "NADPH Oxidases", "Genetic Predisposition to Disease/*genetics", "Autophagy/*physiology", "Carrier Proteins/*genetics/metabolism", "Chromosomes", "Human", "Pair 10/*genetics", "Crohn Disease/*genetics/*physiopathology", "Homeodomain Proteins/genetics", "NADPH Oxidases/genetics", "Transcription Factors/genetics"]
+grcs: ["rutgers"]
 doi: "10.1038/ng2032"
 ---
 

@@ -3,10 +3,10 @@
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
 
-[[main]]
-  name = "DATA"
-  url = "/data"
-  weight = 100
+# [[main]]
+#   name = "DATA"
+#   url = "/data"
+#   weight = 100
 
 [[main]]
   name = "ABOUT"
@@ -22,7 +22,7 @@
 
 [[main]]
   name = "NIDDK Consortium History"
-  url = "/about"
+  url = "/about#history"
   weight = 20
   parent = "about-menu"
 
@@ -39,26 +39,26 @@
 
 [[main]]
   name = "RESEARCH"
-  url = "/research"
+  url = ""
   weight =400
   identifier = "research-menu"
 
 [[main]]
-  name = "Ongoing Studies"
-  url = ""
+  name = "Current Projects"
+  url = "/current"
   weight = 10
   parent = "research-menu"
 
 [[main]]
   name = "Ancillary Studies"
-  url = ""
-  weight = 10
+  url = "/ancillary"
+  weight = 20
   parent = "research-menu"
 
 [[main]]
   name = "Publications"
-  url = "publication"
-  weight = 10
+  url = "/publication"
+  weight = 30
   parent = "research-menu"
 
 [[main]]

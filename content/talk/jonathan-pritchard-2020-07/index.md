@@ -4,7 +4,7 @@
 title: "Why are human complex traits so enormously polygenic? Lessons from molecular biomarker traits"
 event:
 event_url:
-location: 
+location: "Zoom Webinar"
 address:
   street:
   city:

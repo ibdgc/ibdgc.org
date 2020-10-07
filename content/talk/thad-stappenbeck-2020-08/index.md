@@ -4,7 +4,7 @@
 title: "Intestinal epithelial defects triggered by genetics and environment as a target for IBD therapy"
 event:
 event_url:
-location: 
+location: "Zoom Webinar"
 address:
   street:
   city:

@@ -4,7 +4,7 @@
 title: "IBD Genetics... Where do we go from here?"
 event:
 event_url:
-location: 
+location: "Zoom Webinar"
 address:
   street:
   city:

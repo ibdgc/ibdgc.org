@@ -23,7 +23,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: 2020-10-05T00:00:00-06:00
 
-authors: ["Miriam Merad and Adeeb Rahman"]
+authors: ["Adeeb Rahman"]
 tags: []
 
 # Is this a featured talk? (true/false)
@@ -67,4 +67,4 @@ slides: ""
 projects: []
 ---
 
-{{< figure library="true" src="webinar/merad-rahman.jpeg" title="" >}}
+{{< youtube OKg84b88eD4 >}}

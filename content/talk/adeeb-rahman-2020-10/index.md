@@ -39,11 +39,11 @@ image:
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-links:
-- name: Register
-  url: https://cutt.ly/ibdgc-webinar
-  icon_pack: fas
-  icon: user-plus
+# links:
+# - name: Follow
+#   url: https://twitter.com
+#   icon_pack: fab
+#   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
 url_slides:

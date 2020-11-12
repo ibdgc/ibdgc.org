@@ -8,7 +8,7 @@ abstract: "Clinical benefits of cytokine blockade in ileal Crohn's disease (iCD)
 featured: false
 publication: "*Cell*"
 tags: ["Crohn’s disease", "high-dimensional profiling", "inflammatory bowel disease", "molecular classification", "single-cell RNA sequencing"]
-grcs: ["mssm"]
+grcs: ["mssm","dcc"]
 doi: "10.1016/j.cell.2019.08.008"
 ---
 

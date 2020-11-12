@@ -1,0 +1,19 @@
+{{/* Adapted from academic/layouts/section/docs.html */}}
+{{- define "main" -}}
+
+{{ partial "page_header" . }}
+
+<div class="universal-wrapper">
+  <div class="article-style">
+    {{ with .Content }}{{ . }}{{ end }}
+    <ul class="list-unstyled">
+      {{ if gt (len .Sections) 0}}
+      {{ range .Sections }}
+      <li><h3><a href="{{.RelPermalink}}">{{.LinkTitle}}</a></h3> {{with .Params.pi}}<p class="tucked-under">{{ . }}, Principal Investigator</p>{{end}}</li>
+      {{end}}
+      {{end}}
+    </ul>
+  </div>
+</div>
+
+{{- end -}}

@@ -1,0 +1,70 @@
+{{- define "main" -}}
+
+<div class="grc">
+
+  <div class="grc-container column">
+    
+    <div class="grc-info">
+      <h1>{{ .Title }} <br> {{ .Params.subtitle }}</h1>
+      <div class="grc-pi">
+        <img src="{{ .Params.picture }}" alt="" class="grc-member-image">
+        <div class="grc-pi-titles">
+          <h1>{{ .Params.pi }}</h1>
+          {{ range .Params.pi_titles }}
+            <h2>{{ . }}</h2>
+          {{ end }}
+        </div>
+      </div>
+      <div class="grc-member-description">
+        {{ range .Params.bio }}
+          <p>{{ . }}</p>
+        {{ end }}
+        <ul class="grc-links">
+          {{ if isset .Params "external_link" }}
+          <li><a href="{{ .Params.external_link }}">Website</a></li>
+          {{ end }}
+          {{ if isset .Params "pubs" }}
+          <li><a href="/authors/{{ .Params.pubs }}">Publications</a></li>
+          {{ end }}
+        </ul>
+      </div>
+      <div class="grc-content">
+        {{ .Content }}
+        {{ partial "featured_pubs.html" . }}
+      </div>
+    </div>
+  
+  </div>
+  
+  <div class="grc-container column">
+    
+    <div class="grc-right-top">&nbsp;</div>
+    
+    {{/* Use featured image to show GRC */}}
+    {{ $image := (.Resources.ByType "image").GetMatch "*featured*" }}
+    <div class="grc-image">
+      {{ if $image }}
+        <img src="{{ $image.RelPermalink }}" alt="" class="grc-image">
+      {{ end }}
+    </div>
+    
+    {{ range .Pages }}
+      <div class="grc-member">
+        <div class="grc-member-header">
+          <img src="{{ .Params.picture }}" alt="" class="grc-member-image">
+          <div class="grc-member-titles">
+            <h1>{{ .Params.name }}</h1>
+            <h2>{{ .Params.role }}</h2>
+          </div>
+        </div>
+        <div class="grc-member-descriptiom">
+          {{.Content}}
+        </div>
+      </div>
+    {{ end }}
+  </div>
+  
+  {{ partial "page_footer" . }}
+  
+</div>
+{{- end -}}

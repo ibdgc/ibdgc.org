@@ -1,7 +1,7 @@
 ---
 # Adapted from themes/academic/archetypes/project/index.md
-title: "Icahn School of Medicine at Mount Sinai"
-subtitle: "IBD Genetics Research Center"
+title: "Data Coordinating Center"
+subtitle: "Icahn School of Medicine at Mount Sinai and the University of Chicago"
 pi: "Judy Cho, MD"
 pi_titles: ["Principal Investigator, IBDGC Data Coordinating Center"]
 picture: "/img/mssm/judy-cho-pic.jpg"

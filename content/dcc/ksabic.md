@@ -2,7 +2,7 @@
 name: "Ksenija Sabic"
 role: "Research Manager"
 picture: "/img/dcc/ksenija-sabic.png"
-weight: 30
+weight: 50
 ---
 
 Ksenija Sabic is a Research Manager at the Icahn School of Medicine at Mount

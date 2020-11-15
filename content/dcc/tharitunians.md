@@ -1,15 +1,18 @@
 ---
-name: "Ksenija Sabic"
-role: "Research Manager"
-picture: "/img/dcc/ksenija-sabic.png"
+name: "Talin Haritunians, PhD."
+role: "Assistant Professorr"
+picture: "/img/dcc/talin-haritunians.png"
 weight: 30
 ---
 
-Ksenija Sabic is a Research Manager at the Icahn School of Medicine at Mount
-Sinai with extensive industry experience with Next Generation Sequencing,
-sample management, quality assurance processes and regulatory affairs, as well
-as a myriad of wet lab techniques. Ksenija’s interest in personalized medicine
-began in the clinical sphere and she now hopes to translate this experience
-into the research realm by (1) contributing to ongoing empirical studies in
-IBD, (2) coordinating efforts and streamlining procedures for biospecimen
-management and processing, and (3) overseeing patient recruitment.
+Talin Haritunians an Assistant Professor at Cedars-Sinai Medical Center, Adjunct Associate 
+Professor at UCLA, and member of Dermot McGovern’s Translational Genomics Group 
+in the Inflammatory Bowel & Immunobiology Research Institute. She participates in 
+multiple IBD genomics studies, overseeing data generation and quality control, 
+with expertise in project management of large-scale genetic datasets. 
+Her research interests focus on the genetics underlying IBD disease severity, 
+gender disparities, disease complications and response to medical therapies, 
+and incorporation of epigenomic datasets to bridge genetic discovery with a 
+better understanding of the functional role of IBD risk variants. 
+She is a member of the NIDDK IBDGC Steering and DCC Committees, and Chair of 
+the Analytic Committee.

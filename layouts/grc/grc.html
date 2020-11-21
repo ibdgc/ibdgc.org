@@ -48,7 +48,11 @@
       {{ end }}
     </div>
     
+    {{ $counter := 1 }}
     {{ range .Pages }}
+      {{ if eq $counter 1 }}
+        <h1 id="co-investigators">Co-Investigators</h1>
+      {{ end }}
       <div class="grc-member">
         <div class="grc-member-header">
           <img src="{{ .Params.picture }}" alt="" class="grc-member-image">
@@ -61,6 +65,7 @@
           {{.Content}}
         </div>
       </div>
+      {{ $counter = add $counter 1 }}
     {{ end }}
   </div>
   

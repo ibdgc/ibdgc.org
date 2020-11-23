@@ -1,6 +1,7 @@
 ---
 name: "Mamta Giri"
-role: "Bioinformatician"
+title: "Bioinformatician"
+role: "staff"
 picture: "/img/dcc/mamta-giri.png"
 weight: 10
 ---

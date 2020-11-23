@@ -33,6 +33,12 @@
   parent = "about-menu"
 
 [[main]]
+  name = "Data Coordinating Center"
+  url = "/dcc"
+  weight = 40
+  parent = "about-menu"
+
+[[main]]
   name = "NEWS"
   url = "/news"
   weight = 300

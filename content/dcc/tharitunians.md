@@ -1,8 +1,9 @@
 ---
 name: "Talin Haritunians, PhD."
-role: "Assistant Professorr"
+title: "Assistant Professor"
+role: "staff"
 picture: "/img/dcc/talin-haritunians.png"
-weight: 30
+weight: 20
 ---
 
 Talin Haritunians an Assistant Professor at Cedars-Sinai Medical Center, Adjunct Associate 

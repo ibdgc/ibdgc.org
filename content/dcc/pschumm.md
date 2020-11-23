@@ -1,8 +1,9 @@
 ---
 name: "Phil Schumm"
-role: "Statistician"
+title: "Statistician"
+role: "staff"
 picture: "/img/dcc/phil-schumm.png"
-weight: 40
+weight: 50
 ---
 
 Phil Schumm is a statistician in the Department of Public Health Sciences at

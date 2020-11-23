@@ -48,19 +48,44 @@
       {{ end }}
     </div>
     
-    {{ range .Pages }}
+    {{ $counter := 1 }}    
+    {{ range where .Pages ".Params.role" "coinvestigator" }}
+      {{ if eq $counter 1 }}
+        <h1 id="co-investigators">Co-Investigators</h1>
+      {{ end }}
       <div class="grc-member">
         <div class="grc-member-header">
           <img src="{{ .Params.picture }}" alt="" class="grc-member-image">
           <div class="grc-member-titles">
             <h1>{{ .Params.name }}</h1>
-            <h2>{{ .Params.role }}</h2>
+            <h2>{{ .Params.title }}</h2>
           </div>
         </div>
         <div class="grc-member-descriptiom">
           {{.Content}}
         </div>
       </div>
+      {{ $counter = add $counter 1 }}
+    {{ end }}
+    
+    {{ $counter := 1 }}    
+    {{ range where .Pages ".Params.role" "staff" }}
+      {{ if eq $counter 1 }}
+        <h1 id="co-investigators">Personnel</h1>
+      {{ end }}
+      <div class="grc-member">
+        <div class="grc-member-header">
+          <img src="{{ .Params.picture }}" alt="" class="grc-member-image">
+          <div class="grc-member-titles">
+            <h1>{{ .Params.name }}</h1>
+            <h2>{{ .Params.title }}</h2>
+          </div>
+        </div>
+        <div class="grc-member-descriptiom">
+          {{.Content}}
+        </div>
+      </div>
+      {{ $counter = add $counter 1 }}
     {{ end }}
   </div>
   

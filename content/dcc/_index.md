@@ -21,50 +21,68 @@ publications:
     order: "desc"
 ---
 
-# GRC Abstract
+# DCC Objectives
 
-This application from the Mount Sinai Health System proposes participation as
-a genetic research center (GRC) within the NIDDK Inflammatory Bowel Disease
-Genetics Consortium (IBDGC). IBD genetic discovery has disproportionately
-focused on European ancestry cohorts, despite high and rising prevalence in
-all US populations. In Aim 1, participation as a multi-disciplinary GRC in
-Consortium-wide projects is proposed. Expanding sequence and genotype data on
-non-European ancestry cohorts is proposed. New analytic methodologies have
-been developed whereby more ancestrally complex populations, such as Hispanic
-cohorts, can not only be meaningfully analyzed, but may confer substantial
-benefits in unlocking the overall genetic architecture of polygenic diseases,
-such as IBD. The application of novel clinical research tools involving
-efficient electronic health record and development of more objective endpoints
-can deepen longitudinal phenotype data for already recruited patients. Given
-the continued centrality of anti-TNF therapies in an era of multiple new
-therapies, studies to examine anti-TNF non-response (ileal resection, surgical
-specimens) and response (new anti-TNF initiation, endoscopically-based) are
-proposed. Specifically, in Aim 2, definition of intestinal single-cell
-expression features with anti-TNF non-response and response is proposed using
-mass cytometry protein analyses (Cytof), and single cell mRNA sequencing.
-Single cell analyses in IBD tissues shows enormous promise in systematically
-explicating the precise contributions in the most relevant context of the over
-200 genome-wide significant IBD associations. Early single cell analyses point
-to a highly complex innate immune cell architecture, which may be distinct
-between various high effect IBD-associated risk alleles of innate immunity.
-Scaling key results through correlative techniques feasible in larger cohorts,
-such as using paraffin-embedded tissues and peripheral blood samples is
-proposed. The advent of multiple new therapies makes this a particularly
-propitious time to protocolize clinical practice, both to improve patient
-care, as well as to mine biosamples for IBD research. The insight that is
-gained through these studies can prioritize genes, cells and pathways from
-which to scale key results and protocols across the NIDDK IBDGC. The long-term
-goal of these studies is to efficiently develop protocols to most effectively
-treat IBD patients, catalyzing the advent of Precision IBD.
+IBD affects 1.8 to 3 million Americans and better therapies are urgently
+needed. The IBDGC, comprised of the DCC and six Genetic Research Centers
+(GRCs) throughout North America, has played a central role in catalyzing
+genetic progress in IBD. During the past funding cycle, the IBDGC has
+continued to leverage the large, cross-national datasets it has compiled to
+push to 200 the number of genetic loci associated with IBD risk. In addition,
+it has begun the work of fine-mapping these loci and conducting the first-ever
+large-scale genetic studies among non-European populations, both critical next
+steps in further developing our understanding of the overall genetic
+architecture of IBD. The IBDGC has also initiated two new studies—one in CD
+and one in UC—involving novel protocols for intestinal sampling and
+longitudinal follow-up including serial samples of blood and stool. These
+studies will enable the IBDGC to begin to focus on the precise molecular
+mechanisms responsible for genetic variation in IBD risk, as well as to
+identify the specific cells in which disease-associated variants exert their
+pathogenic or protective effects. This knowledge will be critical in more
+accurately prioritizing which pathways to target for the development of new
+therapies for IBD.
 
-Ancillary R01 liaison: Yuval Itan, PhD
+To continue this progress, the DCC will focus over the next 5 years on two
+related fronts:
 
-# Interests of the Mount Sinai GRC group beyond the GRC abstract
+1. The DCC will apply new laboratory and computing technologies to collect
+   accurate, detailed data on disease pathogenesis from the clinical all the
+   way down to the cellular level, and to integrate these data with both
+   existing and new genomic data for sharing with the research community.
 
-- Role of innate immune cell differentiation 
-- Enteroids and reactive oxygen species 
-- Role of GPCRs in IBD
-- Comparative single cell analyses between European vs. African-American
-  individuals
-- (Collaborative) Natural language processing and machine learning image
-  analyses of hard outcome measures (endoscopy, pathology, radiology) of IBD
+   1. Continue to develop our platform for collecting detailed, longitudinal
+      phenotypic and clinical data, and apply it to larger cohorts and in
+      targeted ways (e.g., to follow individuals with rare genetic variants or
+      unique phenotypic characteristics)
+   2. Increase collaboration with the top laboratories doing functional studies
+      in IBD, providing them with biological material and linking their results
+      to genetics
+   3. Develop new objective assessments of disease activity and treatment that
+      can be efficiently applied at scale, including automated methods for
+      extracting information from endoscopy and pathology reports, virtual
+      slides of endoscopic biopsies, endoscopic video and Electronic Medical
+      Records (EMRs)
+   4. Use the latest cloud computing technologies to facilitate collaborative
+      analysis through the Bionimbus Protected Data Cloud, and facilitate data
+      sharing by developing an IBD Data Commons
+
+2. The DCC will prioritize scientific directions for the Consortium and scale
+   up new technologies, sampling strategies and analyses by applying them to
+   larger cohorts and longitudinal data.
+
+   1. Enhance fine-mapping precision of established loci by expanding sample
+      size and diversity. We will extend methodologies used to distinguish
+      credible SNPs between CD and UC to include other inflammatory diseases
+      and non-European ancestry populations to improve fine-mapping scope and
+      power.
+   2. Comprehensively define the genetic basis for altered intestinal
+      epithelial gene expression and function in UC. We will analyze sources
+      of variation in mRNA expression from spheroids grown from biopsies taken
+      from inflamed and uninflamed UC colon.
+   3. Determine the genetic basis for how pathophysiologic mechanisms function
+      over time by studying variation in response to therapeutic
+      interventions, and by modeling the disease process longitudinally. We
+      have developed protocols for longitudinal analyses of gene expression,
+      metabolome and microbiome following ileal resection in CD. We propose to
+      continue recruitment beyond our current collections of over 300 patients
+      and extend recruitment to other centers beyond the Consortium.

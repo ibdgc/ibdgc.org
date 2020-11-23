@@ -1,8 +1,9 @@
 ---
 name: "Yuval Itan"
-role: "Assistant Professor"
+title: "Assistant Professor"
+role: "staff"
 picture: "/img/dcc/yuval-itan.png"
-weight: 20
+weight: 30
 ---
 
 Dr. Yuval Itan is an Assistant Professor at the Icahn School of Medicine at

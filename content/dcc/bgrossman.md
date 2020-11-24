@@ -1,16 +1,14 @@
 ---
-name: "Ksenija Sabic"
-title: "Research Manager"
+name: "Robert Grossman"
+title: "Professor"
 role: "staff"
-picture: "/img/dcc/ksenija-sabic.png"
-weight: 40
+picture: "/img/dcc/robert.grossman.png"
+weight: 1
 ---
 
-Ksenija Sabic is a Research Manager at the Icahn School of Medicine at Mount
-Sinai with extensive industry experience with Next Generation Sequencing,
-sample management, quality assurance processes and regulatory affairs, as well
-as a myriad of wet lab techniques. Ksenija’s interest in personalized medicine
-began in the clinical sphere and she now hopes to translate this experience
-into the research realm by (1) contributing to ongoing empirical studies in
-IBD, (2) coordinating efforts and streamlining procedures for biospecimen
-management and processing, and (3) overseeing patient recruitment.
+Robert L. Grossman is the Frederick H. Rawson Distinguished Service Professor 
+in Medicine and Computer Science and the Jim and Karen Frank Director of the 
+Center for Translational Data Science at the University of Chicago. 
+He has also served as the chief research informatics officer of the Biological 
+Sciences Division since 2011. He is the Co-Chief in the Section of Computational
+Biomedicine and Biomedical Data Science in the Department of Medicine.

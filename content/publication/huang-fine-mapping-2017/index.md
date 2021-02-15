@@ -1,14 +1,115 @@
 ---
-title: "Fine-mapping inflammatory bowel disease loci to single-variant resolution"
-date: 2017-01-01
-publishDate: 2020-08-03T19:38:06.572411Z
-authors: ["Hailiang Huang", "Ming Fang", "Luke Jostins", "Maša Umićević Mirkov", "Gabrielle Boucher", "Carl A. Anderson", "Vibeke Andersen", "Isabelle Cleynen", "Adrian Cortes", "François Crins", "Mauro D'Amato", "Valérie Deffontaine", "Julia Dmitrieva", "Elisa Docampo", "Mahmoud Elansary", "Kyle Kai-How Farh", "Andre Franke", "Ann-Stephan Gori", "Philippe Goyette", "Jonas Halfvarson", "Talin Haritunians", "Jo Knight", "Ian C. Lawrance", "Charlie W. Lees", "Edouard Louis", "Rob Mariman", "Theo Meuwissen", "Myriam Mni", "Yukihide Momozawa", "Miles Parkes", "Sarah L. Spain", "Emilie Théâtre", "Gosia Trynka", "Jack Satsangi", "Suzanne van Sommeren", "Severine Vermeire", "Ramnik J. Xavier", "International Inflammatory Bowel Disease Genetics Consortium", "Rinse K. Weersma", "Richard H. Duerr", "Christopher G. Mathew", "John D. Rioux", "Dermot P. B. McGovern", "Judy H. Cho", "Michel Georges", "Mark J. Daly", "Jeffrey C. Barrett"]
-publication_types: ["2"]
-abstract: "Inflammatory bowel diseases are chronic gastrointestinal inflammatory disorders that affect millions of people worldwide. Genome-wide association studies have identified 200 inflammatory bowel disease-associated loci, but few have been conclusively resolved to specific functional variants. Here we report fine-mapping of 94 inflammatory bowel disease loci using high-density genotyping in 67,852 individuals. We pinpoint 18 associations to a single causal variant with greater than 95% certainty, and an additional 27 associations to a single variant with greater than 50% certainty. These 45 variants are significantly enriched for protein-coding changes (n = 13), direct disruption of transcription-factor binding sites (n = 3), and tissue-specific epigenetic marks (n = 10), with the last category showing enrichment in specific immune cells among associations stronger in Crohn's disease and in gut mucosa among associations stronger in ulcerative colitis. The results of this study suggest that high-resolution fine-mapping in large samples can convert many discoveries from genome-wide association studies into statistically convincing causal variants, providing a powerful substrate for experimental elucidation of disease mechanisms."
+title: Fine-mapping inflammatory bowel disease loci to single-variant resolution
+date: '2017-01-01'
+publishDate: '2021-02-15T12:56:56.984690Z'
+authors:
+- Hailiang Huang
+- Ming Fang
+- Luke Jostins
+- Maša Umićević Mirkov
+- Gabrielle Boucher
+- Carl A. Anderson
+- Vibeke Andersen
+- Isabelle Cleynen
+- Adrian Cortes
+- François Crins
+- Mauro D'Amato
+- Valérie Deffontaine
+- Julia Dmitrieva
+- Elisa Docampo
+- Mahmoud Elansary
+- Kyle Kai-How Farh
+- Andre Franke
+- Ann-Stephan Gori
+- Philippe Goyette
+- Jonas Halfvarson
+- Talin Haritunians
+- Jo Knight
+- Ian C. Lawrance
+- Charlie W. Lees
+- Edouard Louis
+- Rob Mariman
+- Theo Meuwissen
+- Myriam Mni
+- Yukihide Momozawa
+- Miles Parkes
+- Sarah L. Spain
+- Emilie Théâtre
+- Gosia Trynka
+- Jack Satsangi
+- Suzanne van Sommeren
+- Severine Vermeire
+- Ramnik J. Xavier
+- International Inflammatory Bowel Disease Genetics Consortium
+- Rinse K. Weersma
+- Richard H. Duerr
+- Christopher G. Mathew
+- John D. Rioux
+- Dermot P. B. McGovern
+- Judy H. Cho
+- Michel Georges
+- Mark J. Daly
+- Jeffrey C. Barrett
+publication_types:
+- '2'
+abstract: Inflammatory bowel diseases are chronic gastrointestinal inflammatory disorders
+  that affect millions of people worldwide. Genome-wide association studies have identified
+  200 inflammatory bowel disease-associated loci, but few have been conclusively resolved
+  to specific functional variants. Here we report fine-mapping of 94 inflammatory
+  bowel disease loci using high-density genotyping in 67,852 individuals. We pinpoint
+  18 associations to a single causal variant with greater than 95% certainty, and
+  an additional 27 associations to a single variant with greater than 50% certainty.
+  These 45 variants are significantly enriched for protein-coding changes (n = 13),
+  direct disruption of transcription-factor binding sites (n = 3), and tissue-specific
+  epigenetic marks (n = 10), with the last category showing enrichment in specific
+  immune cells among associations stronger in Crohn's disease and in gut mucosa among
+  associations stronger in ulcerative colitis. The results of this study suggest that
+  high-resolution fine-mapping in large samples can convert many discoveries from
+  genome-wide association studies into statistically convincing causal variants, providing
+  a powerful substrate for experimental elucidation of disease mechanisms.
 featured: false
-publication: "*Nature*"
-tags: ["Aged", "Female", "Humans", "Male", "Middle Aged", "Adult", "Aged", "80 and over", "Young Adult", "Adolescent", "Colitis", "Ulcerative", "Crohn Disease", "Genetic Predisposition to Disease", "Genome-Wide Association Study", "Genotype", "Inflammatory Bowel Diseases", "Genetic Variation", "Quantitative Trait Loci", "Transcription Factors", "Binding Sites", "Chromatin", "Epigenesis", "Genetic", "Linkage Disequilibrium", "Smad3 Protein", "Crohn Disease/genetics", "Inflammatory Bowel Diseases/*genetics", "Genetic Predisposition to Disease/*genetics", "Colitis", "Ulcerative/genetics", "Chromatin/genetics", "Epigenesis", "Genetic/genetics", "Genetic Variation/*genetics", "Linkage Disequilibrium/genetics", "Quantitative Trait Loci/*genetics", "Smad3 Protein/genetics", "Transcription Factors/metabolism"]
-grcs: ["mssm","montreal","pittsburgh", "dcc"]
-doi: "10.1038/nature22969"
+publication: '*Nature*'
+tags:
+- '"Aged"'
+- '"Female"'
+- '"Humans"'
+- '"Male"'
+- '"Middle Aged"'
+- '"Adult"'
+- '"Aged"'
+- '"80 and over"'
+- '"Young Adult"'
+- '"Adolescent"'
+- '"Colitis"'
+- '"Ulcerative"'
+- '"Crohn Disease"'
+- '"Genetic Predisposition to Disease"'
+- '"Genome-Wide Association Study"'
+- '"Genotype"'
+- '"Inflammatory Bowel Diseases"'
+- '"Genetic Variation"'
+- '"Quantitative Trait Loci"'
+- '"Transcription Factors"'
+- '"Binding Sites"'
+- '"Chromatin"'
+- '"Epigenesis"'
+- '"Genetic"'
+- '"Linkage Disequilibrium"'
+- '"Smad3 Protein"'
+- '"Crohn Disease/genetics"'
+- '"Inflammatory Bowel Diseases/*genetics"'
+- '"Genetic Predisposition to Disease/*genetics"'
+- '"Colitis"'
+- '"Ulcerative/genetics"'
+- '"Chromatin/genetics"'
+- '"Epigenesis"'
+- '"Genetic/genetics"'
+- '"Genetic Variation/*genetics"'
+- '"Linkage Disequilibrium/genetics"'
+- '"Quantitative Trait Loci/*genetics"'
+- '"Smad3 Protein/genetics"'
+- '"Transcription Factors/metabolism"'
+grcs: [mssm, montreal, pittsburgh, dcc]
+doi: 10.1038/nature22969
 ---
 

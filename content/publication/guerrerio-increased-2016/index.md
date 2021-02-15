@@ -1,13 +1,68 @@
 ---
-title: "Increased Prevalence of Inflammatory Bowel Disease in Patients with Mutations in Genes Encoding the Receptor Subunits for TGFβ"
-date: 2016-01-01
-publishDate: 2020-08-03T19:38:06.570182Z
-authors: ["Anthony L. Guerrerio", "Pamela A. Frischmeyer-Guerrerio", "Chengrui Huang", "Yuqiong Wu", "Talin Haritunians", "Dermot P. B. McGovern", "Gretchen L. MacCarrick", "Steven R. Brant", "Harry C. Dietz"]
-publication_types: ["2"]
-abstract: "BACKGROUND: TGFβ is a multifunctional cytokine that is critical in regulating mucosal immunity. Murine studies have revealed that disruption of canonical TGFβ signaling leads to systemic inflammation including colitis. Loeys-Dietz syndrome (LDS) results from heterozygous mutations in the genes encoding the subunits of the TGFβ receptor. METHODS: All patients with confirmed mutations in TGFBR1 or TGFBR2, seen in the Johns Hopkins Connective Tissue Disorders clinic, were asked to participate in the study. Ninety-three consecutive patients were enrolled, including 4 with inflammatory bowel disease (IBD). Using the Illumina Immunochip array, we undertook an exploratory analysis to evaluate the potential genetic risk factors that could predict which patients with LDS would develop IBD. RESULTS: We report an increased prevalence of IBD in patients with LDS types I and II. We describe the course of several patients. In this small sample, the 3 whites with IBD had a genetic risk score in the top 6 highest scores of patients evaluated. CONCLUSION: We report a 10-fold increase in the prevalence of IBD in patients with LDS compared with the general population. Onset of disease in 3 of the 4 patients was at less than 18 years, and the clinical course in 2 of the 4 was severe with a poor response to traditional medications. Further evaluation of the genetic risk score is needed to determine whether it can predict which patients with LDS are most likely to develop IBD. This case series of patients with LDS with IBD suggests that defective TGFβ signaling may have an influence on IBD risk."
+title: Increased Prevalence of Inflammatory Bowel Disease in Patients with Mutations
+  in Genes Encoding the Receptor Subunits for TGFβ
+date: '2016-01-01'
+publishDate: '2021-02-15T12:56:56.772849Z'
+authors:
+- Anthony L. Guerrerio
+- Pamela A. Frischmeyer-Guerrerio
+- Chengrui Huang
+- Yuqiong Wu
+- Talin Haritunians
+- Dermot P. B. McGovern
+- Gretchen L. MacCarrick
+- Steven R. Brant
+- Harry C. Dietz
+publication_types:
+- '2'
+abstract: 'BACKGROUND: TGFβ is a multifunctional cytokine that is critical in regulating
+  mucosal immunity. Murine studies have revealed that disruption of canonical TGFβ
+  signaling leads to systemic inflammation including colitis. Loeys-Dietz syndrome
+  (LDS) results from heterozygous mutations in the genes encoding the subunits of
+  the TGFβ receptor. METHODS: All patients with confirmed mutations in TGFBR1 or TGFBR2,
+  seen in the Johns Hopkins Connective Tissue Disorders clinic, were asked to participate
+  in the study. Ninety-three consecutive patients were enrolled, including 4 with
+  inflammatory bowel disease (IBD). Using the Illumina Immunochip array, we undertook
+  an exploratory analysis to evaluate the potential genetic risk factors that could
+  predict which patients with LDS would develop IBD. RESULTS: We report an increased
+  prevalence of IBD in patients with LDS types I and II. We describe the course of
+  several patients. In this small sample, the 3 whites with IBD had a genetic risk
+  score in the top 6 highest scores of patients evaluated. CONCLUSION: We report a
+  10-fold increase in the prevalence of IBD in patients with LDS compared with the
+  general population. Onset of disease in 3 of the 4 patients was at less than 18
+  years, and the clinical course in 2 of the 4 was severe with a poor response to
+  traditional medications. Further evaluation of the genetic risk score is needed
+  to determine whether it can predict which patients with LDS are most likely to develop
+  IBD. This case series of patients with LDS with IBD suggests that defective TGFβ
+  signaling may have an influence on IBD risk.'
 featured: false
-publication: "*Inflammatory Bowel Diseases*"
-tags: ["Aged", "Female", "Humans", "Male", "Middle Aged", "Adult", "Young Adult", "Adolescent", "United States", "Child", "Genetic Predisposition to Disease", "Child", "Preschool", "Inflammatory Bowel Diseases", "Mutation", "Infant", "Loeys-Dietz Syndrome", "Protein-Serine-Threonine Kinases", "Receptor", "Transforming Growth Factor-beta Type I", "Receptor", "Transforming Growth Factor-beta Type II", "Receptors", "Transforming Growth Factor beta", "Transforming Growth Factor beta"]
-doi: "10.1097/MIB.0000000000000872"
+publication: '*Inflammatory Bowel Diseases*'
+tags:
+- '"Aged"'
+- '"Female"'
+- '"Humans"'
+- '"Male"'
+- '"Middle Aged"'
+- '"Adult"'
+- '"Young Adult"'
+- '"Adolescent"'
+- '"United States"'
+- '"Child"'
+- '"Genetic Predisposition to Disease"'
+- '"Child"'
+- '"Preschool"'
+- '"Inflammatory Bowel Diseases"'
+- '"Mutation"'
+- '"Infant"'
+- '"Loeys-Dietz Syndrome"'
+- '"Protein-Serine-Threonine Kinases"'
+- '"Receptor"'
+- '"Transforming Growth Factor-beta Type I"'
+- '"Receptor"'
+- '"Transforming Growth Factor-beta Type II"'
+- '"Receptors"'
+- '"Transforming Growth Factor beta"'
+- '"Transforming Growth Factor beta"'
+doi: 10.1097/MIB.0000000000000872
 ---
 

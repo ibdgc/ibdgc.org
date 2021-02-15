@@ -1,14 +1,90 @@
 ---
-title: "High-density mapping of the MHC identifies a shared role for HLA-DRB1*01:03 in inflammatory bowel diseases and heterozygous advantage in ulcerative colitis"
-date: 2015-02-01
-publishDate: 2020-08-03T19:38:06.546252Z
-authors: ["Philippe Goyette", "Gabrielle Boucher", "Dermot Mallon", "Eva Ellinghaus", "Luke Jostins", "Hailiang Huang", "Stephan Ripke", "Elena S. Gusareva", "Vito Annese", "Stephen L. Hauser", "Jorge R. Oksenberg", "Ingo Thomsen", "Stephen Leslie", "International Inflammatory Bowel Disease Genetics Consortium", " Australia", "New Zealand IBDGC", "Belgium IBD Genetics Consortium", "Italian Group for IBD Genetic Consortium", "NIDDK Inflammatory Bowel Disease Genetics Consortium", "United Kingdom IBDGC", "Wellcome Trust Case Control Consortium", "Quebec IBD Genetics Consortium", "Mark J. Daly", "Kristel Van Steen", "Richard H. Duerr", "Jeffrey C. Barrett", "Dermot P. B. McGovern", "L. Philip Schumm", "James A. Traherne", "Mary N. Carrington", "Vasilis Kosmoliaptsis", "Tom H. Karlsen", "Andre Franke", "John D. Rioux"]
-publication_types: ["2"]
-abstract: "Genome-wide association studies of the related chronic inflammatory bowel diseases (IBD) known as Crohn's disease and ulcerative colitis have shown strong evidence of association to the major histocompatibility complex (MHC). This region encodes a large number of immunological candidates, including the antigen-presenting classical human leukocyte antigen (HLA) molecules. Studies in IBD have indicated that multiple independent associations exist at HLA and non-HLA genes, but they have lacked the statistical power to define the architecture of association and causal alleles. To address this, we performed high-density SNP typing of the MHC in textgreater32,000 individuals with IBD, implicating multiple HLA alleles, with a primary role for HLA-DRB1*01:03 in both Crohn's disease and ulcerative colitis. Noteworthy differences were observed between these diseases, including a predominant role for class II HLA variants and heterozygous advantage observed in ulcerative colitis, suggesting an important role of the adaptive immune response in the colonic environment in the pathogenesis of IBD."
+title: High-density mapping of the MHC identifies a shared role for HLA-DRB1*01:03
+  in inflammatory bowel diseases and heterozygous advantage in ulcerative colitis
+date: '2015-02-01'
+publishDate: '2021-02-15T12:56:54.849354Z'
+authors:
+- Philippe Goyette
+- Gabrielle Boucher
+- Dermot Mallon
+- Eva Ellinghaus
+- Luke Jostins
+- Hailiang Huang
+- Stephan Ripke
+- Elena S. Gusareva
+- Vito Annese
+- Stephen L. Hauser
+- Jorge R. Oksenberg
+- Ingo Thomsen
+- Stephen Leslie
+- International Inflammatory Bowel Disease Genetics Consortium
+- ' Australia'
+- New Zealand IBDGC
+- Belgium IBD Genetics Consortium
+- Italian Group for IBD Genetic Consortium
+- NIDDK Inflammatory Bowel Disease Genetics Consortium
+- United Kingdom IBDGC
+- Wellcome Trust Case Control Consortium
+- Quebec IBD Genetics Consortium
+- Mark J. Daly
+- Kristel Van Steen
+- Richard H. Duerr
+- Jeffrey C. Barrett
+- Dermot P. B. McGovern
+- L. Philip Schumm
+- James A. Traherne
+- Mary N. Carrington
+- Vasilis Kosmoliaptsis
+- Tom H. Karlsen
+- Andre Franke
+- John D. Rioux
+publication_types:
+- '2'
+abstract: Genome-wide association studies of the related chronic inflammatory bowel
+  diseases (IBD) known as Crohn's disease and ulcerative colitis have shown strong
+  evidence of association to the major histocompatibility complex (MHC). This region
+  encodes a large number of immunological candidates, including the antigen-presenting
+  classical human leukocyte antigen (HLA) molecules. Studies in IBD have indicated
+  that multiple independent associations exist at HLA and non-HLA genes, but they
+  have lacked the statistical power to define the architecture of association and
+  causal alleles. To address this, we performed high-density SNP typing of the MHC
+  in textgreater32,000 individuals with IBD, implicating multiple HLA alleles, with
+  a primary role for HLA-DRB1*01:03 in both Crohn's disease and ulcerative colitis.
+  Noteworthy differences were observed between these diseases, including a predominant
+  role for class II HLA variants and heterozygous advantage observed in ulcerative
+  colitis, suggesting an important role of the adaptive immune response in the colonic
+  environment in the pathogenesis of IBD.
 featured: false
-publication: "*Nature Genetics*"
-tags: ["Humans", "Colitis", "Ulcerative", "Crohn Disease", "Genetic Predisposition to Disease", "Genome-Wide Association Study", "Genotyping Techniques", "HLA-DRB1 Chains", "Polymorphism", "Single Nucleotide", "Alleles", "Genotype", "Inflammatory Bowel Diseases", "Phenotype", "Chromosome Mapping", "Genetic Linkage", "Heterozygote", "Major Histocompatibility Complex", "*Polymorphism", "Single Nucleotide", "Crohn Disease/genetics", "Inflammatory Bowel Diseases/*genetics", "HLA-DRB1 Chains/*genetics", "Chromosome Mapping/*methods", "Colitis", "Ulcerative/genetics", "Major Histocompatibility Complex/*genetics"]
-grcs: ["montreal","pittsburgh"]
-doi: "10.1038/ng.3176"
+publication: '*Nature Genetics*'
+tags:
+- '"Humans"'
+- '"Colitis"'
+- '"Ulcerative"'
+- '"Crohn Disease"'
+- '"Genetic Predisposition to Disease"'
+- '"Genome-Wide Association Study"'
+- '"Genotyping Techniques"'
+- '"HLA-DRB1 Chains"'
+- '"Polymorphism"'
+- '"Single Nucleotide"'
+- '"Alleles"'
+- '"Genotype"'
+- '"Inflammatory Bowel Diseases"'
+- '"Phenotype"'
+- '"Chromosome Mapping"'
+- '"Genetic Linkage"'
+- '"Heterozygote"'
+- '"Major Histocompatibility Complex"'
+- '"*Polymorphism"'
+- '"Single Nucleotide"'
+- '"Crohn Disease/genetics"'
+- '"Inflammatory Bowel Diseases/*genetics"'
+- '"HLA-DRB1 Chains/*genetics"'
+- '"Chromosome Mapping/*methods"'
+- '"Colitis"'
+- '"Ulcerative/genetics"'
+- '"Major Histocompatibility Complex/*genetics"'
+grcs: [montreal, pittsburgh]
+doi: 10.1038/ng.3176
 ---
 

@@ -1,13 +1,92 @@
 ---
-title: "Ocular Manifestations in Inflammatory Bowel Disease Are Associated with Other Extra-intestinal Manifestations, Gender, and Genes Implicated in Other Immune-related Traits"
-date: 2016-01-01
-publishDate: 2020-08-03T19:38:06.659932Z
-authors: ["Sasha Taleban", "Dalin Li", "Stephan R. Targan", "Andrew Ippoliti", "Steven R. Brant", "Judy H. Cho", "Richard H. Duerr", "John D. Rioux", "Mark S. Silverberg", "Eric A. Vasiliauskas", "Jerome I. Rotter", "Talin Haritunians", "David Q. Shih", "Marla Dubinsky", "Gil Y. Melmed", "Dermot P. B. McGovern"]
-publication_types: ["2"]
-abstract: "BACKGROUND: There has been considerable progress in identifying inflammatory bowel disease [IBD] susceptibility genes but little progress in examining the role of genetic variation in the development of the extra-intestinal manifestations [EIMs] of IBD. This study identified clinical, serological, and genetic factors associated with ocular EIMs [O-EIMs] in IBD. METHODS: We performed a retrospective case-control study of IBD patients, comparing those with and without O-EIMs using the Cedars-Sinai IBD Research Repository and the NIDDK IBD Genetics Consortium Repository. Genotyping was performed using Illumina whole genome platforms. RESULTS: In all, 124 cases and 3328 controls with available clinical data were identified; 103 cases and 2808 controls had genetic data available. Erythema nodosum and peripheral arthritis particularly were common in patients with O-EIMs [p = 2.77 x 10(-13) and p = 2.58 x 10(-13), respectively] with increasing odds ratios for O-EIMs with each additional non-ocular-EIM [for ≥ 2 EIMs, odds ratio 14.72]. Nominal association with O-EIMs was observed at several known IBD susceptibility single nuclear polymorphisms. One locus, containing RBM19, achieved genome-wide level of significance for association with O-EIMs. CONCLUSIONS: In IBD, O-EIMs co-occur with musculoskeletal and skin manifestations and, in this study, are nominally associated with known IBD loci. Additional cohorts are needed to verify these results and identify additional genes."
+title: Ocular Manifestations in Inflammatory Bowel Disease Are Associated with Other
+  Extra-intestinal Manifestations, Gender, and Genes Implicated in Other Immune-related
+  Traits
+date: '2016-01-01'
+publishDate: '2021-02-15T12:57:04.467760Z'
+authors:
+- Sasha Taleban
+- Dalin Li
+- Stephan R. Targan
+- Andrew Ippoliti
+- Steven R. Brant
+- Judy H. Cho
+- Richard H. Duerr
+- John D. Rioux
+- Mark S. Silverberg
+- Eric A. Vasiliauskas
+- Jerome I. Rotter
+- Talin Haritunians
+- David Q. Shih
+- Marla Dubinsky
+- Gil Y. Melmed
+- Dermot P. B. McGovern
+publication_types:
+- '2'
+abstract: 'BACKGROUND: There has been considerable progress in identifying inflammatory
+  bowel disease [IBD] susceptibility genes but little progress in examining the role
+  of genetic variation in the development of the extra-intestinal manifestations [EIMs]
+  of IBD. This study identified clinical, serological, and genetic factors associated
+  with ocular EIMs [O-EIMs] in IBD. METHODS: We performed a retrospective case-control
+  study of IBD patients, comparing those with and without O-EIMs using the Cedars-Sinai
+  IBD Research Repository and the NIDDK IBD Genetics Consortium Repository. Genotyping
+  was performed using Illumina whole genome platforms. RESULTS: In all, 124 cases
+  and 3328 controls with available clinical data were identified; 103 cases and 2808
+  controls had genetic data available. Erythema nodosum and peripheral arthritis particularly
+  were common in patients with O-EIMs [p = 2.77 x 10(-13) and p = 2.58 x 10(-13),
+  respectively] with increasing odds ratios for O-EIMs with each additional non-ocular-EIM
+  [for ≥ 2 EIMs, odds ratio 14.72]. Nominal association with O-EIMs was observed at
+  several known IBD susceptibility single nuclear polymorphisms. One locus, containing
+  RBM19, achieved genome-wide level of significance for association with O-EIMs. CONCLUSIONS:
+  In IBD, O-EIMs co-occur with musculoskeletal and skin manifestations and, in this
+  study, are nominally associated with known IBD loci. Additional cohorts are needed
+  to verify these results and identify additional genes.'
 featured: false
 publication: "*Journal of Crohn's & Colitis*"
-tags: ["genetics", "Crohn's disease", "IBD", "Aged", "Female", "Humans", "Male", "Middle Aged", "Adult", "Case-Control Studies", "Colitis", "Ulcerative", "Crohn Disease", "Genetic Predisposition to Disease", "Genome-Wide Association Study", "Inflammatory Bowel Diseases", "Risk Assessment", "Crohn’s disease", "Odds Ratio", "Prognosis", "Severity of Illness Index", "Logistic Models", "Databases", "Factual", "Multivariate Analysis", "Retrospective Studies", "ulcerative colitis", "Age Distribution", "Analysis of Variance", "Comorbidity", "eye", "Incidence", "Sensitivity and Specificity", "Sex Distribution", "uveitis", "Uveitis", "Colitis", "Ulcerative/diagnosis/epidemiology/genetics", "Crohn Disease/diagnosis/epidemiology/genetics", "Genetic Predisposition to Disease/*epidemiology", "Genome-Wide Association Study/methods", "Inflammatory Bowel Diseases/diagnosis/*epidemiology/*genetics", "Uveitis/diagnosis/*epidemiology/*genetics"]
-doi: "10.1093/ecco-jcc/jjv178"
+tags:
+- '"genetics"'
+- "\"Crohn's disease\""
+- '"IBD"'
+- '"Aged"'
+- '"Female"'
+- '"Humans"'
+- '"Male"'
+- '"Middle Aged"'
+- '"Adult"'
+- '"Case-Control Studies"'
+- '"Colitis"'
+- '"Ulcerative"'
+- '"Crohn Disease"'
+- '"Genetic Predisposition to Disease"'
+- '"Genome-Wide Association Study"'
+- '"Inflammatory Bowel Diseases"'
+- '"Risk Assessment"'
+- '"Crohn’s disease"'
+- '"Odds Ratio"'
+- '"Prognosis"'
+- '"Severity of Illness Index"'
+- '"Logistic Models"'
+- '"Databases"'
+- '"Factual"'
+- '"Multivariate Analysis"'
+- '"Retrospective Studies"'
+- '"ulcerative colitis"'
+- '"Age Distribution"'
+- '"Analysis of Variance"'
+- '"Comorbidity"'
+- '"eye"'
+- '"Incidence"'
+- '"Sensitivity and Specificity"'
+- '"Sex Distribution"'
+- '"uveitis"'
+- '"Uveitis"'
+- '"Colitis"'
+- '"Ulcerative/diagnosis/epidemiology/genetics"'
+- '"Crohn Disease/diagnosis/epidemiology/genetics"'
+- '"Genetic Predisposition to Disease/*epidemiology"'
+- '"Genome-Wide Association Study/methods"'
+- '"Inflammatory Bowel Diseases/diagnosis/*epidemiology/*genetics"'
+- '"Uveitis/diagnosis/*epidemiology/*genetics"'
+doi: 10.1093/ecco-jcc/jjv178
 ---
 

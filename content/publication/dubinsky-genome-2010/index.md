@@ -1,13 +1,68 @@
 ---
-title: "Genome wide association (GWA) predictors of anti-TNFalpha therapeutic responsiveness in pediatric inflammatory bowel disease"
-date: 2010-08-01
-publishDate: 2020-08-03T19:38:06.558327Z
-authors: ["Marla C. Dubinsky", "Ling Mei", "Madison Friedman", "Tanvi Dhere", "Talin Haritunians", "Hakon Hakonarson", "Cecilia Kim", "Joseph Glessner", "Kent D. Taylor", "Stephan R. Targan", "Dermot P. McGovern", "Jerome I. Rotter"]
-publication_types: ["2"]
-abstract: "BACKGROUND: Interindividual variation in response to anti-TNFalpha therapy may be explained by genetic variability in disease pathogenesis or mechanism of action. Recent genome-wide association studies (GWAS) in inflammatory bowel disease (IBD) have increased our understanding of the genetic susceptibility to IBD. The aim was to test associations of known IBD susceptibility loci and novel \"pharmacogenetic\" GWAS identified loci with primary nonresponse to anti-TNFalpha in pediatric IBD patients and develop a predictive model of primary nonresponse. METHODS: Primary nonresponse was defined using the Harvey Bradshaw Index (HBI) for Crohn's disease (CD) and partial Mayo score for ulcerative colitis (UC). Genotyping was performed using the Illumina Infinium platform. Chi-square analysis tested associations of phenotype and genotype with primary nonresponse. Genetic associations were identified by testing known IBD susceptibility loci and by performing a GWAS for primary nonresponse. Stepwise multiple logistic regression was performed to build predictive models. RESULTS: Nonresponse occurred in 22 of 94 subjects. Six known susceptibility loci were associated with primary nonresponse (P textless 0.05). Only the 21q22.2/BRWDI loci remained significant in the predictive model. The most predictive model included 3 novel \"pharmacogenetic\" GWAS loci, the previously identified BRWD1, pANCA, and a UC diagnosis (R(2) = 0.82 and area under the curve [AUC] = 0.98%). The relative risk of nonresponse increased 15-fold when number of risk factors increased from 0-2 to textgreater or =3. CONCLUSIONS: The combination of phenotype and genotype is most predictive of primary nonresponse to anti-TNFalpha in pediatric IBD. Defining predictors of response to anti-TNFalpha may allow the identification of patients who will not benefit from this class of therapy."
+title: Genome wide association (GWA) predictors of anti-TNFalpha therapeutic responsiveness
+  in pediatric inflammatory bowel disease
+date: '2010-08-01'
+publishDate: '2021-02-15T12:56:55.776943Z'
+authors:
+- Marla C. Dubinsky
+- Ling Mei
+- Madison Friedman
+- Tanvi Dhere
+- Talin Haritunians
+- Hakon Hakonarson
+- Cecilia Kim
+- Joseph Glessner
+- Kent D. Taylor
+- Stephan R. Targan
+- Dermot P. McGovern
+- Jerome I. Rotter
+publication_types:
+- '2'
+abstract: "BACKGROUND: Interindividual variation in response to anti-TNFalpha therapy\
+  \ may be explained by genetic variability in disease pathogenesis or mechanism of\
+  \ action. Recent genome-wide association studies (GWAS) in inflammatory bowel disease\
+  \ (IBD) have increased our understanding of the genetic susceptibility to IBD. The\
+  \ aim was to test associations of known IBD susceptibility loci and novel \\\"pharmacogenetic\\\
+  \" GWAS identified loci with primary nonresponse to anti-TNFalpha in pediatric IBD\
+  \ patients and develop a predictive model of primary nonresponse. METHODS: Primary\
+  \ nonresponse was defined using the Harvey Bradshaw Index (HBI) for Crohn's disease\
+  \ (CD) and partial Mayo score for ulcerative colitis (UC). Genotyping was performed\
+  \ using the Illumina Infinium platform. Chi-square analysis tested associations\
+  \ of phenotype and genotype with primary nonresponse. Genetic associations were\
+  \ identified by testing known IBD susceptibility loci and by performing a GWAS for\
+  \ primary nonresponse. Stepwise multiple logistic regression was performed to build\
+  \ predictive models. RESULTS: Nonresponse occurred in 22 of 94 subjects. Six known\
+  \ susceptibility loci were associated with primary nonresponse (P textless 0.05).\
+  \ Only the 21q22.2/BRWDI loci remained significant in the predictive model. The\
+  \ most predictive model included 3 novel \\\"pharmacogenetic\\\" GWAS loci, the\
+  \ previously identified BRWD1, pANCA, and a UC diagnosis (R(2) = 0.82 and area under\
+  \ the curve [AUC] = 0.98%). The relative risk of nonresponse increased 15-fold when\
+  \ number of risk factors increased from 0-2 to textgreater or =3. CONCLUSIONS: The\
+  \ combination of phenotype and genotype is most predictive of primary nonresponse\
+  \ to anti-TNFalpha in pediatric IBD. Defining predictors of response to anti-TNFalpha\
+  \ may allow the identification of patients who will not benefit from this class\
+  \ of therapy."
 featured: false
-publication: "*Inflammatory Bowel Diseases*"
-tags: ["Female", "Humans", "Male", "Young Adult", "Adolescent", "Child", "Genome-Wide Association Study", "Child", "Preschool", "Inflammatory Bowel Diseases", "Genetic Loci", "Genetic Variation", "Antibodies", "Monoclonal", "Gastrointestinal Agents", "Infliximab", "Treatment Outcome", "Tumor Necrosis Factor-alpha"]
-doi: "10.1002/ibd.21174"
+publication: '*Inflammatory Bowel Diseases*'
+tags:
+- '"Female"'
+- '"Humans"'
+- '"Male"'
+- '"Young Adult"'
+- '"Adolescent"'
+- '"Child"'
+- '"Genome-Wide Association Study"'
+- '"Child"'
+- '"Preschool"'
+- '"Inflammatory Bowel Diseases"'
+- '"Genetic Loci"'
+- '"Genetic Variation"'
+- '"Antibodies"'
+- '"Monoclonal"'
+- '"Gastrointestinal Agents"'
+- '"Infliximab"'
+- '"Treatment Outcome"'
+- '"Tumor Necrosis Factor-alpha"'
+doi: 10.1002/ibd.21174
 ---
 

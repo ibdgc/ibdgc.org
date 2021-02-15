@@ -1,14 +1,85 @@
 ---
-title: "Construction and benchmarking of a multi-ethnic reference panel for the imputation of HLA class I and II alleles"
-date: 2019-06-01
-publishDate: 2020-08-03T19:38:06.538200Z
-authors: ["Frauke Degenhardt", "Mareike Wendorff", "Michael Wittig", "Eva Ellinghaus", "Lisa W. Datta", "John Schembri", "Siew C. Ng", "Elisa Rosati", "Matthias Hübenthal", "David Ellinghaus", "Eun Suk Jung", "Wolfgang Lieb", "Shifteh Abedian", "Reza Malekzadeh", "Jae Hee Cheon", "Pierre Ellul", "Ajit Sood", "Vandana Midha", "B. K. Thelma", "Sunny H. Wong", "Stefan Schreiber", "Keiko Yamazaki", "Michiaki Kubo", "Gabrielle Boucher", "John D. Rioux", "Tobias L. Lenz", "Steven R. Brant", "Andre Franke"]
-publication_types: ["2"]
-abstract: "Genotype imputation of the human leukocyte antigen (HLA) region is a cost-effective means to infer classical HLA alleles from inexpensive and dense SNP array data. In the research setting, imputation helps avoid costs for wet lab-based HLA typing and thus renders association analyses of the HLA in large cohorts feasible. Yet, most HLA imputation reference panels target Caucasian ethnicities and multi-ethnic panels are scarce. We compiled a high-quality multi-ethnic reference panel based on genotypes measured with Illumina's Immunochip genotyping array and HLA types established using a high-resolution next generation sequencing approach. Our reference panel includes more than 1,300 samples from Germany, Malta, China, India, Iran, Japan and Korea and samples of African American ancestry for all classical HLA class I and II alleles including HLA-DRB3/4/5. Applying extensive cross-validation, we benchmarked the imputation using the HLA imputation tool HIBAG, our multi-ethnic reference and an independent, previously published data set compiled of subpopulations of the 1000 Genomes project. We achieved average imputation accuracies higher than 0.924 for the commonly studied HLA-A, -B, -C, -DQB1 and -DRB1 genes across all ethnicities. We investigated allele-specific imputation challenges in regard to geographic origin of the samples using sensitivity and specificity measurements as well as allele frequencies and identified HLA alleles that are challenging to impute for each of the populations separately. In conclusion, our new multi-ethnic reference data set allows for high resolution HLA imputation of genotypes at all classical HLA class I and II genes including the HLA-DRB3/4/5 loci based on diverse ancestry populations."
+title: Construction and benchmarking of a multi-ethnic reference panel for the imputation
+  of HLA class I and II alleles
+date: '2019-06-01'
+publishDate: '2021-02-15T12:56:54.035621Z'
+authors:
+- Frauke Degenhardt
+- Mareike Wendorff
+- Michael Wittig
+- Eva Ellinghaus
+- Lisa W. Datta
+- John Schembri
+- Siew C. Ng
+- Elisa Rosati
+- Matthias Hübenthal
+- David Ellinghaus
+- Eun Suk Jung
+- Wolfgang Lieb
+- Shifteh Abedian
+- Reza Malekzadeh
+- Jae Hee Cheon
+- Pierre Ellul
+- Ajit Sood
+- Vandana Midha
+- B. K. Thelma
+- Sunny H. Wong
+- Stefan Schreiber
+- Keiko Yamazaki
+- Michiaki Kubo
+- Gabrielle Boucher
+- John D. Rioux
+- Tobias L. Lenz
+- Steven R. Brant
+- Andre Franke
+publication_types:
+- '2'
+abstract: Genotype imputation of the human leukocyte antigen (HLA) region is a cost-effective
+  means to infer classical HLA alleles from inexpensive and dense SNP array data.
+  In the research setting, imputation helps avoid costs for wet lab-based HLA typing
+  and thus renders association analyses of the HLA in large cohorts feasible. Yet,
+  most HLA imputation reference panels target Caucasian ethnicities and multi-ethnic
+  panels are scarce. We compiled a high-quality multi-ethnic reference panel based
+  on genotypes measured with Illumina's Immunochip genotyping array and HLA types
+  established using a high-resolution next generation sequencing approach. Our reference
+  panel includes more than 1,300 samples from Germany, Malta, China, India, Iran,
+  Japan and Korea and samples of African American ancestry for all classical HLA class
+  I and II alleles including HLA-DRB3/4/5. Applying extensive cross-validation, we
+  benchmarked the imputation using the HLA imputation tool HIBAG, our multi-ethnic
+  reference and an independent, previously published data set compiled of subpopulations
+  of the 1000 Genomes project. We achieved average imputation accuracies higher than
+  0.924 for the commonly studied HLA-A, -B, -C, -DQB1 and -DRB1 genes across all ethnicities.
+  We investigated allele-specific imputation challenges in regard to geographic origin
+  of the samples using sensitivity and specificity measurements as well as allele
+  frequencies and identified HLA alleles that are challenging to impute for each of
+  the populations separately. In conclusion, our new multi-ethnic reference data set
+  allows for high resolution HLA imputation of genotypes at all classical HLA class
+  I and II genes including the HLA-DRB3/4/5 loci based on diverse ancestry populations.
 featured: false
-publication: "*Human Molecular Genetics*"
-tags: ["Humans", "Ethnic Groups", "African Americans", "European Continental Ancestry Group", "Polymorphism", "Single Nucleotide", "Alleles", "Gene Frequency", "Genotype", "High-Throughput Nucleotide Sequencing", "Haplotypes", "Retrospective Studies", "Cluster Analysis", "Asian Continental Ancestry Group", "Histocompatibility Antigens Class II", "HLA Antigens", "Benchmarking", "Histocompatibility Antigens Class I", "HLA-DRB3 Chains", "HLA-DRB4 Chains", "HLA-DRB5 Chains"]
-grcs: ["rutgers"]
-doi: "10.1093/hmg/ddy443"
+publication: '*Human Molecular Genetics*'
+tags:
+- '"Humans"'
+- '"Ethnic Groups"'
+- '"African Americans"'
+- '"European Continental Ancestry Group"'
+- '"Polymorphism"'
+- '"Single Nucleotide"'
+- '"Alleles"'
+- '"Gene Frequency"'
+- '"Genotype"'
+- '"High-Throughput Nucleotide Sequencing"'
+- '"Haplotypes"'
+- '"Retrospective Studies"'
+- '"Cluster Analysis"'
+- '"Asian Continental Ancestry Group"'
+- '"Histocompatibility Antigens Class II"'
+- '"HLA Antigens"'
+- '"Benchmarking"'
+- '"Histocompatibility Antigens Class I"'
+- '"HLA-DRB3 Chains"'
+- '"HLA-DRB4 Chains"'
+- '"HLA-DRB5 Chains"'
+grcs: [rutgers]
+doi: 10.1093/hmg/ddy443
 ---
 

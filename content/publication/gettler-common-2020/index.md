@@ -35,7 +35,7 @@ tags:
 categories: []
 date: '2020-12-01'
 lastmod: 2021-02-15T06:36:05-06:00
-featured: false
+featured: true
 draft: false
 
 # Featured image
@@ -82,3 +82,6 @@ abstract: 'BACKGROUND AND AIMS: Polygenic risk scores (PRS) may soon be used to 
 publication: '*Gastroenterology*'
 doi: 10.1053/j.gastro.2020.12.034
 ---
+
+{{< figure src="/img/publication/gettler-common-2020/fig3.png" title="Inclusion of association summary information from European, African American, and Ashkenazi Jewish datasets improve prediction of IBD status relative to prediction using only the most relevant association data for each population.  This holds true for IBD prediction for individuals of European ancestry in both the BioMe and UK Biobank cohorts, Hispanic ancestry in BioMe, and Ashkenazi Jewish ancestry in BioMe.  Prediction of African American IBD is challenging both because association studies among African American individuals have been limited by low sample size, and because of greater genetic diversity." >}}
+{{< figure src="/img/publication/gettler-common-2020/fig5.png" title="Here we validated that a very rare variant identified to have high genetic penetrance when considering UC risk also had an impact on expression of LRBA and CTLA4 in heterozygous carriers.  We also show that treatment with chloroquine was able to partially rescue CTLA4 expression in these carriers, suggesting that it may be useful for personalized treatment of UC." >}}

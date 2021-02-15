@@ -1,10 +1,10 @@
 +++
-widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "featured"
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 20  # Order that this section will appear.
+weight = 10  # Order that this section will appear.
 
-title = "Recent Publications"
+title = "Featured Publication"
 subtitle = ""
 
 [content]
@@ -12,7 +12,7 @@ subtitle = ""
   page_type = "publication"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 5
+  count = 1
   
   # Choose how many pages you would like to offset by
   offset = 0
@@ -26,7 +26,7 @@ subtitle = ""
     category = ""
     publication_type = ""
     author = ""
-    exclude_featured = true
+    exclude_featured = false
   
 [design]
   # Toggle between the various page layout types.
@@ -43,7 +43,7 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
   
   # Background color.
-  # color = "navy"
+  color = "rgb(54, 70, 90)"
   
   # Background gradient.
   # gradient_start = "DeepSkyBlue"
@@ -61,5 +61,5 @@ subtitle = ""
  css_style = ""
  
  # CSS class.
- css_class = ""
+ css_class = "news-webinar"
 +++

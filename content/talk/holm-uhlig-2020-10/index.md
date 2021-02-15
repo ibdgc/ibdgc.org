@@ -39,11 +39,11 @@ image:
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-links:
-- name: Register
-  url: https://cutt.ly/ibdgc-webinar
-  icon_pack: fas
-  icon: user-plus
+# links:
+# - name: Register
+#   url: https://cutt.ly/ibdgc-webinar
+#   icon_pack: fas
+#   icon: user-plus
 
 # Optional filename of your slides within your talk's folder or a URL.
 url_slides:
@@ -67,4 +67,4 @@ slides: ""
 projects: []
 ---
 
-{{< figure library="true" src="webinar/holm-uhlig.jpg" title="" >}}
+{{< youtube 2_6RZCk6S0I >}}

@@ -80,6 +80,7 @@ abstract: 'BACKGROUND AND AIMS: Polygenic risk scores (PRS) may soon be used to 
   should be prioritized to reduce health disparities and enhance pathophysiologic
   insight.'
 publication: '*Gastroenterology*'
+grcs: [mssm, dcc]
 doi: 10.1053/j.gastro.2020.12.034
 ---
 

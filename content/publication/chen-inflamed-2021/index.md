@@ -85,5 +85,6 @@ abstract: 'BACKGROUND & AIMS: Recent literature has implicated a key role for ma
   of mast cells, with decreased activation observed with a UC-protective genetic variant.
   These results define cell modules of UC activation and a new therapeutic target.'
 publication: '*Gastroenterology*'
+grcs: [mssm]
 doi: 10.1053/j.gastro.2020.12.076
 ---

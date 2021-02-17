@@ -26,9 +26,7 @@ publications:
 
 - Wei Chen, PhD, Associate Professor of Pediatrics, Biostatistics, and Human
   Genetics, University of Pittsburgh
-- Yelizaveta (Liza) Konnikova, MD, PhD, Assistant Professor of Pediatrics,
-  Developmental Biology, and Immunology, University of Pittsburgh; and
-  Affiliate Investigator, Magee-Womens Research Institute
+
 
 # Lead Clinicians
 

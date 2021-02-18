@@ -1,7 +1,7 @@
 ---
 name: "Ta-Chiang Liu, MD, PhD"
 role: "Assistant Professor of Pathology & Immunology, Washington University School of Medicine"
-picture: "/img/cedars/ta-chiang_liu_.png"
+picture: "/img/cedars/ta-chiang_liu.png"
 weight: 20
 ---
 

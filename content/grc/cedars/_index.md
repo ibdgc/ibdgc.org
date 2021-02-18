@@ -21,18 +21,27 @@ publications:
     order: "desc"
 ---
 
-# Co-investigators
+# Clinical Colleagues
 
-- Thad Stappenbeck MD, PhD, Cleveland Clinic
-- Simon Gayther, Cedars-Sinai
+- Stephan Targan MD
+- Gil Melmed MD
+- Shervin Rabizadeh MD
+- Phil Fleshner MD
+- David Ziring MD
+- Tina Ha MD
+- Gaurav Syal MD
+- Eric Vasiliauskas MD
+- Niru Bonthala MD
 
-# Lead Clinicians
+# GRC Team Members
 
-- Stephan Targan, MD, Cedars-Sinai
-- Gil Melmed, MD, Cedars-Sinai
-- Christina Ha, MD, Cedars-Sinai
-- Gaurav Syal, MD, Cedars-Sinai
-- Philip Fleshner, MD, Cedars-Sinai
+- Gregory "Greg" Botwin, Research Operations Associate
+- Shishir Dube, PhD, Research Bioinformatician III
+- Talin Haritunians, PhD, Assistant Professor
+- Dalin Li, PhD, Assistant Professor
+- Emebet Mengesha, Research Specialist
+- Alka Potdar, PhD, Research Bioinformatician III
+- Shaohong "Shell" Yang, MD, Project Scientist
 
 # NIDDK IBDGC-related funding
 

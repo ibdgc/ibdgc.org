@@ -1,7 +1,7 @@
 ---
 name: "Dr. Thaddeus Stappenbeck, MD, PhD"
 role: "Professor of Pathology and Immunology, Cleveland Clinic"
-picture: "/img/cedars/thad_stappenbeck_.png"
+picture: "/img/cedars/thad_stappenbeck.png"
 weight: 10
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Dr. Arkadiusz Gertych, PhD"
 role: "Assistant Professor of Surgery, Pathology and Laboratory Medicine, Cedars-Sinai Medical Center"
-picture: "/img/cedars/arek_gertych_.png"
+picture: "/img/cedars/arek_gertych.png"
 weight: 50
 ---
 

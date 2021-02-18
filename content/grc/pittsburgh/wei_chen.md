@@ -1,7 +1,7 @@
 ---
 name: "Dr. Wei Chen"
 role: "Associate Professor of Pediatrics"
-picture: "/img/pittsburgh/wei_chen_.png"
+picture: "/img/pittsburgh/wei_chen.png"
 weight: 10
 ---
 

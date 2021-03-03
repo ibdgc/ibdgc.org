@@ -28,13 +28,16 @@ image:
 projects: []
 ---
 
-## What is a Research Study?
+<details>
+  <summary>What is a Research Study?</summary>
 
 A research study is when scientists try to answer a question about something
 that we don’t know enough about. You can also agree to take part now and later
 change your mind.
+</details>
 
-## What is the purpose of this Research Study?
+<details>
+  <summary>What is the purpose of this Research Study?</summary>
 
 You may qualify to take part in this research study because you have been
 diagnosed with Crohn’s disease, and will undergo or very recently underwent
@@ -56,8 +59,10 @@ recurrence of Crohn’s disease after your surgery. We hope that our findings
 will help your physician better optimize your medication and care. This study
 is ongoing in several sites across the United States and Canada. We have
 recruited about 500 participants.
+</details>
 
-## What is classified as recurrence and remission?
+<details>
+  <summary>What is classified as recurrence and remission?</summary>
 
 Recurrence can either be histological (inflammation is only visible through a
 microscope), endoscopic (inflammation is visible to your doctor during
@@ -66,32 +71,41 @@ Surgical (your symptoms are severe enough for surgery). Remission is defined
 as the temporary absence of active disease. Remission can either be endoscopic
 (no evidence of inflammation during your endoscopy) or clinical (you may have
 reduced or no symptoms).
+</details>
 
-## What is involved in participation?
+<details>
+  <summary>What is involved in participation?</summary>
 
 If you agree to participate in this study, you will be asked to provide a few
 extra biopsies during your colonoscopy, we would draw some blood and ask you
 some questions about your Crohn’s Disease medical history. You may also be
 asked to provide stool samples. You may also be contacted by our partners at
 Penn State if you express interest in the diet component of the study.
+</details>
 
-## What do we do with your samples?
+<details>
+  <summary>What do we do with your samples?</summary>
 
 Some of the blood we collect will be used for protein expression analysis,
 some will be used for Whole Exome Sequencing in collaboration with the Broad
 Institute. The biopsies we collect will be used to measure gene expression
 analysis.
+</details>
 
-## Will I receive results back?
+<details>
+  <summary>Will I receive results back?</summary>
 
 We will deidentify your data, so any information we collect from you cannot be
 linked back to you and because of this, we will not be able to give you any
 results. When the study is over and our results are published, you will be
 able to read about our findings.
+</details>
 
-## Where can I get more information?
+<details>
+  <summary>Where can I get more information?</summary>
 
 You can find additional resources at the [Crohn’s and Colitis Foundation](https://www.crohnscolitisfoundation.org/).
+</details>
 
 
 [^1]: Rutgeerts P. and others, "Predictability of the Postoperative Course of

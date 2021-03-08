@@ -1,8 +1,8 @@
 ---
-name: "Dr. Bruce Sands, MD, MS"
+name: "Dr. Alain Bitton, MD"
 role: "Professor of Medicine"
-picture: "/img/mssm/bruce_sands.png"
+picture: "/img/montreal/alain_bitton.png"
 weight: 10
 ---
 
-Bruce Sands, MD, MS is the Dr. Burrill B. Crohn Professor of Medicine. Dr. Sands is an expert in the management of inflammatory bowel diseases (IBD) and has earned an international reputation for his care of patients with complex and refractory disease.  He joined Mount Sinai in 2010 as Chief of the Dr. Henry D. Janowitz Division of Gastroenterology.  Prior to joining Mount Sinai, Dr. Sands was Medical Co-Director of the Crohn's & Colitis Center at Massachusetts General Hospital in Boston, where he also served as the hospital's Acting Chief of the Gastrointestinal Unit as well as Associate Professor of Medicine at Harvard Medical School.
+Dr. Alain Bitton is Associate Professor of Medicine at McGill University. He completed a clinical research fellowship in Inflammatory Bowel Disease (IBD) at the Beth Israel Deaconess Medical Center, Harvard Medical School from 1994 to 1996.  He was the McGill Gastroenterology Residency Program Director from 1997 to 2007. Since 2009 he has been the Director of the Division of Gastroenterology at McGill University and the McGill University Health Centre (MUHC). His research in the field of IBD focuses on the identification of clinical, biologic, psychosocial and genetic predictors of relapse and disease course in IBD.

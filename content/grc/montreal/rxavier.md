@@ -1,8 +1,8 @@
 ---
-name: "Dr. Bruce Sands, MD, MS"
+name: "Dr. Ramnik Xavier, MD"
 role: "Professor of Medicine"
-picture: "/img/mssm/bruce_sands.png"
+picture: "/img/montreal/ramnik_xavier.png"
 weight: 10
 ---
 
-Bruce Sands, MD, MS is the Dr. Burrill B. Crohn Professor of Medicine. Dr. Sands is an expert in the management of inflammatory bowel diseases (IBD) and has earned an international reputation for his care of patients with complex and refractory disease.  He joined Mount Sinai in 2010 as Chief of the Dr. Henry D. Janowitz Division of Gastroenterology.  Prior to joining Mount Sinai, Dr. Sands was Medical Co-Director of the Crohn's & Colitis Center at Massachusetts General Hospital in Boston, where he also served as the hospital's Acting Chief of the Gastrointestinal Unit as well as Associate Professor of Medicine at Harvard Medical School.
+Ramnik Xavier is the Kurt Isselbacher Professor of Medicine at Harvard Medical School; director of the Center for Computational and Integrative Biology and member of the Department of Molecular Biology at Massachusetts General Hospital (MGH). He is a core institute member of the Broad Institute of MIT and Harvard where he is the director of the Immunology Program and co-director of the Infectious Disease and Microbiome Program. He is also co-director of the Center for Microbiome Informatics and Therapeutics at MIT.

@@ -10,7 +10,7 @@ weight = 10
 icon = "r-project"
 icon_pack = "fab"
 name = "R"
-description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In consectetur ex id dolor efficitur."
+description = "[Lorem ipsum dolor sit amet, consectetur adipiscing elit. In consectetur ex id dolor efficitur.](https://example.org)"
 
 [[feature]]
 icon = "chart-line"

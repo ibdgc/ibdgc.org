@@ -35,6 +35,9 @@ subtitle = ""
   #   3 = Card
   #   4 = Citation (publication only)
   view = 1
+
+[design.spacing]
+  padding = [ "", "", "", "50px" ]
   
 [design.background]
   # Apply a background color, gradient, or image.

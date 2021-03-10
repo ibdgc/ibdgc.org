@@ -1,7 +1,7 @@
 ---
 name: "Dr. Justin Côté-Daigneault, MD"
 role: "Gastroenterologist"
-picture: "/img/montreal/n/a"
+picture: 
 weight: 40
 ---
 

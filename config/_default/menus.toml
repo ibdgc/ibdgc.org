@@ -50,16 +50,22 @@
   identifier = "research-menu"
 
 [[main]]
-  name = "Current Projects"
-  url = "/current"
+  name = "Projects"
+  url = "/research"
   weight = 10
   parent = "research-menu"
 
-[[main]]
-  name = "Ancillary Studies"
-  url = "/ancillary"
-  weight = 20
-  parent = "research-menu"
+#[[main]]
+#  name = "Current Projects"
+#  url = "/current"
+#  weight = 10
+#  parent = "research-menu"
+#
+#[[main]]
+#  name = "Ancillary Studies"
+#  url = "/ancillary"
+#  weight = 20
+#  parent = "research-menu"
 
 [[main]]
   name = "Publications"

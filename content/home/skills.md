@@ -23,5 +23,5 @@ description = "A central pillar of our [mission](about) is to expand the access 
 icon = "hand-holding-medical"
 icon_pack = "fas"
 name = "Therapy"
-description = "The [work we do now](research) sets the stage for advanced clinical applications which leverage next generation sequencing technology."
+description = "The [work we do now](research) sets the stage for advanced clinical applications which leverage next gen sequencing technology."
 +++

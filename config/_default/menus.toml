@@ -21,7 +21,7 @@
   parent = "about-menu"
 
 [[main]]
-  name = "NIDDK Consortium History"
+  name = "History"
   url = "/about#history"
   weight = 20
   parent = "about-menu"

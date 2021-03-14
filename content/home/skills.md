@@ -7,20 +7,21 @@ weight = 10
   padding = [ "", "", "", "50px" ]
 
 [[feature]]
-icon = "r-project"
-icon_pack = "fab"
-name = "R"
-description = "[Lorem ipsum dolor sit amet, consectetur adipiscing elit. In consectetur ex id dolor efficitur.](https://example.org)"
-
-[[feature]]
 icon = "chart-line"
 icon_pack = "fas"
-name = "Statistics"
-description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In consectetur ex id dolor efficitur."
+name = "Impact"
+align = "justify"
+description = "The resources of the IBDGC drive a network of world-class scientific [discovery](news) in the scope of Inflammatory Bowel Disease genetics."
 
 [[feature]]
-icon = "camera-retro"
+icon = "users"
 icon_pack = "fas"
-name = "Photography"
-description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In consectetur ex id dolor efficitur."
+name = "Reach"
+description = "A central pillar of our [mission](about) is to expand the access and attention given to underserved populations in IBD genetic research. [Learn more.](patients)"
+
+[[feature]]
+icon = "hand-holding-medical"
+icon_pack = "fas"
+name = "Therapy"
+description = "The [work we do now](research) sets the stage for advanced clinical applications which leverage next generation sequencing technology."
 +++

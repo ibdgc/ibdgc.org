@@ -13,7 +13,7 @@ overlay_color = "#666"
 overlay_img = "somineni_feature.png"
 overlay_filter = 0.5
 cta_label = "Read More"
-cta_url = "https://ibdgc.uchicago.edu/post/somineni/"
+cta_url = "/post/somineni/"
 cta_icon_pack = "fas"
 cta_icon = "graduation-cap"
 

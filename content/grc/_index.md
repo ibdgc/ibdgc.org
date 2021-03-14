@@ -14,9 +14,10 @@ view: 1
 # Optional header image (relative to `static/img/` folder).
 header:
   caption: ""
-  image: ""
+  image: "lab_stock_trimmed.jpg"
 ---
 
 The Genetic Research Centers (GRCs) are functional units consisting of a
 principal investigator, research coordinator(s), clinicians and analysts,
 charged with project development and subject recruitment.
+

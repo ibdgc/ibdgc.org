@@ -1,7 +1,7 @@
 +++
 widget = "portfolio"
 headless = true
-title = "IBDGC Funded Projects"
+title = "Current IBDGC Projects"
 
 [content]
 page_type = "project"
@@ -12,16 +12,12 @@ filter_default = 0
   tag = "*"
 
   [[content.filter_button]]
-  name = "Current"
-  tag = "Current"
+  name = "Consortium"
+  tag = "Consortium"
 
   [[content.filter_button]]
-  name = "R01"
-  tag = "R01"
-
-  [[content.filter_button]]
-  name = "R21"
-  tag = "R21"
+  name = "Ancillary"
+  tag = "Ancillary"
 
 [design]
 columns = "2"

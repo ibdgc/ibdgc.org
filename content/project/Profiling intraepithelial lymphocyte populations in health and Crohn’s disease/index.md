@@ -4,8 +4,8 @@
 title: "Profiling Intraepithelial Lymphocyte Populations in Health and Crohn’s Disease"
 summary: ""
 authors: ["Karen Edelblum", "Liaison: Steve Brant"]
-tags: [R21]
-categories: []
+tags: [R21, Ancillary]
+categories: [R21]
 date: 2021-03-12T16:57:01-06:00
 
 # Optional external URL for project (replaces project detail page).

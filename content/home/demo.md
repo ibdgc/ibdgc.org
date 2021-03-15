@@ -2,7 +2,8 @@
 widget = "blank"
 headless = true
 weight = 99
-title = "Connect with IBDGC"
+title = "Connect with us"
+subtitle = "Stay in touch with current IBDGC work and the wider IBD research community."
 
 [design]
 columns = "2"
@@ -16,4 +17,4 @@ columns = "2"
 
 +++
 
-<a class="twitter-timeline" data-width="600" data-height="400" data-theme="light" href="https://twitter.com/ibdgc/likes?ref_src=twsrc%5Etfw">Tweets Liked by @ibdgc</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<a class="twitter-timeline"  data-width="550" data-height="500" data-theme="light" href="https://twitter.com/ibdgc/likes?ref_src=twsrc%5Etfw">Tweets Liked by @ibdgc</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

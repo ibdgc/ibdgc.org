@@ -4,8 +4,8 @@
 title: "Role of Cytomegalovirus in the Natural History of Crohn’s Disease"
 summary: ""
 authors: ["Ravit Boger", "Liaison: Steve Brant"]
-tags: [R21]
-categories: []
+tags: [R21, Ancillary]
+categories: [R21]
 date: 2021-03-12T16:56:53-06:00
 
 # Optional external URL for project (replaces project detail page).

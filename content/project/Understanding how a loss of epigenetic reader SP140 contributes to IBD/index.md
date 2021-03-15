@@ -4,8 +4,8 @@
 title: "Understanding How a Loss of Epigenetic Reader SP140 Contributes to IBD"
 summary: ""
 authors: ["Kate Jeffrey", "Liaison: John Rioux"]
-tags: [R01]
-categories: []
+tags: [R01, Ancillary]
+categories: [R01]
 date: 2021-03-12T16:56:30-06:00
 
 # Optional external URL for project (replaces project detail page).

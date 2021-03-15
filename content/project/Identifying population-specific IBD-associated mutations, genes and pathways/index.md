@@ -4,8 +4,8 @@
 title: "Identifying Population Specific IBD Associated Mutations, Genes and Pathways"
 summary: ""
 authors: ["Yuval Itan"]
-tags: [R01]
-categories: []
+tags: [R01, Ancillary]
+categories: [R01]
 date: 2021-03-12T16:56:45-06:00
 
 # Optional external URL for project (replaces project detail page).

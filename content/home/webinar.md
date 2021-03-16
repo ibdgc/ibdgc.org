@@ -1,7 +1,7 @@
 +++
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
 title = "Webinar Series"
@@ -35,6 +35,9 @@ subtitle = ""
   #   3 = Card
   #   4 = Citation (publication only)
   view = 1
+
+[design.spacing]
+  padding = [ "", "", "", "50px" ]
   
 [design.background]
   # Apply a background color, gradient, or image.

@@ -2,7 +2,7 @@
 title: Trans-ethnic analysis of the human leukocyte antigen region for ulcerative
   colitis reveals shared but also ethnicity-specific disease associations
 date: '2021-02-01'
-draft: true
+draft: false
 publishDate: '2021-03-22T14:32:44.169937Z'
 authors:
 - Frauke Degenhardt

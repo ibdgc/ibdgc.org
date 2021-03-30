@@ -78,7 +78,6 @@ tags:
 - '"Crohn Disease/genetics"'
 - '"Inflammatory Bowel Diseases/*genetics"'
 - '"*Multifactorial Inheritance"'
-grcs: [toronto]
 doi: 10.1038/s41467-018-04365-8
 ---
 

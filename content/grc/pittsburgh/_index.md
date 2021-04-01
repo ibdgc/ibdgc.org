@@ -40,7 +40,6 @@ publications:
 - Elyse Johnston, MD, Clinical Instructor of Medicine, University of Pittsburgh
 - Kenneth Lee, MD, Jane and Carl Citron Chair in Colon Cancer, Vice Chair for Graduate Medical Education and Professor of Surgery, University of Pittsburgh; Program Director, General Surgery Residency Program, UPMC; and Adjunct Assistant Professor, Chatham College
 - David Medich, MD, FACS, FASCRS, Chief, Division of Colon and Rectal Surgery and Associate Professor of Surgery, University of Pittsburgh
-- Siobhan Proksell, MD, Assistant Professor of Medicine, University of Pittsburgh
 - Marc Schwartz, MD, Assistant Professor of Medicine, University of Pittsburgh
 - Andrew Watson, MD, M. Litt, FACS, Assistant Professor of Surgery, University of Pittsburgh; Vice- President, Clinical Information Technology Transformation, International Division, and Director, Telemedicine, UPMC
 

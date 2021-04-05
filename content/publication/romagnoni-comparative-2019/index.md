@@ -35,7 +35,6 @@ abstract: 'Crohn Disease (CD) is a complex genetic disorder for which more than 
   to identify and classify genetic markers.'
 featured: false
 publication: '*Scientific reports*'
-grcs: [toronto]
 doi: 10.1038/s41598-019-46649-z
 ---
 

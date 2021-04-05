@@ -1,0 +1,7 @@
+deploy:
+    script:
+        - hugo
+        - rsync -arv public/ pschumm@rcg.bsd.uchicago.edu:ibdgc/
+    only:
+        refs:
+            - production

@@ -38,12 +38,10 @@ publications:
 
 # Lead Clinicians
 
-- Cristian Hernandez, MD, IBD Fellow, University of Toronto, Division of
-  Gastroenterology Mount Sinai Hospital/Sinai Health System
-- Margaret Walshe, MD, IBD Fellow, University of Toronto, Division of
-  Gastroenterology Mount Sinai Hospital/Sinai Health System
-- Karen Boland, MD, Former IBD Fellow, University of Toronto, Division of
-  Gastroenterology Mount Sinai Hospital/Sinai Health System
+- Cristian Hernandez, MD, IBD Fellow, University of Toronto, Division of Gastroenterology Mount Sinai Hospital/Sinai Health System
+- Margaret Walshe, MD, Former IBD Fellow, University of Toronto, Division of Gastroenterology Mount Sinai Hospital/Sinai Health System
+- Karen Boland, MD, Former IBD Fellow, University of Toronto, Division of Gastroenterology Mount Sinai Hospital/Sinai Health System
+- Samuel Truniger, MD, IBD Fellow, University of Toronto, Division of Gastroenterology Mount Sinai Hospital/Sinai Health System
 
 # NIDDK IBDGC-related funding
 
@@ -98,4 +96,4 @@ individuals with ulcerative colitis and thereby decrease disease activity.
 # Research Participation
 
 If you would like to participate in an IBD study, contact our Project Manager,
-joanne.stempak@sinaihealthsystem.ca, or call (416) 586-4800 x8399.
+joanne.stempak@sinaihealth.ca, or call (416) 586-4800 x8399.

@@ -80,12 +80,6 @@
 #  parent = "research-menu"
 
 [[main]]
-  name = "Data"
-  url = "/data"
-  weight = 40
-  parent = "research-menu"
-
-[[main]]
   name = "PATIENTS"
   url = "/patients"
   weight = 500

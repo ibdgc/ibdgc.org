@@ -9,7 +9,7 @@ filter_default = 0
 
   [[content.filter_button]]
   name = "All"
-  tag = "*"
+  tag = "NIDDK"
 
   [[content.filter_button]]
   name = "Consortium"

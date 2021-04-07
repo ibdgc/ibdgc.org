@@ -4,7 +4,7 @@
 title: "Identifying Population Specific IBD Associated Mutations, Genes and Pathways"
 summary: ""
 authors: ["Yuval Itan"]
-tags: [R01, Ancillary]
+tags: [R01, Ancillary, NIDDK]
 categories: [R01]
 date: 2021-03-12T16:56:45-06:00
 

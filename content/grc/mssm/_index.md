@@ -21,50 +21,69 @@ publications:
     order: "desc"
 ---
 
-# GRC Abstract
+# Co-investigators
 
-This application from the Mount Sinai Health System proposes participation as
-a genetic research center (GRC) within the NIDDK Inflammatory Bowel Disease
-Genetics Consortium (IBDGC). IBD genetic discovery has disproportionately
-focused on European ancestry cohorts, despite high and rising prevalence in
-all US populations. In Aim 1, participation as a multi-disciplinary GRC in
-Consortium-wide projects is proposed. Expanding sequence and genotype data on
-non-European ancestry cohorts is proposed. New analytic methodologies have
-been developed whereby more ancestrally complex populations, such as Hispanic
-cohorts, can not only be meaningfully analyzed, but may confer substantial
-benefits in unlocking the overall genetic architecture of polygenic diseases,
-such as IBD. The application of novel clinical research tools involving
-efficient electronic health record and development of more objective endpoints
-can deepen longitudinal phenotype data for already recruited patients. Given
-the continued centrality of anti-TNF therapies in an era of multiple new
-therapies, studies to examine anti-TNF non-response (ileal resection, surgical
-specimens) and response (new anti-TNF initiation, endoscopically-based) are
-proposed. Specifically, in Aim 2, definition of intestinal single-cell
-expression features with anti-TNF non-response and response is proposed using
-mass cytometry protein analyses (Cytof), and single cell mRNA sequencing.
-Single cell analyses in IBD tissues shows enormous promise in systematically
-explicating the precise contributions in the most relevant context of the over
-200 genome-wide significant IBD associations. Early single cell analyses point
-to a highly complex innate immune cell architecture, which may be distinct
-between various high effect IBD-associated risk alleles of innate immunity.
-Scaling key results through correlative techniques feasible in larger cohorts,
-such as using paraffin-embedded tissues and peripheral blood samples is
-proposed. The advent of multiple new therapies makes this a particularly
-propitious time to protocolize clinical practice, both to improve patient
-care, as well as to mine biosamples for IBD research. The insight that is
-gained through these studies can prioritize genes, cells and pathways from
-which to scale key results and protocols across the NIDDK IBDGC. The long-term
-goal of these studies is to efficiently develop protocols to most effectively
-treat IBD patients, catalyzing the advent of Precision IBD.
+- Miriam Merad, MD/PhD (Technology & immunology)
+- Ephraim Kenigsberg, PhD (single cell analysis)
+- Ke Hao, PhD (genetic analysis)
+- Bruce Sands, MD (Lead clinician)
 
-Ancillary R01 liaison: Yuval Itan, PhD
+# Lead Clinicians
 
-# Interests of the Mount Sinai GRC group beyond the GRC abstract
+- Ryan Ungaro, MD, MS
+- Adam Steinlauf
+- Asher Kornbluth
+- Peter Legnani
+- James Marion
+- Adam Greenstein (surgeon)
+- Sergei Khaitov (surgeon)
+- Jean-Fred Colombel
+- Bachir Taouli (radiology)
+- Pathology (Noam Harpaz)
 
-- Role of innate immune cell differentiation 
-- Enteroids and reactive oxygen species 
-- Role of GPCRs in IBD
-- Comparative single cell analyses between European vs. African-American
-  individuals
-- (Collaborative) Natural language processing and machine learning image
-  analyses of hard outcome measures (endoscopy, pathology, radiology) of IBD
+# Lab and Project Management
+
+- Ksenija Sabic (Lab Manager)
+- Nai-Yun Hsu PhD (Senior staff scientist)
+
+# Clinical Coordinators
+
+- Colleen Chasteau
+- Ujunwa Korie, MD, MS
+
+---
+
+### NIDDK IBDGC-related goals
+
+#### Specific Aims
+
+**Aim 1:** To function as a multi-disciplinary genetics research center (GRC) in Consortium-wide projects. To recruit populations prioritized by the NIDDK IBDGC, including non-European cohorts. To ascertain and participate in intestine-focused, cross-Consortium studies. To pilot novel clinical research approaches, to scale select approaches across the NIDDK IBDGC. To deepen longitudinal phenotype data for recruited patients.
+
+**Aim 2:** To define intestinal single-cell expression features with anti-TNF non-response and response in ileal resection and inception Crohn’s cohorts. To identify key measurements for large cohort, longitudinal analyses.
+
+#### Administrative Supplement
+
+**Aim 1:** Optimize cell isolation protocols and surface marker selection for CITE-Seq studies.
+
+**Aim 2:** To apply optimized CITE-Seq protocols to Crohn’s disease resection tissues: comparing classic lineage to GWAS-prioritized surface protein expression
+
+**Aim 3:** Improve imputation of single cell-based insights onto larger datasets: developing new expression quantitative traits and defining pathophysiologic heterogeneity
+
+#### Ancillary liaisons
+
+- Yuval Itan (Mount Sinai), R01DK123530 Identifying population-specific IBD-associated mutations, genes and pathways
+- Ophir Klein (UCSF), R21DK127206, Using human organoids to model IBD pathogenesis
+
+---
+
+#### Additional resources at Mount Sinai
+
+- BioMe cohort: Dr. Cho manages the School’s blood-based biobank containing over 60K patients, for whom 30K have attained whole exome sequence data
+- MSCCR (Mount Sinai Crohn’s and Colitis Registry): under the leadership of Dr. Sands, the MSCCR cohort contains over 1500 IBD patients for whom RNASeq are attained, with whole exome sequencing and chip data pending (ongoing at the Broad Institute, for full NIH-sharing)
+- Radiology de-identification: The Imaging Institute at Mount Sinai has the capacity to de-identify all personal health identifiers from DICOM-attained radiology images.
+
+#### Major interests
+
+- Ileal resection cohorts: primary interests are in integrating bulk RNASeq with single cell and genetic data. We have shared de-identified radiology images with the Cedars-Sinai GRC, valuable for longitucinal studies
+- Ulcerative colitis and enteroid-based studies: Dr. Hsu is studying the impact of loss-of-function mutations in reactive oxygen-generating enzymes (e.g NOX1) at the single cell level
+- Multi-omic single cell analyses and data integration. We have previously published on integration of single cell data with bulk RNASeq; we are actively exploring to what extent emerging multi-omic datasets provide insight into blood-to-tissue IBD physiology. Piloting new technologies with paraffin-tissues

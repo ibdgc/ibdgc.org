@@ -52,9 +52,7 @@ Within its stated function, the IBDGC exists to create a nexus of scientific act
 
 # History
 
-{{< figure src="timeline.svg" caption="Visual summary of consortium publication history and impact. Works classified by broad category of findings shown by dot label." >}}
-
-[(view hi-res timeline)](/media/timeline.svg)
+{{< figure src="timeline.svg" caption="Visual summary of consortium publication history and impact. Works classified by broad category of findings shown by dot label. [(view hi-res timeline)](/media/timeline.svg)">}}
 
 The NIDDK IBDGC was created
 to advance genetic research on Crohn’s Disease (CD) and Ulcerative Colitis

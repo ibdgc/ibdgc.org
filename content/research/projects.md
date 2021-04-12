@@ -9,15 +9,19 @@ filter_default = 0
 
   [[content.filter_button]]
   name = "All"
-  tag = "*"
+  tag = "NIDDK"
 
   [[content.filter_button]]
   name = "Consortium"
   tag = "Consortium"
 
   [[content.filter_button]]
-  name = "Ancillary"
-  tag = "Ancillary"
+  name = "Current Ancillary"
+  tag = "Current"
+
+  [[content.filter_button]]
+  name = "Past Ancillary"
+  tag = "Past"
 
 [design]
 columns = "2"

@@ -4,7 +4,7 @@
 title: "Mechanisms of Microbiota in Mucosal Inflammation Across the Biologic Demarcation of Ulcerative Colitis"
 summary: ""
 authors: []
-tags: [Consortium]
+tags: [Consortium, NIDDK]
 categories: []
 date: 2021-03-12T16:55:15-06:00
 

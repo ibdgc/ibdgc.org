@@ -4,7 +4,7 @@
 title: "Functional Outcomes of Common and Rare IBD Associated Variants"
 summary: ""
 authors: ["Clara Abraham"]
-tags: [R01, Ancillary, NIDDK]
+tags: [R01, Ancillary, NIDDK, Past]
 categories: []
 date: 2021-04-12T10:55:38-05:00
 

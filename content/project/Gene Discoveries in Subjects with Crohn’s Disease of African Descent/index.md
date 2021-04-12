@@ -4,7 +4,7 @@
 title: "Gene Discoveries in Subjects With Crohn’s Disease of African Descent"
 summary: ""
 authors: ["Subra Kugathasan"]
-tags: [R01, Ancillary, NIDDK]
+tags: [R01, Ancillary, NIDDK, Past]
 categories: []
 date: 2021-04-12T11:17:28-05:00
 

@@ -4,7 +4,7 @@
 title: "Identification of Disease Genes for Significant Linkage Regions Identified in NIDDK IBD Genetics Consortium SNP Linkage Scan"
 summary: ""
 authors: ["Steve Brant"]
-tags: [R01, Ancillary, NIDDK]
+tags: [R01, Ancillary, NIDDK, Past]
 categories: []
 date: 2021-04-12T11:17:48-05:00
 

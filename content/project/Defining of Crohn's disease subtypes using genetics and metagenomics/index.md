@@ -4,7 +4,7 @@
 title: "Defining of Crohn's Disease Subtypes Using Genetics and Metagenomics"
 summary: ""
 authors: ["Thad Stappenbeck"]
-tags: [Ancillary, NIDDK, R56]
+tags: [Ancillary, NIDDK, R56, Past]
 categories: []
 date: 2021-04-12T11:13:53-05:00
 

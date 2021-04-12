@@ -16,8 +16,12 @@ filter_default = 0
   tag = "Consortium"
 
   [[content.filter_button]]
-  name = "Ancillary"
-  tag = "Ancillary"
+  name = "Current Ancillary"
+  tag = "Current"
+
+  [[content.filter_button]]
+  name = "Past Ancillary"
+  tag = "Past"
 
 [design]
 columns = "2"

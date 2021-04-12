@@ -4,7 +4,7 @@
 title: "PROGRESS: PSC Resource of Genetic Risk, Environment, and Synergy Studies"
 summary: ""
 authors: ["Kostas Lazaridis"]
-tags: [R01, Ancillary, NIDDK]
+tags: [R01, Ancillary, NIDDK, Past]
 categories: []
 date: 2021-04-12T11:18:02-05:00
 

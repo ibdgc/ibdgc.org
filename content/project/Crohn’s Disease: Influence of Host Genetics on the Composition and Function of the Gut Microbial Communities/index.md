@@ -4,7 +4,7 @@
 title: "Crohn’s Disease: Influence of Host Genetics on the Composition and Function of the Gut Microbial Communities"
 summary: ""
 authors: ["Ramnik Xavier", "Liason: Dermot McGovern"]
-tags: [R01, Ancillary, NIDDK]
+tags: [R01, Ancillary, NIDDK, Past]
 categories: []
 date: 2021-04-12T11:15:57-05:00
 

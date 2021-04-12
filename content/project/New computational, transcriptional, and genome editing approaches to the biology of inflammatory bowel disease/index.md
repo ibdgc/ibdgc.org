@@ -4,7 +4,7 @@
 title: "New Computational, Transcriptional, and Genome Editing Approaches to the Biology of Inflammatory Bowel Disease"
 summary: ""
 authors: ["Greg Gibson", "Liason: Judy Cho"]
-tags: [R01, Ancillary, NIDDK]
+tags: [R01, Ancillary, NIDDK, Current]
 categories: [R01]
 date: 2021-03-12T16:56:22-06:00
 

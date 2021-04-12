@@ -4,7 +4,7 @@
 title: "Innate Immune Pathways and the Microbiome in Hispanics With Inflammatory Bowel Disease"
 summary: ""
 authors: ["Maria Abreu"]
-tags: [R01, Ancillary, NIDDK]
+tags: [R01, Ancillary, NIDDK, Past]
 categories: []
 date: 2021-04-12T10:55:38-05:00
 

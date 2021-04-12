@@ -4,7 +4,7 @@
 title: "Integrative Genetic and Genomic Analyses in the Inflammatory Bowel Disease"
 summary: ""
 authors: ["Shehzad Sheikh"]
-tags: [R01, Ancillary, NIDDK]
+tags: [R01, Ancillary, NIDDK, Past]
 categories: []
 date: 2021-04-12T11:14:32-05:00
 

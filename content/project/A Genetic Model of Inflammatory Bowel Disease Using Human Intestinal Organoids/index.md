@@ -4,7 +4,7 @@
 title: "A Genetic Model of Inflammatory Bowel Disease Using Human Intestinal Organoids"
 summary: ""
 authors: ["Stephan Targan", "Liason: Dermot McGovern"]
-tags: [Ancillary, NIDDK, R56]
+tags: [Ancillary, NIDDK, R56, Past]
 categories: []
 date: 2021-04-12T10:55:38-05:00
 

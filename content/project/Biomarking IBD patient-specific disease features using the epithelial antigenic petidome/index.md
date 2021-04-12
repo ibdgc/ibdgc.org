@@ -4,7 +4,7 @@
 title: "Biomarking IBD Patient Specific Disease Features Using the Epithelial Antigenic Petidome"
 summary: ""
 authors: ["Jonathan Braun", "Liason: Dermot McGovern"]
-tags: [R21, Ancillary, NIDDK]
+tags: [R21, Ancillary, NIDDK, Current]
 categories: []
 date: 2021-04-12T10:31:21-05:00
 

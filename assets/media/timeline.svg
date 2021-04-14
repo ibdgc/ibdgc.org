@@ -11,14 +11,14 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    inkscape:export-ydpi="96"
    inkscape:export-xdpi="96"
-   inkscape:export-filename="/home/chris/Seafile/library/work/mount_sinai/projects/ibdgc_site_docs/timeline.png"
+   inkscape:export-filename="/home/chris/Seafile/library/work/mount_sinai/projects/www-public_docs/timeline.png"
    sodipodi:docname="timeline.svg"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    id="svg8"
    version="1.1"
-   viewBox="0 0 311.32361 221.21364"
-   height="221.21364mm"
-   width="311.32361mm">
+   viewBox="0 0 291.71152 245.8344"
+   height="245.8344mm"
+   width="291.71152mm">
   <defs
      id="defs2">
     <marker
@@ -735,15 +735,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.73289583"
-     inkscape:cx="215.1693"
-     inkscape:cy="319.22479"
+     inkscape:cx="195.36515"
+     inkscape:cy="274.70951"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="2512"
      inkscape:window-height="1383"
      inkscape:window-x="1128"
-     inkscape:window-y="829"
+     inkscape:window-y="724"
      inkscape:window-maximized="1"
      inkscape:snap-global="true"
      inkscape:snap-bbox="true"
@@ -762,7 +762,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -771,6 +771,39 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-1.5716295,-91.930943)">
+    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,0,87)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.00000191px;line-height:25px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot10102"
+       xml:space="preserve"><flowRegion
+         id="flowRegion10104"><rect
+           y="535.17725"
+           x="-5.6405149"
+           height="151.35381"
+           width="1059.4767"
+           id="rect10106" /></flowRegion><flowPara
+         id="flowPara10108" /></flowRoot>    <text
+       id="text10112"
+       y="239.2944"
+       x="314.64474"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35000038px;line-height:6.61458302px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="244.41064"
+         x="314.64474"
+         id="tspan10110"
+         sodipodi:role="line" /></text>
+    <text
+       id="text12731"
+       y="90.693474"
+       x="55.402008"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35000038px;line-height:6.61458302px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="95.809723"
+         x="55.402008"
+         id="tspan12729"
+         sodipodi:role="line" /></text>
     <path
        style="fill:#808080;stroke:#808080;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.26458333, 0.79375;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker4300);marker-end:url(#marker5978)"
        d="M 5.4398302,224.37236 V 172.49224"
@@ -934,28 +967,6 @@
          x="242.21936"
          id="tspan2976-69"
          sodipodi:role="line">2020</tspan></text>
-    <flowRoot
-       transform="matrix(0.26458333,0,0,0.26458333,0,87)"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.00000191px;line-height:25px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       id="flowRoot10102"
-       xml:space="preserve"><flowRegion
-         id="flowRegion10104"><rect
-           y="535.17725"
-           x="-5.6405149"
-           height="151.35381"
-           width="1059.4767"
-           id="rect10106" /></flowRegion><flowPara
-         id="flowPara10108" /></flowRoot>    <text
-       id="text10112"
-       y="239.2944"
-       x="314.64474"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35000038px;line-height:6.61458302px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       xml:space="preserve"><tspan
-         style="stroke-width:0.26458332"
-         y="244.41064"
-         x="314.64474"
-         id="tspan10110"
-         sodipodi:role="line" /></text>
     <circle
        style="opacity:0.5;fill:#e6e6e6;fill-opacity:1;stroke:#808080;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path814-3-85"
@@ -991,19 +1002,19 @@
     <circle
        style="opacity:0.5;fill:#e6e6e6;fill-opacity:1;stroke:#808080;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path814-3-85-8"
-       cx="113.03843"
+       cx="119.38843"
        cy="198.4323"
        r="11.318875" />
     <circle
        style="opacity:0.5;fill:#e6e6e6;fill-opacity:1;stroke:#808080;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path814-3-9-6"
-       cx="129.95091"
+       cx="135.77167"
        cy="198.4323"
        r="1.3678958" />
     <circle
        style="opacity:0.5;fill:#e6e6e6;fill-opacity:1;stroke:#808080;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path814-3-1"
-       cx="145.99661"
+       cx="148.11325"
        cy="198.4323"
        r="1.127125" />
     <circle
@@ -1051,7 +1062,7 @@
     <circle
        style="opacity:0.5;fill:#e6e6e6;fill-opacity:1;stroke:#808080;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path814-3-9-88-7"
-       cx="163.15778"
+       cx="162.09946"
        cy="198.4323"
        r="7.3025002" />
     <circle
@@ -1079,7 +1090,7 @@
        cy="198.4323"
        r="11.318875" />
     <circle
-       style="opacity:0.5;fill:#e6e6e6;fill-opacity:1;stroke:#808080;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:0.5;fill:#e6e6e6;fill-opacity:1;stroke:#808080;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path814-3-0-4"
        cx="235.74162"
        cy="198.4323"
@@ -1120,17 +1131,6 @@
        cx="185.93578"
        cy="198.4323"
        r="1.1218333" />
-    <text
-       id="text12731"
-       y="90.693474"
-       x="55.402008"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35000038px;line-height:6.61458302px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       xml:space="preserve"><tspan
-         style="stroke-width:0.26458332"
-         y="95.809723"
-         x="55.402008"
-         id="tspan12729"
-         sodipodi:role="line" /></text>
     <g
        id="g14320"
        transform="matrix(0.87239429,0,0,0.87239429,104.9438,225.98738)">
@@ -1349,7 +1349,7 @@
     </g>
     <g
        id="g14364"
-       transform="matrix(0.87239429,0,0,0.87239429,243.86134,18.598938)">
+       transform="matrix(0.87239429,0,0,0.87239429,245.97802,18.598938)">
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777767px;line-height:6.61458302px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -2384,7 +2384,7 @@
     </g>
     <g
        id="g14577"
-       transform="matrix(0.87239429,0,0,0.87239429,187.15733,-214.50541)">
+       transform="matrix(0.87239429,0,0,0.87239429,193.50737,-214.50541)">
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777767px;line-height:6.61458302px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -2606,7 +2606,7 @@
     </g>
     <g
        id="g14622"
-       transform="matrix(0.87239429,0,0,0.87239429,227.81564,-406.92025)">
+       transform="matrix(0.87239429,0,0,0.87239429,233.63651,-406.92025)">
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777767px;line-height:6.61458302px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -2886,7 +2886,7 @@
     </g>
     <g
        id="g14677"
-       transform="matrix(0.87239429,0,0,0.87239429,358.11036,-462.6986)">
+       transform="matrix(0.87239429,0,0,0.87239429,358.2671,-476.29948)">
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777767px;line-height:6.61458302px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -2940,7 +2940,7 @@
     </g>
     <g
        id="g14688"
-       transform="matrix(0.87239429,0,0,0.87239429,349.49453,-428.80229)">
+       transform="matrix(0.87239429,0,0,0.87239429,361.37541,-475.78112)">
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777767px;line-height:6.61458302px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -3048,7 +3048,7 @@
     </g>
     <g
        id="g14750"
-       transform="matrix(0.87239429,0,0,0.87239429,354.11868,-545.81616)">
+       transform="matrix(0.87239429,0,0,0.87239429,354.11868,-546.34533)">
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777767px;line-height:6.61458302px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -3302,7 +3302,7 @@
     </g>
     <path
        style="opacity:0.5;fill:#808080;stroke:#808080;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 129.95085,136.93212 v 59.99999"
+       d="m 135.77172,136.93212 v 59.99999"
        id="path14752-6-4"
        inkscape:connector-curvature="0" />
     <path
@@ -3377,7 +3377,7 @@
        inkscape:connector-curvature="0" />
     <path
        style="opacity:0.5;fill:#808080;stroke:#808080;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 113.17071,209.88346 v 40"
+       d="m 119.52075,209.88346 v 40"
        id="path14752-6-5-5-8"
        inkscape:connector-curvature="0" />
     <path
@@ -3387,12 +3387,12 @@
        inkscape:connector-curvature="0" />
     <path
        style="opacity:0.5;fill:#808080;stroke:#808080;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 145.99655,157.17288 v 40"
+       d="m 148.11323,157.17288 v 40"
        id="path14752-6-5-5-9-9"
        inkscape:connector-curvature="0" />
     <path
        style="opacity:0.5;fill:#808080;stroke:#808080;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 163.02542,205.86709 v 40"
+       d="m 161.96708,205.86709 v 40"
        id="path14752-6-5-5-9-9-3"
        inkscape:connector-curvature="0" />
     <path
@@ -3462,222 +3462,301 @@
        inkscape:connector-curvature="0" />
     <path
        style="opacity:0.5;fill:#808080;stroke:#808080;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 255.9893,138.86473 v 59.99999"
+       d="m 255.9893,138.33556 v 59.99999"
        id="path14752-6-4-5-8"
-       inkscape:connector-curvature="0" />
-    <path
-       style="opacity:0.5;fill:#808080;stroke:#808080;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 260.11327,168.65975 v 30"
-       id="path14752-6-5-5-50-6-1"
        inkscape:connector-curvature="0" />
     <path
        style="opacity:0.5;fill:#808080;stroke:#808080;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 251.61758,118.37012 v 80"
        id="path14752-6-4-9-1-1-0-0"
        inkscape:connector-curvature="0" />
+    <circle
+       style="opacity:0.5;fill:#e6e6e6;fill-opacity:1;stroke:#808080;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path814-3-85-8-4-3-3"
+       cx="266.97552"
+       cy="198.4323"
+       r="11.318875" />
+    <circle
+       style="opacity:0.5;fill:#e6e6e6;fill-opacity:1;stroke:#808080;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path814-3-85-5-6-6"
+       cx="266.55334"
+       cy="198.4323"
+       r="4.5958123" />
+    <circle
+       style="opacity:0.5;fill:#e6e6e6;fill-opacity:1;stroke:#808080;stroke-width:0.26656708;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path814-3-18-7"
+       cx="260.48532"
+       cy="198.4323"
+       r="2.7109873" />
     <path
        style="opacity:0.5;fill:#808080;stroke:#808080;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 265.88364,198.72586 v 10"
-       id="path14752-6-5-5-50-1-3"
+       d="m 266.68564,173.70419 v 20"
+       id="path14752-6-5-5-50-0-5"
        inkscape:connector-curvature="0" />
     <g
-       id="g5033"
-       transform="translate(57.497505,-93.369746)">
+       id="g5927"
+       transform="translate(-35.08338,95.764871)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.07761312px;line-height:5.7705245px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.23082098"
+         x="286.89642"
+         y="171.31325"
+         id="text12479-5"><tspan
+           sodipodi:role="line"
+           id="tspan12477-6"
+           x="286.89642"
+           y="171.31325"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.07761312px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.23082098">Nayar:</tspan><tspan
+           sodipodi:role="line"
+           x="286.89642"
+           y="177.08377"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.07761312px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.23082098"
+           id="tspan12481-2">gp130 myeloid–stromal </tspan><tspan
+           id="tspan5903"
+           sodipodi:role="line"
+           x="286.89642"
+           y="182.85429"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.07761312px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.23082098">niche</tspan></text>
       <g
-         id="g4994">
-        <g
-           id="g4822"
-           transform="translate(107.41418,381.4358)">
-          <g
-             transform="translate(-13.560944,-14.728877)"
-             id="g4553">
-            <text
-               id="text15921"
-               y="15.135952"
-               x="124.84794"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:6.61458302px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-               xml:space="preserve"><tspan
-                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#808080;stroke-width:0.26458332"
-                 y="15.135952"
-                 x="124.84794"
-                 id="tspan15919"
-                 sodipodi:role="line">Mechanism</tspan></text>
-            <circle
-               style="opacity:0.5;fill:#8dd35f;fill-opacity:1;stroke:#808080;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-               id="path814-3-8-17-8-80"
-               cx="121.39594"
-               cy="13.830608"
-               r="1.984375" />
-          </g>
-          <g
-             transform="translate(-54.009069,0.5875152)"
-             id="g4543">
-            <text
-               id="text15905"
-               y="-0.2586399"
-               x="124.84794"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:6.61458302px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-               xml:space="preserve"><tspan
-                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#808080;stroke-width:0.26458332"
-                 y="-0.2586399"
-                 x="124.84794"
-                 id="tspan15903"
-                 sodipodi:role="line">Populations</tspan></text>
-            <circle
-               style="opacity:0.5;fill:#ff5555;fill-opacity:1;stroke:#808080;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-               id="path814-3-8-17-4-28"
-               cx="121.39594"
-               cy="-1.5639836"
-               r="1.984375" />
-          </g>
-        </g>
-        <g
-           id="g4776"
-           transform="translate(107.41418,383.50239)">
-          <g
-             transform="translate(-13.560944,-14.728877)"
-             id="g4558">
-            <text
-               id="text15913"
-               y="22.796551"
-               x="124.98341"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:6.61458302px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-               xml:space="preserve"><tspan
-                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#808080;stroke-width:0.26458332"
-                 y="22.796551"
-                 x="124.98341"
-                 id="tspan15911"
-                 sodipodi:role="line">Causal Variant</tspan></text>
-            <circle
-               style="opacity:0.5;fill:#ffdd55;fill-opacity:1;stroke:#808080;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-               id="path814-3-8-17-46-63"
-               cx="121.39594"
-               cy="21.491207"
-               r="1.984375" />
-          </g>
-          <g
-             transform="translate(-54.009069,0.5875152)"
-             id="g4548">
-            <text
-               id="text15909"
-               y="7.4753385"
-               x="124.98341"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:6.61458302px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-               xml:space="preserve"><tspan
-                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#808080;stroke-width:0.26458332"
-                 y="7.4753385"
-                 x="124.98341"
-                 id="tspan15907"
-                 sodipodi:role="line">Causal Gene</tspan></text>
-            <circle
-               style="opacity:0.5;fill:#5599ff;fill-opacity:1;stroke:#808080;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-               id="path814-3-8-17-3-49"
-               cx="121.39594"
-               cy="6.1699948"
-               r="1.984375" />
-          </g>
-        </g>
-        <g
-           id="g4563"
-           transform="translate(53.405111,370.70879)">
-          <text
-             xml:space="preserve"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:6.61458302px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-             x="124.84794"
-             y="30.457165"
-             id="text15917"><tspan
-               sodipodi:role="line"
-               id="tspan15915"
-               x="124.84794"
-               y="30.457165"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#808080;stroke-width:0.26458332">Disease Heterogeneity</tspan></text>
-          <circle
-             r="1.984375"
-             cy="29.151821"
-             cx="121.39594"
-             id="path814-3-8-17-9-74"
-             style="opacity:0.5;fill:#ff9955;fill-opacity:1;stroke:#808080;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-        </g>
-      </g>
-      <g
-         transform="translate(90.060803,306.26484)"
-         id="g4578">
-        <g
-           id="g16268"
-           transform="translate(-288.23076,-167.72288)">
-          <text
-             xml:space="preserve"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:6.61458349px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-             x="407.28265"
-             y="205.96352"
-             id="text15905-9"><tspan
-               sodipodi:role="line"
-               id="tspan15903-5"
-               x="407.28265"
-               y="205.96352"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#808080;stroke-width:0.26458332">2019 Impact Factor</tspan></text>
-          <g
-             transform="translate(20.218229,130.24564)"
-             id="g16126">
-            <circle
-               style="opacity:0.5;fill:#e6e6e6;fill-opacity:1;stroke:#808080;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-               id="path814-3-9-8-7-9-7"
-               cx="400.65326"
-               cy="91.894051"
-               r="13.229167" />
-            <circle
-               style="opacity:0.5;fill:#e6e6e6;fill-opacity:1;stroke:#808080;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-               id="path814-3-9-8-7-9"
-               cx="400.65326"
-               cy="97.185722"
-               r="7.9375" />
-            <circle
-               style="opacity:0.5;fill:#e6e6e6;fill-opacity:1;stroke:#808080;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-               id="path814-3-9-8-7"
-               cx="400.65326"
-               cy="102.47739"
-               r="2.6458333" />
-            <text
-               id="text16107"
-               y="103.22514"
-               x="399.41147"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:6.61458302px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-               xml:space="preserve"><tspan
-                 style="font-size:2.11666656px;fill:#808080;stroke-width:0.26458332"
-                 y="103.22514"
-                 x="399.41147"
-                 id="tspan16105"
-                 sodipodi:role="line">10</tspan></text>
-            <text
-               id="text16111"
-               y="97.020279"
-               x="398.7016"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:6.61458302px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-               xml:space="preserve"><tspan
-                 style="font-size:3.52777767px;fill:#808080;stroke-width:0.26458332"
-                 y="97.020279"
-                 x="398.7016"
-                 id="tspan16109"
-                 sodipodi:role="line">30</tspan></text>
-            <text
-               id="text16115"
-               y="85.827362"
-               x="398.31232"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:6.61458302px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-               xml:space="preserve"><tspan
-                 style="font-size:4.23333311px;fill:#808080;stroke-width:0.26458332"
-                 y="85.827362"
-                 x="398.31232"
-                 id="tspan16113"
-                 sodipodi:role="line">50</tspan></text>
-          </g>
-        </g>
+         id="g5915">
+        <circle
+           style="opacity:0.5;fill:#ffffff;fill-opacity:1;stroke:#808080;stroke-width:0.23082098;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="path814-3-8-17-4-2-1"
+           cx="288.93384"
+           cy="186.31915"
+           r="1.7311574" />
+        <circle
+           style="opacity:0.5;fill:#ffdd55;fill-opacity:1;stroke:#808080;stroke-width:0.23082098;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="path814-3-8-17-46-10-2"
+           cx="298.16666"
+           cy="186.31915"
+           r="1.7311574" />
+        <circle
+           style="opacity:0.5;fill:#5599ff;fill-opacity:1;stroke:#808080;stroke-width:0.23082098;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="path814-3-8-17-3-137-7"
+           cx="293.55026"
+           cy="186.31915"
+           r="1.7311574" />
+        <circle
+           style="opacity:0.5;fill:#ff9956;fill-opacity:1;stroke:#808080;stroke-width:0.23082098;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="path814-3-8-17-9-07-9-436-0"
+           cx="307.39948"
+           cy="186.31915"
+           r="1.7311574" />
+        <circle
+           style="opacity:0.5;fill:#8dd360;fill-opacity:1;stroke:#808080;stroke-width:0.23082098;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="path814-3-8-17-8-5-3-97-9"
+           cx="302.78308"
+           cy="186.31915"
+           r="1.7311574" />
       </g>
     </g>
     <path
-       style="fill:none;stroke:#808080;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 259.69437,279.07726 v -37.18411 h 53.06858 v 71.11914 H 224.31531 V 280.1603 h 35.37906 z"
-       id="path5035"
+       style="opacity:0.5;fill:#808080;stroke:#808080;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 260.35303,155.58804 v 39.99999"
+       id="path14752-6-5-5-9-3"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g6050"
+       transform="translate(-71.323996,-27.903413)">
+      <g
+         id="g6011">
+        <g
+           id="g4994"
+           transform="translate(-10.372531,-48.243392)">
+          <g
+             transform="translate(107.41418,381.4358)"
+             id="g4822">
+            <g
+               id="g4553"
+               transform="translate(-13.560944,-14.728877)">
+              <text
+                 xml:space="preserve"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:6.61458302px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+                 x="124.84794"
+                 y="15.135952"
+                 id="text15921"><tspan
+                   sodipodi:role="line"
+                   id="tspan15919"
+                   x="124.84794"
+                   y="15.135952"
+                   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#808080;stroke-width:0.26458332">Mechanism</tspan></text>
+              <circle
+                 r="1.984375"
+                 cy="13.830608"
+                 cx="121.39594"
+                 id="path814-3-8-17-8-80"
+                 style="opacity:0.5;fill:#8dd35f;fill-opacity:1;stroke:#808080;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+            </g>
+            <g
+               id="g4543"
+               transform="translate(-54.009069,0.5875152)">
+              <text
+                 xml:space="preserve"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:6.61458302px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+                 x="124.84794"
+                 y="-0.2586399"
+                 id="text15905"><tspan
+                   sodipodi:role="line"
+                   id="tspan15903"
+                   x="124.84794"
+                   y="-0.2586399"
+                   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#808080;stroke-width:0.26458332">Populations</tspan></text>
+              <circle
+                 r="1.984375"
+                 cy="-1.5639836"
+                 cx="121.39594"
+                 id="path814-3-8-17-4-28"
+                 style="opacity:0.5;fill:#ff5555;fill-opacity:1;stroke:#808080;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+            </g>
+          </g>
+          <g
+             transform="translate(107.41418,383.50239)"
+             id="g4776">
+            <g
+               id="g4558"
+               transform="translate(-13.560944,-14.728877)">
+              <text
+                 xml:space="preserve"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:6.61458302px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+                 x="124.98341"
+                 y="22.796551"
+                 id="text15913"><tspan
+                   sodipodi:role="line"
+                   id="tspan15911"
+                   x="124.98341"
+                   y="22.796551"
+                   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#808080;stroke-width:0.26458332">Causal Variant</tspan></text>
+              <circle
+                 r="1.984375"
+                 cy="21.491207"
+                 cx="121.39594"
+                 id="path814-3-8-17-46-63"
+                 style="opacity:0.5;fill:#ffdd55;fill-opacity:1;stroke:#808080;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+            </g>
+            <g
+               id="g4548"
+               transform="translate(-54.009069,0.5875152)">
+              <text
+                 xml:space="preserve"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:6.61458302px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+                 x="124.98341"
+                 y="7.4753385"
+                 id="text15909"><tspan
+                   sodipodi:role="line"
+                   id="tspan15907"
+                   x="124.98341"
+                   y="7.4753385"
+                   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#808080;stroke-width:0.26458332">Causal Gene</tspan></text>
+              <circle
+                 r="1.984375"
+                 cy="6.1699948"
+                 cx="121.39594"
+                 id="path814-3-8-17-3-49"
+                 style="opacity:0.5;fill:#5599ff;fill-opacity:1;stroke:#808080;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+            </g>
+          </g>
+          <g
+             transform="translate(53.405111,370.70879)"
+             id="g4563">
+            <text
+               id="text15917"
+               y="30.457165"
+               x="124.84794"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:6.61458302px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+               xml:space="preserve"><tspan
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#808080;stroke-width:0.26458332"
+                 y="30.457165"
+                 x="124.84794"
+                 id="tspan15915"
+                 sodipodi:role="line">Disease Heterogeneity</tspan></text>
+            <circle
+               style="opacity:0.5;fill:#ff9955;fill-opacity:1;stroke:#808080;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+               id="path814-3-8-17-9-74"
+               cx="121.39594"
+               cy="29.151821"
+               r="1.984375" />
+          </g>
+        </g>
+        <g
+           id="g5970"
+           transform="translate(-22.521396,82.032713)">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:6.61458349px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             x="266.6102"
+             y="251.13573"
+             id="text15905-9"><tspan
+               sodipodi:role="line"
+               id="tspan15903-5"
+               x="266.6102"
+               y="251.13573"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#808080;stroke-width:0.26458332">2019 Impact Factor</tspan></text>
+          <circle
+             r="13.229167"
+             cy="267.31189"
+             cx="280.19904"
+             id="path814-3-9-8-7-9-7"
+             style="opacity:0.5;fill:#e6e6e6;fill-opacity:1;stroke:#808080;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <circle
+             r="7.9375"
+             cy="272.60358"
+             cx="280.19904"
+             id="path814-3-9-8-7-9"
+             style="opacity:0.5;fill:#e6e6e6;fill-opacity:1;stroke:#808080;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <circle
+             r="2.6458333"
+             cy="277.89523"
+             cx="280.19904"
+             id="path814-3-9-8-7"
+             style="opacity:0.5;fill:#e6e6e6;fill-opacity:1;stroke:#808080;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:6.61458302px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             x="278.95724"
+             y="278.64301"
+             id="text16107"><tspan
+               sodipodi:role="line"
+               id="tspan16105"
+               x="278.95724"
+               y="278.64301"
+               style="font-size:2.11666656px;fill:#808080;stroke-width:0.26458332">10</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:6.61458302px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             x="278.24738"
+             y="272.43814"
+             id="text16111"><tspan
+               sodipodi:role="line"
+               id="tspan16109"
+               x="278.24738"
+               y="272.43814"
+               style="font-size:3.52777767px;fill:#808080;stroke-width:0.26458332">30</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:6.61458302px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             x="277.85809"
+             y="261.24521"
+             id="text16115"><tspan
+               sodipodi:role="line"
+               id="tspan16113"
+               x="277.85809"
+               y="261.24521"
+               style="font-size:4.23333311px;fill:#808080;stroke-width:0.26458332">50</tspan></text>
+        </g>
+      </g>
+      <rect
+         y="327.2691"
+         x="157.09912"
+         height="38.267147"
+         width="132.49098"
+         id="rect5974"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#808080;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <path
+       style="opacity:0.5;fill:#808080;stroke:#808080;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 267.10782,209.88346 v 59.99999"
+       id="path14752-6-4-4-4-9-0"
        inkscape:connector-curvature="0" />
   </g>
 </svg>

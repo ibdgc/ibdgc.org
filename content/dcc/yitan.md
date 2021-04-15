@@ -1,6 +1,6 @@
 ---
 name: "Yuval Itan"
-title: "Assistant Professor"
+title: "Assistant Professor, Co-Investigator, Icahn School of Medicine at Mount Sinai"
 role: "staff"
 picture: "/img/dcc/yuval-itan.png"
 weight: 70

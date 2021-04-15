@@ -1,6 +1,6 @@
 ---
 name: "Kyle Gettler, PhD"
-title: "Bioinformatician"
+title: "Bioinformatician, Icahn School of Medicine at Mount Sinai"
 role: "staff"
 picture: ""
 weight: 50

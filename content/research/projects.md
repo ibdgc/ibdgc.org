@@ -1,7 +1,7 @@
 +++
 widget = "portfolio"
 headless = true
-title = "Current IBDGC Projects"
+title = "IBDGC Projects"
 
 [content]
 page_type = "project"

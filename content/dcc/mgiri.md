@@ -1,18 +1,11 @@
 ---
 name: "Mamta Giri"
-title: "Bioinformatician"
+title: "Biostatistician, Icahn School of Medicine at Mount Sinai"
 role: "staff"
 picture: "/img/dcc/mamta-giri.png"
-weight: 10
+weight: 60
 ---
 
-Mamta Giri is a Bioinformatician at the Icahn School of Medicine at Mount
-Sinai with interests in developing products for datascience/IBD community,
-developing data analysis pipelines, machine learning applications for data
-science projects. She is currently analyzing single cell sequencing data,
-creating pipelines, and developing web-based, easy-to-use applications for
-visualization and analyses. Mamta hopes to contribute to the rapid progress in
-data science analytic approaches to manage, visualize and interpret the myriad
-of data being generated with special interest in healthcare and marketing.
+Ms. Giri is developing sequence-based browsers and data integration methods for IBD, and analyzing single cell sequence data.
 
 {{< grc_links url="https://mamtagiri.github.io" >}}

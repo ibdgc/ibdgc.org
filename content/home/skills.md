@@ -6,6 +6,9 @@ weight = 10
 [design.spacing]
   padding = [ "", "", "", "50px" ]
 
+[design.background]
+  color = "#dbe4ed"
+
 [[feature]]
 icon = "chart-line"
 icon_pack = "fas"

@@ -5,12 +5,12 @@ active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Webinar Series"
-subtitle = ""
+subtitle = "Learn about the forefront of IBD discovery with the field's top researchers."
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
   page_type = "talk"
-  
+
   # Choose how much pages you would like to display (0 = all pages)
   count = 1
   
@@ -46,7 +46,8 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
   
   # Background color.
-  color = "#959DA6"
+  color = "#36465a"
+
   
   # Background gradient.
   # gradient_start = "DeepSkyBlue"
@@ -57,7 +58,7 @@ subtitle = ""
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
-  text_color_light = true
+  text_color_light = false
   
 [advanced]
  # Custom CSS. 

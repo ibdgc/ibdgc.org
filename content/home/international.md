@@ -3,7 +3,7 @@ widget = "blank"
 headless = true
 weight = 90
 title = "International"
-subtitle = ""
+subtitle = "Global reach through sustained partnership"
 
 [design]
 columns = "2"

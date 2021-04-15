@@ -5,12 +5,12 @@ active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Webinar Series"
-subtitle = ""
+subtitle = "Learn about the forefront of IBD discovery with the field's top researchers."
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
   page_type = "talk"
-  
+
   # Choose how much pages you would like to display (0 = all pages)
   count = 1
   

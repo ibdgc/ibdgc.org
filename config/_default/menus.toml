@@ -15,15 +15,9 @@
   identifier = "about-menu"
 
 [[main]]
-  name = "Mission"
+  name = "Overview"
   url = "/about"
   weight = 10
-  parent = "about-menu"
-
-[[main]]
-  name = "History"
-  url = "/about#history"
-  weight = 20
   parent = "about-menu"
 
 [[main]]
@@ -55,30 +49,18 @@
   weight = 10
   parent = "research-menu"
 
-#[[main]]
-#  name = "Current Projects"
-#  url = "/current"
-#  weight = 10
-#  parent = "research-menu"
-#
-#[[main]]
-#  name = "Ancillary Studies"
-#  url = "/ancillary"
-#  weight = 20
-#  parent = "research-menu"
-
 [[main]]
   name = "Publications"
   url = "/publication"
   weight = 20
   parent = "research-menu"
 
-
 [[main]]
   name = "Webinar Series"
   url = "/talk"
   weight = 30
   parent = "research-menu"
+
 #[[main]]
 #  name = "Data"
 #  url = "/data"

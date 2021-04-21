@@ -25,7 +25,7 @@
    inkscape:export-ydpi="96"><metadata
    id="metadata613"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
    id="defs611"><clipPath
    clipPathUnits="userSpaceOnUse"
    id="clipPath1123"><path
@@ -33,6 +33,8 @@
      style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      d="m 315.166,438.022 -1.90726,-2.30099 0.39313,-6.42112 0.9173,-6.74872 3.9313,-1.24491 2.81743,0.72074 4.38994,4.12786 3.80026,2.68638 0.58969,3.014 -0.81079,2.23376 m 0,0 c 0,0 -3.64156,12.28137 -6.92076,8.97043 -5.58956,-5.64367 -7.20024,-5.03743 -7.20024,-5.03743"
      inkscape:connector-curvature="0" /></clipPath>
+
+
 
 </defs><sodipodi:namedview
    pagecolor="#ffffff"
@@ -48,8 +50,8 @@
    id="namedview609"
    showgrid="false"
    inkscape:zoom="1.1779077"
-   inkscape:cx="443.41266"
-   inkscape:cy="335.88929"
+   inkscape:cx="282.95866"
+   inkscape:cy="332.49344"
    inkscape:window-x="1128"
    inkscape:window-y="724"
    inkscape:window-maximized="1"
@@ -1892,62 +1894,65 @@
    style="fill:#36465a;fill-opacity:1;stroke:#ffffff;stroke-width:0.5;stroke-miterlimit:10;stroke-opacity:1" /><g
    id="g1164"
    transform="translate(-33.109555,293.14937)"><circle
-     r="11.953979"
-     cy="169.79776"
-     cx="72.674301"
-     id="path1462"
-     style="opacity:1;fill:#36465a;fill-opacity:1;stroke:none;stroke-width:0.5710333;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" /><text
-     id="text1795"
+   r="11.953979"
+   cy="169.79776"
+   cx="72.674301"
+   id="path1462"
+   style="opacity:1;fill:#36465a;fill-opacity:1;stroke:none;stroke-width:0.5710333;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" /><text
+   id="text1795"
+   y="181.61491"
+   x="91.032043"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.24433517px;line-height:14.25338745px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#36465a;fill-opacity:1;stroke:none;stroke-width:0.57013547"
+   xml:space="preserve"><tspan
+     style="stroke-width:0.57013547"
      y="181.61491"
      x="91.032043"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.24433517px;line-height:14.25338745px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#36465a;fill-opacity:1;stroke:none;stroke-width:0.57013547"
-     xml:space="preserve"><tspan
-       style="stroke-width:0.57013547"
-       y="181.61491"
-       x="91.032043"
-       id="tspan1793"
-       sodipodi:role="line">Individual Level Data</tspan></text>
+     id="tspan1793"
+     sodipodi:role="line">Individual Level Data</tspan></text>
+
 </g><g
    id="g1159"
    transform="translate(-267.81233,324.561)"><circle
-     r="11.953979"
-     cy="169.79779"
-     cx="307.37708"
-     id="path1462-6"
-     style="opacity:1;fill:#6381a6;fill-opacity:1;stroke:none;stroke-width:0.5710333;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" /><text
-     id="text1799"
+   r="11.953979"
+   cy="169.79779"
+   cx="307.37708"
+   id="path1462-6"
+   style="opacity:1;fill:#6381a6;fill-opacity:1;stroke:none;stroke-width:0.5710333;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" /><text
+   id="text1799"
+   y="181.61494"
+   x="325.54327"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.24433517px;line-height:14.25338745px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#36465a;fill-opacity:1;stroke:none;stroke-width:0.57013547"
+   xml:space="preserve"><tspan
+     style="stroke-width:0.57013547"
      y="181.61494"
      x="325.54327"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.24433517px;line-height:14.25338745px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#36465a;fill-opacity:1;stroke:none;stroke-width:0.57013547"
-     xml:space="preserve"><tspan
-       style="stroke-width:0.57013547"
-       y="181.61494"
-       x="325.54327"
-       id="tspan1797"
-       sodipodi:role="line">Summary Only</tspan></text>
+     id="tspan1797"
+     sodipodi:role="line">Summary Stats Only</tspan></text>
+
 </g>
 
 <g
-   id="g1154"
-   transform="matrix(0.94829795,0,0,0.94829795,-46.392245,-62.587672)"><text
+   id="g1139"
+   transform="translate(99.280275)"><text
      id="text1861"
-     y="106.53334"
-     x="45.775009"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.33333206px;line-height:25px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#67b49d;fill-opacity:1;stroke:none"
+     y="38.437675"
+     x="-2.9838977"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50.57588959px;line-height:23.70744896px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#67b49d;fill-opacity:1;stroke:none;stroke-width:0.94829798"
      xml:space="preserve"><tspan
-       y="106.53334"
-       x="45.775009"
+       style="stroke-width:0.94829798"
+       y="38.437675"
+       x="-2.9838977"
        id="tspan1859"
        sodipodi:role="line">100,000+</tspan></text>
 <text
      id="text1865"
-     y="106.53334"
-     x="285.08124"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.33333206px;line-height:25px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#36465a;fill-opacity:1;stroke:none"
+     y="38.437675"
+     x="223.94971"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50.57588959px;line-height:23.70744896px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#36465a;fill-opacity:1;stroke:none;stroke-width:0.94829798"
      xml:space="preserve"><tspan
-       style="font-size:53.33333206px"
-       y="106.53334"
-       x="285.08124"
+       style="font-size:50.57588959px;stroke-width:0.94829798"
+       y="38.437675"
+       x="223.94971"
        id="tspan1863"
-       sodipodi:role="line">Genotyped Participant Samples</tspan></text>
+       sodipodi:role="line">Genotyped Participants</tspan></text>
 </g></svg>

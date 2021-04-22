@@ -17,5 +17,5 @@ columns = "2"
 
 +++
 
-{{< figure src="ibdgc_international.svg" >}}
+{{< figure src="ibdgc_international.png" >}}
 

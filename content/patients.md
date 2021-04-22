@@ -30,6 +30,8 @@ projects: []
 
 The Inflammatory Bowel Disease (IBD) Genetics Consortium is currently recruiting patients with IBD to participate in research studies. We are especially interested in individuals who are members of racial or ethnic minorities or who are undergoing an ileal resection for Crohn's disease. If you are in one of these groups and would like more information about participating in a Consortium study, please contact us at cholabIBD@mssm.edu.
 
+{{< youtube CFpeUcdCluI >}}
+
 ### FAQ For Patients Undergoing Ileocolic Resection
 
 <details>

@@ -60,5 +60,6 @@ abstract: Crohn's disease (CD) is a chronic inflammatory intestinal disease, wit
   NOD2-driven fibrosis in CD; gp130 blockade may benefit selected CD patients, potentially
   complementing anti-TNF therapy.
 publication: '*Nature*'
+grcs: [mssm]
 doi: 10.1038/s41586-021-03484-5
 ---

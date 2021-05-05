@@ -735,8 +735,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.0364712"
-     inkscape:cx="765.15425"
-     inkscape:cy="332.99366"
+     inkscape:cx="582.80475"
+     inkscape:cy="329.13441"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -2514,7 +2514,7 @@
            x="-112.29329"
            y="577.10156"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777767px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332"
-           id="tspan11879">admixture in AA</tspan></text>
+           id="tspan11879">Admixture in AA</tspan></text>
       <g
          transform="translate(54.112278,53.636636)"
          id="g14237">
@@ -2789,7 +2789,7 @@
            x="-112.27262"
            y="678.01367"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777767px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332"
-           id="tspan12465">microbiome multi-omics</tspan></text>
+           id="tspan12465">Microbiome multi-omics</tspan></text>
       <g
          transform="translate(54.112278,59.573905)"
          id="g14272">
@@ -3010,7 +3010,7 @@
            x="-112.37769"
            y="758.70099"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777767px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332"
-           id="tspan12501">serum markers CD</tspan></text>
+           id="tspan12501">Serum markers CD</tspan></text>
       <g
          transform="translate(54.112278,69.20593)"
          id="g14300">
@@ -3259,7 +3259,7 @@
            x="-112.37769"
            y="778.31055"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777767px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332"
-           id="tspan12505">sex-specific associations</tspan><tspan
+           id="tspan12505">Sex-specific associations</tspan><tspan
            sodipodi:role="line"
            x="-112.37769"
            y="784.92511"

@@ -2,8 +2,8 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "NIDDK Repo"
-summary: "This is a summary"
-authors: [John Smith Jr]
+summary: ""
+authors: []
 tags: []
 categories: [data]
 date: 2021-04-01T11:56:44-05:00
@@ -21,11 +21,11 @@ image:
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+links:
+- name: Samples
+  url: https://repository.niddk.nih.gov/studies/ibd/
+- name: Phenotypes
+  url: https://repository.niddk.nih.gov/studies/ibd/
 
 url_code: ""
 url_pdf: ""
@@ -39,5 +39,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
+A sample repository containing EBV Transformed Cell Lines, DNA and serum collected from IBD-affected individuals and controls. These samples are available through the NIDDK Central Repository,together with detailed phenotype data collected using the Consortium’s validated phenotype forms.Chip-based genotyping and sequence data for these samples are available through dbGaP.

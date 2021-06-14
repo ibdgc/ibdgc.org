@@ -21,15 +21,21 @@ image:
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+links:
+- name: Crohn's GWAS
+  url: https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs000130.v1.p1
+- name: UC GWAS
+  url:
+- name: AA GWAS
+  url: https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs001571.v1.p1
+- name: Immunochip
+  url: https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs001721.v1.p1
+- name: Exome Chip
+  url: https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs001723.v1.p1
 
-url_code: "https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/about.html"
-url_dataset: "https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/about.html"
-url_project: "https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/about.html"
+url_code: ""
+url_dataset: ""
+url_project: ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -38,5 +44,4 @@ url_project: "https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/about.html"
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
+Large cohorts of IBD-affected individuals and controls who have provided DNA samples and have been phenotyped according to Consortium standards. The Consortium has genotyped these samples and those data are available through dbGaP.

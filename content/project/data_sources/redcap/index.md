@@ -6,7 +6,7 @@ summary: ""
 authors: []
 tags: []
 categories: [data]
-date: 2021-04-01T11:49:13-05:00
+date: 2021-01-10
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -40,3 +40,4 @@ url_video: ""
 slides: ""
 ---
 
+The consortium leverages the REDCap data capture platform as an interface between clinical and research patient contexts to generate detailed phenotype data. In addition to those outputs, a variety of custom-built data products are generated from REDCap and made available to members of the consortium. Project-specific phenotype forms within REDCap can be made available upon request.

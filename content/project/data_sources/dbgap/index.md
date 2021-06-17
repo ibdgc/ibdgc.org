@@ -6,7 +6,7 @@ summary: ""
 authors: []
 tags: [test0,test1]
 categories: [data]
-date: 2021-04-01T11:57:01-05:00
+date: 2021-01-30
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/about.html"
@@ -25,7 +25,7 @@ links:
 - name: Crohn's GWAS
   url: https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs000130.v1.p1
 - name: UC GWAS
-  url:
+  url: https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs000345.v1.p1
 - name: AA GWAS
   url: https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs001571.v1.p1
 - name: Immunochip

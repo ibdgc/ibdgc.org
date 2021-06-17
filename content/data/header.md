@@ -4,7 +4,7 @@ headless = true
 active = true
 weight = 1
 
-title = "Data of </br> the IBDGC"
+title = "Data as </br> Innovation"
 subtitle = ""
 
 [design]
@@ -35,8 +35,7 @@ subtitle = ""
 
 +++
 
-## Data as Innovation
 The NIDDK IBD Genetics Consortium generates and manages several sample and data resources for use by the research community. The IBDGC has played a leadership role in the International IBD Genetics Consortium, and its Data Coordinating Center (DCC) has compiled, harmonized and curated genotype and phenotype data from over 100k participants recruited from over 18 countries.
 
-{{< figure src="homepage_knowledge_graph.png" align="right" caption="a caption for the greatest figure of all time">}}
+{{< figure src="data_graph.png" align="right">}}
 

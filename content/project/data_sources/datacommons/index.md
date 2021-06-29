@@ -24,6 +24,8 @@ image:
 links:
  - name: Dictionary
    url: https://ibdgc.datacommons.io/DD
+   icon_pack: fas
+   icon: file
  - name: Explore
    url: https://ibdgc.datacommons.io/explorer
    icon_pack: fas

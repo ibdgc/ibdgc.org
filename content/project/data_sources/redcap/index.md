@@ -3,10 +3,10 @@
 
 title: "Redcap"
 summary: ""
-authors: [John Smith]
+authors: []
 tags: []
 categories: [data]
-date: 2021-04-01T11:49:13-05:00
+date: 2021-01-10
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -21,11 +21,11 @@ image:
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+links:
+ - name: CD Ileal Project Form
+   url: IlealPostOperativeStudyInCrohn.pdf
+   icon_pack: fas
+   icon: file
 
 url_code: ""
 url_pdf: ""
@@ -40,4 +40,4 @@ url_video: ""
 slides: ""
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The consortium leverages the REDCap data capture platform as an interface between clinical and research patient contexts to generate detailed phenotype data. In addition to those outputs, a variety of custom-built data products are generated from REDCap and made available to members of the consortium. Project-specific phenotype forms within REDCap can be made available upon request.

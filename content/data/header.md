@@ -4,7 +4,7 @@ headless = true
 active = true
 weight = 1
 
-title = "Data of </br> the IBDGC"
+title = "Data as </br> Innovation"
 subtitle = ""
 
 [design]
@@ -35,16 +35,7 @@ subtitle = ""
 
 +++
 
-## Data as a product
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The NIDDK IBD Genetics Consortium generates and manages several sample and data resources for use by the research community. The IBDGC has played a leadership role in the International IBD Genetics Consortium, and its Data Coordinating Center (DCC) has compiled, harmonized and curated genotype and phenotype data from over 100k participants recruited from over 18 countries.
 
-{{< figure src="homepage_knowledge_graph.png" align="right" caption="a caption for the greatest figure of all time">}}
-
-
-
-<h2 style='text-align: right;'>Data as a service</h2>
-
-<div style="text-align: right">
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-</div>
+{{< figure src="data_graph.png" align="right">}}
 

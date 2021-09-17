@@ -734,9 +734,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.73289583"
-     inkscape:cx="149.75393"
-     inkscape:cy="402.47609"
+     inkscape:zoom="1.0364712"
+     inkscape:cx="582.80475"
+     inkscape:cy="329.13441"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -762,7 +762,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -2514,7 +2514,7 @@
            x="-112.29329"
            y="577.10156"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777767px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332"
-           id="tspan11879">admixture in AA</tspan></text>
+           id="tspan11879">Admixture in AA</tspan></text>
       <g
          transform="translate(54.112278,53.636636)"
          id="g14237">
@@ -2789,7 +2789,7 @@
            x="-112.27262"
            y="678.01367"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777767px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332"
-           id="tspan12465">microbiome multi-omics</tspan></text>
+           id="tspan12465">Microbiome multi-omics</tspan></text>
       <g
          transform="translate(54.112278,59.573905)"
          id="g14272">
@@ -3010,7 +3010,7 @@
            x="-112.37769"
            y="758.70099"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777767px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332"
-           id="tspan12501">serum markers CD</tspan></text>
+           id="tspan12501">Serum markers CD</tspan></text>
       <g
          transform="translate(54.112278,69.20593)"
          id="g14300">
@@ -3259,7 +3259,7 @@
            x="-112.37769"
            y="778.31055"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777767px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332"
-           id="tspan12505">sex-specific associations</tspan><tspan
+           id="tspan12505">Sex-specific associations</tspan><tspan
            sodipodi:role="line"
            x="-112.37769"
            y="784.92511"
@@ -3558,23 +3558,33 @@
        inkscape:connector-curvature="0" />
     <text
        id="text15905-9"
-       y="300.15479"
-       x="248.80988"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:6.61458349px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       y="290.26938"
+       x="249.33904"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:5.5px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#808080;stroke-width:0.26458332"
-         y="300.15479"
-         x="248.80988"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:5.5px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#808080;stroke-width:0.26458332"
+         y="290.26938"
+         x="249.33904"
          id="tspan15903-5"
-         sodipodi:role="line">2019 Impact </tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#808080;stroke-width:0.26458332"
+         sodipodi:role="line">2019 </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:5.5px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#808080;stroke-width:0.26458332"
+         y="295.76938"
+         x="249.33904"
+         sodipodi:role="line"
+         id="tspan2034">Journal</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:5.5px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#808080;stroke-width:0.26458332"
+         y="301.26938"
+         x="249.33904"
+         sodipodi:role="line"
+         id="tspan2032">Impact </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:5.5px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#808080;stroke-width:0.26458332"
          y="306.76938"
-         x="248.80988"
+         x="249.33904"
          sodipodi:role="line"
          id="tspan2255">Factor</tspan></text>
     <g
        id="g2253"
-       transform="translate(-1.4851301,-8.5433049)">
+       transform="translate(-1.4851301,-8.5432981)">
       <circle
          r="13.229167"
          cy="301.99353"
@@ -3595,7 +3605,7 @@
          style="opacity:0.5;fill:#e6e6e6;fill-opacity:1;stroke:#808080;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:6.61458302px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11666656px;line-height:6.61458302px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          x="234.01933"
          y="313.32465"
          id="text16107"><tspan
@@ -3603,7 +3613,7 @@
            id="tspan16105"
            x="234.01933"
            y="313.32465"
-           style="font-size:2.11666656px;fill:#808080;stroke-width:0.26458332">10</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11666656px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';fill:#808080;stroke-width:0.26458332">10</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:6.61458302px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.26458332"

@@ -6,10 +6,10 @@ summary: ""
 authors: []
 tags: []
 categories: [data]
-date: 2021-04-01T11:57:08-05:00
+date: 2021-01-20
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://ibdgc.datacommons.io/"
+external_link: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -21,13 +21,20 @@ image:
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+links:
+ - name: Dictionary
+   url: https://ibdgc.datacommons.io/DD
+   icon_pack: fas
+   icon: file
+ - name: Explore
+   url: https://ibdgc.datacommons.io/explorer
+   icon_pack: fas
+   icon: project-diagram
+ - name: Submit Data
+   url: https://ibdgc.datacommons.io/submission
+   icon_pack: fas
+   icon: share-square
 
-url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
@@ -39,5 +46,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
+To further enhance data sharing and collaboration, the IBDGC DCC has built a Data Commons based on the Gen3 platform. Gen3 is the same platform that powers the NCI Genomic Data Commons as well as several other NIH and privately funded data commons. The IBD Data Commons permits rapid, secure sharing of data as well as the ability to compute over those data in the cloud and establish reproducible QC and analytic pipelines.

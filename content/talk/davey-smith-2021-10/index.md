@@ -2,9 +2,9 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Mendelian Randomization"
-event:
-event_url:
-location: "Zoom Webinar (registration information forthcoming)"
+event: Click to register for Zoom webinar (required)
+event_url: https://mssm.zoom.us/meeting/register/tZUrcu-hrD4pE9wTGBUXQgUFdBjGlhUPDFrD
+location:
 address:
   street:
   city:

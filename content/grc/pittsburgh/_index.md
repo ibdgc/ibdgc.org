@@ -21,6 +21,9 @@ publications:
     order: "desc"
 ---
 
+<!-- manual color setting needed due to wowchemy page-wrapper breaking change -->
+<body style="background-color: rgb(54, 70, 90);">
+
 # Co-investigators
 
 - Wei Chen, PhD, Associate Professor of Pediatrics, Biostatistics, and Human

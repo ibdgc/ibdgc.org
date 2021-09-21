@@ -21,6 +21,9 @@ publications:
     order: "desc"
 ---
 
+<!-- manual color setting needed due to wowchemy page-wrapper breaking change -->
+<body style="background-color: rgb(54, 70, 90);">
+
 # Co-investigators
 
 - Ken Croitoru, MD, Professor of Medicine, University of Toronto, Gastroenterologist, Mount Sinai Hospital/Sinai Health System

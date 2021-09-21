@@ -372,3 +372,15 @@ ul.grc-links {
     color: rgb(115, 135, 156);
     font-size: 12pt;
 }
+
+
+// items to address broken slider widget
+.wg-hero {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.carousel-item {
+    box-shadow:inset 0 0 0 2000px rgba(0, 0, 0, 0.6);
+}

@@ -11,7 +11,7 @@ columns = "2"
   [design.background]
   color = "#6381A6"
 
-  text_color_light = true
+  text_color_light = false
 
   [design.spacing]
   padding = [ "", "", "", "50px" ]

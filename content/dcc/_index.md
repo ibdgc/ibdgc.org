@@ -21,6 +21,9 @@ publications:
     order: "desc"
 ---
 
+<!-- manual color setting needed due to wowchemy page-wrapper breaking change -->
+<body style="background-color: rgb(54, 70, 90);">
+
 # DCC Objectives
 
 The Data Coordinating Center (DCC) of the NIDDK IBDGC plays a lead role in a) assessing and applying innovative research approaches in genetics and genomics to define pathophysiologic mechanisms, b) operationally unifying the NIDDK IBDGC and assuring rigor and reproducibility at scale, and c) facilitating collaboration with external investigators and groups to maximize the size and scientific value of existing datasets, provide complementary expertise, and develop the next generation of IBD investigators pursuing genetic, cellular and molecular understanding of IBD.

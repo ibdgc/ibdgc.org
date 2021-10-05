@@ -55,11 +55,11 @@
   weight = 20
   parent = "research-menu"
 
-#[[main]]
-#  name = "Webinar Series"
-#  url = "/talk"
-#  weight = 40
-#  parent = "research-menu"
+[[main]]
+  name = "Webinar Series"
+  url = "/talk"
+  weight = 40
+  parent = "research-menu"
 
 [[main]]
   name = "Data"

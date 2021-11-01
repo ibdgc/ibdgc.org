@@ -1,8 +1,10 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: Increased Prevalence of Inflammatory Bowel Disease in Patients with Mutations
   in Genes Encoding the Receptor Subunits for TGFβ
-date: '2016-01-01'
-publishDate: '2021-02-15T12:56:56.772849Z'
+subtitle: ''
+summary: ''
 authors:
 - Anthony L. Guerrerio
 - Pamela A. Frischmeyer-Guerrerio
@@ -13,6 +15,53 @@ authors:
 - Gretchen L. MacCarrick
 - Steven R. Brant
 - Harry C. Dietz
+tags:
+- '"Humans"'
+- '"Inflammatory Bowel Diseases"'
+- '"Adult"'
+- '"Aged"'
+- '"Female"'
+- '"Male"'
+- '"Middle Aged"'
+- '"Transforming Growth Factor beta"'
+- '"Young Adult"'
+- '"Genetic Predisposition to Disease"'
+- '"United States"'
+- '"Adolescent"'
+- '"Child"'
+- '"Child"'
+- '"Preschool"'
+- '"Protein-Serine-Threonine Kinases"'
+- '"Infant"'
+- '"Mutation"'
+- '"Loeys-Dietz Syndrome"'
+- '"Receptor"'
+- '"Transforming Growth Factor-beta Type I"'
+- '"Receptor"'
+- '"Transforming Growth Factor-beta Type II"'
+- '"Receptors"'
+- '"Transforming Growth Factor beta"'
+categories: []
+date: '2016-01-01'
+lastmod: 2021-11-01T08:41:21-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:20.910842Z'
 publication_types:
 - '2'
 abstract: 'BACKGROUND: TGFβ is a multifunctional cytokine that is critical in regulating
@@ -35,34 +84,6 @@ abstract: 'BACKGROUND: TGFβ is a multifunctional cytokine that is critical in r
   to determine whether it can predict which patients with LDS are most likely to develop
   IBD. This case series of patients with LDS with IBD suggests that defective TGFβ
   signaling may have an influence on IBD risk.'
-featured: false
 publication: '*Inflammatory Bowel Diseases*'
-tags:
-- '"Aged"'
-- '"Female"'
-- '"Humans"'
-- '"Male"'
-- '"Middle Aged"'
-- '"Adult"'
-- '"Young Adult"'
-- '"Adolescent"'
-- '"United States"'
-- '"Child"'
-- '"Genetic Predisposition to Disease"'
-- '"Child"'
-- '"Preschool"'
-- '"Inflammatory Bowel Diseases"'
-- '"Mutation"'
-- '"Infant"'
-- '"Loeys-Dietz Syndrome"'
-- '"Protein-Serine-Threonine Kinases"'
-- '"Receptor"'
-- '"Transforming Growth Factor-beta Type I"'
-- '"Receptor"'
-- '"Transforming Growth Factor-beta Type II"'
-- '"Receptors"'
-- '"Transforming Growth Factor beta"'
-- '"Transforming Growth Factor beta"'
 doi: 10.1097/MIB.0000000000000872
 ---
-

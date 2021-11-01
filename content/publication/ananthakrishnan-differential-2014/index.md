@@ -1,8 +1,10 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: "Differential effect of genetic burden on disease phenotypes in Crohn's disease\
   \ and ulcerative colitis: analysis of a North American cohort"
-date: '2014-03-01'
-publishDate: '2021-02-15T12:57:04.036190Z'
+subtitle: ''
+summary: ''
 authors:
 - Ashwin N. Ananthakrishnan
 - Hailiang Huang
@@ -10,6 +12,46 @@ authors:
 - Jenny Sauk
 - Vijay Yajnik
 - Ramnik J. Xavier
+tags:
+- '"Humans"'
+- '"Colitis"'
+- '"Ulcerative"'
+- '"Crohn Disease"'
+- '"Adult"'
+- '"Female"'
+- '"Male"'
+- '"Prospective Studies"'
+- '"Young Adult"'
+- '"Cohort Studies"'
+- '"Genetic Predisposition to Disease"'
+- '"Genotype"'
+- '"Phenotype"'
+- '"Nod2 Signaling Adaptor Protein"'
+- '"Adolescent"'
+- '"Risk Factors"'
+- '"North America"'
+- '"Risk Assessment"'
+categories: []
+date: '2014-03-01'
+lastmod: 2021-11-01T08:41:17-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:17.216002Z'
 publication_types:
 - '2'
 abstract: "OBJECTIVES: Crohn's disease (CD) and ulcerative colitis (UC) are chronic\
@@ -34,27 +76,6 @@ abstract: "OBJECTIVES: Crohn's disease (CD) and ulcerative colitis (UC) are chro
   \ in CD, but not UC. The expanded panel of IBD risk loci explains only a fraction\
   \ of variance of disease phenotype, suggesting limited clinical utility of genetics\
   \ in predicting natural history."
-featured: false
 publication: '*The American Journal of Gastroenterology*'
-tags:
-- '"Female"'
-- '"Humans"'
-- '"Male"'
-- '"Adult"'
-- '"Risk Factors"'
-- '"Young Adult"'
-- '"Adolescent"'
-- '"Colitis"'
-- '"Ulcerative"'
-- '"Crohn Disease"'
-- '"Genetic Predisposition to Disease"'
-- '"Genotype"'
-- '"Phenotype"'
-- '"Nod2 Signaling Adaptor Protein"'
-- '"Risk Assessment"'
-- '"North America"'
-- '"Cohort Studies"'
-- '"Prospective Studies"'
 doi: 10.1038/ajg.2013.464
 ---
-

@@ -1,8 +1,10 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: Interaction between smoking and ATG16L1T300A triggers Paneth cell defects in
   Crohn's disease
-date: '2018-01-01'
-publishDate: '2021-02-15T12:56:58.963191Z'
+subtitle: ''
+summary: ''
 authors:
 - Ta-Chiang Liu
 - Justin T. Kern
@@ -18,6 +20,49 @@ authors:
 - Gabriel Nunez
 - Richard D. Head
 - Thaddeus S. Stappenbeck
+tags:
+- '"Humans"'
+- '"Animals"'
+- '"Crohn Disease"'
+- '"Mice"'
+- '"Autophagy-Related Proteins"'
+- '"Female"'
+- '"Male"'
+- '"Genetic Predisposition to Disease"'
+- '"Mice"'
+- '"Knockout"'
+- '"Mutation"'
+- '"Missense"'
+- '"Carrier Proteins"'
+- '"Smoking"'
+- '"Apoptosis"'
+- '"Inflammatory bowel disease"'
+- '"Paneth Cells"'
+- '"Gastroenterology"'
+- '"Immunology"'
+- '"PPAR gamma"'
+- '"Rosiglitazone"'
+categories: []
+date: '2018-01-01'
+lastmod: 2021-11-01T08:41:26-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:26.306181Z'
 publication_types:
 - '2'
 abstract: It is suggested that subtyping of complex inflammatory diseases can be based
@@ -38,31 +83,6 @@ abstract: It is suggested that subtyping of complex inflammatory diseases can be
   conditional Paneth cell-specific knockout of Atg16l1. This study demonstrates how
   explicit G+E can drive disease-relevant phenotype and provides rational strategies
   for identifying actionable targets.
-featured: false
 publication: '*The Journal of Clinical Investigation*'
-tags:
-- '"Female"'
-- '"Humans"'
-- '"Male"'
-- '"Crohn Disease"'
-- '"Genetic Predisposition to Disease"'
-- '"Animals"'
-- '"Mice"'
-- '"Smoking"'
-- '"Mutation"'
-- '"Missense"'
-- '"Apoptosis"'
-- '"Autophagy-Related Proteins"'
-- '"Carrier Proteins"'
-- '"Inflammatory bowel disease"'
-- '"Paneth Cells"'
-- '"Gastroenterology"'
-- '"Immunology"'
-- '"Mice"'
-- '"Knockout"'
-- '"PPAR gamma"'
-- '"Rosiglitazone"'
-grcs: [cedars]
 doi: 10.1172/JCI120453
 ---
-

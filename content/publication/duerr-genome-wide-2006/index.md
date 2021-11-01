@@ -1,8 +1,10 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: A genome-wide association study identifies IL23R as an inflammatory bowel disease
   gene.
-date: '2006-12-01'
-publishDate: '2021-02-15T12:57:07.311614Z'
+subtitle: ''
+summary: ''
 authors:
 - Richard H. Duerr
 - Kent D. Taylor
@@ -27,6 +29,52 @@ authors:
 - Jerome I. Rotter
 - Dan L. Nicolae
 - Judy H. Cho
+tags:
+- '"Genome"'
+- '"Human"'
+- '"Humans"'
+- '"Case-Control Studies"'
+- '"Signal Transduction"'
+- '"Cohort Studies"'
+- '"Genetic Predisposition to Disease"'
+- '"Alleles"'
+- '"*Polymorphism"'
+- '"Single Nucleotide"'
+- '"Haplotypes"'
+- '"Jews/genetics"'
+- '"Interleukin-23/metabolism"'
+- '"Crohn Disease/*genetics"'
+- '"Chromosomes"'
+- '"Human"'
+- '"Pair 1/genetics"'
+- '"Colitis"'
+- '"Ulcerative/genetics"'
+- '"Linkage Disequilibrium"'
+- '"Genetic Markers"'
+- '"Genetic Testing"'
+- '"Receptors"'
+- '"Interleukin/*genetics/physiology"'
+categories: []
+date: '2006-12-01'
+lastmod: 2021-11-01T08:41:11-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:11.351325Z'
 publication_types:
 - '2'
 abstract: The inflammatory bowel diseases Crohn's disease and ulcerative colitis are
@@ -41,34 +89,6 @@ abstract: The inflammatory bowel diseases Crohn's disease and ulcerative colitis
   of patients with Crohn's disease or ulcerative colitis. These results and previous
   studies on the proinflammatory role of IL-23 prioritize this signaling pathway as
   a therapeutic target in inflammatory bowel disease.
-featured: false
 publication: '*Science (New York, N.Y.)*'
-tags:
-- '"Humans"'
-- '"Case-Control Studies"'
-- '"Genetic Predisposition to Disease"'
-- '"Alleles"'
-- '"Genome"'
-- '"Human"'
-- '"Haplotypes"'
-- '"Genetic Testing"'
-- '"Signal Transduction"'
-- '"Linkage Disequilibrium"'
-- '"Cohort Studies"'
-- '"Genetic Markers"'
-- '"*Polymorphism"'
-- '"Single Nucleotide"'
-- '"Jews/genetics"'
-- '"Interleukin-23/metabolism"'
-- '"Crohn Disease/*genetics"'
-- '"Colitis"'
-- '"Ulcerative/genetics"'
-- '"Chromosomes"'
-- '"Human"'
-- '"Pair 1/genetics"'
-- '"Receptors"'
-- '"Interleukin/*genetics/physiology"'
-grcs: [pittsburgh]
 doi: 10.1126/science.1135245
 ---
-

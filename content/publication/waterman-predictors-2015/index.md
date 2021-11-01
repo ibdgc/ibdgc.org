@@ -1,7 +1,9 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: Predictors of Outcome in Ulcerative Colitis
-date: '2015-09-01'
-publishDate: '2021-02-15T12:57:09.428105Z'
+subtitle: ''
+summary: ''
 authors:
 - Matti Waterman
 - Jo Knight
@@ -15,6 +17,62 @@ authors:
 - Gordon R. Greenberg
 - A. Hillary Steinhart
 - Mark S. Silverberg
+tags:
+- '"Humans"'
+- '"Polymorphism"'
+- '"Single Nucleotide"'
+- '"Colitis"'
+- '"Ulcerative"'
+- '"Adult"'
+- '"Aged"'
+- '"Biomarkers"'
+- '"Female"'
+- '"Male"'
+- '"Middle Aged"'
+- '"Young Adult"'
+- '"Odds Ratio"'
+- '"Adolescent"'
+- '"Child"'
+- '"Age of Onset"'
+- '"Prognosis"'
+- '"Child"'
+- '"Preschool"'
+- '"Disease Progression"'
+- '"Antibodies"'
+- '"Fungal"'
+- '"Anti-Inflammatory Agents"'
+- '"Retrospective Studies"'
+- '"Predictive Value of Tests"'
+- '"Age Factors"'
+- '"Antibodies"'
+- '"Antineutrophil Cytoplasmic"'
+- '"Colectomy"'
+- '"Flagellin"'
+- '"Inflammation Mediators"'
+- '"Porins"'
+- '"Prednisone"'
+- '"Saccharomyces cerevisiae"'
+categories: []
+date: '2015-09-01'
+lastmod: 2021-11-01T08:41:34-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:34.255939Z'
 publication_types:
 - '2'
 abstract: 'BACKGROUND: Approximately 80% of patients with ulcerative colitis (UC)
@@ -40,43 +98,6 @@ abstract: 'BACKGROUND: Approximately 80% of patients with ulcerative colitis (UC
   diagnosis, but not genetic and serum markers, were associated with a more severe
   course. Further work is required to identify biomarkers that will predict outcomes
   in UC.'
-featured: false
 publication: '*Inflammatory Bowel Diseases*'
-tags:
-- '"Aged"'
-- '"Female"'
-- '"Humans"'
-- '"Male"'
-- '"Middle Aged"'
-- '"Adult"'
-- '"Young Adult"'
-- '"Adolescent"'
-- '"Age Factors"'
-- '"Child"'
-- '"Colitis"'
-- '"Ulcerative"'
-- '"Polymorphism"'
-- '"Single Nucleotide"'
-- '"Child"'
-- '"Preschool"'
-- '"Odds Ratio"'
-- '"Prognosis"'
-- '"Age of Onset"'
-- '"Biomarkers"'
-- '"Disease Progression"'
-- '"Antibodies"'
-- '"Fungal"'
-- '"Anti-Inflammatory Agents"'
-- '"Retrospective Studies"'
-- '"Predictive Value of Tests"'
-- '"Colectomy"'
-- '"Antibodies"'
-- '"Antineutrophil Cytoplasmic"'
-- '"Flagellin"'
-- '"Inflammation Mediators"'
-- '"Porins"'
-- '"Prednisone"'
-- '"Saccharomyces cerevisiae"'
 doi: 10.1097/MIB.0000000000000466
 ---
-

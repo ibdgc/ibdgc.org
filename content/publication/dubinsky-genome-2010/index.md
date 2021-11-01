@@ -1,8 +1,10 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: Genome wide association (GWA) predictors of anti-TNFalpha therapeutic responsiveness
   in pediatric inflammatory bowel disease
-date: '2010-08-01'
-publishDate: '2021-02-15T12:56:55.776943Z'
+subtitle: ''
+summary: ''
 authors:
 - Marla C. Dubinsky
 - Ling Mei
@@ -16,6 +18,46 @@ authors:
 - Stephan R. Targan
 - Dermot P. McGovern
 - Jerome I. Rotter
+tags:
+- '"Humans"'
+- '"Genome-Wide Association Study"'
+- '"Inflammatory Bowel Diseases"'
+- '"Female"'
+- '"Male"'
+- '"Young Adult"'
+- '"Genetic Variation"'
+- '"Adolescent"'
+- '"Child"'
+- '"Genetic Loci"'
+- '"Child"'
+- '"Preschool"'
+- '"Tumor Necrosis Factor-alpha"'
+- '"Treatment Outcome"'
+- '"Antibodies"'
+- '"Monoclonal"'
+- '"Gastrointestinal Agents"'
+- '"Infliximab"'
+categories: []
+date: '2010-08-01'
+lastmod: 2021-11-01T08:41:53-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:52.911810Z'
 publication_types:
 - '2'
 abstract: "BACKGROUND: Interindividual variation in response to anti-TNFalpha therapy\
@@ -42,27 +84,6 @@ abstract: "BACKGROUND: Interindividual variation in response to anti-TNFalpha th
   \ to anti-TNFalpha in pediatric IBD. Defining predictors of response to anti-TNFalpha\
   \ may allow the identification of patients who will not benefit from this class\
   \ of therapy."
-featured: false
 publication: '*Inflammatory Bowel Diseases*'
-tags:
-- '"Female"'
-- '"Humans"'
-- '"Male"'
-- '"Young Adult"'
-- '"Adolescent"'
-- '"Child"'
-- '"Genome-Wide Association Study"'
-- '"Child"'
-- '"Preschool"'
-- '"Inflammatory Bowel Diseases"'
-- '"Genetic Loci"'
-- '"Genetic Variation"'
-- '"Antibodies"'
-- '"Monoclonal"'
-- '"Gastrointestinal Agents"'
-- '"Infliximab"'
-- '"Treatment Outcome"'
-- '"Tumor Necrosis Factor-alpha"'
 doi: 10.1002/ibd.21174
 ---
-

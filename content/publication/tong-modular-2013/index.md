@@ -1,8 +1,10 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: A modular organization of the human intestinal mucosal microbiota and its association
   with inflammatory bowel disease
-date: '2013-01-01'
-publishDate: '2021-02-15T12:57:00.915818Z'
+subtitle: ''
+summary: ''
 authors:
 - Maomeng Tong
 - Xiaoxiao Li
@@ -17,6 +19,39 @@ authors:
 - Steve Horvath
 - Rob Knight
 - Jonathan Braun
+tags:
+- '"Humans"'
+- '"Inflammatory Bowel Diseases"'
+- '"Intestinal Mucosa"'
+- '"Cohort Studies"'
+- '"Phenotype"'
+- '"Microbiota"'
+- '"Cluster Analysis"'
+- '"Metagenome"'
+- '"RNA"'
+- '"Ribosomal"'
+- '"16S"'
+categories: []
+date: '2013-01-01'
+lastmod: 2021-11-01T08:41:31-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:31.490824Z'
 publication_types:
 - '2'
 abstract: Abnormalities of the intestinal microbiota are implicated in the pathogenesis
@@ -42,20 +77,6 @@ abstract: Abnormalities of the intestinal microbiota are implicated in the patho
   that microbial dysbiosis in IBD may be an underlying disorder independent of disease
   activity. Microbial modules thus provide an integrative view of microbial ecology
   relevant to IBD.
-featured: false
 publication: '*PloS One*'
-tags:
-- '"Humans"'
-- '"Inflammatory Bowel Diseases"'
-- '"Microbiota"'
-- '"Phenotype"'
-- '"Intestinal Mucosa"'
-- '"Cluster Analysis"'
-- '"Cohort Studies"'
-- '"Metagenome"'
-- '"RNA"'
-- '"Ribosomal"'
-- '"16S"'
 doi: 10.1371/journal.pone.0080702
 ---
-

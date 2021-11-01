@@ -1,8 +1,8 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+# Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Common and rare variant prediction and penetrance of IBD in a large, multi-ethnic,
-  health system-based biobank cohort
+title: Common and Rare Variant Prediction and Penetrance of IBD in a Large, Multi-ethnic,
+  Health System-based Biobank Cohort
 subtitle: ''
 summary: ''
 authors:
@@ -17,7 +17,8 @@ authors:
 - Suresh Venkateswaran
 - Ujunwa Korie
 - Colleen Chasteau
-- NIDDK IBDGC UK IBD Genetics Consortium
+- NIDDK IBDGC
+- UK IBD Genetics Consortium
 - Richard H. Duerr
 - Mark S. Silverberg
 - Scott B. Snapper
@@ -34,7 +35,7 @@ tags:
 - '"VEO-IBD"'
 categories: []
 date: '2020-12-01'
-lastmod: 2021-02-15T06:36:05-06:00
+lastmod: 2021-11-01T08:41:39-04:00
 featured: false
 draft: false
 
@@ -52,7 +53,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-15T12:57:09.976242Z'
+publishDate: '2021-11-01T12:41:38.851017Z'
 publication_types:
 - '2'
 abstract: 'BACKGROUND AND AIMS: Polygenic risk scores (PRS) may soon be used to predict
@@ -80,9 +81,5 @@ abstract: 'BACKGROUND AND AIMS: Polygenic risk scores (PRS) may soon be used to 
   should be prioritized to reduce health disparities and enhance pathophysiologic
   insight.'
 publication: '*Gastroenterology*'
-grcs: [mssm, dcc]
 doi: 10.1053/j.gastro.2020.12.034
 ---
-
-{{< figure src="/img/publication/gettler-common-2020/fig3.png" title="Inclusion of association summary information from European, African American, and Ashkenazi Jewish datasets improve prediction of IBD status relative to prediction using only the most relevant association data for each population.  This holds true for IBD prediction for individuals of European ancestry in both the BioMe and UK Biobank cohorts, Hispanic ancestry in BioMe, and Ashkenazi Jewish ancestry in BioMe.  Prediction of African American IBD is challenging both because association studies among African American individuals have been limited by low sample size, and because of greater genetic diversity." >}}
-{{< figure src="/img/publication/gettler-common-2020/fig5.png" title="Here we validated that a very rare variant identified to have high genetic penetrance when considering UC risk also had an impact on expression of LRBA and CTLA4 in heterozygous carriers.  We also show that treatment with chloroquine was able to partially rescue CTLA4 expression in these carriers, suggesting that it may be useful for personalized treatment of UC." >}}

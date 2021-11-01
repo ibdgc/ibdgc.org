@@ -1,8 +1,10 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: Insights into the genetic epidemiology of Crohn's and rare diseases in the
   Ashkenazi Jewish population
-date: '2018-01-01'
-publishDate: '2021-02-15T12:56:55.203375Z'
+subtitle: ''
+summary: ''
 authors:
 - Manuel A. Rivas
 - Brandon E. Avila
@@ -64,6 +66,47 @@ authors:
 - Judy H. Cho
 - Dermot P. B. McGovern
 - Mark J. Daly
+tags:
+- '"Humans"'
+- '"Polymorphism"'
+- '"Single Nucleotide"'
+- '"Crohn Disease"'
+- '"Genome-Wide Association Study"'
+- '"Genetic Predisposition to Disease"'
+- '"Haplotypes"'
+- '"Genetic Predisposition to Disease/*genetics"'
+- '"Jews"'
+- '"Molecular Epidemiology"'
+- '"Models"'
+- '"Genetic"'
+- '"Crohn Disease/epidemiology/*genetics"'
+- '"Jews/*genetics"'
+- '"Algorithms"'
+- '"Genetics"'
+- '"Population"'
+- '"Rare Diseases"'
+- '"Rare Diseases/epidemiology/*genetics"'
+categories: []
+date: '2018-01-01'
+lastmod: 2021-11-01T08:41:55-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:55.376752Z'
 publication_types:
 - '2'
 abstract: As part of a broader collaborative network of exome sequencing studies,
@@ -98,29 +141,6 @@ abstract: As part of a broader collaborative network of exome sequencing studies
   with reference data sets like ExAC (sites VCF available via FTP at ftp.broadinstitute.org/pub/ExAC_release/release0.3/)
   to pinpoint genetic variation that contributes to variable disease predisposition
   across populations.
-featured: false
 publication: '*PLoS genetics*'
-tags:
-- '"Humans"'
-- '"Crohn Disease"'
-- '"Genetic Predisposition to Disease"'
-- '"Genome-Wide Association Study"'
-- '"Polymorphism"'
-- '"Single Nucleotide"'
-- '"Haplotypes"'
-- '"Jews"'
-- '"Algorithms"'
-- '"Genetics"'
-- '"Population"'
-- '"Models"'
-- '"Genetic"'
-- '"Molecular Epidemiology"'
-- '"Rare Diseases"'
-- '"Crohn Disease/epidemiology/*genetics"'
-- '"Genetic Predisposition to Disease/*genetics"'
-- '"Jews/*genetics"'
-- '"Rare Diseases/epidemiology/*genetics"'
-grcs: [mssm, cedars, toronto, dcc]
 doi: 10.1371/journal.pgen.1007329
 ---
-

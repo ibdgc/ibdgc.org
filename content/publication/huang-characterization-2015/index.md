@@ -1,8 +1,10 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: Characterization of genetic loci that affect susceptibility to inflammatory
   bowel diseases in African Americans
-date: '2015-11-01'
-publishDate: '2021-02-15T12:56:54.733145Z'
+subtitle: ''
+summary: ''
 authors:
 - Chengrui Huang
 - Talin Haritunians
@@ -58,6 +60,60 @@ authors:
 - Dermot P. B. McGovern
 - Steven R. Brant
 - Subra Kugathasan
+tags:
+- '"Humans"'
+- '"Polymorphism"'
+- '"Single Nucleotide"'
+- '"Colitis"'
+- '"Ulcerative"'
+- '"Crohn Disease"'
+- '"Crohn Disease/genetics"'
+- '"Inflammatory Bowel Diseases"'
+- '"Adult"'
+- '"Aged"'
+- '"Female"'
+- '"Male"'
+- '"Middle Aged"'
+- '"Young Adult"'
+- '"Genetic Predisposition to Disease"'
+- '"African Americans"'
+- '"European Continental Ancestry Group"'
+- '"United States"'
+- '"*Polymorphism"'
+- '"Single Nucleotide"'
+- '"Inflammatory Bowel Diseases/*genetics"'
+- '"Risk Factors"'
+- '"Colitis"'
+- '"Ulcerative/genetics"'
+- '"Genetic Loci"'
+- '"African Americans/*genetics"'
+- '"European Continental Ancestry Group/*genetics"'
+- '"Ethnicity"'
+- '"Genetic Variant"'
+- '"Intestinal Inflammation"'
+- '"Race"'
+- '"United States/ethnology"'
+categories: []
+date: '2015-11-01'
+lastmod: 2021-11-01T08:42:00-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:42:00.347427Z'
 publication_types:
 - '2'
 abstract: "BACKGROUND & AIMS: Inflammatory bowel disease (IBD) has familial aggregation\
@@ -90,42 +146,6 @@ abstract: "BACKGROUND & AIMS: Inflammatory bowel disease (IBD) has familial aggr
   \ with these diseases in AAs; we also found evidence for variants and loci not previously\
   \ associated with IBD. The complex genetic factors that determine risk for or protection\
   \ against IBD in different populations require further study."
-featured: false
 publication: '*Gastroenterology*'
-tags:
-- '"Aged"'
-- '"Female"'
-- '"Humans"'
-- '"Male"'
-- '"Middle Aged"'
-- '"Adult"'
-- '"Risk Factors"'
-- '"Young Adult"'
-- '"United States"'
-- '"African Americans"'
-- '"Colitis"'
-- '"Ulcerative"'
-- '"Crohn Disease"'
-- '"European Continental Ancestry Group"'
-- '"Genetic Predisposition to Disease"'
-- '"Polymorphism"'
-- '"Single Nucleotide"'
-- '"Inflammatory Bowel Diseases"'
-- '"Ethnicity"'
-- '"Genetic Loci"'
-- '"Genetic Variant"'
-- '"Intestinal Inflammation"'
-- '"Race"'
-- '"*Polymorphism"'
-- '"Single Nucleotide"'
-- '"Crohn Disease/genetics"'
-- '"Inflammatory Bowel Diseases/*genetics"'
-- '"Colitis"'
-- '"Ulcerative/genetics"'
-- '"African Americans/*genetics"'
-- '"European Continental Ancestry Group/*genetics"'
-- '"United States/ethnology"'
-grcs: [mssm, rutgers]
 doi: 10.1053/j.gastro.2015.07.065
 ---
-

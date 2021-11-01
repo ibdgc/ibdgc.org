@@ -1,8 +1,10 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: Microbiome Heterogeneity Characterizing Intestinal Tissue and Inflammatory
   Bowel Disease Phenotype
-date: '2016-04-01'
-publishDate: '2021-02-15T12:57:09.539521Z'
+subtitle: ''
+summary: ''
 authors:
 - Andrea D. Tyler
 - Richard Kirsch
@@ -10,6 +12,46 @@ authors:
 - Joanne M. Stempak
 - Boyko Kabakchiev
 - Mark S. Silverberg
+tags:
+- '"Humans"'
+- '"Colitis"'
+- '"Ulcerative"'
+- '"Crohn Disease"'
+- '"Adult"'
+- '"Case-Control Studies"'
+- '"Female"'
+- '"Male"'
+- '"Middle Aged"'
+- '"Cohort Studies"'
+- '"Ileum"'
+- '"Phenotype"'
+- '"Prognosis"'
+- '"Intestines"'
+- '"Microbiota"'
+- '"Follow-Up Studies"'
+- '"Canada"'
+- '"Colonic Pouches"'
+categories: []
+date: '2016-04-01'
+lastmod: 2021-11-01T08:41:47-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:46.810255Z'
 publication_types:
 - '2'
 abstract: Inflammatory bowel disease has been associated with differential abundance
@@ -34,27 +76,6 @@ abstract: Inflammatory bowel disease has been associated with differential abund
   from individuals with Crohn's disease. This study highlights important considerations
   when analyzing the composition of the microbiome and also provides useful insight
   into differences in the microbiome characterizing these seemingly related phenotypes.
-featured: false
 publication: '*Inflammatory Bowel Diseases*'
-tags:
-- '"Female"'
-- '"Humans"'
-- '"Male"'
-- '"Middle Aged"'
-- '"Adult"'
-- '"Case-Control Studies"'
-- '"Colitis"'
-- '"Ulcerative"'
-- '"Crohn Disease"'
-- '"Microbiota"'
-- '"Phenotype"'
-- '"Intestines"'
-- '"Follow-Up Studies"'
-- '"Prognosis"'
-- '"Canada"'
-- '"Ileum"'
-- '"Cohort Studies"'
-- '"Colonic Pouches"'
 doi: 10.1097/MIB.0000000000000674
 ---
-

@@ -1,13 +1,57 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: IRF5 Is Required for Bacterial Clearance in Human M1-Polarized Macrophages,
   and IRF5 Immune-Mediated Disease Risk Variants Modulate This Outcome
-date: '2019-01-01'
-publishDate: '2021-02-15T12:57:08.898674Z'
+subtitle: ''
+summary: ''
 authors:
 - Matija Hedl
 - Jie Yan
 - Heiko Witt
 - Clara Abraham
+tags:
+- '"Humans"'
+- '"Cell Differentiation"'
+- '"Autophagy"'
+- '"Signal Transduction"'
+- '"Genetic Predisposition to Disease"'
+- '"Cells"'
+- '"Cultured"'
+- '"Genetic Variation"'
+- '"Reactive Oxygen Species"'
+- '"Bacteria"'
+- '"Interferon-gamma"'
+- '"Macrophages"'
+- '"Receptors"'
+- '"Pattern Recognition"'
+- '"Autophagy-Related Protein 5"'
+- '"Enterococcus faecalis"'
+- '"Interferon Regulatory Factors"'
+- '"Nitric Oxide Synthase Type II"'
+- '"Reactive Nitrogen Species"'
+- '"Salmonella enterica"'
+categories: []
+date: '2019-01-01'
+lastmod: 2021-11-01T08:41:48-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:47.823766Z'
 publication_types:
 - '2'
 abstract: Common IFN regulatory factor 5 (IRF5) variants associated with multiple
@@ -32,29 +76,6 @@ abstract: Common IFN regulatory factor 5 (IRF5) variants associated with multipl
   common IRF5 genetic variants modulate bacterial clearance, thereby highlighting
   that immune-mediated disease risk IRF5 carriers might be relatively protected from
   microbial-associated diseases.
-featured: false
 publication: '*Journal of Immunology (Baltimore, Md.: 1950)*'
-tags:
-- '"Humans"'
-- '"Genetic Predisposition to Disease"'
-- '"Reactive Oxygen Species"'
-- '"Signal Transduction"'
-- '"Autophagy"'
-- '"Genetic Variation"'
-- '"Macrophages"'
-- '"Cells"'
-- '"Cultured"'
-- '"Interferon-gamma"'
-- '"Cell Differentiation"'
-- '"Bacteria"'
-- '"Receptors"'
-- '"Pattern Recognition"'
-- '"Autophagy-Related Protein 5"'
-- '"Enterococcus faecalis"'
-- '"Interferon Regulatory Factors"'
-- '"Nitric Oxide Synthase Type II"'
-- '"Reactive Nitrogen Species"'
-- '"Salmonella enterica"'
 doi: 10.4049/jimmunol.1800226
 ---
-

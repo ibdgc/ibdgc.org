@@ -1,8 +1,10 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: Prioritizing Crohn’s disease genes by integrating association signals with
   gene expression implicates monocyte subsets
-date: '2019-01-01'
-publishDate: '2021-02-15T12:56:55.322910Z'
+subtitle: ''
+summary: ''
 authors:
 - Kyle Gettler
 - Mamta Giri
@@ -21,6 +23,28 @@ authors:
 - Gabriel Hoffman
 - Subra Kugathasan
 - Judy H. Cho
+tags: []
+categories: []
+date: '2019-01-01'
+lastmod: 2021-11-01T08:41:35-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:34.985671Z'
 publication_types:
 - '2'
 abstract: Genome-wide association studies have identified ~170 loci associated with
@@ -41,9 +65,6 @@ abstract: Genome-wide association studies have identified ~170 loci associated w
   Although individual datasets cannot convey all of the information relevant to a
   disease, combining data from multiple relevant expression-based datasets improves
   prediction of disease genes and helps to further understanding of disease pathogenesis.
-featured: false
 publication: '*Genes and Immunity*'
-grcs: [mssm, dcc]
 doi: 10.1038/s41435-019-0059-y
 ---
-

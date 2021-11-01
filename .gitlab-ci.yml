@@ -1,7 +1,7 @@
 deploy:
     script:
-        - hugo mod clean
-        - hugo
+        - hugo88 mod clean
+        - hugo88
         - rsync -arv public/ pschumm@rcg.bsd.uchicago.edu:ibdgc/
     only:
         refs:

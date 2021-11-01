@@ -1,8 +1,10 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: Genome-wide association defines more than 30 distinct susceptibility loci for
   Crohn's disease
-date: '2008-08-01'
-publishDate: '2021-02-15T12:57:02.334870Z'
+subtitle: ''
+summary: ''
 authors:
 - Jeffrey C. Barrett
 - Sarah Hansoul
@@ -68,6 +70,39 @@ authors:
 - Miles Parkes
 - Michel Georges
 - Mark J. Daly
+tags:
+- '"Genome"'
+- '"Human"'
+- '"Humans"'
+- '"Crohn Disease"'
+- '"Genetic Predisposition to Disease"'
+- '"Quantitative Trait Loci"'
+- '"*Genetic Predisposition to Disease"'
+- '"Crohn Disease/*genetics"'
+- '"*Genome"'
+- '"Human"'
+- '"*Quantitative Trait Loci"'
+categories: []
+date: '2008-08-01'
+lastmod: 2021-11-01T08:42:04-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:42:04.257543Z'
 publication_types:
 - '2'
 abstract: Several risk factors for Crohn's disease have been identified in recent
@@ -79,21 +114,6 @@ abstract: Several risk factors for Crohn's disease have been identified in recen
   regions containing STAT3, JAK2, ICOSLG, CDKAL1 and ITLN1. The expanded molecular
   understanding of the basis of this disease offers promise for informed therapeutic
   development.
-featured: false
 publication: '*Nature Genetics*'
-tags:
-- '"Humans"'
-- '"Crohn Disease"'
-- '"Genetic Predisposition to Disease"'
-- '"Genome"'
-- '"Human"'
-- '"Quantitative Trait Loci"'
-- '"*Genetic Predisposition to Disease"'
-- '"Crohn Disease/*genetics"'
-- '"*Genome"'
-- '"Human"'
-- '"*Quantitative Trait Loci"'
-grcs: [rutgers]
 doi: 10.1038/ng.175
 ---
-

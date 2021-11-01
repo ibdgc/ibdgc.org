@@ -1,8 +1,10 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: 'Optimus Primer: A PCR enrichment primer design program for next-generation
   sequencing of human exonic regions'
-date: '2010-07-01'
-publishDate: '2021-02-15T12:57:03.403029Z'
+subtitle: ''
+summary: ''
 authors:
 - Andrew Mk Brown
 - Ken Sin Lo
@@ -12,6 +14,28 @@ authors:
 - Jean-Claude Tardif
 - Michael S. Phillips
 - Guillaume Lettre
+tags: []
+categories: []
+date: '2010-07-01'
+lastmod: 2021-11-01T08:41:15-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:15.204213Z'
 publication_types:
 - '2'
 abstract: 'BACKGROUND: Polymerase chain reaction (PCR) remains a simple, flexible,
@@ -42,8 +66,6 @@ abstract: 'BACKGROUND: Polymerase chain reaction (PCR) remains a simple, flexibl
   essential tool for researchers who want to pursue PCR-based enrichment strategies
   for next-generation re-sequencing applications. The program can be accessed via
   website at http://op.pgx.ca.'
-featured: false
 publication: '*BMC research notes*'
 doi: 10.1186/1756-0500-3-185
 ---
-

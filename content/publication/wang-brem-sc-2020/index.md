@@ -1,8 +1,10 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: 'BREM-SC: a bayesian random effects mixture model for joint clustering single
   cell multi-omics data'
-date: '2020-06-01'
-publishDate: '2021-02-15T12:57:09.112495Z'
+subtitle: ''
+summary: ''
 authors:
 - Xinjun Wang
 - Zhe Sun
@@ -14,6 +16,28 @@ authors:
 - Kong Chen
 - Ying Ding
 - Wei Chen
+tags: []
+categories: []
+date: '2020-06-01'
+lastmod: 2021-11-01T08:41:47-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:47.120923Z'
 publication_types:
 - '2'
 abstract: Droplet-based single cell transcriptome sequencing (scRNA-seq) technology,
@@ -33,9 +57,6 @@ abstract: Droplet-based single cell transcriptome sequencing (scRNA-seq) technol
   the clustering uncertainty for each single cell. This new method will greatly facilitate
   researchers to jointly study transcriptome and surface proteins at the single cell
   level to make new biological discoveries, particularly in the area of immunology.
-featured: false
 publication: '*Nucleic Acids Research*'
-grcs: [pittsburgh]
 doi: 10.1093/nar/gkaa314
 ---
-

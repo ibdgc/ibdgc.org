@@ -1,9 +1,11 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: Ocular Manifestations in Inflammatory Bowel Disease Are Associated with Other
   Extra-intestinal Manifestations, Gender, and Genes Implicated in Other Immune-related
   Traits
-date: '2016-01-01'
-publishDate: '2021-02-15T12:57:04.467760Z'
+subtitle: ''
+summary: ''
 authors:
 - Sasha Taleban
 - Dalin Li
@@ -21,6 +23,71 @@ authors:
 - Marla Dubinsky
 - Gil Y. Melmed
 - Dermot P. B. McGovern
+tags:
+- '"Humans"'
+- '"Crohn’s disease"'
+- '"Colitis"'
+- '"Ulcerative"'
+- '"Crohn Disease"'
+- '"Genome-Wide Association Study"'
+- '"Inflammatory Bowel Diseases"'
+- '"Adult"'
+- '"Aged"'
+- '"Case-Control Studies"'
+- '"Female"'
+- '"Male"'
+- '"Middle Aged"'
+- '"Severity of Illness Index"'
+- '"Genetic Predisposition to Disease"'
+- '"IBD"'
+- '"Odds Ratio"'
+- '"Prognosis"'
+- "\"Crohn's disease\""
+- '"ulcerative colitis"'
+- '"Sensitivity and Specificity"'
+- '"Risk Assessment"'
+- '"Logistic Models"'
+- '"Retrospective Studies"'
+- '"genetics"'
+- '"Age Distribution"'
+- '"Analysis of Variance"'
+- '"Colitis"'
+- '"Ulcerative/diagnosis/epidemiology/genetics"'
+- '"Comorbidity"'
+- '"Crohn Disease/diagnosis/epidemiology/genetics"'
+- '"Databases"'
+- '"Factual"'
+- '"eye"'
+- '"Genetic Predisposition to Disease/*epidemiology"'
+- '"Genome-Wide Association Study/methods"'
+- '"Incidence"'
+- '"Inflammatory Bowel Diseases/diagnosis/*epidemiology/*genetics"'
+- '"Multivariate Analysis"'
+- '"Sex Distribution"'
+- '"uveitis"'
+- '"Uveitis"'
+- '"Uveitis/diagnosis/*epidemiology/*genetics"'
+categories: []
+date: '2016-01-01'
+lastmod: 2021-11-01T08:41:53-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:53.446934Z'
 publication_types:
 - '2'
 abstract: 'BACKGROUND: There has been considerable progress in identifying inflammatory
@@ -41,52 +108,6 @@ abstract: 'BACKGROUND: There has been considerable progress in identifying infla
   In IBD, O-EIMs co-occur with musculoskeletal and skin manifestations and, in this
   study, are nominally associated with known IBD loci. Additional cohorts are needed
   to verify these results and identify additional genes.'
-featured: false
 publication: "*Journal of Crohn's & Colitis*"
-tags:
-- '"genetics"'
-- "\"Crohn's disease\""
-- '"IBD"'
-- '"Aged"'
-- '"Female"'
-- '"Humans"'
-- '"Male"'
-- '"Middle Aged"'
-- '"Adult"'
-- '"Case-Control Studies"'
-- '"Colitis"'
-- '"Ulcerative"'
-- '"Crohn Disease"'
-- '"Genetic Predisposition to Disease"'
-- '"Genome-Wide Association Study"'
-- '"Inflammatory Bowel Diseases"'
-- '"Risk Assessment"'
-- '"Crohn’s disease"'
-- '"Odds Ratio"'
-- '"Prognosis"'
-- '"Severity of Illness Index"'
-- '"Logistic Models"'
-- '"Databases"'
-- '"Factual"'
-- '"Multivariate Analysis"'
-- '"Retrospective Studies"'
-- '"ulcerative colitis"'
-- '"Age Distribution"'
-- '"Analysis of Variance"'
-- '"Comorbidity"'
-- '"eye"'
-- '"Incidence"'
-- '"Sensitivity and Specificity"'
-- '"Sex Distribution"'
-- '"uveitis"'
-- '"Uveitis"'
-- '"Colitis"'
-- '"Ulcerative/diagnosis/epidemiology/genetics"'
-- '"Crohn Disease/diagnosis/epidemiology/genetics"'
-- '"Genetic Predisposition to Disease/*epidemiology"'
-- '"Genome-Wide Association Study/methods"'
-- '"Inflammatory Bowel Diseases/diagnosis/*epidemiology/*genetics"'
-- '"Uveitis/diagnosis/*epidemiology/*genetics"'
 doi: 10.1093/ecco-jcc/jjv178
 ---
-

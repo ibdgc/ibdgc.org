@@ -1,8 +1,10 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: Refined genomic localization and ethnic differences observed for the IBD5 association
   with Crohn's disease.
-date: '2007-03-01'
-publishDate: '2021-02-15T12:57:05.118144Z'
+subtitle: ''
+summary: ''
 authors:
 - Mark S. Silverberg
 - Richard H. Duerr
@@ -19,6 +21,41 @@ authors:
 - Judy H. Cho
 - John D. Rioux
 - Mark J. Daly
+tags:
+- '"Humans"'
+- '"Polymorphism"'
+- '"Single Nucleotide"'
+- '"Adult"'
+- '"Female"'
+- '"Male"'
+- '"Haplotypes"'
+- '"Chromosomes"'
+- '"Human"'
+- '"Pair 5/*genetics"'
+- '"Crohn Disease/*ethnology/*genetics"'
+- '"Genetic Predisposition to Disease/*ethnology"'
+- '"Jews/genetics"'
+categories: []
+date: '2007-03-01'
+lastmod: 2021-11-01T08:41:06-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:05.922551Z'
 publication_types:
 - '2'
 abstract: Although the general association of the inflammatory bowel disease (IBD)
@@ -35,23 +72,6 @@ abstract: Although the general association of the inflammatory bowel disease (IB
   and show this association to be exclusive to the non-Jewish (NJ) population (P=0.00005)
   (risk allele undertransmitted in Ashkenazi Jews). Using Phase II HapMap data, we
   demonstrate that there are a set of polymorphisms, spanning genes from prolyl
-featured: false
 publication: '*European journal of human genetics : EJHG*'
-tags:
-- '"Female"'
-- '"Humans"'
-- '"Male"'
-- '"Adult"'
-- '"Polymorphism"'
-- '"Single Nucleotide"'
-- '"Haplotypes"'
-- '"Chromosomes"'
-- '"Human"'
-- '"Pair 5/*genetics"'
-- '"Crohn Disease/*ethnology/*genetics"'
-- '"Genetic Predisposition to Disease/*ethnology"'
-- '"Jews/genetics"'
-grcs: [pittsburgh]
 doi: 10.1038/sj.ejhg.5201756
 ---
-

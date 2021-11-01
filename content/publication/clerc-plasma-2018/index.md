@@ -1,8 +1,10 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: Plasma N-Glycan Signatures Are Associated With Features of Inflammatory Bowel
   Diseases
-date: '2018-01-01'
-publishDate: '2021-02-15T12:56:56.663847Z'
+subtitle: ''
+summary: ''
 authors:
 - Florent Clerc
 - Mislav Novokmet
@@ -23,6 +25,48 @@ authors:
 - Vito Annese
 - Gordan Lauc
 - Manfred Wuhrer
+tags:
+- '"Humans"'
+- '"Colitis"'
+- '"Ulcerative"'
+- '"Crohn Disease"'
+- '"Adult"'
+- '"Biomarkers"'
+- '"Case-Control Studies"'
+- '"Female"'
+- '"Male"'
+- '"Middle Aged"'
+- '"Protein Processing"'
+- '"Post-Translational"'
+- '"Acute Phase Proteins"'
+- '"Disease Progression"'
+- '"Glycosylation"'
+- '"Immunoglobulins"'
+- '"Logistic Models"'
+- '"MALDI-TOF-MS"'
+- '"Molecular Marker"'
+- '"Polysaccharides"'
+categories: []
+date: '2018-01-01'
+lastmod: 2021-11-01T08:41:20-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:20.493881Z'
 publication_types:
 - '2'
 abstract: "BACKGROUND & AIMS: Biomarkers are needed for early detection of Crohn's\
@@ -54,29 +98,6 @@ abstract: "BACKGROUND & AIMS: Biomarkers are needed for early detection of Crohn
   \ N-glycomes of individuals with vs without IBD and to identify patterns associated\
   \ with disease features and the need for treatment. These profiles might be used\
   \ in diagnosis and for predicting patients' responses to treatment."
-featured: false
 publication: '*Gastroenterology*'
-tags:
-- '"Female"'
-- '"Humans"'
-- '"Male"'
-- '"Middle Aged"'
-- '"Adult"'
-- '"Case-Control Studies"'
-- '"Colitis"'
-- '"Ulcerative"'
-- '"Crohn Disease"'
-- '"Acute Phase Proteins"'
-- '"Biomarkers"'
-- '"Disease Progression"'
-- '"Glycosylation"'
-- '"Immunoglobulins"'
-- '"Logistic Models"'
-- '"MALDI-TOF-MS"'
-- '"Molecular Marker"'
-- '"Polysaccharides"'
-- '"Protein Processing"'
-- '"Post-Translational"'
 doi: 10.1053/j.gastro.2018.05.030
 ---
-

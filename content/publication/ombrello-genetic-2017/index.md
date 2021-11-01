@@ -1,8 +1,10 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: 'Genetic architecture distinguishes systemic juvenile idiopathic arthritis
   from other forms of juvenile idiopathic arthritis: clinical and therapeutic implications.'
-date: '2017-05-01'
-publishDate: '2021-02-15T12:57:06.432584Z'
+subtitle: ''
+summary: ''
 authors:
 - Michael J. Ombrello
 - Victoria L. Arthur
@@ -53,6 +55,44 @@ authors:
 - Daniel L. Kastner
 - Patricia Woo
 - Wendy Thomson
+tags:
+- '"Humans"'
+- '"Polymorphism"'
+- '"Single Nucleotide"'
+- '"Genome-Wide Association Study"'
+- '"Case-Control Studies"'
+- '"Genotype"'
+- '"Arthritis"'
+- '"Juvenile/drug therapy/*genetics"'
+- "\"Adult Onset Still's Disease\""
+- '"Chromosomes"'
+- '"Human"'
+- '"Pair 1/*genetics"'
+- '"Gene Polymorphism"'
+- '"Juvenile Idiopathic Arthritis"'
+- '"Major Histocompatibility Complex/*genetics"'
+- '"Risk Factors"'
+categories: []
+date: '2017-05-01'
+lastmod: 2021-11-01T08:41:09-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:08.774548Z'
 publication_types:
 - '2'
 abstract: 'OBJECTIVES: Juvenile idiopathic arthritis (JIA) is a heterogeneous group
@@ -76,25 +116,6 @@ abstract: 'OBJECTIVES: Juvenile idiopathic arthritis (JIA) is a heterogeneous gr
   subtypes supports the hypothesis that sJIA is a unique disease process and argues
   for a different classification framework. Research to improve sJIA therapy should
   target its unique genetics and specific pathophysiological pathways.'
-featured: false
 publication: '*Annals of the rheumatic diseases*'
-tags:
-- '"Humans"'
-- '"Risk Factors"'
-- '"Case-Control Studies"'
-- '"Genome-Wide Association Study"'
-- '"Polymorphism"'
-- '"Single Nucleotide"'
-- '"Genotype"'
-- '"Arthritis"'
-- '"Juvenile/drug therapy/*genetics"'
-- '"Major Histocompatibility Complex/*genetics"'
-- "\"Adult Onset Still's Disease\""
-- '"Chromosomes"'
-- '"Human"'
-- '"Pair 1/*genetics"'
-- '"Gene Polymorphism"'
-- '"Juvenile Idiopathic Arthritis"'
 doi: 10.1136/annrheumdis-2016-210324
 ---
-

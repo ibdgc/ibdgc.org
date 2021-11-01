@@ -1,7 +1,9 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: Association of NOD2 and IL23R with inflammatory bowel disease in Puerto Rico
-date: '2014-01-01'
-publishDate: '2021-02-15T12:56:56.228785Z'
+subtitle: ''
+summary: ''
 authors:
 - Veroushka Ballester
 - Xiuqing Guo
@@ -13,6 +15,47 @@ authors:
 - Jerome I. Rotter
 - Esther A. Torres
 - Kent D. Taylor
+tags:
+- '"Humans"'
+- '"Polymorphism"'
+- '"Single Nucleotide"'
+- '"Genome-Wide Association Study"'
+- '"Inflammatory Bowel Diseases"'
+- '"Adult"'
+- '"Female"'
+- '"Male"'
+- '"Middle Aged"'
+- '"Young Adult"'
+- '"Genetic Predisposition to Disease"'
+- '"Quantitative Trait Loci"'
+- '"Haplotypes"'
+- '"Nod2 Signaling Adaptor Protein"'
+- '"Genetic Association Studies"'
+- '"Risk Factors"'
+- '"Puerto Rico"'
+- '"Receptors"'
+- '"Interleukin"'
+categories: []
+date: '2014-01-01'
+lastmod: 2021-11-01T08:41:20-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:19.786735Z'
 publication_types:
 - '2'
 abstract: "The Puerto Rico population may be modeled as an admixed population with\
@@ -39,28 +82,6 @@ abstract: "The Puerto Rico population may be modeled as an admixed population wi
   \ the great difference between global continental ancestry and local continental\
   \ ancestry at the level of the individual gene, particularly for immune-related\
   \ loci."
-featured: false
 publication: '*PloS One*'
-tags:
-- '"Female"'
-- '"Humans"'
-- '"Male"'
-- '"Middle Aged"'
-- '"Adult"'
-- '"Risk Factors"'
-- '"Young Adult"'
-- '"Genetic Predisposition to Disease"'
-- '"Genome-Wide Association Study"'
-- '"Polymorphism"'
-- '"Single Nucleotide"'
-- '"Receptors"'
-- '"Interleukin"'
-- '"Genetic Association Studies"'
-- '"Inflammatory Bowel Diseases"'
-- '"Haplotypes"'
-- '"Nod2 Signaling Adaptor Protein"'
-- '"Puerto Rico"'
-- '"Quantitative Trait Loci"'
 doi: 10.1371/journal.pone.0108204
 ---
-

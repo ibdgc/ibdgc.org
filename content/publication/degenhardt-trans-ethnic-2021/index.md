@@ -1,9 +1,10 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: Trans-ethnic analysis of the human leukocyte antigen region for ulcerative
   colitis reveals shared but also ethnicity-specific disease associations
-date: '2021-02-01'
-draft: false
-publishDate: '2021-03-22T14:32:44.169937Z'
+subtitle: ''
+summary: ''
 authors:
 - Frauke Degenhardt
 - Gabriele Mayr
@@ -58,6 +59,28 @@ authors:
 - MAAIS Recruitment Center
 - Andre Franke
 - International IBD Genetics Consortium
+tags: []
+categories: []
+date: '2021-02-01'
+lastmod: 2021-11-01T08:41:37-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:37.302276Z'
 publication_types:
 - '2'
 abstract: Inflammatory bowel disease (IBD) is a chronic inflammatory disease of the
@@ -82,8 +105,6 @@ abstract: Inflammatory bowel disease (IBD) is a chronic inflammatory disease of 
   that the HLA plays an important role for UC susceptibility across different ethnicities.
   This research further implicates specific features of peptides that are predicted
   to bind risk and protective HLA proteins.
-featured: false
 publication: '*Human Molecular Genetics*'
 doi: 10.1093/hmg/ddab017
 ---
-

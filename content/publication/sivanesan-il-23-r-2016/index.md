@@ -1,5 +1,5 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+# Documentation: https://wowchemy.com/docs/managing-content/
 
 title: IL23R (Interleukin 23 Receptor) Variants Protective against Inflammatory Bowel
   Diseases (IBD) Display Loss of Function due to Impaired Protein Stability and Intracellular
@@ -17,14 +17,14 @@ authors:
 - Stephen W. Michnick
 tags:
 - '"Humans"'
-- '"Receptors"'
-- '"Interleukin"'
+- '"HEK293 Cells"'
 - '"Inflammatory Bowel Diseases"'
+- '"HeLa Cells"'
 - '"Mutation"'
 - '"Missense"'
+- '"Receptors"'
+- '"Interleukin"'
 - '"STAT3 Transcription Factor"'
-- '"HEK293 Cells"'
-- '"HeLa Cells"'
 - '"Amino Acid Substitution"'
 - '"genetic polymorphism"'
 - '"glycosylation"'
@@ -37,7 +37,7 @@ tags:
 - '"STAT4 Transcription Factor"'
 categories: []
 date: '2016-04-01'
-lastmod: 2021-02-15T06:36:05-06:00
+lastmod: 2021-11-01T08:41:46-04:00
 featured: false
 draft: false
 
@@ -55,7 +55,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-15T12:57:09.644634Z'
+publishDate: '2021-11-01T12:41:45.708711Z'
 publication_types:
 - '2'
 abstract: Genome-wide association studies as well as murine models have shown that

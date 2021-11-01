@@ -1,8 +1,10 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: Prevalence and Associations of Avascular Necrosis of the Hip in a Large Well-characterized
   Cohort of Patients With Inflammatory Bowel Disease
-date: '2019-01-01'
-publishDate: '2021-02-15T12:56:59.283207Z'
+subtitle: ''
+summary: ''
 authors:
 - Vineet S. Rolston
 - Anish V. Patel
@@ -14,6 +16,28 @@ authors:
 - Stephan R. Targan
 - Michael H. Weisman
 - Dermot P. B. McGovern
+tags: []
+categories: []
+date: '2019-01-01'
+lastmod: 2021-11-01T08:41:27-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:27.423628Z'
 publication_types:
 - '2'
 abstract: 'OBJECTIVES: Avascular necrosis (AVN) is associated with significant morbidity
@@ -37,9 +61,7 @@ abstract: 'OBJECTIVES: Avascular necrosis (AVN) is associated with significant m
   Our findings also suggest that additional etiological factors, beyond corticosteroids,
   contribute to the development of AVN in IBD. Further investigation is warranted
   regarding the mechanisms associated with AVN in IBD.'
-featured: false
 publication: '*Journal of Clinical Rheumatology: Practical Reports on Rheumatic &
   Musculoskeletal Diseases*'
 doi: 10.1097/RHU.0000000000000797
 ---
-

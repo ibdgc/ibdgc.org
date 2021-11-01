@@ -1,8 +1,10 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: Persistent Diarrhea in Patients With Crohn's Disease After Mucosal Healing
   Is Associated With Lower Diversity of the Intestinal Microbiome and Increased Dysbiosis
-date: '2020-03-01'
-publishDate: '2021-02-15T12:57:09.005531Z'
+subtitle: ''
+summary: ''
 authors:
 - Karen Boland
 - Larbi Bedrani
@@ -15,6 +17,32 @@ authors:
 - Michelle I. Smith
 - Kenneth Croitoru
 - Mark S. Silverberg
+tags:
+- '"Prognostic Factor"'
+- '"Microbe"'
+- '"Outcome"'
+- '"Response to Therapy"'
+categories: []
+date: '2020-03-01'
+lastmod: 2021-11-01T08:41:37-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:36.936362Z'
 publication_types:
 - '2'
 abstract: "BACKGROUND & AIMS: In patients with inflammatory bowel diseases (IBDs),\
@@ -47,15 +75,7 @@ abstract: "BACKGROUND & AIMS: In patients with inflammatory bowel diseases (IBDs
   \ in controls. This observation, along with the reduced Chao1 diversity and greater\
   \ dysbiosis in intestinal microbiota of patients with residual symptoms of IBD,\
   \ indicates that microbiome composition could be associated with persistent diarrhea."
-featured: false
 publication: '*Clinical Gastroenterology and Hepatology: The Official Clinical Practice
   Journal of the American Gastroenterological Association*'
-tags:
-- '"Prognostic Factor"'
-- '"Microbe"'
-- '"Outcome"'
-- '"Response to Therapy"'
-grcs: [toronto]
 doi: 10.1016/j.cgh.2020.03.044
 ---
-

@@ -1,8 +1,10 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: NOX1 loss-of-function genetic variants in patients with inflammatory bowel
   disease
-date: '2018-01-01'
-publishDate: '2021-02-15T12:56:54.271059Z'
+subtitle: ''
+summary: ''
 authors:
 - T. Schwerd
 - R. V. Bryant
@@ -45,6 +47,62 @@ authors:
 - V. Sw Li
 - A. M. Muise
 - H. H. Uhlig
+tags:
+- '"Humans"'
+- '"Polymorphism"'
+- '"Single Nucleotide"'
+- '"Animals"'
+- '"Inflammatory Bowel Diseases"'
+- '"Mice"'
+- '"Colon"'
+- '"Male"'
+- '"Genetic Predisposition to Disease"'
+- '"Genotype"'
+- '"Genetic Association Studies"'
+- '"Child"'
+- '"Inflammatory Bowel Diseases/*genetics"'
+- '"Reactive Oxygen Species"'
+- '"Mutation"'
+- '"Missense"'
+- '"Child"'
+- '"Preschool"'
+- '"Host-Pathogen Interactions"'
+- '"Mice"'
+- '"Inbred C57BL"'
+- '"High-Throughput Nucleotide Sequencing"'
+- '"*Genotype"'
+- '"Colon/*physiology"'
+- '"Genes"'
+- '"Modifier"'
+- '"Genes"'
+- '"Modifier/*genetics"'
+- '"Genome"'
+- '"Mutation"'
+- '"Missense/genetics"'
+- '"NADPH Oxidase 1"'
+- '"NADPH Oxidase 1/*genetics"'
+- '"Reactive Oxygen Species/metabolism"'
+categories: []
+date: '2018-01-01'
+lastmod: 2021-11-01T08:41:54-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:54.602087Z'
 publication_types:
 - '2'
 abstract: Genetic defects that affect intestinal epithelial barrier function can present
@@ -64,44 +122,6 @@ abstract: Genetic defects that affect intestinal epithelial barrier function can
   context-specific modifier. Our results implicate that variants in NOX1 change brush
   border ROS within colonic crypts at the interface between the epithelium and luminal
   microbes.
-featured: false
 publication: '*Mucosal Immunology*'
-tags:
-- '"Humans"'
-- '"Male"'
-- '"Child"'
-- '"Genetic Predisposition to Disease"'
-- '"Polymorphism"'
-- '"Single Nucleotide"'
-- '"Animals"'
-- '"Genotype"'
-- '"Mice"'
-- '"Child"'
-- '"Preschool"'
-- '"Colon"'
-- '"Genes"'
-- '"Modifier"'
-- '"Genetic Association Studies"'
-- '"Genome"'
-- '"High-Throughput Nucleotide Sequencing"'
-- '"Host-Pathogen Interactions"'
-- '"Inflammatory Bowel Diseases"'
-- '"Mice"'
-- '"Inbred C57BL"'
-- '"Mutation"'
-- '"Missense"'
-- '"NADPH Oxidase 1"'
-- '"Reactive Oxygen Species"'
-- '"Inflammatory Bowel Diseases/*genetics"'
-- '"*Genotype"'
-- '"Colon/*physiology"'
-- '"Genes"'
-- '"Modifier/*genetics"'
-- '"Mutation"'
-- '"Missense/genetics"'
-- '"NADPH Oxidase 1/*genetics"'
-- '"Reactive Oxygen Species/metabolism"'
-grcs: [pittsburgh]
 doi: 10.1038/mi.2017.74
 ---
-

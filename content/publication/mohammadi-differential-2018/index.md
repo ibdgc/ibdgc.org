@@ -1,9 +1,11 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: Differential Expression of microRNAs in Peripheral Blood Mononuclear Cells
   Identifies Autophagy and TGF-Beta-Related Signatures Aberrantly Expressed in Inflammatory
   Bowel Disease
-date: '2018-04-01'
-publishDate: '2021-02-15T12:57:07.838310Z'
+subtitle: ''
+summary: ''
 authors:
 - Aylia Mohammadi
 - Orlaith B. Kelly
@@ -11,6 +13,55 @@ authors:
 - Boyko Kabakchiev
 - Michelle I. Smith
 - Mark S. Silverberg
+tags:
+- '"Humans"'
+- '"Colitis"'
+- '"Ulcerative"'
+- '"Crohn Disease"'
+- '"Adult"'
+- '"Aged"'
+- '"Autophagy"'
+- '"Autophagy-Related Proteins"'
+- '"Biomarkers"'
+- '"Case-Control Studies"'
+- '"Colon"'
+- '"Diagnosis"'
+- '"Differential"'
+- '"Female"'
+- '"HeLa Cells"'
+- '"Leukocytes"'
+- '"Mononuclear"'
+- '"Male"'
+- '"MicroRNAs"'
+- '"Middle Aged"'
+- '"Prospective Studies"'
+- '"Severity of Illness Index"'
+- '"Signal Transduction"'
+- '"Smad3 Protein"'
+- '"Transforming Growth Factor beta"'
+- '"Up-Regulation"'
+- '"Young Adult"'
+categories: []
+date: '2018-04-01'
+lastmod: 2021-11-01T08:41:04-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:04.490474Z'
 publication_types:
 - '2'
 abstract: "Background and Aims: MicroRNAs [miRNAs] have emerged as important regulators\
@@ -36,37 +87,6 @@ abstract: "Background and Aims: MicroRNAs [miRNAs] have emerged as important reg
   \ by aberrant miRNA expression, revealing possible mechanisms underlying the pathophysiology\
   \ of IBD, but also suggest a cluster of miRNAs as readily accessible biomarkers\
   \ to aid in differential diagnosis."
-featured: false
 publication: "*Journal of Crohn's & Colitis*"
-tags:
-- '"Aged"'
-- '"Female"'
-- '"Humans"'
-- '"Male"'
-- '"Middle Aged"'
-- '"Adult"'
-- '"Young Adult"'
-- '"Case-Control Studies"'
-- '"Colitis"'
-- '"Ulcerative"'
-- '"Crohn Disease"'
-- '"Colon"'
-- '"Signal Transduction"'
-- '"Autophagy"'
-- '"Severity of Illness Index"'
-- '"Autophagy-Related Proteins"'
-- '"Biomarkers"'
-- '"Transforming Growth Factor beta"'
-- '"Smad3 Protein"'
-- '"Prospective Studies"'
-- '"HeLa Cells"'
-- '"Diagnosis"'
-- '"Differential"'
-- '"Leukocytes"'
-- '"Mononuclear"'
-- '"MicroRNAs"'
-- '"Up-Regulation"'
-grcs: [toronto]
 doi: 10.1093/ecco-jcc/jjy010
 ---
-

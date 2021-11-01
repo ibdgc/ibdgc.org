@@ -1,8 +1,10 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: IBD risk loci are enriched in multigenic regulatory modules encompassing putative
   causative genes.
-date: '2018-06-01'
-publishDate: '2021-02-15T12:57:06.089410Z'
+subtitle: ''
+summary: ''
 authors:
 - Yukihide Momozawa
 - Julia Dmitrieva
@@ -39,6 +41,49 @@ authors:
 - Michiaki Kubo
 - Edouard Louis
 - Michel Georges
+tags:
+- '"Gene Expression Profiling"'
+- '"Humans"'
+- '"Polymorphism"'
+- '"Single Nucleotide"'
+- '"Crohn Disease/genetics"'
+- '"Adult"'
+- '"Aged"'
+- '"Female"'
+- '"Male"'
+- '"Middle Aged"'
+- '"Cohort Studies"'
+- '"Genetic Predisposition to Disease"'
+- '"Genotype"'
+- '"Quantitative Trait Loci"'
+- '"Genetic Association Studies"'
+- '"Aged"'
+- '"80 and over"'
+- '"Sequence Analysis"'
+- '"DNA"'
+- '"Inflammatory Bowel Diseases/*genetics"'
+- '"*Multifactorial Inheritance"'
+categories: []
+date: '2018-06-01'
+lastmod: 2021-11-01T08:41:08-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:08.251051Z'
 publication_types:
 - '2'
 abstract: GWAS have identified textgreater200 risk loci for Inflammatory Bowel Disease
@@ -54,30 +99,6 @@ abstract: GWAS have identified textgreater200 risk loci for Inflammatory Bowel D
   with burden tests that they include likely causative genes. Our analyses indicate
   that textgreater/=10-fold larger sample sizes will be required to demonstrate the
   causality of individual genes using this approach.
-featured: false
 publication: '*Nature communications*'
-tags:
-- '"Aged"'
-- '"Female"'
-- '"Humans"'
-- '"Male"'
-- '"Middle Aged"'
-- '"Adult"'
-- '"Aged"'
-- '"80 and over"'
-- '"Genetic Predisposition to Disease"'
-- '"Polymorphism"'
-- '"Single Nucleotide"'
-- '"Genotype"'
-- '"Genetic Association Studies"'
-- '"Sequence Analysis"'
-- '"DNA"'
-- '"Quantitative Trait Loci"'
-- '"Cohort Studies"'
-- '"Gene Expression Profiling"'
-- '"Crohn Disease/genetics"'
-- '"Inflammatory Bowel Diseases/*genetics"'
-- '"*Multifactorial Inheritance"'
 doi: 10.1038/s41467-018-04365-8
 ---
-

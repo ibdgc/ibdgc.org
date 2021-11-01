@@ -1,8 +1,10 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: Glycosylation of Immunoglobulin G Associates With Clinical Features of Inflammatory
   Bowel Diseases
-date: '2018-01-01'
-publishDate: '2021-02-15T12:56:59.503938Z'
+subtitle: ''
+summary: ''
 authors:
 - Mirna Šimurina
 - Noortje de Haan
@@ -25,6 +27,56 @@ authors:
 - Vito Annese
 - Manfred Wuhrer
 - Gordan Lauc
+tags:
+- '"Humans"'
+- '"Colitis"'
+- '"Ulcerative"'
+- '"Crohn Disease"'
+- '"Adult"'
+- '"Case-Control Studies"'
+- '"Female"'
+- '"Male"'
+- '"Middle Aged"'
+- '"Severity of Illness Index"'
+- '"United States"'
+- '"IBD"'
+- '"Odds Ratio"'
+- '"Risk Factors"'
+- '"Prognosis"'
+- '"ROC Curve"'
+- '"Protein Processing"'
+- '"Post-Translational"'
+- '"Glycosylation"'
+- '"Logistic Models"'
+- '"Immunoglobulin G"'
+- '"Area Under Curve"'
+- '"Biomarker"'
+- '"Glycans"'
+- '"Glycopeptides"'
+- '"Immunoglobulin Fc Fragments"'
+- '"Italy"'
+- '"Predictive Value of Tests"'
+categories: []
+date: '2018-01-01'
+lastmod: 2021-11-01T08:41:28-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:28.091483Z'
 publication_types:
 - '2'
 abstract: "BACKGROUND AND AIMS: Causes of inflammatory bowel diseases are not well\
@@ -54,37 +106,6 @@ abstract: "BACKGROUND AND AIMS: Causes of inflammatory bowel diseases are not we
   \ with disease (compared to controls) and its clinical features. These findings\
   \ could increase our understanding of mechanisms of CD and UC pathogenesis and be\
   \ used to develop diagnostics or guide treatment."
-featured: false
 publication: '*Gastroenterology*'
-tags:
-- '"IBD"'
-- '"Female"'
-- '"Humans"'
-- '"Male"'
-- '"Middle Aged"'
-- '"Adult"'
-- '"Risk Factors"'
-- '"United States"'
-- '"Case-Control Studies"'
-- '"Colitis"'
-- '"Ulcerative"'
-- '"Crohn Disease"'
-- '"Odds Ratio"'
-- '"Prognosis"'
-- '"Severity of Illness Index"'
-- '"Glycosylation"'
-- '"Logistic Models"'
-- '"Protein Processing"'
-- '"Post-Translational"'
-- '"Immunoglobulin G"'
-- '"Area Under Curve"'
-- '"Biomarker"'
-- '"Glycans"'
-- '"Glycopeptides"'
-- '"Immunoglobulin Fc Fragments"'
-- '"Italy"'
-- '"Predictive Value of Tests"'
-- '"ROC Curve"'
 doi: 10.1053/j.gastro.2018.01.002
 ---
-

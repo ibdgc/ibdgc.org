@@ -1,8 +1,10 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: A meta-analysis of genome-wide association scans identifies IL18RAP, PTPN2,
   TAGAP, and PUS10 as shared risk loci for Crohn's disease and celiac disease
-date: '2011-01-01'
-publishDate: '2021-02-15T12:57:03.505906Z'
+subtitle: ''
+summary: ''
 authors:
 - Eleonora A. M. Festen
 - Philippe Goyette
@@ -22,6 +24,41 @@ authors:
 - Mark J. Daly
 - Cisca Wijmenga
 - John D. Rioux
+tags:
+- '"Humans"'
+- '"Crohn Disease"'
+- '"Genome-Wide Association Study"'
+- '"Genetic Predisposition to Disease"'
+- '"Risk Factors"'
+- '"Celiac Disease"'
+- '"Data Interpretation"'
+- '"Statistical"'
+- '"GTPase-Activating Proteins"'
+- '"Hydro-Lyases"'
+- '"Interleukin-18 Receptor beta Subunit"'
+- '"Protein Tyrosine Phosphatase"'
+- '"Non-Receptor Type 2"'
+categories: []
+date: '2011-01-01'
+lastmod: 2021-11-01T08:41:15-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:15.567521Z'
 publication_types:
 - '2'
 abstract: "Crohn's disease (CD) and celiac disease (CelD) are chronic intestinal inflammatory\
@@ -49,22 +86,6 @@ abstract: "Crohn's disease (CD) and celiac disease (CelD) are chronic intestinal
   \ risk loci: PTPN2, IL18RAP, TAGAP, and PUS10. The combined analysis of the two\
   \ datasets provided the power, lacking in the individual GWAS for single diseases,\
   \ to detect shared loci with a relatively small effect."
-featured: false
 publication: '*PLoS genetics*'
-tags:
-- '"Humans"'
-- '"Risk Factors"'
-- '"Crohn Disease"'
-- '"Genetic Predisposition to Disease"'
-- '"Genome-Wide Association Study"'
-- '"Celiac Disease"'
-- '"Data Interpretation"'
-- '"Statistical"'
-- '"GTPase-Activating Proteins"'
-- '"Hydro-Lyases"'
-- '"Interleukin-18 Receptor beta Subunit"'
-- '"Protein Tyrosine Phosphatase"'
-- '"Non-Receptor Type 2"'
 doi: 10.1371/journal.pgen.1001283
 ---
-

@@ -1,8 +1,10 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: Cathelicidin suppresses lipid accumulation and hepatic steatosis by inhibition
   of the CD36 receptor
-date: '2016-01-01'
-publishDate: '2021-02-15T12:56:58.083706Z'
+subtitle: ''
+summary: ''
 authors:
 - D. Hoang-Yen Tran
 - D. Hoang-Ngoc Tran
@@ -30,6 +32,53 @@ authors:
 - R. L. Gallo
 - Z. Li
 - H. W. Koon
+tags:
+- '"Humans"'
+- '"Animals"'
+- '"Cell Differentiation"'
+- '"Gene Expression Regulation"'
+- '"Mice"'
+- '"Male"'
+- '"Mice"'
+- '"Inbred C57BL"'
+- '"3T3-L1 Cells"'
+- '"Adipocytes"'
+- '"Antimicrobial Cationic Peptides"'
+- '"CD36 Antigens"'
+- '"Diabetes Mellitus"'
+- '"Experimental"'
+- '"Diet"'
+- '"High-Fat"'
+- '"Disease Models"'
+- '"Animal"'
+- '"Fatty Liver"'
+- '"Hepatocytes"'
+- '"Immunohistochemistry"'
+- '"Lipid Metabolism"'
+- '"Liver"'
+- '"Obesity"'
+- '"Prediabetic State"'
+categories: []
+date: '2016-01-01'
+lastmod: 2021-11-01T08:41:24-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:24.384005Z'
 publication_types:
 - '2'
 abstract: 'BACKGROUND AND OBJECTIVES: Obesity is a global epidemic which increases
@@ -54,34 +103,6 @@ abstract: 'BACKGROUND AND OBJECTIVES: Obesity is a global epidemic which increas
   in adipocytes and hepatocytes, leading to a reduction of fat mass and hepatic steatosis
   in vivo. Circulating cathelicidin levels are associated with increased BMI. Our
   results demonstrate that cathelicidin modulates the development of obesity.'
-featured: false
 publication: '*International Journal of Obesity (2005)*'
-tags:
-- '"Humans"'
-- '"Male"'
-- '"Obesity"'
-- '"Animals"'
-- '"Disease Models"'
-- '"Animal"'
-- '"Mice"'
-- '"Mice"'
-- '"Inbred C57BL"'
-- '"Gene Expression Regulation"'
-- '"Cell Differentiation"'
-- '"3T3-L1 Cells"'
-- '"Adipocytes"'
-- '"Antimicrobial Cationic Peptides"'
-- '"CD36 Antigens"'
-- '"Diabetes Mellitus"'
-- '"Experimental"'
-- '"Diet"'
-- '"High-Fat"'
-- '"Fatty Liver"'
-- '"Hepatocytes"'
-- '"Immunohistochemistry"'
-- '"Lipid Metabolism"'
-- '"Liver"'
-- '"Prediabetic State"'
 doi: 10.1038/ijo.2016.90
 ---
-

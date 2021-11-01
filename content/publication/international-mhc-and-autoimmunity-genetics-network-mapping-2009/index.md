@@ -1,8 +1,10 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: Mapping of multiple susceptibility variants within the MHC region for 7 immune-mediated
   diseases
-date: '2009-11-01'
-publishDate: '2021-02-15T12:57:03.295725Z'
+subtitle: ''
+summary: ''
 authors:
 - International MHC
 - Autoimmunity Genetics Network
@@ -34,6 +36,39 @@ authors:
 - Peter K. Gregersen
 - Jorge R. Oksenberg
 - Stephen L. Hauser
+tags:
+- '"Databases"'
+- '"Genetic"'
+- '"Humans"'
+- '"Polymorphism"'
+- '"Single Nucleotide"'
+- '"Genetic Predisposition to Disease"'
+- '"Genetic Testing"'
+- '"Major Histocompatibility Complex"'
+- '"Immune System Diseases"'
+- '"Chromosome Mapping"'
+- '"HLA Antigens"'
+categories: []
+date: '2009-11-01'
+lastmod: 2021-11-01T08:41:15-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:14.863440Z'
 publication_types:
 - '2'
 abstract: The human MHC represents the strongest susceptibility locus for autoimmune
@@ -50,21 +85,7 @@ abstract: The human MHC represents the strongest susceptibility locus for autoim
   to identify independent secondary signals. The data demonstrate that MHC associations
   with autoimmune diseases result from complex, multilocus effects that span the entire
   region.
-featured: false
 publication: '*Proceedings of the National Academy of Sciences of the United States
   of America*'
-tags:
-- '"Humans"'
-- '"Genetic Predisposition to Disease"'
-- '"Polymorphism"'
-- '"Single Nucleotide"'
-- '"Chromosome Mapping"'
-- '"Major Histocompatibility Complex"'
-- '"Genetic Testing"'
-- '"Immune System Diseases"'
-- '"Databases"'
-- '"Genetic"'
-- '"HLA Antigens"'
 doi: 10.1073/pnas.0909307106
 ---
-

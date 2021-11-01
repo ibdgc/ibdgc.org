@@ -1,10 +1,47 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: 'Autoimmune diseases: insights from genome-wide association studies'
-date: '2008-10-01'
-publishDate: '2021-02-15T12:57:02.864134Z'
+subtitle: ''
+summary: ''
 authors:
 - Guillaume Lettre
 - John D. Rioux
+tags:
+- '"Humans"'
+- '"Crohn Disease"'
+- '"Genome-Wide Association Study"'
+- '"Genetic Predisposition to Disease"'
+- '"Risk Factors"'
+- '"Lupus Erythematosus"'
+- '"Systemic"'
+- '"Arthritis"'
+- '"Rheumatoid"'
+- '"Diabetes Mellitus"'
+- '"Type 1"'
+- '"Multiple Sclerosis"'
+- '"Autoimmune Diseases"'
+categories: []
+date: '2008-10-01'
+lastmod: 2021-11-01T08:41:34-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:33.919673Z'
 publication_types:
 - '2'
 abstract: "Autoimmune diseases occur when an individual's own immune system attacks\
@@ -27,22 +64,6 @@ abstract: "Autoimmune diseases occur when an individual's own immune system atta
   \ and highlight some of the outstanding challenges ahead. Finally, we open a discussion\
   \ on ways to best maximize the impact of these genetic discoveries where it matters\
   \ the most, that is for autoimmune disease patients."
-featured: false
 publication: '*Human Molecular Genetics*'
-tags:
-- '"Humans"'
-- '"Risk Factors"'
-- '"Crohn Disease"'
-- '"Genetic Predisposition to Disease"'
-- '"Genome-Wide Association Study"'
-- '"Autoimmune Diseases"'
-- '"Lupus Erythematosus"'
-- '"Systemic"'
-- '"Arthritis"'
-- '"Rheumatoid"'
-- '"Diabetes Mellitus"'
-- '"Type 1"'
-- '"Multiple Sclerosis"'
 doi: 10.1093/hmg/ddn246
 ---
-

@@ -1,7 +1,9 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: Genetic effects on the commensal microbiota in inflammatory bowel disease patients
-date: '2019-01-01'
-publishDate: '2021-02-15T12:57:09.214419Z'
+subtitle: ''
+summary: ''
 authors:
 - Hugues Aschard
 - Vincent Laville
@@ -17,6 +19,47 @@ authors:
 - Laurent Beaugerie
 - David Skurnik
 - Harry Sokol
+tags:
+- '"Humans"'
+- '"Polymorphism"'
+- '"Single Nucleotide"'
+- '"Inflammatory Bowel Diseases"'
+- '"Adult"'
+- '"Female"'
+- '"Male"'
+- '"Middle Aged"'
+- '"Genetic Predisposition to Disease"'
+- '"Genetic Variation"'
+- '"Nod2 Signaling Adaptor Protein"'
+- '"Genetic Association Studies"'
+- '"CARD Signaling Adaptor Proteins"'
+- '"Gastrointestinal Microbiome"'
+- '"Clostridiales"'
+- '"Faecalibacterium prausnitzii"'
+- '"Host Microbial Interactions"'
+- '"Models"'
+- '"Genetic"'
+categories: []
+date: '2019-01-01'
+lastmod: 2021-11-01T08:41:46-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:46.121150Z'
 publication_types:
 - '2'
 abstract: 'Several bacteria in the gut microbiota have been shown to be associated
@@ -36,29 +79,6 @@ abstract: 'Several bacteria in the gut microbiota have been shown to be associat
   variants were likely to be partially mediated by the microbiome. We confirmed these
   results in extensive simulation studies and sensitivity analyses using the association
   between NOD2 and F. prausnitzii as a case study.'
-featured: false
 publication: '*PLoS genetics*'
-tags:
-- '"Female"'
-- '"Humans"'
-- '"Male"'
-- '"Middle Aged"'
-- '"Adult"'
-- '"Genetic Predisposition to Disease"'
-- '"Polymorphism"'
-- '"Single Nucleotide"'
-- '"Genetic Association Studies"'
-- '"Inflammatory Bowel Diseases"'
-- '"Gastrointestinal Microbiome"'
-- '"Nod2 Signaling Adaptor Protein"'
-- '"Models"'
-- '"Genetic"'
-- '"Genetic Variation"'
-- '"CARD Signaling Adaptor Proteins"'
-- '"Clostridiales"'
-- '"Faecalibacterium prausnitzii"'
-- '"Host Microbial Interactions"'
-grcs: [toronto]
 doi: 10.1371/journal.pgen.1008018
 ---
-

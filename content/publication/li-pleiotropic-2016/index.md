@@ -1,8 +1,10 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: A Pleiotropic Missense Variant in SLC39A8 Is Associated With Crohn's Disease
   and Human Gut Microbiome Composition
-date: '2016-01-01'
-publishDate: '2021-02-15T12:56:54.490914Z'
+subtitle: ''
+summary: ''
 authors:
 - Dalin Li
 - Jean-Paul Achkar
@@ -44,6 +46,56 @@ authors:
 - Jonathan Braun
 - Dermot P. B. McGovern
 - Richard H. Duerr
+tags:
+- '"Humans"'
+- '"Colitis"'
+- '"Ulcerative"'
+- '"Crohn Disease"'
+- '"Inflammatory Bowel Diseases"'
+- '"Case-Control Studies"'
+- '"Female"'
+- '"Male"'
+- '"Genotype"'
+- '"Alleles"'
+- '"*Mutation"'
+- '"Missense"'
+- '"Risk Factors"'
+- '"Genetic Pleiotropy"'
+- '"Mutation"'
+- '"Missense"'
+- '"Microbiota"'
+- '"Gastrointestinal Microbiome"'
+- '"Genetics"'
+- '"*Genetics"'
+- '"*Inflammatory Bowel Diseases"'
+- '"*Microbiota"'
+- '"Cation Transport Proteins"'
+- '"Cation Transport Proteins/*genetics"'
+- '"Colitis"'
+- '"Ulcerative/*genetics/microbiology"'
+- '"Crohn Disease/*genetics/microbiology"'
+- '"Gastrointestinal Microbiome/*genetics"'
+categories: []
+date: '2016-01-01'
+lastmod: 2021-11-01T08:41:57-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:57.122292Z'
 publication_types:
 - '2'
 abstract: "BACKGROUND & AIMS: Genome-wide association studies have identified 200\
@@ -68,38 +120,6 @@ abstract: "BACKGROUND & AIMS: Genome-wide association studies have identified 20
   \ in CD patients (P = 9.24 × 10(-16)) and overweight individuals (P = 6.73 × 10(-16)).\
   \ CONCLUSIONS: Our results suggest that an SLC39A8-dependent shift in the gut microbiome\
   \ could explain its pleiotropic effects on multiple complex diseases including CD."
-featured: false
 publication: '*Gastroenterology*'
-tags:
-- '"Female"'
-- '"Humans"'
-- '"Male"'
-- '"Risk Factors"'
-- '"Case-Control Studies"'
-- '"Colitis"'
-- '"Ulcerative"'
-- '"Crohn Disease"'
-- '"Alleles"'
-- '"Genotype"'
-- '"Inflammatory Bowel Diseases"'
-- '"Mutation"'
-- '"Missense"'
-- '"Cation Transport Proteins"'
-- '"Gastrointestinal Microbiome"'
-- '"Genetic Pleiotropy"'
-- '"Genetics"'
-- '"Microbiota"'
-- '"*Mutation"'
-- '"Missense"'
-- '"*Genetics"'
-- '"*Inflammatory Bowel Diseases"'
-- '"*Microbiota"'
-- '"Cation Transport Proteins/*genetics"'
-- '"Colitis"'
-- '"Ulcerative/*genetics/microbiology"'
-- '"Crohn Disease/*genetics/microbiology"'
-- '"Gastrointestinal Microbiome/*genetics"'
-grcs: [mssm, pittsburgh]
 doi: 10.1053/j.gastro.2016.06.051
 ---
-

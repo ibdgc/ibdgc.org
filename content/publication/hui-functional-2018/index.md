@@ -1,8 +1,10 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: Functional variants in the LRRK2 gene confer shared effects on risk for Crohn's
   disease and Parkinson's disease
-date: '2018-01-01'
-publishDate: '2021-02-15T12:56:55.435244Z'
+subtitle: ''
+summary: ''
 authors:
 - Ken Y. Hui
 - Heriberto Fernandez-Hernandez
@@ -55,6 +57,59 @@ authors:
 - Eric E. Schadt
 - Judy H. Cho
 - Inga Peter
+tags:
+- '"Genome"'
+- '"Human"'
+- '"Humans"'
+- '"Crohn Disease"'
+- '"Autophagy"'
+- '"Genetic Predisposition to Disease"'
+- '"Phenotype"'
+- '"*Genetic Predisposition to Disease"'
+- '"Alleles"'
+- '"Gene Frequency"'
+- '"Genetic Variation"'
+- '"Odds Ratio"'
+- '"Risk Factors"'
+- '"Exome/genetics"'
+- '"Genetic Loci"'
+- '"Reproducibility of Results"'
+- '"Exome"'
+- '"Leucine-Rich Repeat Serine-Threonine Protein Kinase-2"'
+- '"Macrophages"'
+- '"*Genetic Variation"'
+- '"Crohn Disease/*enzymology/*genetics"'
+- '"Cytoskeleton"'
+- '"Cytoskeleton/metabolism"'
+- '"Gene Regulatory Networks"'
+- '"Leucine-Rich Repeat Serine-Threonine Protein Kinase-2/*genetics"'
+- '"Macrophages/metabolism/pathology"'
+- '"Open Reading Frames"'
+- '"Open Reading Frames/genetics"'
+- '"Parkinson Disease"'
+- '"Parkinson Disease/*enzymology/*genetics"'
+- '"Whole Exome Sequencing"'
+categories: []
+date: '2018-01-01'
+lastmod: 2021-11-01T08:41:59-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:59.493382Z'
 publication_types:
 - '2'
 abstract: Crohn's disease (CD), a form of inflammatory bowel disease, has a higher
@@ -78,41 +133,6 @@ abstract: Crohn's disease (CD), a form of inflammatory bowel disease, has a high
   deactivating LRRK2. The presence of shared LRRK2 alleles in CD and PD provides refined
   insight into disease mechanisms and may have major implications for the treatment
   of these two seemingly unrelated diseases.
-featured: false
 publication: '*Science Translational Medicine*'
-tags:
-- '"Humans"'
-- '"Risk Factors"'
-- '"Reproducibility of Results"'
-- '"Crohn Disease"'
-- '"Genetic Predisposition to Disease"'
-- '"Alleles"'
-- '"Gene Frequency"'
-- '"Genome"'
-- '"Human"'
-- '"Phenotype"'
-- '"Genetic Loci"'
-- '"Autophagy"'
-- '"Cytoskeleton"'
-- '"Exome"'
-- '"Gene Regulatory Networks"'
-- '"Genetic Variation"'
-- '"Leucine-Rich Repeat Serine-Threonine Protein Kinase-2"'
-- '"Macrophages"'
-- '"Odds Ratio"'
-- '"Open Reading Frames"'
-- '"Parkinson Disease"'
-- '"Whole Exome Sequencing"'
-- '"*Genetic Predisposition to Disease"'
-- '"*Genetic Variation"'
-- '"Crohn Disease/*enzymology/*genetics"'
-- '"Cytoskeleton/metabolism"'
-- '"Exome/genetics"'
-- '"Leucine-Rich Repeat Serine-Threonine Protein Kinase-2/*genetics"'
-- '"Macrophages/metabolism/pathology"'
-- '"Open Reading Frames/genetics"'
-- '"Parkinson Disease/*enzymology/*genetics"'
-grcs: [mssm, cedars, dcc]
 doi: 10.1126/scitranslmed.aai7795
 ---
-

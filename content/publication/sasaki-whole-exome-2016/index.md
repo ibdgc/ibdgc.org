@@ -1,8 +1,10 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: Whole-exome Sequence Analysis Implicates Rare Il17REL Variants in Familial
   and Sporadic Inflammatory Bowel Disease
-date: '2016-01-01'
-publishDate: '2021-02-15T12:57:09.319351Z'
+subtitle: ''
+summary: ''
 authors:
 - Mark M. Sasaki
 - Andrew D. Skol
@@ -18,6 +20,48 @@ authors:
 - Judy H. Cho
 - Barbara S. Kirschner
 - Kenan Onel
+tags:
+- '"Humans"'
+- '"Polymorphism"'
+- '"Single Nucleotide"'
+- '"Inflammatory Bowel Diseases"'
+- '"Adult"'
+- '"Aged"'
+- '"Case-Control Studies"'
+- '"Female"'
+- '"Male"'
+- '"Middle Aged"'
+- '"Young Adult"'
+- '"Genetic Predisposition to Disease"'
+- '"Phenotype"'
+- '"Adolescent"'
+- '"Prognosis"'
+- '"Pedigree"'
+- '"Exome"'
+- '"Receptors"'
+- '"Interleukin-17"'
+- '"High-Throughput Nucleotide Sequencing"'
+categories: []
+date: '2016-01-01'
+lastmod: 2021-11-01T08:41:46-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:46.517278Z'
 publication_types:
 - '2'
 abstract: 'BACKGROUND: Rare variants (textless1%) likely contribute significantly
@@ -44,29 +88,6 @@ abstract: 'BACKGROUND: Rare variants (textless1%) likely contribute significantl
   the general population may be important modifiers of disease risk for patients with
   a family history, and that genetic testing of these variants may be warranted in
   this patient subset.'
-featured: false
 publication: '*Inflammatory Bowel Diseases*'
-tags:
-- '"Aged"'
-- '"Female"'
-- '"Humans"'
-- '"Male"'
-- '"Middle Aged"'
-- '"Adult"'
-- '"Young Adult"'
-- '"Adolescent"'
-- '"Case-Control Studies"'
-- '"Genetic Predisposition to Disease"'
-- '"Polymorphism"'
-- '"Single Nucleotide"'
-- '"High-Throughput Nucleotide Sequencing"'
-- '"Inflammatory Bowel Diseases"'
-- '"Phenotype"'
-- '"Exome"'
-- '"Prognosis"'
-- '"Pedigree"'
-- '"Receptors"'
-- '"Interleukin-17"'
 doi: 10.1097/MIB.0000000000000610
 ---
-

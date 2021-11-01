@@ -1,8 +1,10 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: Mutations in tetratricopeptide repeat domain 7A result in a severe form of
   very early onset inflammatory bowel disease
-date: '2014-04-01'
-publishDate: '2021-02-15T12:56:56.114430Z'
+subtitle: ''
+summary: ''
 authors:
 - Yaron Avitzur
 - Conghui Guo
@@ -44,6 +46,64 @@ authors:
 - Christoph Klein
 - Scott B. Snapper
 - Aleixo M. Muise
+tags:
+- '"Humans"'
+- '"Inflammatory Bowel Diseases"'
+- '"Female"'
+- '"Male"'
+- '"Severity of Illness Index"'
+- '"Signal Transduction"'
+- '"Genetic Predisposition to Disease"'
+- '"Phenotype"'
+- '"Cell Line"'
+- '"IBD"'
+- '"Genetic Association Studies"'
+- '"Age of Onset"'
+- '"Prognosis"'
+- '"Pedigree"'
+- '"Autoimmunity"'
+- '"Child"'
+- '"Preschool"'
+- '"1-Phosphatidylinositol 4-Kinase"'
+- '"Apoptosis"'
+- '"Cell Adhesion"'
+- '"DNA Mutational Analysis"'
+- '"Enterocolitis"'
+- '"Enterocytes"'
+- '"Exome"'
+- '"Heterozygote"'
+- '"Infant"'
+- '"Infant"'
+- '"Newborn"'
+- '"Intestinal Atresia"'
+- '"Intestine"'
+- '"Lymphocytes"'
+- '"Mutation"'
+- '"Protein Binding"'
+- '"Proteins"'
+- '"RNA Interference"'
+- '"Transfection"'
+categories: []
+date: '2014-04-01'
+lastmod: 2021-11-01T08:41:19-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:19.371869Z'
 publication_types:
 - '2'
 abstract: 'BACKGROUND & AIMS: Very early onset inflammatory bowel diseases (VEOIBD),
@@ -68,45 +128,6 @@ abstract: 'BACKGROUND & AIMS: Very early onset inflammatory bowel diseases (VEOI
   enterocytes and T cells that lead to severe apoptotic enterocolitis. Defects in
   the phosphatidylinositol 4-kinase-TTC7A-EFR3 homolog B pathway are involved in the
   pathogenesis of VEOIBD.'
-featured: false
 publication: '*Gastroenterology*'
-tags:
-- '"IBD"'
-- '"Female"'
-- '"Humans"'
-- '"Male"'
-- '"Genetic Predisposition to Disease"'
-- '"Child"'
-- '"Preschool"'
-- '"Genetic Association Studies"'
-- '"Inflammatory Bowel Diseases"'
-- '"Phenotype"'
-- '"Heterozygote"'
-- '"Mutation"'
-- '"Signal Transduction"'
-- '"Exome"'
-- '"Infant"'
-- '"Prognosis"'
-- '"Severity of Illness Index"'
-- '"1-Phosphatidylinositol 4-Kinase"'
-- '"Age of Onset"'
-- '"Apoptosis"'
-- '"Autoimmunity"'
-- '"Cell Adhesion"'
-- '"Cell Line"'
-- '"DNA Mutational Analysis"'
-- '"Enterocolitis"'
-- '"Enterocytes"'
-- '"Infant"'
-- '"Newborn"'
-- '"Intestinal Atresia"'
-- '"Intestine"'
-- '"Lymphocytes"'
-- '"Pedigree"'
-- '"Protein Binding"'
-- '"Proteins"'
-- '"RNA Interference"'
-- '"Transfection"'
 doi: 10.1053/j.gastro.2014.01.015
 ---
-

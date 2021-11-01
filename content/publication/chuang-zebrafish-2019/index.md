@@ -1,8 +1,10 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: Zebrafish modeling of intestinal injury, bacterial exposures and medications
   defines epithelial in vivo responses relevant to human inflammatory bowel disease
-date: '2019-01-01'
-publishDate: '2021-02-15T12:57:08.681355Z'
+subtitle: ''
+summary: ''
 authors:
 - Ling-Shiang Chuang
 - Joshua Morrison
@@ -19,6 +21,52 @@ authors:
 - Yashoda Sharma
 - Jaime Chu
 - Judy H. Cho
+tags:
+- '"Humans"'
+- '"Animals"'
+- '"Inflammatory Bowel Diseases"'
+- '"Autophagy"'
+- '"IBD"'
+- '"Dextran Sulfate"'
+- "\"Crohn's disease\""
+- '"Intestines"'
+- '"Enterocytes"'
+- '"Disease Models"'
+- '"Animal"'
+- '"Acids"'
+- '"Bacterial Proteins"'
+- '"Dinoprostone"'
+- '"DSS injury model"'
+- '"Epithelial barrier"'
+- '"Epithelium"'
+- '"Lysosome-rich enterocytes"'
+- '"Lysosomes"'
+- '"Models"'
+- '"Biological"'
+- '"Mucins"'
+- '"Mucus"'
+- '"Zebrafish"'
+categories: []
+date: '2019-01-01'
+lastmod: 2021-11-01T08:41:49-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:49.227702Z'
 publication_types:
 - '2'
 abstract: 'Genome-wide association studies have identified over 200 genomic loci associated
@@ -36,34 +84,6 @@ abstract: 'Genome-wide association studies have identified over 200 genomic loci
   it represents an ideal model system with which to test established and new IBD therapies
   targeted to the epithelial barrier.This article has an associated First Person interview
   with the first author of the paper.'
-featured: false
 publication: '*Disease Models & Mechanisms*'
-tags:
-- "\"Crohn's disease\""
-- '"IBD"'
-- '"Humans"'
-- '"Animals"'
-- '"Disease Models"'
-- '"Animal"'
-- '"Inflammatory Bowel Diseases"'
-- '"Intestines"'
-- '"Autophagy"'
-- '"Enterocytes"'
-- '"Dextran Sulfate"'
-- '"Acids"'
-- '"Bacterial Proteins"'
-- '"Dinoprostone"'
-- '"DSS injury model"'
-- '"Epithelial barrier"'
-- '"Epithelium"'
-- '"Lysosome-rich enterocytes"'
-- '"Lysosomes"'
-- '"Models"'
-- '"Biological"'
-- '"Mucins"'
-- '"Mucus"'
-- '"Zebrafish"'
-grcs: [mssm]
 doi: 10.1242/dmm.037432
 ---
-

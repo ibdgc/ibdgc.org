@@ -1,8 +1,10 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: 'Brief Report: The Genetic Profile of Rheumatoid Factor-Positive Polyarticular
   Juvenile Idiopathic Arthritis Resembles That of Adult Rheumatoid Arthritis'
-date: '2018-01-01'
-publishDate: '2021-02-15T12:57:04.787107Z'
+subtitle: ''
+summary: ''
 authors:
 - Anne Hinks
 - Miranda C. Marion
@@ -35,6 +37,53 @@ authors:
 - Susan D. Thompson
 - Wendy Thomson
 - Sampath Prahalad
+tags:
+- '"Humans"'
+- '"Polymorphism"'
+- '"Single Nucleotide"'
+- '"Adult"'
+- '"Female"'
+- '"Male"'
+- '"Genotype"'
+- '"Phenotype"'
+- '"Adolescent"'
+- '"Child"'
+- '"Arthritis"'
+- '"Rheumatoid"'
+- '"Logistic Models"'
+- '"*Genetic Profile"'
+- '"Arthritis"'
+- '"Juvenile"'
+- '"Arthritis"'
+- '"Juvenile/*genetics/immunology"'
+- '"Arthritis"'
+- '"Rheumatoid/*genetics/immunology"'
+- '"Autoantibodies"'
+- '"Autoantibodies/*genetics"'
+- '"Genetic Profile"'
+- '"Rheumatoid Factor"'
+- '"Rheumatoid Factor/*genetics/immunology"'
+categories: []
+date: '2018-01-01'
+lastmod: 2021-11-01T08:42:01-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:42:00.748526Z'
 publication_types:
 - '2'
 abstract: 'OBJECTIVE: Juvenile idiopathic arthritis (JIA) comprises 7 heterogeneous
@@ -60,34 +109,6 @@ abstract: 'OBJECTIVE: Juvenile idiopathic arthritis (JIA) comprises 7 heterogene
   JIA categories and thus appears to be a childhood-onset presentation of autoantibody-positive
   RA. These findings suggest common disease mechanisms, which could lead to novel
   therapeutic targets and shared treatment strategies.'
-featured: false
 publication: '*Arthritis & Rheumatology (Hoboken, N.J.)*'
-tags:
-- '"Female"'
-- '"Humans"'
-- '"Male"'
-- '"Adult"'
-- '"Adolescent"'
-- '"Child"'
-- '"Polymorphism"'
-- '"Single Nucleotide"'
-- '"Genotype"'
-- '"Phenotype"'
-- '"Logistic Models"'
-- '"Arthritis"'
-- '"Rheumatoid"'
-- '"Arthritis"'
-- '"Juvenile"'
-- '"Autoantibodies"'
-- '"Genetic Profile"'
-- '"Rheumatoid Factor"'
-- '"*Genetic Profile"'
-- '"Arthritis"'
-- '"Juvenile/*genetics/immunology"'
-- '"Arthritis"'
-- '"Rheumatoid/*genetics/immunology"'
-- '"Autoantibodies/*genetics"'
-- '"Rheumatoid Factor/*genetics/immunology"'
 doi: 10.1002/art.40443
 ---
-

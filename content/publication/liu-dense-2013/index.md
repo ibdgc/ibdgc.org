@@ -1,8 +1,10 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: Dense genotyping of immune-related disease regions identifies nine new risk
   loci  for primary sclerosing cholangitis.
-date: '2013-06-01'
-publishDate: '2021-02-15T12:57:06.753310Z'
+subtitle: ''
+summary: ''
 authors:
 - Jimmy Z. Liu
 - Johannes Roksund Hov
@@ -88,6 +90,42 @@ authors:
 - Andre Franke
 - Carl A. Anderson
 - Tom H. Karlsen
+tags:
+- '"Humans"'
+- '"Polymorphism"'
+- '"Single Nucleotide"'
+- '"Genome-Wide Association Study"'
+- '"Case-Control Studies"'
+- '"Gene Frequency"'
+- '"Genotyping Techniques"'
+- '"Risk Factors"'
+- '"Cholangitis"'
+- '"Sclerosing/*genetics/immunology"'
+- '"Genetic Loci/immunology"'
+- '"Genetic Pleiotropy"'
+- '"Linkage Disequilibrium"'
+- '"Oligonucleotide Array Sequence Analysis"'
+categories: []
+date: '2013-06-01'
+lastmod: 2021-11-01T08:41:10-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:09.781329Z'
 publication_types:
 - '2'
 abstract: Primary sclerosing cholangitis (PSC) is a severe liver disease of unknown
@@ -104,23 +142,6 @@ abstract: Primary sclerosing cholangitis (PSC) is a severe liver disease of unkn
   PSC risk loci. Together with network analyses, these findings add to the genetic
   risk map of PSC and expand on the relationship between PSC and other immune-mediated
   diseases.
-featured: false
 publication: '*Nature genetics*'
-tags:
-- '"Humans"'
-- '"Risk Factors"'
-- '"Case-Control Studies"'
-- '"Genome-Wide Association Study"'
-- '"Genotyping Techniques"'
-- '"Polymorphism"'
-- '"Single Nucleotide"'
-- '"Gene Frequency"'
-- '"Genetic Pleiotropy"'
-- '"Linkage Disequilibrium"'
-- '"Oligonucleotide Array Sequence Analysis"'
-- '"Cholangitis"'
-- '"Sclerosing/*genetics/immunology"'
-- '"Genetic Loci/immunology"'
 doi: 10.1038/ng.2616
 ---
-

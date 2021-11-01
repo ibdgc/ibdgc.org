@@ -1,8 +1,10 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: The role of the Toll receptor pathway in susceptibility to inflammatory bowel
   diseases.
-date: '2007-07-01'
-publishDate: '2021-02-15T12:57:05.005838Z'
+subtitle: ''
+summary: ''
 authors:
 - P. L. De Jager
 - D. Franchimont
@@ -31,6 +33,45 @@ authors:
 - E. Louis
 - D. A. Hafler
 - J. D. Rioux
+tags:
+- '"Humans"'
+- '"Female"'
+- '"Male"'
+- '"Signal Transduction"'
+- '"Genotype"'
+- '"*Genetic Predisposition to Disease"'
+- '"Gene Frequency"'
+- '"*Polymorphism"'
+- '"Single Nucleotide"'
+- '"Haplotypes"'
+- '"Inflammatory Bowel Diseases/*genetics/immunology"'
+- '"Longitudinal Studies"'
+- '"Membrane Glycoproteins/*genetics/metabolism"'
+- '"Receptors"'
+- '"Interleukin-1/*genetics/metabolism"'
+- '"Toll-Like Receptor 4/*genetics/immunology/metabolism"'
+- '"Toll-Like Receptors/genetics/metabolism"'
+categories: []
+date: '2007-07-01'
+lastmod: 2021-11-01T08:41:05-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:05.663277Z'
 publication_types:
 - '2'
 abstract: "The intestinal flora has long been thought to play a role either in initiating\
@@ -49,26 +90,6 @@ abstract: "The intestinal flora has long been thought to play a role either in i
   \ of IBD. Our analysis, therefore, offers additional evidence that the TLR4 pathway\
   \ - in this case, TLR4 and its signaling molecule TIRAP - plays a role in susceptibility\
   \ to IBD."
-featured: false
 publication: '*Genes and immunity*'
-tags:
-- '"Female"'
-- '"Humans"'
-- '"Male"'
-- '"Longitudinal Studies"'
-- '"Gene Frequency"'
-- '"Genotype"'
-- '"Haplotypes"'
-- '"Signal Transduction"'
-- '"*Genetic Predisposition to Disease"'
-- '"*Polymorphism"'
-- '"Single Nucleotide"'
-- '"Inflammatory Bowel Diseases/*genetics/immunology"'
-- '"Membrane Glycoproteins/*genetics/metabolism"'
-- '"Receptors"'
-- '"Interleukin-1/*genetics/metabolism"'
-- '"Toll-Like Receptor 4/*genetics/immunology/metabolism"'
-- '"Toll-Like Receptors/genetics/metabolism"'
 doi: 10.1038/sj.gene.6364398
 ---
-

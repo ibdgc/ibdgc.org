@@ -1,9 +1,11 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: Perianal Crohn's Disease is Associated with Distal Colonic Disease, Stricturing
   Disease Behavior, IBD-Associated Serologies and Genetic Variation in the JAK-STAT
   Pathway
-date: '2016-04-01'
-publishDate: '2021-02-15T12:56:57.099901Z'
+subtitle: ''
+summary: ''
 authors:
 - Manreet Kaur
 - Deepa Panikkath
@@ -20,6 +22,51 @@ authors:
 - Phillip Fleshner
 - Stephan R. Targan
 - Dermot P. B. McGovern
+tags:
+- '"Humans"'
+- '"Crohn Disease"'
+- '"Inflammatory Bowel Diseases"'
+- '"Adult"'
+- '"Case-Control Studies"'
+- '"Female"'
+- '"Male"'
+- '"Young Adult"'
+- '"Genotype"'
+- '"Phenotype"'
+- '"Colonic Diseases"'
+- '"Genetic Variation"'
+- '"Adolescent"'
+- '"Prognosis"'
+- '"Follow-Up Studies"'
+- '"Antibodies"'
+- '"Bacterial"'
+- '"Anus Diseases"'
+- '"Constriction"'
+- '"Pathologic"'
+- '"Enzyme-Linked Immunosorbent Assay"'
+- '"Janus Kinases"'
+- '"STAT3 Transcription Factor"'
+categories: []
+date: '2016-04-01'
+lastmod: 2021-11-01T08:41:22-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:21.734348Z'
 publication_types:
 - '2'
 abstract: "BACKGROUND: Perianal Crohn's Disease (pCD) is a particularly severe phenotype\
@@ -46,32 +93,6 @@ abstract: "BACKGROUND: Perianal Crohn's Disease (pCD) is a particularly severe p
   \ × 10). Pathway analyses implicated the JAK-Stat pathway (pc = 3.72 × 10). CONCLUSION:\
   \ We have identified associations between pCD, more distal colonic inflammation,\
   \ Crohn's disease-associated serologies, and genetic variation in the JAK-Stat pathway."
-featured: false
 publication: '*Inflammatory Bowel Diseases*'
-tags:
-- '"Female"'
-- '"Humans"'
-- '"Male"'
-- '"Adult"'
-- '"Young Adult"'
-- '"Adolescent"'
-- '"Case-Control Studies"'
-- '"Crohn Disease"'
-- '"Genotype"'
-- '"Inflammatory Bowel Diseases"'
-- '"Phenotype"'
-- '"Genetic Variation"'
-- '"Follow-Up Studies"'
-- '"Prognosis"'
-- '"Antibodies"'
-- '"Bacterial"'
-- '"Anus Diseases"'
-- '"Colonic Diseases"'
-- '"Constriction"'
-- '"Pathologic"'
-- '"Enzyme-Linked Immunosorbent Assay"'
-- '"Janus Kinases"'
-- '"STAT3 Transcription Factor"'
 doi: 10.1097/MIB.0000000000000705
 ---
-

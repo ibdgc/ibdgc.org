@@ -1,8 +1,10 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: A Frameshift in CSF2RB Predominant Among Ashkenazi Jews Increases Risk for
   Crohn's Disease and Reduces Monocyte Signaling via GM-CSF
-date: '2016-01-01'
-publishDate: '2021-02-15T12:56:55.084018Z'
+subtitle: ''
+summary: ''
 authors:
 - Ling-Shiang Chuang
 - Nicole Villaverde
@@ -64,6 +66,57 @@ authors:
 - Dermot P. B. McGovern
 - Inga Peter
 - Judy H. Cho
+tags:
+- '"Humans"'
+- '"Crohn Disease"'
+- '"Case-Control Studies"'
+- '"Female"'
+- '"Male"'
+- '"Signal Transduction"'
+- '"IBD"'
+- '"Risk Factors"'
+- '"Inflammatory Bowel Disease"'
+- '"Monocytes"'
+- '"Intestines"'
+- '"Jews"'
+- '"Risk Factor"'
+- '"Jews/*genetics"'
+- '"*Ethnic Variation"'
+- '"*Frameshift Mutation"'
+- '"*IBD"'
+- '"*Inflammatory Bowel Disease"'
+- '"*Risk Factor"'
+- '"Crohn Disease/ethnology/*genetics/pathology"'
+- '"Cytokine Receptor Common beta Subunit"'
+- '"Cytokine Receptor Common beta Subunit/*genetics"'
+- '"Ethnic Variation"'
+- '"Frameshift Mutation"'
+- '"Granulocyte-Macrophage Colony-Stimulating Factor"'
+- '"Granulocyte-Macrophage Colony-Stimulating Factor/*metabolism"'
+- '"Intestines/cytology/pathology"'
+- '"Monocytes/metabolism"'
+- '"Signal Transduction/genetics"'
+categories: []
+date: '2016-01-01'
+lastmod: 2021-11-01T08:42:03-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:42:02.885399Z'
 publication_types:
 - '2'
 abstract: "BACKGROUND & AIMS: Crohn's disease (CD) has the highest prevalence in Ashkenazi\
@@ -96,39 +149,6 @@ abstract: "BACKGROUND & AIMS: Crohn's disease (CD) has the highest prevalence in
   \ in CSF2RB. Intestinal monocytes from carriers of this mutation had reduced responses\
   \ to granulocyte-macrophage colony-stimulating factor, providing an additional mechanism\
   \ for alterations to the innate immune response in individuals with CD."
-featured: false
 publication: '*Gastroenterology*'
-tags:
-- '"IBD"'
-- '"Female"'
-- '"Humans"'
-- '"Male"'
-- '"Risk Factors"'
-- '"Case-Control Studies"'
-- '"Crohn Disease"'
-- '"Risk Factor"'
-- '"Cytokine Receptor Common beta Subunit"'
-- '"Ethnic Variation"'
-- '"Frameshift Mutation"'
-- '"Granulocyte-Macrophage Colony-Stimulating Factor"'
-- '"Inflammatory Bowel Disease"'
-- '"Intestines"'
-- '"Jews"'
-- '"Monocytes"'
-- '"Signal Transduction"'
-- '"Jews/*genetics"'
-- '"*Risk Factor"'
-- '"*Ethnic Variation"'
-- '"*Frameshift Mutation"'
-- '"*IBD"'
-- '"*Inflammatory Bowel Disease"'
-- '"Crohn Disease/ethnology/*genetics/pathology"'
-- '"Cytokine Receptor Common beta Subunit/*genetics"'
-- '"Granulocyte-Macrophage Colony-Stimulating Factor/*metabolism"'
-- '"Intestines/cytology/pathology"'
-- '"Monocytes/metabolism"'
-- '"Signal Transduction/genetics"'
-grcs: [mssm, pittsburgh]
 doi: 10.1053/j.gastro.2016.06.045
 ---
-

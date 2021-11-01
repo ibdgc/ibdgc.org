@@ -1,8 +1,10 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: Assessing health status in inflammatory bowel disease using a novel single-item
   numeric rating scale
-date: '2013-05-01'
-publishDate: '2021-02-15T12:56:59.613946Z'
+subtitle: ''
+summary: ''
 authors:
 - Bijal Surti
 - Brennan Spiegel
@@ -13,6 +15,44 @@ authors:
 - Stephan R. Targan
 - Dermot P. B. McGovern
 - Gil Y. Melmed
+tags:
+- '"Humans"'
+- '"Colitis"'
+- '"Ulcerative"'
+- '"Crohn Disease"'
+- '"Adult"'
+- '"Aged"'
+- '"Female"'
+- '"Male"'
+- '"Middle Aged"'
+- '"Prospective Studies"'
+- '"Severity of Illness Index"'
+- '"Young Adult"'
+- '"C-Reactive Protein"'
+- '"Health Status"'
+- '"Quality of Life"'
+- '"Remission Induction"'
+categories: []
+date: '2013-05-01'
+lastmod: 2021-11-01T08:41:28-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:28.443295Z'
 publication_types:
 - '2'
 abstract: "BACKGROUND: Current instruments used to measure disease activity and health-related\
@@ -38,25 +78,6 @@ abstract: "BACKGROUND: Current instruments used to measure disease activity and 
   \ reliable and responsive to change. CONCLUSIONS: The NRS is a valid, reliable,\
   \ and responsive measure that may be useful to evaluate patients with CD and possibly\
   \ UC."
-featured: false
 publication: '*Digestive Diseases and Sciences*'
-tags:
-- '"Aged"'
-- '"Female"'
-- '"Health Status"'
-- '"Humans"'
-- '"Male"'
-- '"Middle Aged"'
-- '"Adult"'
-- '"Young Adult"'
-- '"Colitis"'
-- '"Ulcerative"'
-- '"Crohn Disease"'
-- '"Severity of Illness Index"'
-- '"C-Reactive Protein"'
-- '"Prospective Studies"'
-- '"Quality of Life"'
-- '"Remission Induction"'
 doi: 10.1007/s10620-012-2500-1
 ---
-

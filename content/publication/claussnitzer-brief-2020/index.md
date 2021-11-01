@@ -1,7 +1,9 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: A brief history of human disease genetics
-date: '2020-01-01'
-publishDate: '2021-02-15T12:57:08.259786Z'
+subtitle: ''
+summary: ''
 authors:
 - Melina Claussnitzer
 - Judy H. Cho
@@ -21,6 +23,28 @@ authors:
 - Jay Shendure
 - Nicole Soranzo
 - Mark I. McCarthy
+tags: []
+categories: []
+date: '2020-01-01'
+lastmod: 2021-11-01T08:41:36-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:36.623591Z'
 publication_types:
 - '2'
 abstract: A primary goal of human genetics is to identify DNA sequence variants that
@@ -32,9 +56,6 @@ abstract: A primary goal of human genetics is to identify DNA sequence variants 
   many rare and common diseases and driven development of novel preventative and therapeutic
   strategies. Medical innovation will increasingly focus on delivering care tailored
   to individual patterns of genetic predisposition.
-featured: false
 publication: '*Nature*'
-grcs: [dcc]
 doi: 10.1038/s41586-019-1879-7
 ---
-

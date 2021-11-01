@@ -1,7 +1,9 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: 'Defining the role of the MHC in autoimmunity: a review and pooled analysis'
-date: '2008-04-01'
-publishDate: '2021-02-15T12:57:02.112638Z'
+subtitle: ''
+summary: ''
 authors:
 - Michelle M. A. Fernando
 - Christine R. Stevens
@@ -11,6 +13,45 @@ authors:
 - Robert M. Plenge
 - Timothy J. Vyse
 - John D. Rioux
+tags:
+- '"Humans"'
+- '"Colitis"'
+- '"Ulcerative"'
+- '"Crohn Disease"'
+- '"Genetic Predisposition to Disease"'
+- '"Alleles"'
+- '"Haplotypes"'
+- '"Linkage Disequilibrium"'
+- '"Lupus Erythematosus"'
+- '"Systemic"'
+- '"Major Histocompatibility Complex"'
+- '"Arthritis"'
+- '"Rheumatoid"'
+- '"Autoimmunity"'
+- '"Diabetes Mellitus"'
+- '"Type 1"'
+- '"Multiple Sclerosis"'
+categories: []
+date: '2008-04-01'
+lastmod: 2021-11-01T08:41:13-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:13.197040Z'
 publication_types:
 - '2'
 abstract: The major histocompatibility complex (MHC) is one of the most extensively
@@ -30,26 +71,6 @@ abstract: The major histocompatibility complex (MHC) is one of the most extensiv
   variants that previously have not been appreciated. Furthermore, we find a number
   of interesting commonalities and differences across diseases that implicate both
   general and disease-specific pathogenetic mechanisms in autoimmunity.
-featured: false
 publication: '*PLoS genetics*'
-tags:
-- '"Humans"'
-- '"Colitis"'
-- '"Ulcerative"'
-- '"Crohn Disease"'
-- '"Genetic Predisposition to Disease"'
-- '"Alleles"'
-- '"Haplotypes"'
-- '"Major Histocompatibility Complex"'
-- '"Autoimmunity"'
-- '"Linkage Disequilibrium"'
-- '"Lupus Erythematosus"'
-- '"Systemic"'
-- '"Arthritis"'
-- '"Rheumatoid"'
-- '"Diabetes Mellitus"'
-- '"Type 1"'
-- '"Multiple Sclerosis"'
 doi: 10.1371/journal.pgen.1000024
 ---
-

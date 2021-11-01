@@ -1,8 +1,10 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: Common variants at five new loci associated with early-onset inflammatory bowel
   disease
-date: '2009-12-01'
-publishDate: '2021-02-15T12:56:58.299144Z'
+subtitle: ''
+summary: ''
 authors:
 - Marcin Imielinski
 - Robert N. Baldassano
@@ -122,6 +124,42 @@ authors:
 - Mark S. Silverberg
 - Jack Satsangi
 - Hakon Hakonarson
+tags:
+- '"Genome"'
+- '"Human"'
+- '"Humans"'
+- '"Colitis"'
+- '"Ulcerative"'
+- '"Genome-Wide Association Study"'
+- '"Inflammatory Bowel Diseases"'
+- '"Genetic Variation"'
+- '"Age of Onset"'
+- '"Colitis"'
+- '"Ulcerative/genetics"'
+- '"Chromosome Mapping"'
+- '"*Genetic Variation"'
+- '"Inflammatory Bowel Diseases/epidemiology/*genetics"'
+categories: []
+date: '2009-12-01'
+lastmod: 2021-11-01T08:41:59-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:59.226405Z'
 publication_types:
 - '2'
 abstract: The inflammatory bowel diseases (IBD) Crohn's disease and ulcerative colitis
@@ -137,23 +175,6 @@ abstract: The inflammatory bowel diseases (IBD) Crohn's disease and ulcerative c
   detected associations at 23 of 32 loci previously implicated in adult-onset Crohn's
   disease and at 8 of 17 loci implicated in adult-onset ulcerative colitis, highlighting
   the close pathogenetic relationship between early- and adult-onset IBD.
-featured: false
 publication: '*Nature Genetics*'
-tags:
-- '"Humans"'
-- '"Colitis"'
-- '"Ulcerative"'
-- '"Genome-Wide Association Study"'
-- '"Inflammatory Bowel Diseases"'
-- '"Genome"'
-- '"Human"'
-- '"Chromosome Mapping"'
-- '"Genetic Variation"'
-- '"Age of Onset"'
-- '"Colitis"'
-- '"Ulcerative/genetics"'
-- '"*Genetic Variation"'
-- '"Inflammatory Bowel Diseases/epidemiology/*genetics"'
 doi: 10.1038/ng.489
 ---
-

@@ -1,8 +1,10 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: Genome-wide association identifies multiple ulcerative colitis susceptibility
   loci
-date: '2010-04-01'
-publishDate: '2021-02-15T12:56:57.867980Z'
+subtitle: ''
+summary: ''
 authors:
 - Dermot P. B. McGovern
 - Agnès Gardet
@@ -59,6 +61,46 @@ authors:
 - Mark J. Daly
 - John D. Rioux
 - Mark Seielstad
+tags:
+- '"Humans"'
+- '"Polymorphism"'
+- '"Single Nucleotide"'
+- '"Colitis"'
+- '"Ulcerative"'
+- '"Colitis"'
+- '"Ulcerative/*genetics"'
+- '"Genome-Wide Association Study"'
+- '"Genetic Predisposition to Disease"'
+- '"*Polymorphism"'
+- '"Single Nucleotide"'
+- '"Membrane Proteins"'
+- '"Meta-Analysis as Topic"'
+- '"Membrane Proteins/genetics"'
+- '"Receptors"'
+- '"IgG"'
+- '"Receptors"'
+- '"IgG/genetics"'
+categories: []
+date: '2010-04-01'
+lastmod: 2021-11-01T08:41:56-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:56.289976Z'
 publication_types:
 - '2'
 abstract: Ulcerative colitis is a chronic, relapsing inflammatory condition of the
@@ -77,27 +119,6 @@ abstract: Ulcerative colitis is a chronic, relapsing inflammatory condition of t
   showed that roughly half of the known Crohn's disease associations are shared with
   ulcerative colitis. These data implicate approximately 30 loci in ulcerative colitis,
   thereby providing insight into disease pathogenesis.
-featured: false
 publication: '*Nature Genetics*'
-tags:
-- '"Humans"'
-- '"Colitis"'
-- '"Ulcerative"'
-- '"Genetic Predisposition to Disease"'
-- '"Genome-Wide Association Study"'
-- '"Polymorphism"'
-- '"Single Nucleotide"'
-- '"Membrane Proteins"'
-- '"Meta-Analysis as Topic"'
-- '"Receptors"'
-- '"IgG"'
-- '"Colitis"'
-- '"Ulcerative/*genetics"'
-- '"*Polymorphism"'
-- '"Single Nucleotide"'
-- '"Membrane Proteins/genetics"'
-- '"Receptors"'
-- '"IgG/genetics"'
 doi: 10.1038/ng.549
 ---
-

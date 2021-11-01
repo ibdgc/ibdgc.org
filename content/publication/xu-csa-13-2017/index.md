@@ -1,8 +1,10 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: CSA13 inhibits colitis-associated intestinal fibrosis via a formyl peptide
   receptor like-1 mediated HMG-CoA reductase pathway
-date: '2017-01-01'
-publishDate: '2021-02-15T12:57:01.023896Z'
+subtitle: ''
+summary: ''
 authors:
 - Chunlan Xu
 - Sally Ghali
@@ -20,6 +22,50 @@ authors:
 - Tressia C. Hing
 - Dermot P. B. McGovern
 - Hon Wai Koon
+tags:
+- '"Humans"'
+- '"Animals"'
+- '"Inflammatory Bowel Diseases"'
+- '"Intestinal Mucosa"'
+- '"Mice"'
+- '"Signal Transduction"'
+- '"Gene Expression"'
+- '"RNA"'
+- '"Messenger"'
+- '"Colitis"'
+- '"Metabolome"'
+- '"Gastrointestinal Microbiome"'
+- '"Disease Models"'
+- '"Animal"'
+- '"Metabolomics"'
+- '"Anti-Bacterial Agents"'
+- '"Fibrosis"'
+- '"Hydroxymethylglutaryl CoA Reductases"'
+- '"Receptors"'
+- '"Formyl Peptide"'
+- '"Receptors"'
+- '"Lipoxin"'
+categories: []
+date: '2017-01-01'
+lastmod: 2021-11-01T08:41:51-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:51.759918Z'
 publication_types:
 - '2'
 abstract: Many Crohn's disease (CD) patients develop intestinal strictures, which
@@ -41,31 +87,6 @@ abstract: Many Crohn's disease (CD) patients develop intestinal strictures, whic
   is associated with severe mucosal disease activity and intestinal stricture. CSA13
   inhibits intestinal fibrosis via FPRL1-dependent modulation of HMG-CoA reductase
   pathway.
-featured: false
 publication: '*Scientific Reports*'
-tags:
-- '"Humans"'
-- '"Animals"'
-- '"Disease Models"'
-- '"Animal"'
-- '"Mice"'
-- '"Inflammatory Bowel Diseases"'
-- '"Gastrointestinal Microbiome"'
-- '"RNA"'
-- '"Messenger"'
-- '"Signal Transduction"'
-- '"Intestinal Mucosa"'
-- '"Colitis"'
-- '"Metabolomics"'
-- '"Metabolome"'
-- '"Anti-Bacterial Agents"'
-- '"Fibrosis"'
-- '"Gene Expression"'
-- '"Hydroxymethylglutaryl CoA Reductases"'
-- '"Receptors"'
-- '"Formyl Peptide"'
-- '"Receptors"'
-- '"Lipoxin"'
 doi: 10.1038/s41598-017-16753-z
 ---
-

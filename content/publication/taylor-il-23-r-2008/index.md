@@ -1,7 +1,9 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: IL23R haplotypes provide a large population attributable risk for Crohn's disease
-date: '2008-09-01'
-publishDate: '2021-02-15T12:57:00.809344Z'
+subtitle: ''
+summary: ''
 authors:
 - Kent D. Taylor
 - Stephan R. Targan
@@ -11,6 +13,40 @@ authors:
 - Emebet Mengesha
 - Lily King
 - Jerome I. Rotter
+tags:
+- '"Humans"'
+- '"Polymorphism"'
+- '"Single Nucleotide"'
+- '"Crohn Disease"'
+- '"Case-Control Studies"'
+- '"Cohort Studies"'
+- '"Genetic Predisposition to Disease"'
+- '"Phenotype"'
+- '"Haplotypes"'
+- '"Receptors"'
+- '"Interleukin"'
+- '"Los Angeles"'
+categories: []
+date: '2008-09-01'
+lastmod: 2021-11-01T08:41:31-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:31.172182Z'
 publication_types:
 - '2'
 abstract: "BACKGROUND: The IL-23 pathway plays a pivotal role in the development of\
@@ -35,21 +71,6 @@ abstract: "BACKGROUND: The IL-23 pathway plays a pivotal role in the development
   \ studies will be but an important chapter in the story of unraveling the genetic\
   \ contribution to CD, rather than the final chapter that brings clarity to all the\
   \ plot twists of a complicated story."
-featured: false
 publication: '*Inflammatory Bowel Diseases*'
-tags:
-- '"Humans"'
-- '"Case-Control Studies"'
-- '"Crohn Disease"'
-- '"Genetic Predisposition to Disease"'
-- '"Polymorphism"'
-- '"Single Nucleotide"'
-- '"Receptors"'
-- '"Interleukin"'
-- '"Haplotypes"'
-- '"Phenotype"'
-- '"Cohort Studies"'
-- '"Los Angeles"'
 doi: 10.1002/ibd.20478
 ---
-

@@ -1,5 +1,5 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+# Documentation: https://wowchemy.com/docs/managing-content/
 
 title: Immunoglobulin A Targets a Unique Subset of the Microbiota in Inflammatory
   Bowel Disease
@@ -23,15 +23,15 @@ authors:
 - Richard A. Flavell
 - J. C. Clemente
 tags:
-- '"microbiome"'
 - '"Crohn’s disease"'
 - '"inflammatory bowel disease"'
 - '"ulcerative colitis"'
 - '"dysbiosis"'
 - '"immunoglobulin A"'
+- '"microbiome"'
 categories: []
 date: '2021-01-01'
-lastmod: 2021-02-15T06:36:05-06:00
+lastmod: 2021-11-01T08:41:45-04:00
 featured: false
 draft: false
 
@@ -49,7 +49,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-15T12:57:10.087209Z'
+publishDate: '2021-11-01T12:41:45.391688Z'
 publication_types:
 - '2'
 abstract: The immunopathogenesis of inflammatory bowel disease (IBD) has been attributed

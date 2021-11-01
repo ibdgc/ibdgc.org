@@ -1,8 +1,10 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: Genetic variants synthesize to produce paneth cell phenotypes that define subtypes
   of Crohn's disease
-date: '2014-01-01'
-publishDate: '2021-02-15T12:56:59.927126Z'
+subtitle: ''
+summary: ''
 authors:
 - Kelli L. VanDussen
 - Ta-Chiang Liu
@@ -17,6 +19,56 @@ authors:
 - Ramnik J. Xavier
 - Dermot P. B. McGovern
 - Thaddeus S. Stappenbeck
+tags:
+- '"Humans"'
+- '"Polymorphism"'
+- '"Single Nucleotide"'
+- '"inflammatory bowel disease"'
+- '"Crohn Disease"'
+- '"Autophagy-Related Proteins"'
+- '"Female"'
+- '"Male"'
+- '"Cohort Studies"'
+- '"Genetic Predisposition to Disease"'
+- '"Genotype"'
+- '"Phenotype"'
+- '"Alleles"'
+- '"Nod2 Signaling Adaptor Protein"'
+- '"IBD"'
+- '"CD"'
+- "\"Crohn's disease\""
+- '"Inflammatory Bowel Disease"'
+- '"UC"'
+- '"ulcerative colitis"'
+- '"Carrier Proteins"'
+- '"Retrospective Studies"'
+- '"Paneth Cells"'
+- '"Diagnosis"'
+- '"Granuloma"'
+- '"Pathogenesis"'
+- '"Prognostic Factor"'
+- '"Secretory Vesicles"'
+categories: []
+date: '2014-01-01'
+lastmod: 2021-11-01T08:41:29-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:29.638499Z'
 publication_types:
 - '2'
 abstract: "BACKGROUND & AIMS: Genetic susceptibility loci for Crohn's disease (CD)\
@@ -44,37 +96,6 @@ abstract: "BACKGROUND & AIMS: Genetic susceptibility loci for Crohn's disease (C
   \ after surgery. CONCLUSIONS: Histologic analysis of Paneth cell phenotypes can\
   \ be used to divide patients with CD into subgroups with distinct pathognomonic\
   \ and clinical features."
-featured: false
 publication: '*Gastroenterology*'
-tags:
-- "\"Crohn's disease\""
-- '"IBD"'
-- '"Female"'
-- '"Humans"'
-- '"Male"'
-- '"Crohn Disease"'
-- '"Genetic Predisposition to Disease"'
-- '"Polymorphism"'
-- '"Single Nucleotide"'
-- '"Alleles"'
-- '"Genotype"'
-- '"Phenotype"'
-- '"Nod2 Signaling Adaptor Protein"'
-- '"Inflammatory Bowel Disease"'
-- '"inflammatory bowel disease"'
-- '"Autophagy-Related Proteins"'
-- '"Carrier Proteins"'
-- '"Retrospective Studies"'
-- '"Paneth Cells"'
-- '"Cohort Studies"'
-- '"CD"'
-- '"Diagnosis"'
-- '"Granuloma"'
-- '"Pathogenesis"'
-- '"Prognostic Factor"'
-- '"Secretory Vesicles"'
-- '"UC"'
-- '"ulcerative colitis"'
 doi: 10.1053/j.gastro.2013.09.048
 ---
-

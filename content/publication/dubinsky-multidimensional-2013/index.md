@@ -1,8 +1,10 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: Multidimensional prognostic risk assessment identifies association between
   IL12B variation and surgery in Crohn's disease
-date: '2013-07-01'
-publishDate: '2021-02-15T12:56:55.671895Z'
+subtitle: ''
+summary: ''
 authors:
 - Marla C. Dubinsky
 - Subra Kugathasan
@@ -26,6 +28,54 @@ authors:
 - Stephan R. Targan
 - Kent D. Taylor
 - Dermot P. B. McGovern
+tags:
+- '"Humans"'
+- '"Polymorphism"'
+- '"Single Nucleotide"'
+- '"Crohn Disease"'
+- '"Genome-Wide Association Study"'
+- '"Adult"'
+- '"Aged"'
+- '"Female"'
+- '"Male"'
+- '"Middle Aged"'
+- '"Young Adult"'
+- '"Genetic Predisposition to Disease"'
+- '"Genotype"'
+- '"Adolescent"'
+- '"Child"'
+- '"Prognosis"'
+- '"Time Factors"'
+- '"Genetic Loci"'
+- '"Child"'
+- '"Preschool"'
+- '"Chromosome Mapping"'
+- '"Risk Assessment"'
+- '"Follow-Up Studies"'
+- '"Infant"'
+- '"Interleukin-12 Subunit p40"'
+- '"Survival Rate"'
+categories: []
+date: '2013-07-01'
+lastmod: 2021-11-01T08:41:50-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:50.339556Z'
 publication_types:
 - '2'
 abstract: "BACKGROUND: The ability to identify patients with Crohn's disease (CD)\
@@ -51,35 +101,6 @@ abstract: "BACKGROUND: The ability to identify patients with Crohn's disease (CD
   \ and clinical risk factors. IL12B is independently associated with need and time\
   \ to early surgery in CD patients and justifies the investigation of novel and existing\
   \ therapies that affect this pathway."
-featured: false
 publication: '*Inflammatory Bowel Diseases*'
-tags:
-- '"Aged"'
-- '"Female"'
-- '"Humans"'
-- '"Male"'
-- '"Middle Aged"'
-- '"Adult"'
-- '"Young Adult"'
-- '"Adolescent"'
-- '"Time Factors"'
-- '"Child"'
-- '"Crohn Disease"'
-- '"Genetic Predisposition to Disease"'
-- '"Genome-Wide Association Study"'
-- '"Interleukin-12 Subunit p40"'
-- '"Polymorphism"'
-- '"Single Nucleotide"'
-- '"Genotype"'
-- '"Child"'
-- '"Preschool"'
-- '"Genetic Loci"'
-- '"Chromosome Mapping"'
-- '"Risk Assessment"'
-- '"Follow-Up Studies"'
-- '"Infant"'
-- '"Prognosis"'
-- '"Survival Rate"'
 doi: 10.1097/MIB.0b013e318281f275
 ---
-

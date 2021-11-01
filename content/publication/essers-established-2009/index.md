@@ -1,8 +1,10 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: Established genetic risk factors do not distinguish early and later onset Crohn's
   disease.
-date: '2009-10-01'
-publishDate: '2021-02-15T12:57:06.650337Z'
+subtitle: ''
+summary: ''
 authors:
 - Jonah B. Essers
 - Jessica J. Lee
@@ -10,6 +12,59 @@ authors:
 - Christine R. Stevens
 - Richard J. Grand
 - Mark J. Daly
+tags:
+- '"Humans"'
+- '"Adult"'
+- '"Case-Control Studies"'
+- '"Female"'
+- '"Male"'
+- '"Young Adult"'
+- '"Cohort Studies"'
+- '"Genotype"'
+- '"Phenotype"'
+- '"Adolescent"'
+- '"Child"'
+- '"Crohn Disease/*genetics"'
+- '"Age of Onset"'
+- '"Chromosomes"'
+- '"Human"'
+- '"Pair 1/genetics"'
+- '"Chromosomes"'
+- '"Human"'
+- '"Pair 12/genetics"'
+- '"Chromosomes"'
+- '"Human"'
+- '"Pair 5/genetics"'
+- '"Chromosomes"'
+- '"Human"'
+- '"Pair 7/genetics"'
+- '"Colitis"'
+- '"Ulcerative/genetics"'
+- '"Genetic Markers/*genetics"'
+- '"Genetic Variation/*genetics"'
+- '"Prognosis"'
+- '"Time Factors"'
+categories: []
+date: '2009-10-01'
+lastmod: 2021-11-01T08:41:09-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:09.391695Z'
 publication_types:
 - '2'
 abstract: "BACKGROUND: Early-onset disease is frequently examined in genetic studies\
@@ -29,40 +84,6 @@ abstract: "BACKGROUND: Early-onset disease is frequently examined in genetic stu
   \ of genome-wide association data in early and late onset cohorts and suggest that,\
   \ rather than established risk variants, independent variants or environmental exposures\
   \ should be sought as modulators of age of onset."
-featured: false
 publication: '*Inflammatory bowel diseases*'
-tags:
-- '"Female"'
-- '"Humans"'
-- '"Male"'
-- '"Adult"'
-- '"Young Adult"'
-- '"Adolescent"'
-- '"Time Factors"'
-- '"Child"'
-- '"Case-Control Studies"'
-- '"Genotype"'
-- '"Phenotype"'
-- '"Prognosis"'
-- '"Age of Onset"'
-- '"Cohort Studies"'
-- '"Crohn Disease/*genetics"'
-- '"Colitis"'
-- '"Ulcerative/genetics"'
-- '"Chromosomes"'
-- '"Human"'
-- '"Pair 5/genetics"'
-- '"Genetic Variation/*genetics"'
-- '"Chromosomes"'
-- '"Human"'
-- '"Pair 1/genetics"'
-- '"Chromosomes"'
-- '"Human"'
-- '"Pair 12/genetics"'
-- '"Chromosomes"'
-- '"Human"'
-- '"Pair 7/genetics"'
-- '"Genetic Markers/*genetics"'
 doi: 10.1002/ibd.20922
 ---
-

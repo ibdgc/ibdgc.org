@@ -1,8 +1,10 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: Phenotype-stratified genetic linkage study demonstrates that IBD2 is an extensive
   ulcerative colitis locus.
-date: '2006-03-01'
-publishDate: '2021-02-15T12:57:05.331950Z'
+subtitle: ''
+summary: ''
 authors:
 - Jean-Paul Achkar
 - Themistocles Dassopoulos
@@ -27,6 +29,49 @@ authors:
 - Stephen B. Hanauer
 - Judy H. Cho
 - Dan L. Nicolae
+tags:
+- '"Humans"'
+- '"Colitis"'
+- '"Ulcerative/*genetics"'
+- '"Crohn Disease/genetics"'
+- '"Cohort Studies"'
+- '"*Chromosome Mapping"'
+- '"*Phenotype"'
+- '"Adaptor Proteins"'
+- '"Signal Transducing/genetics"'
+- '"Cell Cycle Proteins/*genetics"'
+- '"Colon/immunology"'
+- '"Genetic Predisposition to Disease/genetics"'
+- '"Genetic Variation"'
+- '"Intestinal Mucosa/immunology"'
+- '"Intestine"'
+- '"Small/immunology"'
+- '"Intracellular Signaling Peptides and Proteins/*genetics"'
+- '"Lod Score"'
+- '"Nod1 Signaling Adaptor Protein"'
+- '"Nod2 Signaling Adaptor Protein"'
+- '"Saccharomyces cerevisiae Proteins/*genetics"'
+categories: []
+date: '2006-03-01'
+lastmod: 2021-11-01T08:41:06-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:06.477697Z'
 publication_types:
 - '2'
 abstract: "OBJECTIVES: The complete elucidation of genetic variants that contribute\
@@ -49,30 +94,6 @@ abstract: "OBJECTIVES: The complete elucidation of genetic variants that contrib
   \ CONCLUSIONS: Analyses incorporating disease location in IBD increase the power\
   \ and enhance the accuracy of genomic localization. Our data provide strong evidence\
   \ that extensive ulcerative colitis represents a pathophysiologic subset of IBD."
-featured: false
 publication: '*The American journal of gastroenterology*'
-tags:
-- '"Humans"'
-- '"Nod2 Signaling Adaptor Protein"'
-- '"Genetic Variation"'
-- '"Cohort Studies"'
-- '"Lod Score"'
-- '"Colitis"'
-- '"Ulcerative/*genetics"'
-- '"*Chromosome Mapping"'
-- '"*Phenotype"'
-- '"Adaptor Proteins"'
-- '"Signal Transducing/genetics"'
-- '"Cell Cycle Proteins/*genetics"'
-- '"Colon/immunology"'
-- '"Crohn Disease/genetics"'
-- '"Genetic Predisposition to Disease/genetics"'
-- '"Intestinal Mucosa/immunology"'
-- '"Intestine"'
-- '"Small/immunology"'
-- '"Intracellular Signaling Peptides and Proteins/*genetics"'
-- '"Nod1 Signaling Adaptor Protein"'
-- '"Saccharomyces cerevisiae Proteins/*genetics"'
 doi: 10.1111/j.1572-0241.2006.00451.x
 ---
-

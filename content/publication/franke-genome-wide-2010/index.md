@@ -1,8 +1,10 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: Genome-wide meta-analysis increases to 71 the number of confirmed Crohn's disease
   susceptibility loci
-date: '2010-12-01'
-publishDate: '2021-02-15T12:56:55.881171Z'
+subtitle: ''
+summary: ''
 authors:
 - Andre Franke
 - Dermot P. B. McGovern
@@ -100,6 +102,45 @@ authors:
 - Hakon Hakonarson
 - Mark J. Daly
 - Miles Parkes
+tags:
+- '"Computational Biology"'
+- '"Genome"'
+- '"Human"'
+- '"Humans"'
+- '"Crohn Disease"'
+- '"Genome-Wide Association Study"'
+- '"Genetic Predisposition to Disease"'
+- '"*Genetic Predisposition to Disease"'
+- '"Genetic Variation"'
+- '"Genetic Loci"'
+- '"Reproducibility of Results"'
+- '"Genetic Linkage"'
+- '"*Genome-Wide Association Study"'
+- '"Crohn Disease/etiology/*genetics"'
+- '"Genetic Loci/*genetics"'
+- '"Genome"'
+- '"Human/*genetics"'
+categories: []
+date: '2010-12-01'
+lastmod: 2021-11-01T08:42:02-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:42:01.695564Z'
 publication_types:
 - '2'
 abstract: We undertook a meta-analysis of six Crohn's disease genome-wide association
@@ -112,26 +153,6 @@ abstract: We undertook a meta-analysis of six Crohn's disease genome-wide associ
   DENND1B, BACH2 and TAGAP. Combined with previously confirmed loci, these results
   identify 71 distinct loci with genome-wide significant evidence for association
   with Crohn's disease.
-featured: false
 publication: '*Nature Genetics*'
-tags:
-- '"Humans"'
-- '"Reproducibility of Results"'
-- '"Crohn Disease"'
-- '"Genetic Predisposition to Disease"'
-- '"Genome-Wide Association Study"'
-- '"Genome"'
-- '"Human"'
-- '"Genetic Loci"'
-- '"Genetic Linkage"'
-- '"Genetic Variation"'
-- '"Computational Biology"'
-- '"*Genetic Predisposition to Disease"'
-- '"*Genome-Wide Association Study"'
-- '"Crohn Disease/etiology/*genetics"'
-- '"Genetic Loci/*genetics"'
-- '"Genome"'
-- '"Human/*genetics"'
 doi: 10.1038/ng.717
 ---
-

@@ -1,8 +1,10 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: The TNF family member TL1A induces IL-22 secretion in committed human Th17
   cells via IL-9 induction
-date: '2017-01-01'
-publishDate: '2021-02-15T12:56:59.717501Z'
+subtitle: ''
+summary: ''
 authors:
 - Lisa S. Thomas
 - Stephan R. Targan
@@ -13,6 +15,42 @@ authors:
 - Emebet Mengesha
 - Dermot P. B. McGovern
 - Kathrin S. Michelsen
+tags:
+- '"Gene Expression Profiling"'
+- '"Humans"'
+- '"Crohn Disease"'
+- '"Th17 Cells"'
+- '"Interferon-gamma"'
+- '"Interleukins"'
+- '"Cell Separation"'
+- '"cytokines"'
+- '"Immunologic Memory"'
+- '"inflammation"'
+- '"Interleukin-9"'
+- '"Leukocyte Common Antigens"'
+- '"T-helper cell responses"'
+- '"Tumor Necrosis Factor Ligand Superfamily Member 15"'
+categories: []
+date: '2017-01-01'
+lastmod: 2021-11-01T08:41:29-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:28.826582Z'
 publication_types:
 - '2'
 abstract: TL1A contributes to the pathogenesis of several chronic inflammatory diseases,
@@ -33,23 +71,6 @@ abstract: TL1A contributes to the pathogenesis of several chronic inflammatory d
   differentially induces expression of TH17 effector cytokines IL-17, -9, and -22
   and provides a potential target for therapeutic intervention in TH17-driven chronic
   inflammatory diseases.
-featured: false
 publication: '*Journal of Leukocyte Biology*'
-tags:
-- '"cytokines"'
-- '"Humans"'
-- '"Crohn Disease"'
-- '"Interferon-gamma"'
-- '"Tumor Necrosis Factor Ligand Superfamily Member 15"'
-- '"Th17 Cells"'
-- '"Interleukins"'
-- '"Gene Expression Profiling"'
-- '"Cell Separation"'
-- '"Immunologic Memory"'
-- '"inflammation"'
-- '"Interleukin-9"'
-- '"Leukocyte Common Antigens"'
-- '"T-helper cell responses"'
 doi: 10.1189/jlb.3A0316-129R
 ---
-

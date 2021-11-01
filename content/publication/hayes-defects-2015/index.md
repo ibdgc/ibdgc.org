@@ -1,8 +1,10 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: Defects in NADPH Oxidase Genes NOX1 and DUOX2 in Very Early Onset Inflammatory
   Bowel Disease
-date: '2015-09-01'
-publishDate: '2021-02-15T12:56:57.979233Z'
+subtitle: ''
+summary: ''
 authors:
 - Patti Hayes
 - Sandeep Dhillon
@@ -27,6 +29,34 @@ authors:
 - Billy Bourke
 - Aleixo A. Muise
 - Ulla G. Knaus
+tags:
+- '"Reactive Oxygen Species"'
+- '"Inflammatory Bowel Disease"'
+- '"DUOX2"'
+- '"NADPH Oxidase"'
+- '"NOX1"'
+- '"VEOIBD"'
+categories: []
+date: '2015-09-01'
+lastmod: 2021-11-01T08:41:24-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:24.064884Z'
 publication_types:
 - '2'
 abstract: 'BACKGROUND & AIMS: Defects in intestinal innate defense systems predispose
@@ -52,15 +82,6 @@ abstract: 'BACKGROUND & AIMS: Defects in intestinal innate defense systems predi
   CONCLUSIONS: This study identifies the first inactivating missense variants in NOX1
   and DUOX2 associated with VEOIBD. Defective ROS production from intestinal epithelial
   cells constitutes a risk factor for developing VEOIBD.'
-featured: false
 publication: '*Cellular and Molecular Gastroenterology and Hepatology*'
-tags:
-- '"Reactive Oxygen Species"'
-- '"Inflammatory Bowel Disease"'
-- '"DUOX2"'
-- '"NADPH Oxidase"'
-- '"NOX1"'
-- '"VEOIBD"'
 doi: 10.1016/j.jcmgh.2015.06.005
 ---
-

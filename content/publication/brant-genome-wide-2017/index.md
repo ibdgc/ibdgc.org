@@ -1,8 +1,10 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: Genome-Wide Association Study Identifies African-Specific Susceptibility Loci
   in African Americans With Inflammatory Bowel Disease
-date: '2017-01-01'
-publishDate: '2021-02-15T12:56:53.797569Z'
+subtitle: ''
+summary: ''
 authors:
 - Steven R. Brant
 - David T. Okou
@@ -65,6 +67,98 @@ authors:
 - Michael E. Zwick
 - Dermot P. B. McGovern
 - Subra Kugathasan
+tags:
+- '"Humans"'
+- '"Polymorphism"'
+- '"Single Nucleotide"'
+- '"Colitis"'
+- '"Ulcerative"'
+- '"Colitis"'
+- '"Ulcerative/*genetics"'
+- '"Crohn Disease"'
+- '"Genome-Wide Association Study"'
+- '"Case-Control Studies"'
+- '"Genetic Predisposition to Disease"'
+- '"African Americans"'
+- '"European Continental Ancestry Group"'
+- '"European Continental Ancestry Group/genetics"'
+- '"Crohn Disease/*genetics"'
+- '"Genotyping Techniques"'
+- '"Genetic Predisposition to Disease/*genetics"'
+- '"Repressor Proteins/*genetics"'
+- '"SNP"'
+- '"HLA-DRB1 Chains"'
+- '"Receptors"'
+- '"Interleukin"'
+- '"Receptors"'
+- '"Prostaglandin E"'
+- '"EP4 Subtype"'
+- '"HLA-DQ alpha-Chains"'
+- '"Interleukin-12 Subunit p40"'
+- '"HLA-DRB1 Chains/*genetics"'
+- '"Risk Factor"'
+- '"African Americans/*genetics"'
+- '"Receptors"'
+- '"Interleukin/genetics"'
+- '"*Risk Factor"'
+- '"*Genetic Analysis"'
+- '"*SNP"'
+- '"*Trans-Ethnic"'
+- '"Adenylyl Cyclases"'
+- '"Adenylyl Cyclases/genetics"'
+- '"Cell Adhesion Molecules"'
+- '"Neuronal"'
+- '"Cell Adhesion Molecules"'
+- '"Neuronal/*genetics"'
+- '"Genetic Analysis"'
+- '"GPI-Linked Proteins"'
+- '"GPI-Linked Proteins/genetics"'
+- '"HLA-DQ alpha-Chains/genetics"'
+- '"Interleukin-12 Subunit p40/genetics"'
+- '"KCNQ2 Potassium Channel"'
+- '"KCNQ2 Potassium Channel/genetics"'
+- '"Receptors"'
+- '"Chemokine"'
+- '"Receptors"'
+- '"Chemokine/genetics"'
+- '"Receptors"'
+- '"CXCR6"'
+- '"Receptors"'
+- '"Prostaglandin E"'
+- '"EP4 Subtype/genetics"'
+- '"Receptors"'
+- '"Virus"'
+- '"Receptors"'
+- '"Virus/genetics"'
+- '"Repressor Proteins"'
+- '"Sorting Nexins"'
+- '"Sorting Nexins/genetics"'
+- '"Tenascin"'
+- '"Tenascin/genetics"'
+- '"Trans-Ethnic"'
+- '"Ubiquitin Thiolesterase"'
+- '"Ubiquitin Thiolesterase/*genetics"'
+categories: []
+date: '2017-01-01'
+lastmod: 2021-11-01T08:42:03-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:42:03.199093Z'
 publication_types:
 - '2'
 abstract: "BACKGROUND & AIMS: The inflammatory bowel diseases (IBD) ulcerative colitis\
@@ -94,80 +188,6 @@ abstract: "BACKGROUND & AIMS: The inflammatory bowel diseases (IBD) ulcerative c
   \ associated with IBD risk in only people of African descent demonstrates the importance\
   \ of studying the genetics of IBD and other complex diseases in populations beyond\
   \ those of European ancestry."
-featured: false
 publication: '*Gastroenterology*'
-tags:
-- '"Humans"'
-- '"Adenylyl Cyclases"'
-- '"African Americans"'
-- '"Case-Control Studies"'
-- '"Cell Adhesion Molecules"'
-- '"Neuronal"'
-- '"Colitis"'
-- '"Ulcerative"'
-- '"Crohn Disease"'
-- '"European Continental Ancestry Group"'
-- '"Genetic Analysis"'
-- '"Genetic Predisposition to Disease"'
-- '"Genome-Wide Association Study"'
-- '"Genotyping Techniques"'
-- '"GPI-Linked Proteins"'
-- '"HLA-DQ alpha-Chains"'
-- '"HLA-DRB1 Chains"'
-- '"Interleukin-12 Subunit p40"'
-- '"KCNQ2 Potassium Channel"'
-- '"Polymorphism"'
-- '"Single Nucleotide"'
-- '"Receptors"'
-- '"Chemokine"'
-- '"Receptors"'
-- '"CXCR6"'
-- '"Receptors"'
-- '"Interleukin"'
-- '"Receptors"'
-- '"Prostaglandin E"'
-- '"EP4 Subtype"'
-- '"Receptors"'
-- '"Virus"'
-- '"Repressor Proteins"'
-- '"Risk Factor"'
-- '"SNP"'
-- '"Sorting Nexins"'
-- '"Tenascin"'
-- '"Trans-Ethnic"'
-- '"Ubiquitin Thiolesterase"'
-- '"Colitis"'
-- '"Ulcerative/*genetics"'
-- '"Receptors"'
-- '"Interleukin/genetics"'
-- '"European Continental Ancestry Group/genetics"'
-- '"Crohn Disease/*genetics"'
-- '"Genetic Predisposition to Disease/*genetics"'
-- '"HLA-DRB1 Chains/*genetics"'
-- '"*Genetic Analysis"'
-- '"*Risk Factor"'
-- '"*SNP"'
-- '"*Trans-Ethnic"'
-- '"Adenylyl Cyclases/genetics"'
-- '"African Americans/*genetics"'
-- '"Cell Adhesion Molecules"'
-- '"Neuronal/*genetics"'
-- '"GPI-Linked Proteins/genetics"'
-- '"HLA-DQ alpha-Chains/genetics"'
-- '"Interleukin-12 Subunit p40/genetics"'
-- '"KCNQ2 Potassium Channel/genetics"'
-- '"Receptors"'
-- '"Chemokine/genetics"'
-- '"Receptors"'
-- '"Prostaglandin E"'
-- '"EP4 Subtype/genetics"'
-- '"Receptors"'
-- '"Virus/genetics"'
-- '"Repressor Proteins/*genetics"'
-- '"Sorting Nexins/genetics"'
-- '"Tenascin/genetics"'
-- '"Ubiquitin Thiolesterase/*genetics"'
-grcs: [cedars, rutgers]
 doi: 10.1053/j.gastro.2016.09.032
 ---
-

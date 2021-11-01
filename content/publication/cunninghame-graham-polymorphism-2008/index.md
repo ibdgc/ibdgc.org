@@ -1,8 +1,10 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: Polymorphism at the TNF superfamily gene TNFSF4 confers susceptibility to systemic
   lupus erythematosus
-date: '2008-01-01'
-publishDate: '2021-02-15T12:57:01.783910Z'
+subtitle: ''
+summary: ''
 authors:
 - Deborah S. Cunninghame Graham
 - Robert R. Graham
@@ -15,6 +17,42 @@ authors:
 - David Altshuler
 - Timothy W. Behrens
 - Timothy J. Vyse
+tags:
+- '"Polymorphism"'
+- '"Single Nucleotide"'
+- '"Promoter Regions"'
+- '"Genetic"'
+- '"Polymorphism"'
+- '"Genetic"'
+- '"Genetic Predisposition to Disease"'
+- '"Haplotypes"'
+- '"Cells"'
+- '"Cultured"'
+- '"Lupus Erythematosus"'
+- '"Systemic"'
+- '"United Kingdom"'
+- '"OX40 Ligand"'
+categories: []
+date: '2008-01-01'
+lastmod: 2021-11-01T08:41:49-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:49.592238Z'
 publication_types:
 - '2'
 abstract: Systemic lupus erythematosus (SLE) is a multisystem complex autoimmune disease
@@ -32,23 +70,6 @@ abstract: Systemic lupus erythematosus (SLE) is a multisystem complex autoimmune
   TNFSF4 and the TNFSF4 transcript. We hypothesize that increased expression of TNFSF4
   predisposes to SLE either by quantitatively augmenting T cell-APC interaction or
   by influencing the functional consequences of T cell activation via TNFRSF4.
-featured: false
 publication: '*Nature Genetics*'
-tags:
-- '"United Kingdom"'
-- '"Genetic Predisposition to Disease"'
-- '"Polymorphism"'
-- '"Single Nucleotide"'
-- '"Haplotypes"'
-- '"Cells"'
-- '"Cultured"'
-- '"Polymorphism"'
-- '"Genetic"'
-- '"Lupus Erythematosus"'
-- '"Systemic"'
-- '"OX40 Ligand"'
-- '"Promoter Regions"'
-- '"Genetic"'
 doi: 10.1038/ng.2007.47
 ---
-

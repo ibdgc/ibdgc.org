@@ -1,8 +1,10 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: Fucosyltransferase 2 (FUT2) non-secretor status is associated with Crohn's
   disease
-date: '2010-09-01'
-publishDate: '2021-02-15T12:56:59.072605Z'
+subtitle: ''
+summary: ''
 authors:
 - Dermot P. B. McGovern
 - Michelle R. Jones
@@ -26,6 +28,45 @@ authors:
 - Stephan R. Targan
 - Jerome I. Rotter
 - International IBD Genetics Consortium
+tags:
+- '"Humans"'
+- '"Polymorphism"'
+- '"Single Nucleotide"'
+- '"Crohn Disease"'
+- '"Genome-Wide Association Study"'
+- '"Adult"'
+- '"Aged"'
+- '"Female"'
+- '"Male"'
+- '"Middle Aged"'
+- '"Young Adult"'
+- '"Cohort Studies"'
+- '"Adolescent"'
+- '"Child"'
+- '"Child"'
+- '"Preschool"'
+- '"Fucosyltransferases"'
+categories: []
+date: '2010-09-01'
+lastmod: 2021-11-01T08:41:27-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:26.746404Z'
 publication_types:
 - '2'
 abstract: Genetic variation in both innate and adaptive immune systems is associated
@@ -48,26 +89,6 @@ abstract: Genetic variation in both innate and adaptive immune systems is associ
   four SNPs and CD in the recently published CD GWAS meta-analysis (rs602662, P=0.001).
   These findings strongly implicate this locus in CD susceptibility and highlight
   the role of the mucus layer in the development of CD.
-featured: false
 publication: '*Human Molecular Genetics*'
-tags:
-- '"Aged"'
-- '"Female"'
-- '"Humans"'
-- '"Male"'
-- '"Middle Aged"'
-- '"Adult"'
-- '"Young Adult"'
-- '"Adolescent"'
-- '"Child"'
-- '"Crohn Disease"'
-- '"Genome-Wide Association Study"'
-- '"Polymorphism"'
-- '"Single Nucleotide"'
-- '"Child"'
-- '"Preschool"'
-- '"Cohort Studies"'
-- '"Fucosyltransferases"'
 doi: 10.1093/hmg/ddq248
 ---
-

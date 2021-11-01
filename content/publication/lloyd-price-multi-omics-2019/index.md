@@ -1,7 +1,9 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: Multi-omics of the gut microbial ecosystem in inflammatory bowel diseases
-date: '2019-05-01'
-publishDate: '2021-02-15T12:56:57.753808Z'
+subtitle: ''
+summary: ''
 authors:
 - Jason Lloyd-Price
 - Cesar Arze
@@ -43,6 +45,28 @@ authors:
 - Hera Vlamakis
 - Ramnik J. Xavier
 - Curtis Huttenhower
+tags: []
+categories: []
+date: '2019-05-01'
+lastmod: 2021-11-01T08:41:24-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:23.679556Z'
 publication_types:
 - '2'
 abstract: Inflammatory bowel diseases, which include Crohn's disease and ulcerative
@@ -65,9 +89,6 @@ abstract: Inflammatory bowel diseases, which include Crohn's disease and ulcerat
   resources, results, and data, which are available through the Inflammatory Bowel
   Disease Multi'omics Database ( http://ibdmdb.org ), provide the most comprehensive
   description to date of host and microbial activities in inflammatory bowel diseases.
-featured: false
 publication: '*Nature*'
-grcs: [cedars]
 doi: 10.1038/s41586-019-1237-9
 ---
-

@@ -1,8 +1,10 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: Functional genomics identifies negative regulatory nodes controlling phagocyte
   oxidative burst
-date: '2015-07-01'
-publishDate: '2021-02-15T12:57:04.249532Z'
+subtitle: ''
+summary: ''
 authors:
 - Daniel B. Graham
 - Christine E. Becker
@@ -16,6 +18,43 @@ authors:
 - David E. Root
 - Clary B. Clish
 - Ramnik J. Xavier
+tags:
+- '"Genomics"'
+- '"Animals"'
+- '"Mice"'
+- '"Cell Line"'
+- '"Base Sequence"'
+- '"Immunoglobulin J Recombination Signal Sequence-Binding Protein"'
+- '"Membrane Glycoproteins"'
+- '"Membrane Proteins"'
+- '"Molecular Sequence Data"'
+- '"NADPH Oxidase 2"'
+- '"NADPH Oxidases"'
+- '"Phagocytes"'
+- '"Phosphofructokinase-1"'
+- '"Respiratory Burst"'
+- '"Staphylococcus aureus"'
+categories: []
+date: '2015-07-01'
+lastmod: 2021-11-01T08:41:18-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:17.928127Z'
 publication_types:
 - '2'
 abstract: The phagocyte oxidative burst, mediated by Nox2 NADPH oxidase-derived reactive
@@ -32,24 +71,6 @@ abstract: The phagocyte oxidative burst, mediated by Nox2 NADPH oxidase-derived 
   of the Nox2 complex by endoplasmic reticulum-associated degradation. Consequently,
   ablation of Rnf145 in murine macrophages enhances bacterial clearance, and rescues
   the oxidative burst defects associated with Ncf4 haploinsufficiency.
-featured: false
 publication: '*Nature Communications*'
-tags:
-- '"Animals"'
-- '"Mice"'
-- '"Cell Line"'
-- '"Phagocytes"'
-- '"Membrane Proteins"'
-- '"Membrane Glycoproteins"'
-- '"NADPH Oxidases"'
-- '"Base Sequence"'
-- '"Genomics"'
-- '"Immunoglobulin J Recombination Signal Sequence-Binding Protein"'
-- '"Molecular Sequence Data"'
-- '"NADPH Oxidase 2"'
-- '"Phosphofructokinase-1"'
-- '"Respiratory Burst"'
-- '"Staphylococcus aureus"'
 doi: 10.1038/ncomms8838
 ---
-

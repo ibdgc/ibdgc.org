@@ -1,8 +1,10 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: HLA-DRB1*11 and variants of the MHC class II locus are strong risk factors
   for systemic juvenile idiopathic arthritis.
-date: '2015-12-01'
-publishDate: '2021-02-15T12:57:06.197111Z'
+subtitle: ''
+summary: ''
 authors:
 - Michael J. Ombrello
 - Elaine F. Remmers
@@ -53,7 +55,48 @@ authors:
 - Wendy Thomson
 - Daniel L. Kastner
 - Patricia Woo
-- Patricia Woo
+tags:
+- '"Humans"'
+- '"Genotype"'
+- '"Gene Frequency"'
+- '"*Polymorphism"'
+- '"Single Nucleotide"'
+- '"Haplotypes"'
+- '"Odds Ratio"'
+- '"Child"'
+- '"Genetic Predisposition to Disease/*genetics"'
+- '"Risk Factors"'
+- '"Linkage Disequilibrium"'
+- '"Arthritis"'
+- '"Juvenile/*genetics"'
+- '"autoinflammation"'
+- '"Histocompatibility Antigens Class II/*genetics"'
+- '"HLA-DRB1 Chains/*genetics"'
+- '"human leukocyte antigen"'
+- '"Meta-Analysis as Topic"'
+- "\"Still's disease\""
+- '"systemic juvenile idiopathic arthritis"'
+categories: []
+date: '2015-12-01'
+lastmod: 2021-11-01T08:41:51-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:51.111096Z'
 publication_types:
 - '2'
 abstract: Systemic juvenile idiopathic arthritis (sJIA) is an often severe, potentially
@@ -76,30 +119,7 @@ abstract: Systemic juvenile idiopathic arthritis (sJIA) is an often severe, pote
   of sJIA patients assembled to date, this study solidifies the  relationship between
   the class II HLA region and sJIA, implicating adaptive immune molecules in the pathogenesis
   of sJIA.
-featured: false
 publication: '*Proceedings of the National Academy of Sciences of the United States
   of America*'
-tags:
-- '"Humans"'
-- '"Risk Factors"'
-- '"Child"'
-- '"Gene Frequency"'
-- '"Genotype"'
-- '"Haplotypes"'
-- '"Odds Ratio"'
-- '"Linkage Disequilibrium"'
-- '"Meta-Analysis as Topic"'
-- '"*Polymorphism"'
-- '"Single Nucleotide"'
-- '"Genetic Predisposition to Disease/*genetics"'
-- '"Arthritis"'
-- '"Juvenile/*genetics"'
-- '"autoinflammation"'
-- '"Histocompatibility Antigens Class II/*genetics"'
-- '"HLA-DRB1 Chains/*genetics"'
-- '"human leukocyte antigen"'
-- "\"Still's disease\""
-- '"systemic juvenile idiopathic arthritis"'
 doi: 10.1073/pnas.1520779112
 ---
-

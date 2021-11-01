@@ -1,8 +1,10 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: Deep resequencing of GWAS loci identifies rare variants in CARD9, IL23R and
   RNF186 that are associated with ulcerative colitis
-date: '2013-01-01'
-publishDate: '2021-02-15T12:56:56.333778Z'
+subtitle: ''
+summary: ''
 authors:
 - Mélissa Beaudoin
 - Philippe Goyette
@@ -41,6 +43,51 @@ authors:
 - Ramnik J. Xavier
 - Mark J. Daly
 - John D. Rioux
+tags:
+- '"Humans"'
+- '"Polymorphism"'
+- '"Single Nucleotide"'
+- '"Colitis"'
+- '"Ulcerative"'
+- '"Crohn Disease"'
+- '"Genome-Wide Association Study"'
+- '"Genetic Predisposition to Disease"'
+- '"CARD Signaling Adaptor Proteins"'
+- '"Ubiquitin-Protein Ligases"'
+- '"Receptors"'
+- '"Interleukin"'
+- '"Ethnic Groups"'
+- '"High-Throughput Nucleotide Sequencing"'
+- '"Canada"'
+- '"*Genome-Wide Association Study"'
+- '"CARD Signaling Adaptor Proteins/*genetics"'
+- '"Colitis"'
+- '"Ulcerative/*genetics/pathology"'
+- '"Crohn Disease/*genetics/pathology"'
+- '"Receptors"'
+- '"Interleukin/*genetics"'
+- '"Ubiquitin-Protein Ligases/*genetics"'
+categories: []
+date: '2013-01-01'
+lastmod: 2021-11-01T08:42:04-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:42:03.866179Z'
 publication_types:
 - '2'
 abstract: Genome-wide association studies and follow-up meta-analyses in Crohn's disease
@@ -67,33 +114,6 @@ abstract: Genome-wide association studies and follow-up meta-analyses in Crohn's
   in genes identified by genome-wide association in UC are unlikely to contribute
   significantly to the overall variance for the disease. Rather, these are expected
   to help focus functional studies of the corresponding disease loci.
-featured: false
 publication: '*PLoS genetics*'
-tags:
-- '"Humans"'
-- '"Ethnic Groups"'
-- '"Colitis"'
-- '"Ulcerative"'
-- '"Crohn Disease"'
-- '"Genetic Predisposition to Disease"'
-- '"Genome-Wide Association Study"'
-- '"Polymorphism"'
-- '"Single Nucleotide"'
-- '"Receptors"'
-- '"Interleukin"'
-- '"High-Throughput Nucleotide Sequencing"'
-- '"Ubiquitin-Protein Ligases"'
-- '"Canada"'
-- '"CARD Signaling Adaptor Proteins"'
-- '"*Genome-Wide Association Study"'
-- '"CARD Signaling Adaptor Proteins/*genetics"'
-- '"Colitis"'
-- '"Ulcerative/*genetics/pathology"'
-- '"Crohn Disease/*genetics/pathology"'
-- '"Receptors"'
-- '"Interleukin/*genetics"'
-- '"Ubiquitin-Protein Ligases/*genetics"'
-grcs: [montreal]
 doi: 10.1371/journal.pgen.1003723
 ---
-

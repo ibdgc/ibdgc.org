@@ -1,5 +1,5 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+# Documentation: https://wowchemy.com/docs/managing-content/
 
 title: Inflamed ulcerative colitis regions associated to MRGPRX2-mediated mast cell
   degranulation and cell activation modules, defining a new therapeutic target
@@ -41,7 +41,7 @@ tags:
 - '"Single Cell Sequencing"'
 categories: []
 date: '2021-01-01'
-lastmod: 2021-02-15T06:36:05-06:00
+lastmod: 2021-11-01T08:41:33-04:00
 featured: false
 draft: false
 
@@ -59,7 +59,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-02-15T12:57:09.864993Z'
+publishDate: '2021-11-01T12:41:33.430215Z'
 publication_types:
 - '2'
 abstract: 'BACKGROUND & AIMS: Recent literature has implicated a key role for mast
@@ -85,6 +85,5 @@ abstract: 'BACKGROUND & AIMS: Recent literature has implicated a key role for ma
   of mast cells, with decreased activation observed with a UC-protective genetic variant.
   These results define cell modules of UC activation and a new therapeutic target.'
 publication: '*Gastroenterology*'
-grcs: [mssm]
 doi: 10.1053/j.gastro.2020.12.076
 ---

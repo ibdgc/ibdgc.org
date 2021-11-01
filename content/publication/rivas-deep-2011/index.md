@@ -1,8 +1,10 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: Deep resequencing of GWAS loci identifies independent rare variants associated
   with inflammatory bowel disease
-date: '2011-10-01'
-publishDate: '2021-02-15T12:57:00.583178Z'
+subtitle: ''
+summary: ''
 authors:
 - Manuel A. Rivas
 - Mélissa Beaudoin
@@ -47,6 +49,47 @@ authors:
 - John D. Rioux
 - Ramnik J. Xavier
 - Mark J. Daly
+tags:
+- '"Humans"'
+- '"Genome-Wide Association Study"'
+- '"Inflammatory Bowel Diseases"'
+- '"Case-Control Studies"'
+- '"Genetic Predisposition to Disease"'
+- '"Nod2 Signaling Adaptor Protein"'
+- '"Cell Line"'
+- '"Sequence Analysis"'
+- '"DNA"'
+- '"Inflammatory Bowel Diseases/*genetics"'
+- '"Receptors"'
+- '"Interleukin"'
+- '"Nod2 Signaling Adaptor Protein/genetics"'
+- '"Receptors"'
+- '"Interleukin/genetics"'
+- '"*Genome-Wide Association Study"'
+- '"*Sequence Analysis"'
+- '"DNA"'
+- '"RNA Splicing"'
+categories: []
+date: '2011-10-01'
+lastmod: 2021-11-01T08:41:55-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:54.878354Z'
 publication_types:
 - '2'
 abstract: More than 1,000 susceptibility loci have been identified through genome-wide
@@ -63,28 +106,6 @@ abstract: More than 1,000 susceptibility loci have been identified through genom
   PTPN22 and MUC19. We extend the results of successful GWAS by identifying new, rare
   and probably functional variants that could aid functional experiments and predictive
   models.
-featured: false
 publication: '*Nature Genetics*'
-tags:
-- '"Humans"'
-- '"Case-Control Studies"'
-- '"Genetic Predisposition to Disease"'
-- '"Genome-Wide Association Study"'
-- '"Receptors"'
-- '"Interleukin"'
-- '"Inflammatory Bowel Diseases"'
-- '"Nod2 Signaling Adaptor Protein"'
-- '"Sequence Analysis"'
-- '"DNA"'
-- '"Cell Line"'
-- '"RNA Splicing"'
-- '"*Genome-Wide Association Study"'
-- '"Receptors"'
-- '"Interleukin/genetics"'
-- '"Inflammatory Bowel Diseases/*genetics"'
-- '"Nod2 Signaling Adaptor Protein/genetics"'
-- '"*Sequence Analysis"'
-- '"DNA"'
 doi: 10.1038/ng.952
 ---
-

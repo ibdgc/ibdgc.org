@@ -1,8 +1,10 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: Susceptibility to Crohn's disease is mediated by KIR2DL2/KIR2DL3 heterozygosity
   and the HLA-C ligand
-date: '2009-10-01'
-publishDate: '2021-02-15T12:56:58.192367Z'
+subtitle: ''
+summary: ''
 authors:
 - Jill A. Hollenbach
 - Martha B. Ladner
@@ -14,6 +16,52 @@ authors:
 - Henry A. Erlich
 - Jerome I. Rotter
 - Elizabeth A. Trachtenberg
+tags:
+- '"Humans"'
+- '"Polymorphism"'
+- '"Single Nucleotide"'
+- '"Crohn Disease"'
+- '"Adult"'
+- '"Case-Control Studies"'
+- '"Cohort Studies"'
+- '"Genetic Predisposition to Disease"'
+- '"Genotype"'
+- '"European Continental Ancestry Group"'
+- '"Alleles"'
+- '"Heterozygote"'
+- '"HLA-C Antigens"'
+- '"Receptors"'
+- '"KIR2DL3"'
+- '"California"'
+- '"Jews"'
+- '"Ligands"'
+- '"Receptors"'
+- '"KIR2DL2"'
+- '"Single-Blind Method"'
+- '"Spectrometry"'
+- '"Mass"'
+- '"Matrix-Assisted Laser Desorption-Ionization"'
+categories: []
+date: '2009-10-01'
+lastmod: 2021-11-01T08:41:25-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:24.780776Z'
 publication_types:
 - '2'
 abstract: In the present study, we investigated the relationship between the KIR loci
@@ -35,33 +83,6 @@ abstract: In the present study, we investigated the relationship between the KIR
   for the first time that disease susceptibility may be related to heterozygosity
   at a specific KIR locus, and that HLA ligand genotype influences the relative effect
   of the KIR genotype.
-featured: false
 publication: '*Immunogenetics*'
-tags:
-- '"Humans"'
-- '"Adult"'
-- '"Case-Control Studies"'
-- '"Crohn Disease"'
-- '"European Continental Ancestry Group"'
-- '"Genetic Predisposition to Disease"'
-- '"Polymorphism"'
-- '"Single Nucleotide"'
-- '"Alleles"'
-- '"Genotype"'
-- '"Heterozygote"'
-- '"Jews"'
-- '"HLA-C Antigens"'
-- '"Receptors"'
-- '"KIR2DL3"'
-- '"California"'
-- '"Cohort Studies"'
-- '"Ligands"'
-- '"Receptors"'
-- '"KIR2DL2"'
-- '"Single-Blind Method"'
-- '"Spectrometry"'
-- '"Mass"'
-- '"Matrix-Assisted Laser Desorption-Ionization"'
 doi: 10.1007/s00251-009-0396-5
 ---
-

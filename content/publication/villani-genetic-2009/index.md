@@ -1,8 +1,10 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: Genetic variation in the familial Mediterranean fever gene (MEFV) and risk
   for Crohn's disease and ulcerative colitis
-date: '2009-09-01'
-publishDate: '2021-02-15T12:57:03.184849Z'
+subtitle: ''
+summary: ''
 authors:
 - Alexandra-Chloé Villani
 - Mathieu Lemire
@@ -27,6 +29,55 @@ authors:
 - Séverine Vermeire
 - Thomas J. Hudson
 - Denis Franchimont
+tags:
+- '"Humans"'
+- '"Colitis"'
+- '"Ulcerative"'
+- '"Crohn Disease"'
+- '"Inflammatory Bowel Diseases"'
+- '"Adult"'
+- '"Aged"'
+- '"Female"'
+- '"Male"'
+- '"Middle Aged"'
+- '"Cohort Studies"'
+- '"Genetic Predisposition to Disease"'
+- '"Genetic Variation"'
+- '"Adolescent"'
+- '"Aged"'
+- '"80 and over"'
+- '"Child"'
+- '"Epistasis"'
+- '"Genetic"'
+- '"Caspase 1"'
+- '"Child"'
+- '"Preschool"'
+- '"Cytoskeletal Proteins"'
+- '"Enzyme Activation"'
+- '"Familial Mediterranean Fever"'
+- '"Interleukin-1beta"'
+- '"Pyrin"'
+categories: []
+date: '2009-09-01'
+lastmod: 2021-11-01T08:41:14-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:14.589543Z'
 publication_types:
 - '2'
 abstract: "BACKGROUND AND AIMS: The familial Mediterranean fever (FMF) gene (MEFV)\
@@ -59,36 +110,6 @@ abstract: "BACKGROUND AND AIMS: The familial Mediterranean fever (FMF) gene (MEF
   \ distinct founder effects or of the relative small sample size of the cohorts evaluated\
   \ in this study. However, the results suggest that common variants in the MEFV region\
   \ do not contribute to CD and UC susceptibility."
-featured: false
 publication: '*PloS One*'
-tags:
-- '"Aged"'
-- '"Female"'
-- '"Humans"'
-- '"Male"'
-- '"Middle Aged"'
-- '"Adult"'
-- '"Aged"'
-- '"80 and over"'
-- '"Adolescent"'
-- '"Child"'
-- '"Colitis"'
-- '"Ulcerative"'
-- '"Crohn Disease"'
-- '"Genetic Predisposition to Disease"'
-- '"Child"'
-- '"Preschool"'
-- '"Inflammatory Bowel Diseases"'
-- '"Genetic Variation"'
-- '"Cohort Studies"'
-- '"Epistasis"'
-- '"Genetic"'
-- '"Caspase 1"'
-- '"Cytoskeletal Proteins"'
-- '"Enzyme Activation"'
-- '"Familial Mediterranean Fever"'
-- '"Interleukin-1beta"'
-- '"Pyrin"'
 doi: 10.1371/journal.pone.0007154
 ---
-

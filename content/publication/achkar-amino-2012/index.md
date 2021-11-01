@@ -1,8 +1,10 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: Amino acid position 11 of HLA-DRbeta1 is a major determinant of chromosome
   6p association with ulcerative colitis.
-date: '2012-04-01'
-publishDate: '2021-02-15T12:57:07.525083Z'
+subtitle: ''
+summary: ''
 authors:
 - J.-P. Achkar
 - L. Klei
@@ -20,6 +22,43 @@ authors:
 - S. Ringquist
 - K. Roeder
 - R. H. Duerr
+tags:
+- '"Humans"'
+- '"Polymorphism"'
+- '"Single Nucleotide"'
+- '"Colitis"'
+- '"Ulcerative/*genetics"'
+- '"Crohn Disease/genetics"'
+- '"Genome-Wide Association Study"'
+- '"Genotype"'
+- '"*Chromosomes"'
+- '"Human"'
+- '"Pair 6"'
+- '"*Genetic Predisposition to Disease"'
+- '"Alleles"'
+- '"Gene Frequency"'
+- '"HLA-DR beta-Chains/*genetics"'
+categories: []
+date: '2012-04-01'
+lastmod: 2021-11-01T08:41:05-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:05.337606Z'
 publication_types:
 - '2'
 abstract: The major histocompatibility complex (MHC) on chromosome 6p is an established
@@ -33,25 +72,6 @@ abstract: The major histocompatibility complex (MHC) on chromosome 6p is an esta
   rs9269955 is a SNP in the codon for amino  acid position 11 of HLA-DRbeta1, located
   in the P6 pocket of the HLA-DR antigen binding cleft. This amino acid position was
   also the most significantly
-featured: false
 publication: '*Genes and immunity*'
-tags:
-- '"Humans"'
-- '"Genome-Wide Association Study"'
-- '"Polymorphism"'
-- '"Single Nucleotide"'
-- '"Alleles"'
-- '"Gene Frequency"'
-- '"Genotype"'
-- '"*Genetic Predisposition to Disease"'
-- '"Colitis"'
-- '"Ulcerative/*genetics"'
-- '"Crohn Disease/genetics"'
-- '"*Chromosomes"'
-- '"Human"'
-- '"Pair 6"'
-- '"HLA-DR beta-Chains/*genetics"'
-grcs: [pittsburgh]
 doi: 10.1038/gene.2011.79
 ---
-

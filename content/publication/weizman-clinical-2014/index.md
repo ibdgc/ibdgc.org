@@ -1,8 +1,10 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: Clinical, serologic, and genetic factors associated with pyoderma gangrenosum
   and erythema nodosum in inflammatory bowel disease patients
-date: '2014-03-01'
-publishDate: '2021-02-15T12:57:00.160031Z'
+subtitle: ''
+summary: ''
 authors:
 - Adam Weizman
 - Brian Huang
@@ -25,6 +27,53 @@ authors:
 - Dalin Li
 - Gil Y. Melmed
 - Dermot P. B. McGovern
+tags:
+- '"Humans"'
+- '"Inflammatory Bowel Diseases"'
+- '"Adult"'
+- '"Biomarkers"'
+- '"Case-Control Studies"'
+- '"Female"'
+- '"Male"'
+- '"Genotype"'
+- '"Odds Ratio"'
+- '"Prognosis"'
+- '"DNA/*genetics"'
+- '"Polymerase Chain Reaction"'
+- '"Follow-Up Studies"'
+- '"Enzyme-Linked Immunosorbent Assay"'
+- '"Antibodies"'
+- '"Antinuclear"'
+- '"Antibodies"'
+- '"Antinuclear/*blood"'
+- '"Biomarkers/*analysis"'
+- '"DNA"'
+- '"Erythema Nodosum"'
+- '"Erythema Nodosum/blood/*etiology/pathology"'
+- '"Inflammatory Bowel Diseases/blood/*complications/genetics"'
+- '"Pyoderma Gangrenosum"'
+- '"Pyoderma Gangrenosum/blood/*etiology/pathology"'
+categories: []
+date: '2014-03-01'
+lastmod: 2021-11-01T08:41:51-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:50.663018Z'
 publication_types:
 - '2'
 abstract: "BACKGROUND: Pyoderma gangrenosum (PG) and erythema nodosum (EN) are the\
@@ -53,34 +102,6 @@ abstract: "BACKGROUND: Pyoderma gangrenosum (PG) and erythema nodosum (EN) are t
   \ with distinctive genetic characteristics and with the similar clinical characteristics,\
   \ including the development of other extra-intestinal manifestations suggesting\
   \ shared and distinct etiologies."
-featured: false
 publication: '*Inflammatory Bowel Diseases*'
-tags:
-- '"Female"'
-- '"Humans"'
-- '"Male"'
-- '"Adult"'
-- '"Case-Control Studies"'
-- '"Genotype"'
-- '"Inflammatory Bowel Diseases"'
-- '"Odds Ratio"'
-- '"Follow-Up Studies"'
-- '"Prognosis"'
-- '"Biomarkers"'
-- '"Enzyme-Linked Immunosorbent Assay"'
-- '"Antibodies"'
-- '"Antinuclear"'
-- '"DNA"'
-- '"Erythema Nodosum"'
-- '"Polymerase Chain Reaction"'
-- '"Pyoderma Gangrenosum"'
-- '"Antibodies"'
-- '"Antinuclear/*blood"'
-- '"Biomarkers/*analysis"'
-- '"DNA/*genetics"'
-- '"Erythema Nodosum/blood/*etiology/pathology"'
-- '"Inflammatory Bowel Diseases/blood/*complications/genetics"'
-- '"Pyoderma Gangrenosum/blood/*etiology/pathology"'
 doi: 10.1097/01.MIB.0000442011.60285.68
 ---
-

@@ -20,8 +20,8 @@ authors:
 tags: []
 categories: []
 date: '2021-03-01'
-lastmod: 2021-04-14T13:56:59-05:00
-featured: true
+lastmod: 2021-11-01T08:41:39-04:00
+featured: false
 draft: false
 
 # Featured image
@@ -38,7 +38,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-14T18:56:59.600086Z'
+publishDate: '2021-11-01T12:41:39.227087Z'
 publication_types:
 - '2'
 abstract: Crohn's disease (CD) is a chronic inflammatory intestinal disease, with
@@ -60,6 +60,5 @@ abstract: Crohn's disease (CD) is a chronic inflammatory intestinal disease, wit
   NOD2-driven fibrosis in CD; gp130 blockade may benefit selected CD patients, potentially
   complementing anti-TNF therapy.
 publication: '*Nature*'
-grcs: [mssm]
 doi: 10.1038/s41586-021-03484-5
 ---

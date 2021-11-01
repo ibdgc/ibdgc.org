@@ -1,8 +1,10 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: A novel approach to detect cumulative genetic effects and genetic interactions
   in Crohn's disease.
-date: '2013-08-01'
-publishDate: '2021-02-15T12:57:07.627912Z'
+subtitle: ''
+summary: ''
 authors:
 - Ming-Hsi Wang
 - Claudio Fiocchi
@@ -10,6 +12,39 @@ authors:
 - Xiaofeng Zhu
 - Richard H. Duerr
 - Jean-Paul Achkar
+tags:
+- '"Humans"'
+- '"Case-Control Studies"'
+- '"*Genetic Predisposition to Disease"'
+- '"Alleles"'
+- '"Risk Factors"'
+- '"*Epistasis"'
+- '"Genetic"'
+- '"Prognosis"'
+- '"Crohn Disease/*diagnosis/*genetics"'
+- '"Genome-Wide Association Study/*methods"'
+- '"Quantitative Trait Loci/*genetics"'
+categories: []
+date: '2013-08-01'
+lastmod: 2021-11-01T08:41:12-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:12.054167Z'
 publication_types:
 - '2'
 abstract: "BACKGROUND: Genome-wide association studies have identified at least 71\
@@ -34,21 +69,6 @@ abstract: "BACKGROUND: Genome-wide association studies have identified at least 
   \ CONCLUSIONS: A novel approach allowed the identification and replication of genetic\
   \ interactions among NOD2, ATG16L1, IL10/IL19, C13orf31, and chr21q loci. CD risk\
   \ can be predicted by a model of 71 CD loci and improved by adding genetic interactions."
-featured: false
 publication: '*Inflammatory bowel diseases*'
-tags:
-- '"Humans"'
-- '"Risk Factors"'
-- '"Case-Control Studies"'
-- '"Alleles"'
-- '"Prognosis"'
-- '"*Genetic Predisposition to Disease"'
-- '"*Epistasis"'
-- '"Genetic"'
-- '"Quantitative Trait Loci/*genetics"'
-- '"Crohn Disease/*diagnosis/*genetics"'
-- '"Genome-Wide Association Study/*methods"'
-grcs: [pittsburgh]
 doi: 10.1097/MIB.0b013e31828706a0
 ---
-

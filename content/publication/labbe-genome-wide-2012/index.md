@@ -1,8 +1,10 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: Genome-wide expression profiling implicates a MAST3-regulated gene set in colonic
   mucosal inflammation of ulcerative colitis patients
-date: '2012-06-01'
-publishDate: '2021-02-15T12:57:03.612564Z'
+subtitle: ''
+summary: ''
 authors:
 - Catherine Labbé
 - Gabrielle Boucher
@@ -15,6 +17,52 @@ authors:
 - Guy Charron
 - Ramnik J. Xavier
 - John D. Rioux
+tags:
+- '"Gene Expression Profiling"'
+- '"Genome"'
+- '"Human"'
+- '"Humans"'
+- '"Colitis"'
+- '"Ulcerative"'
+- '"Biomarkers"'
+- '"Colon"'
+- '"RNA"'
+- '"Messenger"'
+- '"Reverse Transcriptase Polymerase Chain Reaction"'
+- '"Oligonucleotide Array Sequence Analysis"'
+- '"Blotting"'
+- '"Western"'
+- '"Immunity"'
+- '"Mucosal"'
+- '"Microtubule-Associated Proteins"'
+- '"Monocytes"'
+- '"Mucositis"'
+- '"Protein-Serine-Threonine Kinases"'
+- '"Real-Time Polymerase Chain Reaction"'
+- '"Rectum"'
+- '"RNA"'
+- '"Small Interfering"'
+categories: []
+date: '2012-06-01'
+lastmod: 2021-11-01T08:41:16-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:15.915148Z'
 publication_types:
 - '2'
 abstract: "BACKGROUND: Crohn's disease (CD) and ulcerative colitis (UC) are inflammatory\
@@ -43,33 +91,6 @@ abstract: "BACKGROUND: Crohn's disease (CD) and ulcerative colitis (UC) are infl
   \ migration (e.g., CD44, TMOD1). CONCLUSIONS: Taken together, these results confirm\
   \ MAST3 as a modulator of the inflammatory response through regulation of immune\
   \ gene expression in the gut of IBD patients."
-featured: false
 publication: '*Inflammatory Bowel Diseases*'
-tags:
-- '"Humans"'
-- '"Colitis"'
-- '"Ulcerative"'
-- '"Colon"'
-- '"Genome"'
-- '"Human"'
-- '"RNA"'
-- '"Messenger"'
-- '"Monocytes"'
-- '"Biomarkers"'
-- '"Protein-Serine-Threonine Kinases"'
-- '"Reverse Transcriptase Polymerase Chain Reaction"'
-- '"Immunity"'
-- '"Mucosal"'
-- '"Gene Expression Profiling"'
-- '"Microtubule-Associated Proteins"'
-- '"Blotting"'
-- '"Western"'
-- '"Mucositis"'
-- '"Oligonucleotide Array Sequence Analysis"'
-- '"Real-Time Polymerase Chain Reaction"'
-- '"Rectum"'
-- '"RNA"'
-- '"Small Interfering"'
 doi: 10.1002/ibd.21887
 ---
-

@@ -1,8 +1,10 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: Genetic Predictors of Benign Course of Ulcerative Colitis-A North American
   Inflammatory Bowel Disease Genetics Consortium Study
-date: '2016-01-01'
-publishDate: '2021-02-15T12:56:58.637728Z'
+subtitle: ''
+summary: ''
 authors:
 - Uri Kopylov
 - Gabrielle Boucher
@@ -19,6 +21,51 @@ authors:
 - Mark S. Silverberg
 - John D. Rioux
 - Alain Bitton
+tags:
+- '"Humans"'
+- '"Polymorphism"'
+- '"Single Nucleotide"'
+- '"Colitis"'
+- '"Ulcerative"'
+- '"Colitis"'
+- '"Ulcerative/*genetics"'
+- '"Adult"'
+- '"Female"'
+- '"Male"'
+- '"Middle Aged"'
+- '"Young Adult"'
+- '"Phenotype"'
+- '"*Phenotype"'
+- '"Genetic Association Studies"'
+- '"Chromosomes"'
+- '"Human"'
+- '"Pair 5/genetics"'
+- '"North America"'
+- '"*Genetic Association Studies"'
+- '"Chromosomes"'
+- '"Human"'
+- '"Pair 5"'
+categories: []
+date: '2016-01-01'
+lastmod: 2021-11-01T08:41:58-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:58.108160Z'
 publication_types:
 - '2'
 abstract: 'BACKGROUND: A subset of patients with ulcerative colitis (UC) have a benign
@@ -43,33 +90,6 @@ abstract: 'BACKGROUND: A subset of patients with ulcerative colitis (UC) have a 
   did not reach the predefined significant threshold. Given the modest power of our
   study, the findings suggested on the exploratory analysis merit extension to larger
   discovery cohorts.'
-featured: false
 publication: '*Inflammatory Bowel Diseases*'
-tags:
-- '"Female"'
-- '"Humans"'
-- '"Male"'
-- '"Middle Aged"'
-- '"Adult"'
-- '"Young Adult"'
-- '"Colitis"'
-- '"Ulcerative"'
-- '"Polymorphism"'
-- '"Single Nucleotide"'
-- '"Genetic Association Studies"'
-- '"Phenotype"'
-- '"North America"'
-- '"Chromosomes"'
-- '"Human"'
-- '"Pair 5"'
-- '"Colitis"'
-- '"Ulcerative/*genetics"'
-- '"*Phenotype"'
-- '"*Genetic Association Studies"'
-- '"Chromosomes"'
-- '"Human"'
-- '"Pair 5/genetics"'
-grcs: [montreal, pittsburgh, rutgers]
 doi: 10.1097/MIB.0000000000000913
 ---
-

@@ -1,7 +1,9 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: Association of TRAP1 with infliximab-induced mucosal healing in Crohn's disease
-date: '2019-04-01'
-publishDate: '2021-02-15T12:56:59.178563Z'
+subtitle: ''
+summary: ''
 authors:
 - Sang Hyoung Park
 - Myunghee Hong
@@ -20,6 +22,32 @@ authors:
 - Dermot P. B. McGovern
 - Suk-Kyun Yang
 - Kyuyoung Song
+tags:
+- "\"Crohn's disease\""
+- '"infliximab"'
+- '"response"'
+- '"TRAP1"'
+categories: []
+date: '2019-04-01'
+lastmod: 2021-11-01T08:41:27-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:27.063606Z'
 publication_types:
 - '2'
 abstract: "BACKGROUND AND AIM: Anti-tumor necrosis factor (TNF) agents, such as infliximab\
@@ -41,13 +69,6 @@ abstract: "BACKGROUND AND AIM: Anti-tumor necrosis factor (TNF) agents, such as 
   \ mucosal healing in CD patients following IFX therapy. Identifying the genetic\
   \ predictors of mucosal healing to anti-TNF therapy can prevent patients from exposure\
   \ to ineffective therapies."
-featured: false
 publication: '*Journal of Gastroenterology and Hepatology*'
-tags:
-- "\"Crohn's disease\""
-- '"infliximab"'
-- '"response"'
-- '"TRAP1"'
 doi: 10.1111/jgh.14696
 ---
-

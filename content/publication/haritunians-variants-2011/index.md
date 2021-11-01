@@ -1,7 +1,9 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: Variants in ZNF365 isoform D are associated with Crohn's disease
-date: '2011-08-01'
-publishDate: '2021-02-15T12:56:56.877891Z'
+subtitle: ''
+summary: ''
 authors:
 - Talin Haritunians
 - Michelle R. Jones
@@ -23,6 +25,47 @@ authors:
 - Jerome I. Rotter
 - Stephan R. Targan
 - Kent D. Taylor
+tags:
+- '"Humans"'
+- '"Polymorphism"'
+- '"Single Nucleotide"'
+- '"Crohn Disease"'
+- '"Genome-Wide Association Study"'
+- '"Intestinal Mucosa"'
+- '"Genetic Predisposition to Disease"'
+- '"Genotype"'
+- '"Alleles"'
+- '"Cell Line"'
+- '"Reverse Transcriptase Polymerase Chain Reaction"'
+- '"Intestines"'
+- '"B-Lymphocytes"'
+- '"Biopsy"'
+- '"DNA-Binding Proteins"'
+- '"Genomic Structural Variation"'
+- '"RNA"'
+- '"Transcription Factors"'
+- '"Zinc Fingers"'
+categories: []
+date: '2011-08-01'
+lastmod: 2021-11-01T08:41:21-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:21.341505Z'
 publication_types:
 - '2'
 abstract: "OBJECTIVE: Genome-wide association studies have identified multiple Crohn's\
@@ -47,28 +90,6 @@ abstract: "OBJECTIVE: Genome-wide association studies have identified multiple C
   \ data support the hypothesis that the non-synonymous Ala62Thr SNP, rs7076156, underlies\
   \ the association between 10q21 and CD risk and suggest that this SNP acts by altering\
   \ expression of genes under the control of ZNF365 isoform D."
-featured: false
 publication: '*Gut*'
-tags:
-- '"Humans"'
-- '"Crohn Disease"'
-- '"Genetic Predisposition to Disease"'
-- '"Genome-Wide Association Study"'
-- '"Polymorphism"'
-- '"Single Nucleotide"'
-- '"Alleles"'
-- '"Genotype"'
-- '"Intestines"'
-- '"Intestinal Mucosa"'
-- '"Cell Line"'
-- '"B-Lymphocytes"'
-- '"Biopsy"'
-- '"DNA-Binding Proteins"'
-- '"Genomic Structural Variation"'
-- '"Reverse Transcriptase Polymerase Chain Reaction"'
-- '"RNA"'
-- '"Transcription Factors"'
-- '"Zinc Fingers"'
 doi: 10.1136/gut.2010.227256
 ---
-

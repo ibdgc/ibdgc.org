@@ -1,8 +1,10 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: 'Phenotypic and genotypic characteristics of inflammatory bowel disease in
   French Canadians: comparison with a large North American repository'
-date: '2009-09-01'
-publishDate: '2021-02-15T12:56:56.449049Z'
+subtitle: ''
+summary: ''
 authors:
 - Mamatha Bhat
 - Geoffrey C. Nguyen
@@ -30,6 +32,44 @@ authors:
 - Philippe Goyette
 - John Rioux
 - Alain Bitton
+tags:
+- '"Humans"'
+- '"Inflammatory Bowel Diseases"'
+- '"Adult"'
+- '"Female"'
+- '"Male"'
+- '"Middle Aged"'
+- '"Young Adult"'
+- '"Genotype"'
+- '"Phenotype"'
+- '"United States"'
+- '"North America"'
+- '"Canada"'
+- '"Founder Effect"'
+- '"France"'
+- '"France/ethnology"'
+- '"Inflammatory Bowel Diseases/diagnosis/*genetics/*physiopathology/surgery"'
+categories: []
+date: '2009-09-01'
+lastmod: 2021-11-01T08:42:03-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:42:03.478398Z'
 publication_types:
 - '2'
 abstract: "OBJECTIVES: Phenotype characteristics of inflammatory bowel disease (IBD)\
@@ -57,25 +97,6 @@ abstract: "OBJECTIVES: Phenotype characteristics of inflammatory bowel disease (
   \ an accentuated association between smoking status and IBD. This unique profile\
   \ may have implications regarding the need for a different approach to the management\
   \ of IBD in this population."
-featured: false
 publication: '*The American Journal of Gastroenterology*'
-tags:
-- '"Female"'
-- '"Humans"'
-- '"Male"'
-- '"Middle Aged"'
-- '"Adult"'
-- '"Young Adult"'
-- '"United States"'
-- '"Genotype"'
-- '"Inflammatory Bowel Diseases"'
-- '"Phenotype"'
-- '"Canada"'
-- '"Founder Effect"'
-- '"France"'
-- '"North America"'
-- '"France/ethnology"'
-- '"Inflammatory Bowel Diseases/diagnosis/*genetics/*physiopathology/surgery"'
 doi: 10.1038/ajg.2009.267
 ---
-

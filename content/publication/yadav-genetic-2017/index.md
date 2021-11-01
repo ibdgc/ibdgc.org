@@ -1,8 +1,10 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: Genetic Factors Interact With Tobacco Smoke to Modify Risk for Inflammatory
   Bowel Disease in Humans and Mice
-date: '2017-01-01'
-publishDate: '2021-02-15T12:56:54.146652Z'
+subtitle: ''
+summary: ''
 authors:
 - Pankaj Yadav
 - David Ellinghaus
@@ -23,6 +25,54 @@ authors:
 - Mathias Chamaillard
 - Astrid Dempfle
 - Vibeke Andersen
+tags:
+- '"Humans"'
+- '"Polymorphism"'
+- '"Single Nucleotide"'
+- '"Animals"'
+- '"Colitis"'
+- '"Ulcerative"'
+- '"Crohn Disease"'
+- '"Mice"'
+- '"Case-Control Studies"'
+- '"Female"'
+- '"Male"'
+- '"Genotype"'
+- '"Alleles"'
+- '"Gene Frequency"'
+- '"Risk Factors"'
+- '"Smoking"'
+- '"Gene-Environment Interaction"'
+- '"Disease Models"'
+- '"Animal"'
+- '"Animal Model"'
+- '"Gene−Environment Interaction"'
+- '"Inflammation"'
+- '"Mice"'
+- '"Inbred BALB C"'
+- '"Nicotine"'
+- '"Tobacco Smoke Pollution"'
+categories: []
+date: '2017-01-01'
+lastmod: 2021-11-01T08:41:33-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:33.069038Z'
 publication_types:
 - '2'
 abstract: "BACKGROUND & AIMS: The role of tobacco smoke in the etiology of inflammatory\
@@ -61,35 +111,6 @@ abstract: "BACKGROUND & AIMS: The role of tobacco smoke in the etiology of infla
   \ of these genes have been associated with risk for IBD. Our findings from mice\
   \ and humans revealed that the effects of smoking on risk for IBD depend on genetic\
   \ variants."
-featured: false
 publication: '*Gastroenterology*'
-tags:
-- '"Female"'
-- '"Humans"'
-- '"Male"'
-- '"Risk Factors"'
-- '"Case-Control Studies"'
-- '"Colitis"'
-- '"Ulcerative"'
-- '"Crohn Disease"'
-- '"Polymorphism"'
-- '"Single Nucleotide"'
-- '"Alleles"'
-- '"Animal Model"'
-- '"Animals"'
-- '"Disease Models"'
-- '"Animal"'
-- '"Gene Frequency"'
-- '"Gene-Environment Interaction"'
-- '"Gene−Environment Interaction"'
-- '"Genotype"'
-- '"Inflammation"'
-- '"Mice"'
-- '"Mice"'
-- '"Inbred BALB C"'
-- '"Nicotine"'
-- '"Smoking"'
-- '"Tobacco Smoke Pollution"'
 doi: 10.1053/j.gastro.2017.05.010
 ---
-

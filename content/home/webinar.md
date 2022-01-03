@@ -34,7 +34,7 @@ subtitle = "Learn about the forefront of IBD discovery with the field's top rese
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 3
+  view = 2
 
 [design.spacing]
   padding = [ "", "", "", "50px" ]

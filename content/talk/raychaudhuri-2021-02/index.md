@@ -3,7 +3,7 @@
 
 title: "Co-varying Neighborhood Analyses in Single Cell"
 event: Click to register for Zoom webinar (required)
-event_url: https://mssm.zoom.us/meeting/register/tZUrcu-hrD4pE9wTGBUXQgUFdBjGlhUPDFrD
+event_url: https://mssm.zoom.us/meeting/register/tZMpceygrT0oEtX2Fc-rZtd1XQE553i2tXK5
 location:
 address:
   street:

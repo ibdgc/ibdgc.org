@@ -30,6 +30,8 @@ publications:
 - Ephraim Kenigsberg, PhD (single cell analysis)
 - Ke Hao, PhD (genetic analysis)
 - Bruce Sands, MD (Lead clinician)
+- Yuval Itan, PhD
+- Kyle Gettler, PhD
 
 # Lead Clinicians
 

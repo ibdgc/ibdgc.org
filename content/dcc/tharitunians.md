@@ -1,5 +1,5 @@
 ---
-name: "Talin Haritunians, PhD."
+name: "Talin Haritunians, PhD"
 title: "Assistant Professor, Cedars-Sinai"
 role: "staff"
 picture: "/img/dcc/talin-haritunians.png"

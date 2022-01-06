@@ -1,5 +1,5 @@
 ---
-name: "Yuval Itan"
+name: "Yuval Itan, PhD"
 title: "Assistant Professor, Co-Investigator, Icahn School of Medicine at Mount Sinai"
 role: "staff"
 picture: "/img/dcc/yuval-itan.png"

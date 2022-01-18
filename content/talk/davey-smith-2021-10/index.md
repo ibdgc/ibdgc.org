@@ -67,6 +67,8 @@ slides: ""
 projects: []
 ---
 
+{{< youtube _eZ5_B3CC3o >}}
+
 Professor George Davey Smith is a clinical epidemiologist, director of the MRC
 Integrative Epidemiology Unit (IEU) at the University of Bristol and
 Scientific Director of the Avon Longitudinal Study of Parents and Children.

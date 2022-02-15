@@ -67,4 +67,6 @@ slides: ""
 projects: []
 ---
 
+{{< youtube a1IHUG3Msls >}}
+
 Dr. Soumya Raychaudhuri is a Professor of Medicine and Biomedical Informatics at Harvard Medical and the JS Coblyn and MB Brenner Distinguished Chair in Rheumatology/Immunology Rheumatologist at Brigham and Women's Hospital as well as an Institute Member at Broad Institute.

@@ -18,5 +18,5 @@ columns = "2"
 
 +++
 
-{{< figure src="timeline.png" caption="Visual summary of consortium publication history and impact. Works classified by broad category of findings shown by dot label. [(view hi-res timeline)](/media/timeline.svg)">}}
+{{< figure src="timeline.png" caption="Visual summary of consortium publication history and impact. Works classified by broad category of findings shown by dot label." >}}
 

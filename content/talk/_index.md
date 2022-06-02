@@ -12,3 +12,6 @@ header:
   caption: ""
   image: ""
 ---
+
+Join our webinar mailing list by emailing webinar+subscribe@ibdgc.org
+

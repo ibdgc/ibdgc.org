@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Datacommons"
+title: "Data Commons"
 summary: ""
 authors: []
 tags: []

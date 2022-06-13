@@ -49,4 +49,3 @@ All individuals seeking to access pre-publication summary statistics need to sub
     1. Appendix: Restricted Data - you have a special case with restricted data (unlikely)
 1. Send the signed copy to requests@ibdgc.org.
 
-

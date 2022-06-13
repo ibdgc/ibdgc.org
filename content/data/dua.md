@@ -50,3 +50,11 @@ All individuals seeking to access pre-publication summary statistics need to sub
 1. Send the signed copy to requests@ibdgc.org.
 
 
+=======
+1. Initial all appropriate appendices.
+    1. Appendix: IBDGC Internal Use Only - if you are an investigator in the NIDDK IBDGC
+    1. Appendix: IIBDGC Internal Use Only - if you are seeking pre-publication IIBDGC summary statistics
+    1. Appendix: Restricted Data - you have a special case with restricted data (unlikely)
+1. Send the signed copy to requests@ibdgc.org.
+
+>>>>>>> d57a2f29a84087c12160e6ba1d9f36dcf75c11fe

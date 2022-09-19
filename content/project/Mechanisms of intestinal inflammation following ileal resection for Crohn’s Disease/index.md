@@ -4,7 +4,7 @@
 title: "Mechanisms of Intestinal Inflammation Following Ileal Resection for Crohn’s Disease"
 summary: ""
 authors: []
-tags: [Consortium]
+tags: [Consortium, NIDDK]
 categories: []
 date: 2021-03-12T16:54:28-06:00
 

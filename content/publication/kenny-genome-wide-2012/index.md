@@ -1,8 +1,10 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: A genome-wide scan of Ashkenazi Jewish Crohn's disease suggests novel susceptibility
   loci
-date: '2012-01-01'
-publishDate: '2021-02-15T12:56:58.527678Z'
+subtitle: ''
+summary: ''
 authors:
 - Eimear E. Kenny
 - Itsik Pe'er
@@ -47,6 +49,45 @@ authors:
 - Robert J. Desnick
 - Judy H. Cho
 - Inga Peter
+tags:
+- '"Humans"'
+- '"Crohn Disease"'
+- '"Genome-Wide Association Study"'
+- '"Cohort Studies"'
+- '"Genetic Predisposition to Disease"'
+- '"European Continental Ancestry Group"'
+- '"Crohn Disease/*genetics"'
+- '"Chromosomes"'
+- '"Human"'
+- '"Pair 5/genetics"'
+- '"Linkage Disequilibrium"'
+- '"Jews"'
+- '"*Genome-Wide Association Study"'
+- '"Jews/*genetics"'
+- '"Chromosomes"'
+- '"Human"'
+- '"Pair 5"'
+categories: []
+date: '2012-01-01'
+lastmod: 2021-11-01T08:41:58-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:58.500863Z'
 publication_types:
 - '2'
 abstract: Crohn's disease (CD) is a complex disorder resulting from the interaction
@@ -68,26 +109,6 @@ abstract: Crohn's disease (CD) is a complex disorder resulting from the interact
   and newly discovered loci, in addition to the three coding NOD2 variants, accounted
   for 11.2% of the total genetic variance for CD risk in the AJ population. This study
   demonstrates the complementary value of genetic studies in the Ashkenazim.
-featured: false
 publication: '*PLoS genetics*'
-tags:
-- '"Humans"'
-- '"Crohn Disease"'
-- '"European Continental Ancestry Group"'
-- '"Genetic Predisposition to Disease"'
-- '"Genome-Wide Association Study"'
-- '"Jews"'
-- '"Linkage Disequilibrium"'
-- '"Cohort Studies"'
-- '"Chromosomes"'
-- '"Human"'
-- '"Pair 5"'
-- '"*Genome-Wide Association Study"'
-- '"Crohn Disease/*genetics"'
-- '"Jews/*genetics"'
-- '"Chromosomes"'
-- '"Human"'
-- '"Pair 5/genetics"'
 doi: 10.1371/journal.pgen.1002559
 ---
-

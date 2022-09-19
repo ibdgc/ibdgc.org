@@ -1,8 +1,10 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: An SNP linkage scan identifies significant Crohn's disease loci on chromosomes
   13q13.3 and, in Jewish families, on 1p35.2 and 3q29
-date: '2008-03-01'
-publishDate: '2021-02-15T12:57:01.999763Z'
+subtitle: ''
+summary: ''
 authors:
 - Y. Y. Shugart
 - M. S. Silverberg
@@ -26,6 +28,69 @@ authors:
 - J. D. Rioux
 - J. H. Cho
 - S. R. Brant
+tags:
+- '"Humans"'
+- '"Polymorphism"'
+- '"Single Nucleotide"'
+- '"Colitis"'
+- '"Ulcerative"'
+- '"Crohn Disease"'
+- '"Female"'
+- '"Male"'
+- '"Quantitative Trait Loci"'
+- '"Lod Score"'
+- '"Chromosomes"'
+- '"Human"'
+- '"Pair 1/*genetics"'
+- '"Genetic Markers"'
+- '"Genetic Linkage"'
+- '"Pedigree"'
+- '"Jews"'
+- '"Chromosomes"'
+- '"Human"'
+- '"Pair 1"'
+- '"Chromosomes"'
+- '"Human"'
+- '"Pair 13"'
+- '"Chromosomes"'
+- '"Human"'
+- '"Pair 13/*genetics"'
+- '"Chromosomes"'
+- '"Human"'
+- '"Pair 3"'
+- '"Chromosomes"'
+- '"Human"'
+- '"Pair 3/*genetics"'
+- '"Colitis"'
+- '"Ulcerative/epidemiology/genetics"'
+- '"Crohn Disease/epidemiology/*genetics"'
+- '"Genetic Linkage/genetics"'
+- '"Genetic Markers/genetics"'
+- '"Jews/*genetics"'
+- '"Polymorphism"'
+- '"Single Nucleotide/*genetics"'
+- '"Quantitative Trait Loci/genetics"'
+categories: []
+date: '2008-03-01'
+lastmod: 2021-11-01T08:41:54-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:54.300293Z'
 publication_types:
 - '2'
 abstract: Inflammatory bowel disease (IBD) is a complex genetic disorder of two major
@@ -46,51 +111,6 @@ abstract: Inflammatory bowel disease (IBD) is a complex genetic disorder of two 
   study demonstrates the ability of high information content adequately powered SNP
   genome-wide linkage studies to identify loci not observed in multiple microsatellite-based
   studies in smaller cohorts.
-featured: false
 publication: '*Genes and Immunity*'
-tags:
-- '"Female"'
-- '"Humans"'
-- '"Male"'
-- '"Colitis"'
-- '"Ulcerative"'
-- '"Crohn Disease"'
-- '"Polymorphism"'
-- '"Single Nucleotide"'
-- '"Genetic Linkage"'
-- '"Jews"'
-- '"Pedigree"'
-- '"Quantitative Trait Loci"'
-- '"Chromosomes"'
-- '"Human"'
-- '"Pair 1"'
-- '"Genetic Markers"'
-- '"Chromosomes"'
-- '"Human"'
-- '"Pair 3"'
-- '"Chromosomes"'
-- '"Human"'
-- '"Pair 13"'
-- '"Lod Score"'
-- '"Crohn Disease/epidemiology/*genetics"'
-- '"Jews/*genetics"'
-- '"Chromosomes"'
-- '"Human"'
-- '"Pair 1/*genetics"'
-- '"Chromosomes"'
-- '"Human"'
-- '"Pair 13/*genetics"'
-- '"Chromosomes"'
-- '"Human"'
-- '"Pair 3/*genetics"'
-- '"Colitis"'
-- '"Ulcerative/epidemiology/genetics"'
-- '"Genetic Linkage/genetics"'
-- '"Genetic Markers/genetics"'
-- '"Polymorphism"'
-- '"Single Nucleotide/*genetics"'
-- '"Quantitative Trait Loci/genetics"'
-grcs: [rutgers]
 doi: 10.1038/sj.gene.6364460
 ---
-

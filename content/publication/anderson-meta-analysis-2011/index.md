@@ -1,8 +1,10 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: Meta-analysis identifies 29 additional ulcerative colitis risk loci, increasing
   the number of confirmed associations to 47
-date: '2011-03-01'
-publishDate: '2021-02-15T12:56:55.551453Z'
+subtitle: ''
+summary: ''
 authors:
 - Carl A. Anderson
 - Gabrielle Boucher
@@ -117,6 +119,37 @@ authors:
 - Séverine Vermeire
 - Rinse K. Weersma
 - John D. Rioux
+tags:
+- '"Humans"'
+- '"Colitis"'
+- '"Ulcerative"'
+- '"Colitis"'
+- '"Ulcerative/*genetics"'
+- '"Crohn Disease"'
+- '"Crohn Disease/genetics"'
+- '"Genome-Wide Association Study"'
+- '"Risk"'
+categories: []
+date: '2011-03-01'
+lastmod: 2021-11-01T08:41:03-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:03.690854Z'
 publication_types:
 - '2'
 abstract: Genome-wide association studies and candidate gene studies in ulcerative
@@ -131,19 +164,6 @@ abstract: Genome-wide association studies and candidate gene studies in ulcerati
   IL8RA-IL8RB, IL7R, IL12B, DAP, PRDM1, JAK2, IRF5, GNA12 and LSP1. The total number
   of confirmed inflammatory bowel disease risk loci is now 99, including a minimum
   of 28 shared association signals between Crohn's disease and ulcerative colitis.
-featured: false
 publication: '*Nature Genetics*'
-tags:
-- '"Humans"'
-- '"Colitis"'
-- '"Ulcerative"'
-- '"Crohn Disease"'
-- '"Genome-Wide Association Study"'
-- '"Risk"'
-- '"Colitis"'
-- '"Ulcerative/*genetics"'
-- '"Crohn Disease/genetics"'
-grcs: [montreal]
 doi: 10.1038/ng.764
 ---
-

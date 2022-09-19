@@ -1,8 +1,10 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: Single nucleotide polymorphisms that increase expression of the guanosine triphosphatase
   RAC1 are associated with ulcerative colitis.
-date: '2011-08-01'
-publishDate: '2021-02-15T12:57:05.550985Z'
+subtitle: ''
+summary: ''
 authors:
 - Aleixo M. Muise
 - Thomas Walters
@@ -30,6 +32,51 @@ authors:
 - Michael Glogauer
 - Mark S. Silverberg
 - John H. Brumell
+tags:
+- '"Humans"'
+- '"Polymorphism"'
+- '"Single Nucleotide"'
+- '"Animals"'
+- '"Mice"'
+- '"Cohort Studies"'
+- '"Alleles"'
+- '"Interleukin-1beta/metabolism"'
+- '"Colitis"'
+- '"Ulcerative/chemically induced/*genetics/*metabolism/pathology"'
+- '"Crohn Disease/*genetics/*metabolism"'
+- '"Dextran Sulfate"'
+- '"European Continental Ancestry Group/genetics"'
+- '"Genetic Association Studies"'
+- '"Mice"'
+- '"Knockout"'
+- '"Odds Ratio"'
+- '"Peroxidase/metabolism"'
+- '"rac1 GTP-Binding Protein/*genetics/*metabolism"'
+- '"RNA"'
+- '"Messenger/*blood"'
+- '"Statistics"'
+- '"Nonparametric"'
+categories: []
+date: '2011-08-01'
+lastmod: 2021-11-01T08:41:07-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:07.038854Z'
 publication_types:
 - '2'
 abstract: 'BACKGROUND & AIMS: RAC1 is a guanosine triphosphatase that has an evolutionarily  conserved
@@ -52,32 +99,6 @@ abstract: 'BACKGROUND & AIMS: RAC1 is a guanosine triphosphatase that has an evo
   CONCLUSIONS: Human studies and knockout mice demonstrated a role for the guanosine
   triphosphatase RAC1 in the development of ulcerative colitis; increased expression
   of RAC1 was associated with susceptibility to colitis.'
-featured: false
 publication: '*Gastroenterology*'
-tags:
-- '"Humans"'
-- '"Statistics"'
-- '"Nonparametric"'
-- '"Polymorphism"'
-- '"Single Nucleotide"'
-- '"Alleles"'
-- '"Animals"'
-- '"Mice"'
-- '"Genetic Association Studies"'
-- '"Odds Ratio"'
-- '"Cohort Studies"'
-- '"Mice"'
-- '"Knockout"'
-- '"Interleukin-1beta/metabolism"'
-- '"Colitis"'
-- '"Ulcerative/chemically induced/*genetics/*metabolism/pathology"'
-- '"Crohn Disease/*genetics/*metabolism"'
-- '"Dextran Sulfate"'
-- '"European Continental Ancestry Group/genetics"'
-- '"Peroxidase/metabolism"'
-- '"rac1 GTP-Binding Protein/*genetics/*metabolism"'
-- '"RNA"'
-- '"Messenger/*blood"'
 doi: 10.1053/j.gastro.2011.04.057
 ---
-

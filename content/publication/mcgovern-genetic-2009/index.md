@@ -1,7 +1,9 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: Genetic epistasis of IL23/IL17 pathway genes in Crohn's disease
-date: '2009-06-01'
-publishDate: '2021-02-15T12:57:00.373558Z'
+subtitle: ''
+summary: ''
 authors:
 - Dermot P. B. McGovern
 - Jerome I. Rotter
@@ -18,6 +20,46 @@ authors:
 - Sheila Pressman
 - Stephan R. Targan
 - Kent D. Taylor
+tags:
+- '"Humans"'
+- '"Polymorphism"'
+- '"Single Nucleotide"'
+- '"Crohn Disease"'
+- '"Case-Control Studies"'
+- '"Genetic Predisposition to Disease"'
+- '"Haplotypes"'
+- '"Epistasis"'
+- '"Genetic"'
+- '"Risk Factors"'
+- '"Receptors"'
+- '"Interleukin"'
+- '"Interleukin-17"'
+- '"Jews"'
+- '"Receptors"'
+- '"Interleukin-12"'
+- '"Receptors"'
+- '"Interleukin-17"'
+categories: []
+date: '2009-06-01'
+lastmod: 2021-11-01T08:41:30-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:30.434554Z'
 publication_types:
 - '2'
 abstract: "BACKGROUND: The IL23/IL17 pathway is pivotal in the development of chronic\
@@ -37,27 +79,6 @@ abstract: "BACKGROUND: The IL23/IL17 pathway is pivotal in the development of ch
   \ These data support the investigation of pathways implicated in CD pathogenesis\
   \ in order to identify further susceptibility genes and also suggest that important\
   \ gene-gene interaction is present in CD susceptibility.(Inflamm Bowel Dis 2009)."
-featured: false
 publication: '*Inflammatory Bowel Diseases*'
-tags:
-- '"Humans"'
-- '"Risk Factors"'
-- '"Case-Control Studies"'
-- '"Crohn Disease"'
-- '"Genetic Predisposition to Disease"'
-- '"Polymorphism"'
-- '"Single Nucleotide"'
-- '"Receptors"'
-- '"Interleukin"'
-- '"Haplotypes"'
-- '"Jews"'
-- '"Interleukin-17"'
-- '"Epistasis"'
-- '"Genetic"'
-- '"Receptors"'
-- '"Interleukin-12"'
-- '"Receptors"'
-- '"Interleukin-17"'
 doi: 10.1002/ibd.20855
 ---
-

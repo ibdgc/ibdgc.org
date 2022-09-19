@@ -1,7 +1,9 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: Common variants in the NLRP3 region contribute to Crohn's disease susceptibility
-date: '2009-01-01'
-publishDate: '2021-02-15T12:57:02.966524Z'
+subtitle: ''
+summary: ''
 authors:
 - Alexandra-Chloé Villani
 - Mathieu Lemire
@@ -24,6 +26,40 @@ authors:
 - Severine Vermeire
 - Thomas J. Hudson
 - Denis Franchimont
+tags:
+- '"Humans"'
+- '"Polymorphism"'
+- '"Single Nucleotide"'
+- '"Gene Expression Regulation"'
+- '"Crohn Disease"'
+- '"Case-Control Studies"'
+- '"Genetic Predisposition to Disease"'
+- '"Reproducibility of Results"'
+- '"Carrier Proteins"'
+- '"Base Pairing"'
+- '"NLR Family"'
+- '"Pyrin Domain-Containing 3 Protein"'
+categories: []
+date: '2009-01-01'
+lastmod: 2021-11-01T08:41:50-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:49.984344Z'
 publication_types:
 - '2'
 abstract: We used a candidate gene approach to identify a set of SNPs, located in
@@ -39,21 +75,6 @@ abstract: We used a candidate gene approach to identify a set of SNPs, located i
   production. Mutations in NLRP3 are known to be responsible for three rare autoinflammatory
   disorders. These results suggest that the NLRP3 region is also implicated in the
   susceptibility of more common inflammatory diseases such as Crohn's disease.
-featured: false
 publication: '*Nature Genetics*'
-tags:
-- '"Humans"'
-- '"Reproducibility of Results"'
-- '"Case-Control Studies"'
-- '"Crohn Disease"'
-- '"Genetic Predisposition to Disease"'
-- '"Polymorphism"'
-- '"Single Nucleotide"'
-- '"Gene Expression Regulation"'
-- '"Carrier Proteins"'
-- '"Base Pairing"'
-- '"NLR Family"'
-- '"Pyrin Domain-Containing 3 Protein"'
 doi: 10.1038/ng.285
 ---
-

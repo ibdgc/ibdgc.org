@@ -1,8 +1,10 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: Molecular classification of Crohn's disease reveals two clinically relevant
   subtypes
-date: '2018-01-01'
-publishDate: '2021-02-15T12:57:00.050156Z'
+subtitle: ''
+summary: ''
 authors:
 - Matthew Weiser
 - Jeremy M. Simon
@@ -20,6 +22,49 @@ authors:
 - Mark J. Koruda
 - Terrence S. Furey
 - Shehzad Z. Sheikh
+tags:
+- '"Gene Expression Profiling"'
+- '"Humans"'
+- '"Gene Expression Regulation"'
+- '"Crohn Disease"'
+- '"Genome-Wide Association Study"'
+- '"Adult"'
+- '"Case-Control Studies"'
+- '"Colon"'
+- '"Female"'
+- '"Male"'
+- '"Ileum"'
+- '"Phenotype"'
+- '"Child"'
+- '"Prognosis"'
+- "\"CROHN'S DISEASE\""
+- '"Principal Component Analysis"'
+- '"Age Factors"'
+- '"ENERGY METABOLISM"'
+- '"GENE REGULATION"'
+- '"IBD CLINICAL"'
+- '"RNA EXPRESSION"'
+categories: []
+date: '2018-01-01'
+lastmod: 2021-11-01T08:41:30-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:30.029789Z'
 publication_types:
 - '2'
 abstract: "OBJECTIVE: The clinical presentation and course of Crohn's disease (CD)\
@@ -43,30 +88,6 @@ abstract: "OBJECTIVE: The clinical presentation and course of Crohn's disease (C
   \ including rectal disease and need for colectomy. CONCLUSIONS: Our results strongly\
   \ suggest that these molecular signatures define two clinically relevant forms of\
   \ CD irrespective of tissue sampling location, patient age or treatment status."
-featured: false
 publication: '*Gut*'
-tags:
-- '"Female"'
-- '"Humans"'
-- '"Male"'
-- '"Adult"'
-- '"Age Factors"'
-- '"Child"'
-- '"Case-Control Studies"'
-- '"Crohn Disease"'
-- '"Genome-Wide Association Study"'
-- '"Colon"'
-- '"Phenotype"'
-- '"Prognosis"'
-- '"Gene Expression Regulation"'
-- '"Ileum"'
-- '"Gene Expression Profiling"'
-- "\"CROHN'S DISEASE\""
-- '"ENERGY METABOLISM"'
-- '"GENE REGULATION"'
-- '"IBD CLINICAL"'
-- '"Principal Component Analysis"'
-- '"RNA EXPRESSION"'
 doi: 10.1136/gutjnl-2016-312518
 ---
-

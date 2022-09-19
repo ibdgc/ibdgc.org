@@ -1,8 +1,10 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: Contribution of higher risk genes and European admixture to Crohn's disease
   in African Americans
-date: '2012-12-01'
-publishDate: '2021-02-15T12:57:03.720504Z'
+subtitle: ''
+summary: ''
 authors:
 - Ming-Hsi Wang
 - Toshihiko Okazaki
@@ -30,6 +32,60 @@ authors:
 - Rick A. Kittles
 - Linda W. H. Kao
 - Steven R. Brant
+tags:
+- '"Humans"'
+- '"Polymorphism"'
+- '"Single Nucleotide"'
+- '"Crohn Disease"'
+- '"Inflammatory Bowel Diseases"'
+- '"Adult"'
+- '"Autophagy-Related Proteins"'
+- '"Female"'
+- '"Male"'
+- '"Genetic Predisposition to Disease"'
+- '"Genotype"'
+- '"African Americans"'
+- '"European Continental Ancestry Group"'
+- '"Haplotypes"'
+- '"Nod2 Signaling Adaptor Protein"'
+- '"Crohn Disease/*genetics"'
+- '"Genetic Predisposition to Disease/*genetics"'
+- '"Risk Factors"'
+- '"Polymorphism"'
+- '"Single Nucleotide/genetics"'
+- '"Carrier Proteins"'
+- '"GTP-Binding Proteins"'
+- '"Receptors"'
+- '"Interleukin"'
+- '"African Americans/*genetics"'
+- '"Carrier Proteins/genetics"'
+- '"European Continental Ancestry Group/*genetics"'
+- '"GTP-Binding Proteins/genetics"'
+- '"Inflammatory Bowel Diseases/genetics"'
+- '"Nod2 Signaling Adaptor Protein/genetics"'
+- '"Receptors"'
+- '"Interleukin/genetics"'
+categories: []
+date: '2012-12-01'
+lastmod: 2021-11-01T08:41:53-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:53.188555Z'
 publication_types:
 - '2'
 abstract: "BACKGROUND: African Americans (AAs) are an admixed population of West African\
@@ -54,42 +110,6 @@ abstract: "BACKGROUND: African Americans (AAs) are an admixed population of West
   \ gene variations contribute significantly to AA CD risk. Established NOD2, SLC22A4-A5,\
   \ and ATG16L1 variants show increased CD risk, with IBD5 recessive. Although CD\
   \ is more common in whites, European admixture is similar among AA cases and controls."
-featured: false
 publication: '*Inflammatory Bowel Diseases*'
-tags:
-- '"Female"'
-- '"Humans"'
-- '"Male"'
-- '"Adult"'
-- '"Risk Factors"'
-- '"African Americans"'
-- '"Crohn Disease"'
-- '"European Continental Ancestry Group"'
-- '"Genetic Predisposition to Disease"'
-- '"Polymorphism"'
-- '"Single Nucleotide"'
-- '"Receptors"'
-- '"Interleukin"'
-- '"Genotype"'
-- '"Inflammatory Bowel Diseases"'
-- '"Haplotypes"'
-- '"Nod2 Signaling Adaptor Protein"'
-- '"Autophagy-Related Proteins"'
-- '"Carrier Proteins"'
-- '"GTP-Binding Proteins"'
-- '"Receptors"'
-- '"Interleukin/genetics"'
-- '"Crohn Disease/*genetics"'
-- '"Genetic Predisposition to Disease/*genetics"'
-- '"Nod2 Signaling Adaptor Protein/genetics"'
-- '"Polymorphism"'
-- '"Single Nucleotide/genetics"'
-- '"African Americans/*genetics"'
-- '"Carrier Proteins/genetics"'
-- '"European Continental Ancestry Group/*genetics"'
-- '"GTP-Binding Proteins/genetics"'
-- '"Inflammatory Bowel Diseases/genetics"'
-grcs: [rutgers]
 doi: 10.1002/ibd.22931
 ---
-

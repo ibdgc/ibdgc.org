@@ -1,8 +1,10 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: "Inherited determinants of Crohn's disease and ulcerative colitis phenotypes:\
   \ a genetic association study"
-date: '2016-01-01'
-publishDate: '2021-02-15T12:56:54.964538Z'
+subtitle: ''
+summary: ''
 authors:
 - Isabelle Cleynen
 - Gabrielle Boucher
@@ -47,6 +49,60 @@ authors:
 - Dermot P. B. McGovern
 - Jeffrey C. Barrett
 - Charlie W. Lees
+tags:
+- '"Humans"'
+- '"Polymorphism"'
+- '"Single Nucleotide"'
+- '"Colitis"'
+- '"Ulcerative"'
+- '"Colitis"'
+- '"Ulcerative/*genetics"'
+- '"Crohn Disease"'
+- '"Adult"'
+- '"Female"'
+- '"Male"'
+- '"Young Adult"'
+- '"Genetic Predisposition to Disease"'
+- '"Genotype"'
+- '"Phenotype"'
+- '"*Genetic Predisposition to Disease"'
+- '"Alleles"'
+- '"Nod2 Signaling Adaptor Protein"'
+- '"Genetic Association Studies"'
+- '"Crohn Disease/*genetics"'
+- '"HLA-DRB1 Chains"'
+- '"Major Histocompatibility Complex"'
+- '"Risk Assessment"'
+- '"Nod2 Signaling Adaptor Protein/genetics"'
+- '"*Genetic Association Studies"'
+- '"Hepatocyte Growth Factor"'
+- '"Proto-Oncogene Proteins"'
+- '"Hepatocyte Growth Factor/genetics"'
+- '"HLA-DRB1 Chains/genetics"'
+- '"Immunoassay"'
+- '"Major Histocompatibility Complex/genetics"'
+- '"Proto-Oncogene Proteins/genetics"'
+categories: []
+date: '2016-01-01'
+lastmod: 2021-11-01T08:42:02-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:42:02.488151Z'
 publication_types:
 - '2'
 abstract: "BACKGROUND: Crohn's disease and ulcerative colitis are the two major forms\
@@ -86,42 +142,6 @@ abstract: "BACKGROUND: Crohn's disease and ulcerative colitis are the two major 
   \ genetically determined, and the major driver to changes in disease behaviour over\
   \ time. FUNDING: International Inflammatory Bowel Disease Genetics Consortium members\
   \ funding sources (see Acknowledgments for full list)."
-featured: false
 publication: '*Lancet (London, England)*'
-tags:
-- '"Female"'
-- '"Humans"'
-- '"Male"'
-- '"Adult"'
-- '"Young Adult"'
-- '"Colitis"'
-- '"Ulcerative"'
-- '"Crohn Disease"'
-- '"Genetic Predisposition to Disease"'
-- '"HLA-DRB1 Chains"'
-- '"Polymorphism"'
-- '"Single Nucleotide"'
-- '"Alleles"'
-- '"Genotype"'
-- '"Genetic Association Studies"'
-- '"Phenotype"'
-- '"Major Histocompatibility Complex"'
-- '"Hepatocyte Growth Factor"'
-- '"Immunoassay"'
-- '"Nod2 Signaling Adaptor Protein"'
-- '"Proto-Oncogene Proteins"'
-- '"Risk Assessment"'
-- '"*Genetic Predisposition to Disease"'
-- '"Colitis"'
-- '"Ulcerative/*genetics"'
-- '"Crohn Disease/*genetics"'
-- '"*Genetic Association Studies"'
-- '"Hepatocyte Growth Factor/genetics"'
-- '"HLA-DRB1 Chains/genetics"'
-- '"Major Histocompatibility Complex/genetics"'
-- '"Nod2 Signaling Adaptor Protein/genetics"'
-- '"Proto-Oncogene Proteins/genetics"'
-grcs: [mssm, montreal, pittsburgh, rutgers]
 doi: 10.1016/S0140-6736(15)00465-1
 ---
-

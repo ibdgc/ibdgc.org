@@ -1,14 +1,63 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: Genetic polymorphisms in metabolizing enzymes modifying the association between
   smoking and inflammatory bowel diseases
-date: '2014-05-01'
-publishDate: '2021-02-15T12:57:04.146830Z'
+subtitle: ''
+summary: ''
 authors:
 - Ashwin N. Ananthakrishnan
 - Deanna D. Nguyen
 - Jenny Sauk
 - Vijay Yajnik
 - Ramnik J. Xavier
+tags:
+- '"Humans"'
+- '"Colitis"'
+- '"Ulcerative"'
+- '"Crohn Disease"'
+- '"Polymorphism"'
+- '"Genetic"'
+- '"Adult"'
+- '"Biomarkers"'
+- '"Case-Control Studies"'
+- '"Female"'
+- '"Male"'
+- '"Middle Aged"'
+- '"Prospective Studies"'
+- '"Young Adult"'
+- '"Genetic Predisposition to Disease"'
+- '"Adolescent"'
+- '"Risk Factors"'
+- '"Prognosis"'
+- '"Cytochrome P-450 CYP2A6"'
+- '"Follow-Up Studies"'
+- '"Glutathione S-Transferase pi"'
+- '"Glutathione Transferase"'
+- '"Heme Oxygenase-1"'
+- '"NAD(P)H Dehydrogenase (Quinone)"'
+- '"Smoking"'
+categories: []
+date: '2014-05-01'
+lastmod: 2021-11-01T08:41:17-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:17.599939Z'
 publication_types:
 - '2'
 abstract: "BACKGROUND: Cigarette smoking is a well-established environmental risk\
@@ -32,34 +81,6 @@ abstract: "BACKGROUND: Cigarette smoking is a well-established environmental ris
   \ with smoking and risk of CD or UC. CONCLUSIONS: Genetic polymorphisms in metabolizing\
   \ enzymes may influence the association between smoking and CD and UC. Further studies\
   \ of gene-environment interaction in inflammatory bowel disease are warranted."
-featured: false
 publication: '*Inflammatory Bowel Diseases*'
-tags:
-- '"Female"'
-- '"Humans"'
-- '"Male"'
-- '"Middle Aged"'
-- '"Adult"'
-- '"Risk Factors"'
-- '"Young Adult"'
-- '"Adolescent"'
-- '"Case-Control Studies"'
-- '"Colitis"'
-- '"Ulcerative"'
-- '"Crohn Disease"'
-- '"Genetic Predisposition to Disease"'
-- '"Smoking"'
-- '"Follow-Up Studies"'
-- '"Prognosis"'
-- '"Polymorphism"'
-- '"Genetic"'
-- '"Biomarkers"'
-- '"Prospective Studies"'
-- '"Cytochrome P-450 CYP2A6"'
-- '"Glutathione S-Transferase pi"'
-- '"Glutathione Transferase"'
-- '"Heme Oxygenase-1"'
-- '"NAD(P)H Dehydrogenase (Quinone)"'
 doi: 10.1097/MIB.0000000000000014
 ---
-

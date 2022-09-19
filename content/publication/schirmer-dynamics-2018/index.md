@@ -1,7 +1,9 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: Dynamics of metatranscription in the inflammatory bowel disease gut microbiome
-date: '2018-01-01'
-publishDate: '2021-02-15T12:56:59.387350Z'
+subtitle: ''
+summary: ''
 authors:
 - Melanie Schirmer
 - Eric A. Franzosa
@@ -24,6 +26,48 @@ authors:
 - Hera Vlamakis
 - Ramnik J. Xavier
 - Curtis Huttenhower
+tags:
+- '"Gene Expression Profiling"'
+- '"Humans"'
+- '"Transcription"'
+- '"Genetic"'
+- '"Colitis"'
+- '"Ulcerative"'
+- '"Crohn Disease"'
+- '"Inflammatory Bowel Diseases"'
+- '"Adult"'
+- '"Female"'
+- '"Male"'
+- '"Young Adult"'
+- '"Phenotype"'
+- '"Longitudinal Studies"'
+- '"Adolescent"'
+- '"Child"'
+- '"Gastrointestinal Microbiome"'
+- '"Dysbiosis"'
+- '"Feces"'
+- '"Metagenomics"'
+categories: []
+date: '2018-01-01'
+lastmod: 2021-11-01T08:41:28-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:27.742585Z'
 publication_types:
 - '2'
 abstract: Inflammatory bowel disease (IBD) is a group of chronic diseases of the digestive
@@ -53,29 +97,6 @@ abstract: Inflammatory bowel disease (IBD) is a group of chronic diseases of the
   to metagenomic abundances. The study's results highlight the strength of analysing
   both the activity and the presence of gut microorganisms to provide insight into
   the role of the microbiome in IBD.
-featured: false
 publication: '*Nature Microbiology*'
-tags:
-- '"Female"'
-- '"Humans"'
-- '"Male"'
-- '"Adult"'
-- '"Young Adult"'
-- '"Adolescent"'
-- '"Longitudinal Studies"'
-- '"Child"'
-- '"Colitis"'
-- '"Ulcerative"'
-- '"Crohn Disease"'
-- '"Inflammatory Bowel Diseases"'
-- '"Gastrointestinal Microbiome"'
-- '"Phenotype"'
-- '"Dysbiosis"'
-- '"Feces"'
-- '"Gene Expression Profiling"'
-- '"Metagenomics"'
-- '"Transcription"'
-- '"Genetic"'
 doi: 10.1038/s41564-017-0089-z
 ---
-

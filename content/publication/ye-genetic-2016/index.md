@@ -1,11 +1,55 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: 'Genetic variation in IBD: progress, clues to pathogenesis and possible clinical
   utility'
-date: '2016-10-01'
-publishDate: '2021-02-15T12:57:01.131210Z'
+subtitle: ''
+summary: ''
 authors:
 - Byong Duk Ye
 - Dermot P. B. McGovern
+tags:
+- '"Humans"'
+- '"Crohn’s disease"'
+- '"Animals"'
+- '"Genome-Wide Association Study"'
+- '"Inflammatory Bowel Diseases"'
+- '"Genetic Predisposition to Disease"'
+- '"Genotype"'
+- '"Genetic Variation"'
+- '"Sequence Analysis"'
+- '"DNA"'
+- '"ulcerative colitis"'
+- '"Genetic Linkage"'
+- '"Inflammatory bowel disease"'
+- '"disease susceptibility"'
+- '"genetics"'
+- '"genome-wide association study"'
+- '"heritability"'
+- '"pharmacogenetics"'
+- '"Pharmacogenetics"'
+- '"sequencing"'
+categories: []
+date: '2016-10-01'
+lastmod: 2021-11-01T08:41:32-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:31.914543Z'
 publication_types:
 - '2'
 abstract: Epidemiological and clinical studies have suggested that the pathogenesis
@@ -21,29 +65,6 @@ abstract: Epidemiological and clinical studies have suggested that the pathogene
   the missing heritability. Considerable progress is also being made on applying outcomes
   of genetic research in diagnostics, classification, prognostics, and the development
   of new therapeutics of IBD.
-featured: false
 publication: '*Expert Review of Clinical Immunology*'
-tags:
-- '"genetics"'
-- '"Humans"'
-- '"Genetic Predisposition to Disease"'
-- '"Genome-Wide Association Study"'
-- '"Animals"'
-- '"Genotype"'
-- '"Inflammatory Bowel Diseases"'
-- '"Genetic Linkage"'
-- '"Sequence Analysis"'
-- '"DNA"'
-- '"Crohn’s disease"'
-- '"Genetic Variation"'
-- '"Inflammatory bowel disease"'
-- '"ulcerative colitis"'
-- '"disease susceptibility"'
-- '"genome-wide association study"'
-- '"heritability"'
-- '"pharmacogenetics"'
-- '"Pharmacogenetics"'
-- '"sequencing"'
 doi: 10.1080/1744666X.2016.1184972
 ---
-

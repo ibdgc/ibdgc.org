@@ -1,8 +1,10 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: Deletion polymorphism upstream of IRGM associated with altered IRGM expression
   and Crohn's disease
-date: '2008-09-01'
-publishDate: '2021-02-15T12:57:02.546879Z'
+subtitle: ''
+summary: ''
 authors:
 - Steven A. McCarroll
 - Alan Huett
@@ -21,6 +23,44 @@ authors:
 - David Altshuler
 - Mark J. Daly
 - Ramnik J. Xavier
+tags:
+- '"Humans"'
+- '"Polymorphism"'
+- '"Single Nucleotide"'
+- '"Gene Expression Regulation"'
+- '"Crohn Disease"'
+- '"Genome-Wide Association Study"'
+- '"Autophagy"'
+- '"Genetic Predisposition to Disease"'
+- '"*Polymorphism"'
+- '"Single Nucleotide"'
+- '"Cell Line"'
+- '"Crohn Disease/*genetics"'
+- '"GTP-Binding Proteins"'
+- '"Autophagy/genetics"'
+- '"GTP-Binding Proteins/*genetics"'
+- '"Sequence Deletion"'
+categories: []
+date: '2008-09-01'
+lastmod: 2021-11-01T08:41:57-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:56.723367Z'
 publication_types:
 - '2'
 abstract: Following recent success in genome-wide association studies, a critical
@@ -36,25 +76,6 @@ abstract: Following recent success in genome-wide association studies, a critica
   in CD. These results suggest that the CD association at IRGM arises from an alteration
   in IRGM regulation that affects the efficacy of autophagy and identify a common
   deletion polymorphism as a likely causal variant.
-featured: false
 publication: '*Nature Genetics*'
-tags:
-- '"Humans"'
-- '"Crohn Disease"'
-- '"Genetic Predisposition to Disease"'
-- '"Genome-Wide Association Study"'
-- '"Polymorphism"'
-- '"Single Nucleotide"'
-- '"Autophagy"'
-- '"Gene Expression Regulation"'
-- '"Cell Line"'
-- '"GTP-Binding Proteins"'
-- '"Sequence Deletion"'
-- '"*Polymorphism"'
-- '"Single Nucleotide"'
-- '"Crohn Disease/*genetics"'
-- '"Autophagy/genetics"'
-- '"GTP-Binding Proteins/*genetics"'
 doi: 10.1038/ng.215
 ---
-

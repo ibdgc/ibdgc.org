@@ -1,7 +1,9 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: Gene-gene and gene-environment interactions in ulcerative colitis.
-date: '2014-05-01'
-publishDate: '2021-02-15T12:57:06.544488Z'
+subtitle: ''
+summary: ''
 authors:
 - Ming-Hsi Wang
 - Claudio Fiocchi
@@ -11,6 +13,40 @@ authors:
 - Nancy Rebert
 - Richard H. Duerr
 - Jean-Paul Achkar
+tags:
+- '"Humans"'
+- '"Polymorphism"'
+- '"Single Nucleotide"'
+- '"Colitis"'
+- '"Ulcerative/*genetics"'
+- '"Genome-Wide Association Study"'
+- '"Genotype"'
+- '"Phenotype"'
+- '"Alleles"'
+- '"*Epistasis"'
+- '"Genetic"'
+- '"*Gene-Environment Interaction"'
+categories: []
+date: '2014-05-01'
+lastmod: 2021-11-01T08:41:09-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:09.090567Z'
 publication_types:
 - '2'
 abstract: Genome-wide association studies (GWAS) have identified at least 133 ulcerative
@@ -34,22 +70,6 @@ abstract: Genome-wide association studies (GWAS) have identified at least 133 ul
   that the LR methodology allows the identification and replication of high-order
   genetic interactions in UC GWAS datasets. UC risk can be predicted by a 133 loci
   and improved by adding gene-gene and gene-environment  interactions.
-featured: false
 publication: '*Human genetics*'
-tags:
-- '"Humans"'
-- '"Genome-Wide Association Study"'
-- '"Polymorphism"'
-- '"Single Nucleotide"'
-- '"Alleles"'
-- '"Genotype"'
-- '"Phenotype"'
-- '"Colitis"'
-- '"Ulcerative/*genetics"'
-- '"*Epistasis"'
-- '"Genetic"'
-- '"*Gene-Environment Interaction"'
-grcs: [pittsburgh]
 doi: 10.1007/s00439-013-1395-z
 ---
-

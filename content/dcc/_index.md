@@ -3,9 +3,9 @@
 title: "Data Coordinating Center"
 subtitle: "Icahn School of Medicine at Mount Sinai and the University of Chicago"
 pi: "Judy Cho, MD"
-pi_titles: ["Principal Investigator, IBDGC Data Coordinating Center"]
+pi_titles: ["Principal Investigator, IBDGC Data Coordinating Center", "Professor, Icahn School of Medicaine at Mount Sinai"]
 picture: "/img/mssm/judy-cho-pic.jpg"
-bio: ["My major research efforts currently are: a) defining mechanisms of stromal/epithelial-immune cell cross talk in IBD; b) defining components of treatment refractory (specifically, non-response to pro-inflammatory cytokine blockade) IBD at the cellular and tissue level; c) predicting differences in clinical outcomes of interest across IBD clinical subtypes and populations; d) exploring the role of rare, IBD-associated variants of high effects; e) organizing large datasets for NIDDK IBDGC and IIBDGC; and f) developing select treatment targets based on IBD genetic and single cell expression findings. Since 2015, I have served as Director of the Personalized Medicine Institute at Mount Sinai. I am extremely excited by the explosion of data and new data tools that are accelerating collaborative efforts to benefit patients through genetic and genomic studies; I am eager to continue applying new data-approaches to benefit the NIDDK IBDGC."]
+bio: ["Dr. Cho has served as the Principal Investigator of the NIDDK IBDGC since 2003. She plays a lead role in setting scientific and operational priorities, assessing new sample and analytic approaches, and overseeing internal and external communication."]
 tags: []
 categories: []
 date: 2020-08-07T09:46:16-04:00
@@ -21,68 +21,44 @@ publications:
     order: "desc"
 ---
 
+<!-- manual color setting needed due to wowchemy page-wrapper breaking change -->
+<body style="background-color: rgb(54, 70, 90);">
+
 # DCC Objectives
 
-IBD affects 1.8 to 3 million Americans and better therapies are urgently
-needed. The IBDGC, comprised of the DCC and six Genetic Research Centers
-(GRCs) throughout North America, has played a central role in catalyzing
-genetic progress in IBD. During the past funding cycle, the IBDGC has
-continued to leverage the large, cross-national datasets it has compiled to
-push to 200 the number of genetic loci associated with IBD risk. In addition,
-it has begun the work of fine-mapping these loci and conducting the first-ever
-large-scale genetic studies among non-European populations, both critical next
-steps in further developing our understanding of the overall genetic
-architecture of IBD. The IBDGC has also initiated two new studies—one in CD
-and one in UC—involving novel protocols for intestinal sampling and
-longitudinal follow-up including serial samples of blood and stool. These
-studies will enable the IBDGC to begin to focus on the precise molecular
-mechanisms responsible for genetic variation in IBD risk, as well as to
-identify the specific cells in which disease-associated variants exert their
-pathogenic or protective effects. This knowledge will be critical in more
-accurately prioritizing which pathways to target for the development of new
-therapies for IBD.
+The Data Coordinating Center (DCC) of the NIDDK IBDGC plays a lead role in a) assessing and applying innovative research approaches in genetics and genomics to define pathophysiologic mechanisms, b) operationally unifying the NIDDK IBDGC and assuring rigor and reproducibility at scale, and c) facilitating collaboration with external investigators and groups to maximize the size and scientific value of existing datasets, provide complementary expertise, and develop the next generation of IBD investigators pursuing genetic, cellular and molecular understanding of IBD.
 
-To continue this progress, the DCC will focus over the next 5 years on two
-related fronts:
+---
 
-1. The DCC will apply new laboratory and computing technologies to collect
-   accurate, detailed data on disease pathogenesis from the clinical all the
-   way down to the cellular level, and to integrate these data with both
-   existing and new genomic data for sharing with the research community.
+# Specific Aims: 2017-2022
 
-   1. Continue to develop our platform for collecting detailed, longitudinal
-      phenotypic and clinical data, and apply it to larger cohorts and in
-      targeted ways (e.g., to follow individuals with rare genetic variants or
-      unique phenotypic characteristics)
-   2. Increase collaboration with the top laboratories doing functional studies
-      in IBD, providing them with biological material and linking their results
-      to genetics
-   3. Develop new objective assessments of disease activity and treatment that
-      can be efficiently applied at scale, including automated methods for
-      extracting information from endoscopy and pathology reports, virtual
-      slides of endoscopic biopsies, endoscopic video and Electronic Medical
-      Records (EMRs)
-   4. Use the latest cloud computing technologies to facilitate collaborative
-      analysis through the Bionimbus Protected Data Cloud, and facilitate data
-      sharing by developing an IBD Data Commons
+**Aim 1:** To apply new laboratory and computing technologies and collect accurate, detailed data on disease pathogenesis from the clinical all the way down to the cellular level and genetic level, sharing with the broader research community.
+- Expand platforms for collecting detailed, longitudinal cohort collections
+- Efficiently collaborate with top laboratories, operationalizing sample and data flows and linking results to genetics
+- Develop and scale objective assessments of disease activity and treatment including automated methods for extracting information from endoscopy and pathology reports, virtual slides of endoscopic biopsies, endoscopic video and Electronic Medical Records (EMRs)
+- Develop and apply a cloud-based IBD Data Commons, for broad investigator use
 
-2. The DCC will prioritize scientific directions for the Consortium and scale
-   up new technologies, sampling strategies and analyses by applying them to
-   larger cohorts and longitudinal data.
+**Aim 2:** To prioritize scientific directions for the Consortium and scale new technologies, sampling strategies and analyses to larger cohorts, including longitudinal data.
+- To fine-map established loci by expanding sample size and diversity. To distinguish credible SNPs between CD and UC
+- Comprehensively define the genetic basis for altered intestinal epithelial gene expression and function in UC. We will analyze sources of variation in mRNA expression from spheroids grown from biopsies taken from inflamed and uninflamed UC colon.
+- Determine the genetic basis for how pathophysiologic mechanisms function over time, including in response to therapeutic interventions
 
-   1. Enhance fine-mapping precision of established loci by expanding sample
-      size and diversity. We will extend methodologies used to distinguish
-      credible SNPs between CD and UC to include other inflammatory diseases
-      and non-European ancestry populations to improve fine-mapping scope and
-      power.
-   2. Comprehensively define the genetic basis for altered intestinal
-      epithelial gene expression and function in UC. We will analyze sources
-      of variation in mRNA expression from spheroids grown from biopsies taken
-      from inflamed and uninflamed UC colon.
-   3. Determine the genetic basis for how pathophysiologic mechanisms function
-      over time by studying variation in response to therapeutic
-      interventions, and by modeling the disease process longitudinally. We
-      have developed protocols for longitudinal analyses of gene expression,
-      metabolome and microbiome following ileal resection in CD. We propose to
-      continue recruitment beyond our current collections of over 300 patients
-      and extend recruitment to other centers beyond the Consortium.
+---
+
+# Ongoing and New Directions
+
+### New recruitment priorities and approaches
+
+The DCC is piloting methods to facilitate recruitment in non-European populations using single IRBs, alternative reimbursement strategies, biobank-based and direct-to-patient recruitment approaches. The DCC leads a monthly coordinators’ meeting to communicate IBDGC priorities, assess progress and share effective recruiting and sample handling approaches across the Consortium.
+
+### New data types and accelerating integration
+
+The DCC is adding to its form-based methods for collecting phenotype data by using electronic medical records and diagnostic imaging and reports. IBDGC investigators are piloting image-based measurements beginning with radiology but likely expanding into both pathology and paraffin-based methods as well. Rapidly developing applications of multi-omic single cell technologies are a high priority, especially for their ability to provide insight into IBD physiology.
+
+### Data sharing, data mining, and project acceleration
+
+Common variant, GWAS-based data mapped to traits represents an important, foundation for further studies. Expansions of both chip and sequence-based cohorts will be finalized in 2021-2022 and published via dbGaP and the IBDGC Data Commons. The integration of African-based reference, common variant data substantially improves IBD trait prediction as an important basis for the expansion of non-European cohorts. Tissue-based, bulk RNAseq gene expression linked to important clinical inflection points has provided substantial mechanistic insight, especially when integrated with single cell data. Through the DCC, the IBDGC will utilize the Data Commons to increase the speed of analyses and data sharing in promotion of deeper collaboration.
+
+### Training the next generation of IBD researchers
+
+The DCC organizes a rotating schedule of GRC presentations where work from junior investigators is encouraged. In 2020, the DCC initiated a webinar series focusing on data-intensive, translational investigators. Given a) the rapid rate of data expansion in scope and type, and b) the increasingly refined mining capacities of extant clinical collections, the opportunities for training and developing the next generation of translational researchers are highly promising.

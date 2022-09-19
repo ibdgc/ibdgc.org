@@ -1,8 +1,10 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: Genome-wide association study identifies new susceptibility loci for Crohn
   disease and implicates autophagy in disease pathogenesis
-date: '2007-05-01'
-publishDate: '2021-02-15T12:57:01.557459Z'
+subtitle: ''
+summary: ''
 authors:
 - John D. Rioux
 - Ramnik J. Xavier
@@ -29,6 +31,59 @@ authors:
 - Judy H. Cho
 - Mark J. Daly
 - Steven R. Brant
+tags:
+- '"Gene Expression Profiling"'
+- '"Humans"'
+- '"Polymorphism"'
+- '"Single Nucleotide"'
+- '"Animals"'
+- '"Crohn Disease"'
+- '"Mice"'
+- '"Autophagy"'
+- '"Autophagy-Related Proteins"'
+- '"HeLa Cells"'
+- '"Genetic Predisposition to Disease"'
+- '"Genetic Predisposition to Disease/*genetics"'
+- '"Carrier Proteins"'
+- '"North America"'
+- '"NADPH Oxidases"'
+- '"RNA Interference"'
+- '"Transcription Factors"'
+- '"Immunohistochemistry"'
+- '"Autophagy/*physiology"'
+- '"Carrier Proteins/*genetics/metabolism"'
+- '"Chromosomes"'
+- '"Human"'
+- '"Pair 10"'
+- '"Chromosomes"'
+- '"Human"'
+- '"Pair 10/*genetics"'
+- '"Crohn Disease/*genetics/*physiopathology"'
+- '"Homeodomain Proteins"'
+- '"Homeodomain Proteins/genetics"'
+- '"NADPH Oxidases/genetics"'
+- '"Transcription Factors/genetics"'
+categories: []
+date: '2007-05-01'
+lastmod: 2021-11-01T08:41:55-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:55.763435Z'
 publication_types:
 - '2'
 abstract: We present a genome-wide association study of ileal Crohn disease and two
@@ -43,41 +98,6 @@ abstract: We present a genome-wide association study of ileal Crohn disease and 
   lines and that functional knockdown of this gene abrogates autophagy of Salmonella
   typhimurium. Together, these findings suggest that autophagy and host cell responses
   to intracellular microbes are involved in the pathogenesis of Crohn disease.
-featured: false
 publication: '*Nature Genetics*'
-tags:
-- '"Humans"'
-- '"Crohn Disease"'
-- '"Genetic Predisposition to Disease"'
-- '"Polymorphism"'
-- '"Single Nucleotide"'
-- '"Animals"'
-- '"Mice"'
-- '"Autophagy"'
-- '"RNA Interference"'
-- '"North America"'
-- '"Autophagy-Related Proteins"'
-- '"Carrier Proteins"'
-- '"Transcription Factors"'
-- '"Immunohistochemistry"'
-- '"Gene Expression Profiling"'
-- '"Chromosomes"'
-- '"Human"'
-- '"Pair 10"'
-- '"HeLa Cells"'
-- '"Homeodomain Proteins"'
-- '"NADPH Oxidases"'
-- '"Genetic Predisposition to Disease/*genetics"'
-- '"Autophagy/*physiology"'
-- '"Carrier Proteins/*genetics/metabolism"'
-- '"Chromosomes"'
-- '"Human"'
-- '"Pair 10/*genetics"'
-- '"Crohn Disease/*genetics/*physiopathology"'
-- '"Homeodomain Proteins/genetics"'
-- '"NADPH Oxidases/genetics"'
-- '"Transcription Factors/genetics"'
-grcs: [rutgers]
 doi: 10.1038/ng2032
 ---
-

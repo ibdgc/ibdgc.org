@@ -1,8 +1,10 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: Human NK cells licensed by killer Ig receptor genes have an altered cytokine
   program that modifies CD4+ T cell function
-date: '2014-07-01'
-publishDate: '2021-02-15T12:56:57.532519Z'
+subtitle: ''
+summary: ''
 authors:
 - Lin Lin
 - Chao Ma
@@ -16,6 +18,53 @@ authors:
 - Dermot P. B. McGovern
 - James R. Heath
 - Jonathan Braun
+tags:
+- '"Humans"'
+- '"Cell Differentiation"'
+- '"Crohn Disease"'
+- '"Cells"'
+- '"Cultured"'
+- '"Cytokines"'
+- '"Th17 Cells"'
+- '"Tumor Necrosis Factor-alpha"'
+- '"CD4-Positive T-Lymphocytes"'
+- '"Cell Proliferation"'
+- '"Cluster Analysis"'
+- '"Coculture Techniques"'
+- '"Flow Cytometry"'
+- '"HLA-C Antigens"'
+- '"Interferon-gamma"'
+- '"Interleukin-17"'
+- '"Interleukin-6"'
+- '"Interleukins"'
+- '"Killer Cells"'
+- '"Natural"'
+- '"Lymphocyte Activation"'
+- '"Receptors"'
+- '"KIR"'
+- '"Receptors"'
+- '"KIR2DL3"'
+categories: []
+date: '2014-07-01'
+lastmod: 2021-11-01T08:41:23-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:22.976113Z'
 publication_types:
 - '2'
 abstract: NK cells are innate immune cells known for their cytolytic activities toward
@@ -35,34 +84,6 @@ abstract: NK cells are innate immune cells known for their cytolytic activities 
   cytokine program that activates and induces proinflammatory CD4(+) T cells, thereby
   providing a potential biologic mechanism for KIR-associated susceptibility to CD
   and other chronic inflammatory diseases.
-featured: false
 publication: '*Journal of Immunology (Baltimore, Md.: 1950)*'
-tags:
-- '"Humans"'
-- '"Crohn Disease"'
-- '"Tumor Necrosis Factor-alpha"'
-- '"Cells"'
-- '"Cultured"'
-- '"Interferon-gamma"'
-- '"Th17 Cells"'
-- '"CD4-Positive T-Lymphocytes"'
-- '"Cell Differentiation"'
-- '"Cell Proliferation"'
-- '"Cluster Analysis"'
-- '"Coculture Techniques"'
-- '"Cytokines"'
-- '"Flow Cytometry"'
-- '"HLA-C Antigens"'
-- '"Interleukin-17"'
-- '"Interleukin-6"'
-- '"Interleukins"'
-- '"Killer Cells"'
-- '"Natural"'
-- '"Lymphocyte Activation"'
-- '"Receptors"'
-- '"KIR"'
-- '"Receptors"'
-- '"KIR2DL3"'
 doi: 10.4049/jimmunol.1400093
 ---
-

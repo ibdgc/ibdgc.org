@@ -1,8 +1,10 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: 'NADPH oxidase complex and IBD candidate gene studies: identification of a
   rare variant in NCF2 that results in reduced binding to RAC2.'
-date: '2012-07-01'
-publishDate: '2021-02-15T12:57:05.768323Z'
+subtitle: ''
+summary: ''
 authors:
 - Aleixo M. Muise
 - Wei Xu
@@ -26,6 +28,44 @@ authors:
 - Anne M. Griffiths
 - Mark S. Silverberg
 - John H. Brumell
+tags:
+- '"Humans"'
+- '"*Polymorphism"'
+- '"Single Nucleotide"'
+- '"Crohn Disease/*genetics"'
+- '"Sequence Analysis"'
+- '"DNA"'
+- '"*Mutation"'
+- '"Missense"'
+- '"Genotyping Techniques"'
+- '"Granulomatous Disease"'
+- '"Chronic/*genetics"'
+- '"Inflammatory Bowel Diseases/*genetics"'
+- '"NADPH Oxidases/*genetics/metabolism"'
+- '"rac GTP-Binding Proteins/*genetics"'
+- '"Reactive Oxygen Species"'
+- '"Reverse Transcriptase Polymerase Chain Reaction"'
+categories: []
+date: '2012-07-01'
+lastmod: 2021-11-01T08:41:07-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:07.651482Z'
 publication_types:
 - '2'
 abstract: "OBJECTIVE: The NOX2 NADPH oxidase complex produces reactive oxygen species\
@@ -42,25 +82,6 @@ abstract: "OBJECTIVE: The NOX2 NADPH oxidase complex produces reactive oxygen sp
   \ analysis identified a novel missense variant in the neutrophil cytosolic factor\
   \ 2 (NCF2) gene that is associated with  very early onset IBD (VEO-IBD) and subsequently\
   \ found in 4% of patients with"
-featured: false
 publication: '*Gut*'
-tags:
-- '"Humans"'
-- '"Genotyping Techniques"'
-- '"Reactive Oxygen Species"'
-- '"Sequence Analysis"'
-- '"DNA"'
-- '"Reverse Transcriptase Polymerase Chain Reaction"'
-- '"*Polymorphism"'
-- '"Single Nucleotide"'
-- '"Crohn Disease/*genetics"'
-- '"*Mutation"'
-- '"Missense"'
-- '"Granulomatous Disease"'
-- '"Chronic/*genetics"'
-- '"Inflammatory Bowel Diseases/*genetics"'
-- '"NADPH Oxidases/*genetics/metabolism"'
-- '"rac GTP-Binding Proteins/*genetics"'
 doi: 10.1136/gutjnl-2011-300078
 ---
-

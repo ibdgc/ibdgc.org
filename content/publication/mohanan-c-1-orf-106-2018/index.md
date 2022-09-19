@@ -1,8 +1,10 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: C1orf106 is a colitis risk gene that regulates stability of epithelial adherens
   junctions
-date: '2018-01-01'
-publishDate: '2021-02-15T12:57:08.153627Z'
+subtitle: ''
+summary: ''
 authors:
 - Vishnu Mohanan
 - Toru Nakata
@@ -23,6 +25,47 @@ authors:
 - John D. Rioux
 - Kara G. Lassen
 - Ramnik J. Xavier
+tags:
+- '"Humans"'
+- '"Animals"'
+- '"Risk"'
+- '"Adherens Junctions"'
+- '"ADP-Ribosylation Factors"'
+- '"Caco-2 Cells"'
+- '"Guanine Nucleotide Exchange Factors"'
+- '"HEK293 Cells"'
+- '"Immunoprecipitation"'
+- '"Inflammatory Bowel Diseases"'
+- '"Intestinal Mucosa"'
+- '"Mice"'
+- '"Mice"'
+- '"Mutant Strains"'
+- '"Phosphoproteins"'
+- '"Polymorphism"'
+- '"Genetic"'
+- '"Proteolysis"'
+- '"Ubiquitination"'
+categories: []
+date: '2018-01-01'
+lastmod: 2021-11-01T08:41:04-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:04.179142Z'
 publication_types:
 - '2'
 abstract: Polymorphisms in C1orf106 are associated with increased risk of inflammatory
@@ -37,29 +80,6 @@ abstract: Polymorphisms in C1orf106 are associated with increased risk of inflam
   with consequent functional impairments. These findings delineate a mechanism by
   which a genetic polymorphism fine-tunes intestinal epithelial barrier integrity
   and elucidate a fundamental mechanism of cellular junctional control.
-featured: false
 publication: '*Science (New York, N.Y.)*'
-tags:
-- '"Humans"'
-- '"Animals"'
-- '"Mice"'
-- '"Inflammatory Bowel Diseases"'
-- '"Risk"'
-- '"Intestinal Mucosa"'
-- '"Polymorphism"'
-- '"Genetic"'
-- '"Adherens Junctions"'
-- '"ADP-Ribosylation Factors"'
-- '"Caco-2 Cells"'
-- '"Guanine Nucleotide Exchange Factors"'
-- '"HEK293 Cells"'
-- '"Immunoprecipitation"'
-- '"Mice"'
-- '"Mutant Strains"'
-- '"Phosphoproteins"'
-- '"Proteolysis"'
-- '"Ubiquitination"'
-grcs: [montreal]
 doi: 10.1126/science.aan0814
 ---
-

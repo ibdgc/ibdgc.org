@@ -1,8 +1,10 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: Construction and benchmarking of a multi-ethnic reference panel for the imputation
   of HLA class I and II alleles
-date: '2019-06-01'
-publishDate: '2021-02-15T12:56:54.035621Z'
+subtitle: ''
+summary: ''
 authors:
 - Frauke Degenhardt
 - Mareike Wendorff
@@ -32,6 +34,49 @@ authors:
 - Tobias L. Lenz
 - Steven R. Brant
 - Andre Franke
+tags:
+- '"Humans"'
+- '"Polymorphism"'
+- '"Single Nucleotide"'
+- '"Genotype"'
+- '"African Americans"'
+- '"European Continental Ancestry Group"'
+- '"Alleles"'
+- '"Gene Frequency"'
+- '"Haplotypes"'
+- '"Histocompatibility Antigens Class II"'
+- '"HLA Antigens"'
+- '"Retrospective Studies"'
+- '"Cluster Analysis"'
+- '"Asian Continental Ancestry Group"'
+- '"Benchmarking"'
+- '"Ethnic Groups"'
+- '"High-Throughput Nucleotide Sequencing"'
+- '"Histocompatibility Antigens Class I"'
+- '"HLA-DRB3 Chains"'
+- '"HLA-DRB4 Chains"'
+- '"HLA-DRB5 Chains"'
+categories: []
+date: '2019-06-01'
+lastmod: 2021-11-01T08:41:49-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:48.958357Z'
 publication_types:
 - '2'
 abstract: Genotype imputation of the human leukocyte antigen (HLA) region is a cost-effective
@@ -55,31 +100,6 @@ abstract: Genotype imputation of the human leukocyte antigen (HLA) region is a c
   the populations separately. In conclusion, our new multi-ethnic reference data set
   allows for high resolution HLA imputation of genotypes at all classical HLA class
   I and II genes including the HLA-DRB3/4/5 loci based on diverse ancestry populations.
-featured: false
 publication: '*Human Molecular Genetics*'
-tags:
-- '"Humans"'
-- '"Ethnic Groups"'
-- '"African Americans"'
-- '"European Continental Ancestry Group"'
-- '"Polymorphism"'
-- '"Single Nucleotide"'
-- '"Alleles"'
-- '"Gene Frequency"'
-- '"Genotype"'
-- '"High-Throughput Nucleotide Sequencing"'
-- '"Haplotypes"'
-- '"Retrospective Studies"'
-- '"Cluster Analysis"'
-- '"Asian Continental Ancestry Group"'
-- '"Histocompatibility Antigens Class II"'
-- '"HLA Antigens"'
-- '"Benchmarking"'
-- '"Histocompatibility Antigens Class I"'
-- '"HLA-DRB3 Chains"'
-- '"HLA-DRB4 Chains"'
-- '"HLA-DRB5 Chains"'
-grcs: [rutgers]
 doi: 10.1093/hmg/ddy443
 ---
-

@@ -1,13 +1,49 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: "Spatial and temporal stability of paneth cell phenotypes in Crohn's disease:\
   \ implications for prognostic cellular biomarker development"
-date: '2014-04-01'
-publishDate: '2021-02-15T12:56:57.637571Z'
+subtitle: ''
+summary: ''
 authors:
 - Ta-Chiang Liu
 - Feng Gao
 - Dermot P. B. McGovern
 - Thaddeus S. Stappenbeck
+tags:
+- '"Humans"'
+- '"Crohn Disease"'
+- '"Intestinal Mucosa"'
+- '"Biomarkers"'
+- '"Ileum"'
+- '"Phenotype"'
+- '"Prognosis"'
+- '"Time Factors"'
+- '"Biopsy"'
+- '"Models"'
+- '"Theoretical"'
+- '"Paneth Cells"'
+categories: []
+date: '2014-04-01'
+lastmod: 2021-11-01T08:41:23-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:23.277681Z'
 publication_types:
 - '2'
 abstract: "BACKGROUND: We previously demonstrated that morphologic defects of ileal\
@@ -32,21 +68,6 @@ abstract: "BACKGROUND: We previously demonstrated that morphologic defects of il
   \ assessed using biopsy materials with the caveat that sufficient well-oriented\
   \ crypts exist in the specimen. This advance will extend the potential clinical\
   \ application of this novel stratification platform."
-featured: false
 publication: '*Inflammatory Bowel Diseases*'
-tags:
-- '"Humans"'
-- '"Time Factors"'
-- '"Crohn Disease"'
-- '"Phenotype"'
-- '"Prognosis"'
-- '"Intestinal Mucosa"'
-- '"Biomarkers"'
-- '"Biopsy"'
-- '"Ileum"'
-- '"Models"'
-- '"Theoretical"'
-- '"Paneth Cells"'
 doi: 10.1097/01.MIB.0000442838.21040.d7
 ---
-

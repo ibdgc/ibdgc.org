@@ -1,8 +1,10 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: Gene-microbiota interactions contribute to the pathogenesis of inflammatory
   bowel disease
-date: '2016-05-01'
-publishDate: '2021-02-15T12:56:56.556691Z'
+subtitle: ''
+summary: ''
 authors:
 - Hiutung Chu
 - Arya Khosravi
@@ -21,6 +23,56 @@ authors:
 - Dermot P. B. McGovern
 - Herbert W. Virgin
 - Sarkis K. Mazmanian
+tags:
+- '"Genome"'
+- '"Human"'
+- '"Humans"'
+- '"Animals"'
+- '"Inflammatory Bowel Diseases"'
+- '"Intestinal Mucosa"'
+- '"Mice"'
+- '"Polymorphism"'
+- '"Genetic"'
+- '"Adult"'
+- '"Aged"'
+- '"Autophagy"'
+- '"Autophagy-Related Proteins"'
+- '"Female"'
+- '"Male"'
+- '"Middle Aged"'
+- '"Genetic Predisposition to Disease"'
+- '"Nod2 Signaling Adaptor Protein"'
+- '"Carrier Proteins"'
+- '"Dendritic Cells"'
+- '"Bacteroides fragilis"'
+- '"Extracellular Vesicles"'
+- '"Gastrointestinal Microbiome"'
+- '"Gene-Environment Interaction"'
+- '"Mice"'
+- '"Inbred C57BL"'
+- '"T-Lymphocytes"'
+- '"Regulatory"'
+categories: []
+date: '2016-05-01'
+lastmod: 2021-11-01T08:41:20-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:20.175380Z'
 publication_types:
 - '2'
 abstract: Inflammatory bowel disease (IBD) is associated with risk variants in the
@@ -34,37 +86,6 @@ abstract: Inflammatory bowel disease (IBD) is associated with risk variants in t
   in T(reg) responses to OMVs. We propose that polymorphisms in susceptibility genes
   promote disease through defects in \"sensing\" protective signals from the microbiome,
   defining a potentially critical gene-environment etiology for IBD.
-featured: false
 publication: '*Science (New York, N.Y.)*'
-tags:
-- '"Aged"'
-- '"Female"'
-- '"Humans"'
-- '"Male"'
-- '"Middle Aged"'
-- '"Adult"'
-- '"Genetic Predisposition to Disease"'
-- '"Animals"'
-- '"Gene-Environment Interaction"'
-- '"Mice"'
-- '"Inflammatory Bowel Diseases"'
-- '"Mice"'
-- '"Inbred C57BL"'
-- '"Gastrointestinal Microbiome"'
-- '"Genome"'
-- '"Human"'
-- '"Nod2 Signaling Adaptor Protein"'
-- '"Autophagy"'
-- '"Intestinal Mucosa"'
-- '"Autophagy-Related Proteins"'
-- '"Bacteroides fragilis"'
-- '"Carrier Proteins"'
-- '"Dendritic Cells"'
-- '"Extracellular Vesicles"'
-- '"Polymorphism"'
-- '"Genetic"'
-- '"T-Lymphocytes"'
-- '"Regulatory"'
 doi: 10.1126/science.aad9948
 ---
-

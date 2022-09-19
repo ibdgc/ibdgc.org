@@ -1,7 +1,9 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: Fine-mapping inflammatory bowel disease loci to single-variant resolution
-date: '2017-01-01'
-publishDate: '2021-02-15T12:56:56.984690Z'
+subtitle: ''
+summary: ''
 authors:
 - Hailiang Huang
 - Ming Fang
@@ -50,6 +52,67 @@ authors:
 - Michel Georges
 - Mark J. Daly
 - Jeffrey C. Barrett
+tags:
+- '"Humans"'
+- '"Colitis"'
+- '"Ulcerative"'
+- '"Crohn Disease"'
+- '"Crohn Disease/genetics"'
+- '"Genome-Wide Association Study"'
+- '"Inflammatory Bowel Diseases"'
+- '"Adult"'
+- '"Aged"'
+- '"Female"'
+- '"Male"'
+- '"Middle Aged"'
+- '"Smad3 Protein"'
+- '"Young Adult"'
+- '"Genetic Predisposition to Disease"'
+- '"Genotype"'
+- '"Quantitative Trait Loci"'
+- '"Genetic Variation"'
+- '"Chromatin"'
+- '"Adolescent"'
+- '"Aged"'
+- '"80 and over"'
+- '"Binding Sites"'
+- '"Inflammatory Bowel Diseases/*genetics"'
+- '"Genetic Predisposition to Disease/*genetics"'
+- '"Colitis"'
+- '"Ulcerative/genetics"'
+- '"Genetic Variation/*genetics"'
+- '"Linkage Disequilibrium"'
+- '"Quantitative Trait Loci/*genetics"'
+- '"Transcription Factors"'
+- '"Chromatin/genetics"'
+- '"Epigenesis"'
+- '"Genetic"'
+- '"Epigenesis"'
+- '"Genetic/genetics"'
+- '"Linkage Disequilibrium/genetics"'
+- '"Smad3 Protein/genetics"'
+- '"Transcription Factors/metabolism"'
+categories: []
+date: '2017-01-01'
+lastmod: 2021-11-01T08:42:00-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:59.938189Z'
 publication_types:
 - '2'
 abstract: Inflammatory bowel diseases are chronic gastrointestinal inflammatory disorders
@@ -67,49 +130,6 @@ abstract: Inflammatory bowel diseases are chronic gastrointestinal inflammatory 
   high-resolution fine-mapping in large samples can convert many discoveries from
   genome-wide association studies into statistically convincing causal variants, providing
   a powerful substrate for experimental elucidation of disease mechanisms.
-featured: false
 publication: '*Nature*'
-tags:
-- '"Aged"'
-- '"Female"'
-- '"Humans"'
-- '"Male"'
-- '"Middle Aged"'
-- '"Adult"'
-- '"Aged"'
-- '"80 and over"'
-- '"Young Adult"'
-- '"Adolescent"'
-- '"Colitis"'
-- '"Ulcerative"'
-- '"Crohn Disease"'
-- '"Genetic Predisposition to Disease"'
-- '"Genome-Wide Association Study"'
-- '"Genotype"'
-- '"Inflammatory Bowel Diseases"'
-- '"Genetic Variation"'
-- '"Quantitative Trait Loci"'
-- '"Transcription Factors"'
-- '"Binding Sites"'
-- '"Chromatin"'
-- '"Epigenesis"'
-- '"Genetic"'
-- '"Linkage Disequilibrium"'
-- '"Smad3 Protein"'
-- '"Crohn Disease/genetics"'
-- '"Inflammatory Bowel Diseases/*genetics"'
-- '"Genetic Predisposition to Disease/*genetics"'
-- '"Colitis"'
-- '"Ulcerative/genetics"'
-- '"Chromatin/genetics"'
-- '"Epigenesis"'
-- '"Genetic/genetics"'
-- '"Genetic Variation/*genetics"'
-- '"Linkage Disequilibrium/genetics"'
-- '"Quantitative Trait Loci/*genetics"'
-- '"Smad3 Protein/genetics"'
-- '"Transcription Factors/metabolism"'
-grcs: [mssm, montreal, pittsburgh, dcc]
 doi: 10.1038/nature22969
 ---
-

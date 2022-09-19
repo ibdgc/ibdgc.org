@@ -1,8 +1,10 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: Association between variants of PRDM1 and NDP52 and Crohn's disease, based
   on exome sequencing and functional studies.
-date: '2013-08-01'
-publishDate: '2021-02-15T12:57:06.971797Z'
+subtitle: ''
+summary: ''
 authors:
 - David Ellinghaus
 - Hu Zhang
@@ -65,6 +67,80 @@ authors:
 - Stefan Schreiber
 - Miles Parkes
 - Andre Franke
+tags:
+- '"Humans"'
+- '"Polymorphism"'
+- '"Single Nucleotide"'
+- '"inflammatory bowel disease"'
+- '"Colitis"'
+- '"Ulcerative/*genetics"'
+- '"Genome-Wide Association Study"'
+- '"Adult"'
+- '"Case-Control Studies"'
+- '"Female"'
+- '"Male"'
+- '"Young Adult"'
+- '"Genetic Predisposition to Disease"'
+- '"Quantitative Trait Loci"'
+- '"GWAS"'
+- '"IBD"'
+- '"Adolescent"'
+- '"Crohn Disease/*genetics"'
+- '"CD"'
+- '"Complex Disease"'
+- "\"Crohn's disease\""
+- '"eQTL"'
+- '"Exome/genetics"'
+- '"expression quantitative trait locus"'
+- '"genome-wide association studies"'
+- '"IFN"'
+- '"Inflammatory Bowel Disease"'
+- '"interferon"'
+- '"Mutation"'
+- '"Missense"'
+- '"NF-kappaB"'
+- '"nuclear factor kappaB"'
+- '"Nuclear Proteins/*genetics"'
+- '"PBL"'
+- '"PBMC"'
+- '"peripheral blood lymphocyte"'
+- '"peripheral blood mononuclear cell"'
+- '"Positive Regulatory Domain I-Binding Factor 1"'
+- '"qRT-PCR"'
+- '"quantitative reverse-transcription polymerase chain reaction"'
+- '"Repressor Proteins/*genetics"'
+- '"single nucleotide polymorphism"'
+- '"single nucleotide variant"'
+- '"SNP"'
+- '"SNV"'
+- '"TLR"'
+- '"Toll-like receptor"'
+- '"UC"'
+- '"ulcerative colitis"'
+- '"Whole-Exome Sequencing"'
+- '"wild-type"'
+- '"WT"'
+categories: []
+date: '2013-08-01'
+lastmod: 2021-11-01T08:41:10-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:10.389697Z'
 publication_types:
 - '2'
 abstract: "BACKGROUND & AIMS: Genome-wide association studies (GWAS) have identified\
@@ -94,61 +170,6 @@ abstract: "BACKGROUND & AIMS: Genome-wide association studies (GWAS) have identi
   \ NDP52 is an adaptor protein that functions in selective autophagy of intracellular\
   \ bacteria and signaling molecules, supporting the role of autophagy  in the pathogenesis\
   \ of CD."
-featured: false
 publication: '*Gastroenterology*'
-tags:
-- "\"Crohn's disease\""
-- '"IBD"'
-- '"GWAS"'
-- '"Female"'
-- '"Humans"'
-- '"Male"'
-- '"Adult"'
-- '"Young Adult"'
-- '"Adolescent"'
-- '"Case-Control Studies"'
-- '"Genetic Predisposition to Disease"'
-- '"Genome-Wide Association Study"'
-- '"Polymorphism"'
-- '"Single Nucleotide"'
-- '"SNP"'
-- '"Mutation"'
-- '"Missense"'
-- '"Inflammatory Bowel Disease"'
-- '"inflammatory bowel disease"'
-- '"Quantitative Trait Loci"'
-- '"CD"'
-- '"UC"'
-- '"ulcerative colitis"'
-- '"Colitis"'
-- '"Ulcerative/*genetics"'
-- '"Crohn Disease/*genetics"'
-- '"Repressor Proteins/*genetics"'
-- '"Exome/genetics"'
-- '"Complex Disease"'
-- '"eQTL"'
-- '"expression quantitative trait locus"'
-- '"genome-wide association studies"'
-- '"IFN"'
-- '"interferon"'
-- '"NF-kappaB"'
-- '"nuclear factor kappaB"'
-- '"Nuclear Proteins/*genetics"'
-- '"PBL"'
-- '"PBMC"'
-- '"peripheral blood lymphocyte"'
-- '"peripheral blood mononuclear cell"'
-- '"Positive Regulatory Domain I-Binding Factor 1"'
-- '"qRT-PCR"'
-- '"quantitative reverse-transcription polymerase chain reaction"'
-- '"single nucleotide polymorphism"'
-- '"single nucleotide variant"'
-- '"SNV"'
-- '"TLR"'
-- '"Toll-like receptor"'
-- '"Whole-Exome Sequencing"'
-- '"wild-type"'
-- '"WT"'
 doi: 10.1053/j.gastro.2013.04.040
 ---
-

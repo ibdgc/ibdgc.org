@@ -4,7 +4,7 @@
 title: "IBD Genetics of Non European Populations"
 summary: ""
 authors: []
-tags: [Consortium]
+tags: [Consortium, NIDDK]
 categories: []
 date: 2021-03-12T16:55:00-06:00
 

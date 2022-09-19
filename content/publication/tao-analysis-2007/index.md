@@ -1,7 +1,9 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: Analysis of keratin polypeptides 8 and 19 variants in inflammatory bowel disease.
-date: '2007-07-01'
-publishDate: '2021-02-15T12:57:07.419445Z'
+subtitle: ''
+summary: ''
 authors:
 - Guo-Zhong Tao
 - Pavel Strnad
@@ -14,6 +16,45 @@ authors:
 - Judy H. Cho
 - M. Bishr Omary
 - Richard H. Duerr
+tags:
+- '"Humans"'
+- '"Genetic Predisposition to Disease"'
+- '"Genotype"'
+- '"Alleles"'
+- '"Prognosis"'
+- '"*Mutation"'
+- '"Biopsy/methods"'
+- '"DNA/*genetics"'
+- '"Electrophoresis"'
+- '"Polyacrylamide Gel"'
+- '"Endoscopy"'
+- '"Gastrointestinal"'
+- '"Immunoblotting"'
+- '"Inflammatory Bowel Diseases/*genetics/metabolism/pathology"'
+- '"Keratin-19/*genetics/metabolism"'
+- '"Keratin-8/*genetics/metabolism"'
+- '"Polymerase Chain Reaction"'
+categories: []
+date: '2007-07-01'
+lastmod: 2021-11-01T08:41:11-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:11.690946Z'
 publication_types:
 - '2'
 abstract: 'BACKGROUND/AIMS: Keratin-8 (KRT8)-null mice develop spontaneous colitis
@@ -37,27 +78,7 @@ abstract: 'BACKGROUND/AIMS: Keratin-8 (KRT8)-null mice develop spontaneous colit
   in Group II IBD families. CONCLUSIONS: KRT8 and KRT19 variants are not overtransmitted
   or associated with familial IBD, although a potential role in sporadic IBD cannot
   be excluded. A novel but rare keratin-8 Arg341-to-Cys is identified in IBD patients.'
-featured: false
 publication: '*Clinical gastroenterology and hepatology : the official clinical practice
   journal of the American Gastroenterological Association*'
-tags:
-- '"Humans"'
-- '"Genetic Predisposition to Disease"'
-- '"Alleles"'
-- '"Genotype"'
-- '"Prognosis"'
-- '"Polymerase Chain Reaction"'
-- '"DNA/*genetics"'
-- '"*Mutation"'
-- '"Biopsy/methods"'
-- '"Electrophoresis"'
-- '"Polyacrylamide Gel"'
-- '"Endoscopy"'
-- '"Gastrointestinal"'
-- '"Immunoblotting"'
-- '"Inflammatory Bowel Diseases/*genetics/metabolism/pathology"'
-- '"Keratin-19/*genetics/metabolism"'
-- '"Keratin-8/*genetics/metabolism"'
 doi: 10.1016/j.cgh.2007.02.017
 ---
-

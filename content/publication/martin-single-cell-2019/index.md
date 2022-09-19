@@ -1,8 +1,10 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: Single-Cell Analysis of Crohn's Disease Lesions Identifies a Pathogenic Cellular
   Module Associated with Resistance to Anti-TNF Therapy
-date: '2019-09-01'
-publishDate: '2021-02-15T12:57:01.451957Z'
+subtitle: ''
+summary: ''
 authors:
 - Jerome C. Martin
 - Christie Chang
@@ -35,6 +37,31 @@ authors:
 - Miriam Merad
 - Judy H. Cho
 - Ephraim Kenigsberg
+tags:
+- '"inflammatory bowel disease"'
+- '"molecular classification"'
+- '"single-cell RNA sequencing"'
+categories: []
+date: '2019-09-01'
+lastmod: 2021-11-01T08:41:36-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:36.155197Z'
 publication_types:
 - '2'
 abstract: Clinical benefits of cytokine blockade in ileal Crohn's disease (iCD) are
@@ -50,13 +77,6 @@ abstract: Clinical benefits of cytokine blockade in ileal Crohn's disease (iCD) 
   upon anti-TNF therapy. These results emphasize the limitations of current diagnostic
   assays and the potential for single-cell mapping tools to identify novel biomarkers
   of treatment response and tailored therapeutic opportunities.
-featured: false
 publication: '*Cell*'
-tags:
-- '"inflammatory bowel disease"'
-- '"molecular classification"'
-- '"single-cell RNA sequencing"'
-grcs: [mssm, dcc]
 doi: 10.1016/j.cell.2019.08.008
 ---
-

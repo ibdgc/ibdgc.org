@@ -1,9 +1,11 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: Assessment of reliability and validity of IBD phenotyping within the National
   Institutes of Diabetes and Digestive and Kidney Diseases (NIDDK) IBD Genetics Consortium
   (IBDGC).
-date: '2007-08-01'
-publishDate: '2021-02-15T12:57:07.205891Z'
+subtitle: ''
+summary: ''
 authors:
 - Themistocles Dassopoulos
 - Geoffrey C. Nguyen
@@ -28,6 +30,38 @@ authors:
 - Mark S. Silverberg
 - Judy H. Cho
 - A. Hillary Steinhart
+tags:
+- '"Humans"'
+- '"Crohn Disease/genetics"'
+- '"*Phenotype"'
+- '"Colitis"'
+- '"Ulcerative/genetics"'
+- '"Inflammatory Bowel Diseases/classification/*genetics"'
+- '"Observer Variation"'
+- '"Reproducibility of Results"'
+- '"ROC Curve"'
+- '"Sensitivity and Specificity"'
+categories: []
+date: '2007-08-01'
+lastmod: 2021-11-01T08:41:11-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:11.050645Z'
 publication_types:
 - '2'
 abstract: "BACKGROUND: The NIDDK IBD Genetics Consortium (IBDGC) collects DNA and\
@@ -53,20 +87,6 @@ abstract: "BACKGROUND: The NIDDK IBD Genetics Consortium (IBDGC) collects DNA an
   \ reliable and valid phenotypic assessments. The data will facilitate estimates\
   \ of phenotyping misclassification rates that should be considered when making inferences\
   \ from IBD genotype-phenotype studies."
-featured: false
 publication: '*Inflammatory bowel diseases*'
-tags:
-- '"Humans"'
-- '"Reproducibility of Results"'
-- '"ROC Curve"'
-- '"Sensitivity and Specificity"'
-- '"*Phenotype"'
-- '"Crohn Disease/genetics"'
-- '"Colitis"'
-- '"Ulcerative/genetics"'
-- '"Inflammatory Bowel Diseases/classification/*genetics"'
-- '"Observer Variation"'
-grcs: [rutgers]
 doi: 10.1002/ibd.20144
 ---
-

@@ -1,7 +1,9 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: 'MAST3: a novel IBD risk factor that modulates TLR4 signaling'
-date: '2008-10-01'
-publishDate: '2021-02-15T12:57:02.652376Z'
+subtitle: ''
+summary: ''
 authors:
 - C. Labbé
 - P. Goyette
@@ -23,6 +25,66 @@ authors:
 - M. S. Silverberg
 - R. J. Xavier
 - J. D. Rioux
+tags:
+- '"Humans"'
+- '"Animals"'
+- '"Inflammatory Bowel Diseases"'
+- '"Mice"'
+- '"Signal Transduction"'
+- '"Genetic Predisposition to Disease"'
+- '"*Genetic Predisposition to Disease"'
+- '"Cells"'
+- '"Cultured"'
+- '"Risk Factors"'
+- '"Linkage Disequilibrium"'
+- '"Microtubule-Associated Proteins"'
+- '"Protein-Serine-Threonine Kinases"'
+- '"Mice"'
+- '"Inbred C57BL"'
+- '"CD4-Positive T-Lymphocytes"'
+- '"Antigens"'
+- '"CD19"'
+- '"Antigens"'
+- '"CD19/biosynthesis"'
+- '"B-Lymphocyte Subsets"'
+- '"B-Lymphocyte Subsets/immunology/metabolism"'
+- '"CD4-Positive T-Lymphocytes/immunology/metabolism"'
+- '"CD8-Positive T-Lymphocytes"'
+- '"CD8-Positive T-Lymphocytes/immunology/metabolism"'
+- '"Gene Expression Regulation"'
+- '"Enzymologic"'
+- '"Gene Expression Regulation"'
+- '"Enzymologic/immunology"'
+- '"Inflammatory Bowel Diseases/*genetics/*immunology/metabolism"'
+- '"Introns"'
+- '"Introns/genetics"'
+- '"Linkage Disequilibrium/immunology"'
+- '"Microtubule-Associated Proteins/biosynthesis/genetics/*physiology"'
+- '"Protein-Serine-Threonine Kinases/antagonists & inhibitors/biosynthesis/genetics/*physiology"'
+- '"Signal Transduction/*genetics/*immunology"'
+- '"Toll-Like Receptor 4"'
+- '"Toll-Like Receptor 4/metabolism/*physiology"'
+categories: []
+date: '2008-10-01'
+lastmod: 2021-11-01T08:41:58-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:57.723555Z'
 publication_types:
 - '2'
 abstract: Inflammatory bowel disease (IBD) is a chronic disorder caused by multiple
@@ -43,47 +105,6 @@ abstract: Inflammatory bowel disease (IBD) is a chronic disorder caused by multi
   knockdown of MAST3 specifically decreased Toll-like receptor-4-dependent NF-kappaB
   activity. Our findings are additional proofs of the pivotal role played by modulators
   of NF-kappaB activity in IBD pathogenesis.
-featured: false
 publication: '*Genes and Immunity*'
-tags:
-- '"Humans"'
-- '"Risk Factors"'
-- '"Genetic Predisposition to Disease"'
-- '"Animals"'
-- '"Mice"'
-- '"Inflammatory Bowel Diseases"'
-- '"Mice"'
-- '"Inbred C57BL"'
-- '"Signal Transduction"'
-- '"Cells"'
-- '"Cultured"'
-- '"Protein-Serine-Threonine Kinases"'
-- '"Linkage Disequilibrium"'
-- '"CD4-Positive T-Lymphocytes"'
-- '"Antigens"'
-- '"CD19"'
-- '"B-Lymphocyte Subsets"'
-- '"CD8-Positive T-Lymphocytes"'
-- '"Gene Expression Regulation"'
-- '"Enzymologic"'
-- '"Introns"'
-- '"Microtubule-Associated Proteins"'
-- '"Toll-Like Receptor 4"'
-- '"*Genetic Predisposition to Disease"'
-- '"Antigens"'
-- '"CD19/biosynthesis"'
-- '"B-Lymphocyte Subsets/immunology/metabolism"'
-- '"CD4-Positive T-Lymphocytes/immunology/metabolism"'
-- '"CD8-Positive T-Lymphocytes/immunology/metabolism"'
-- '"Gene Expression Regulation"'
-- '"Enzymologic/immunology"'
-- '"Inflammatory Bowel Diseases/*genetics/*immunology/metabolism"'
-- '"Introns/genetics"'
-- '"Linkage Disequilibrium/immunology"'
-- '"Microtubule-Associated Proteins/biosynthesis/genetics/*physiology"'
-- '"Protein-Serine-Threonine Kinases/antagonists & inhibitors/biosynthesis/genetics/*physiology"'
-- '"Signal Transduction/*genetics/*immunology"'
-- '"Toll-Like Receptor 4/metabolism/*physiology"'
 doi: 10.1038/gene.2008.57
 ---
-

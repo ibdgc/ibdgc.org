@@ -67,4 +67,4 @@ slides: ""
 projects: []
 ---
 
-{{< youtube 2_6RZCk6S0I >}}
+{{< youtube nKLPYmNTzRQ >}}

@@ -1,11 +1,51 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: Expression quantitative trait loci analysis identifies associations between
   genotype and gene expression in human intestine
-date: '2013-06-01'
-publishDate: '2021-02-15T12:57:07.947289Z'
+subtitle: ''
+summary: ''
 authors:
 - Boyko Kabakchiev
 - Mark S. Silverberg
+tags:
+- '"Gene Expression Profiling"'
+- '"Humans"'
+- '"Polymorphism"'
+- '"Single Nucleotide"'
+- '"Genome-Wide Association Study"'
+- '"Polymorphism"'
+- '"Genetic"'
+- '"Cohort Studies"'
+- '"Gene Expression"'
+- '"Genetic Predisposition to Disease"'
+- '"Genotype"'
+- '"Ileum"'
+- '"Phenotype"'
+- '"Quantitative Trait Loci"'
+- '"RNA"'
+- '"Messenger"'
+categories: []
+date: '2013-06-01'
+lastmod: 2021-11-01T08:41:05-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:04.771414Z'
 publication_types:
 - '2'
 abstract: 'BACKGROUND & AIMS: Genome-wide association studies have greatly increased
@@ -36,25 +76,6 @@ abstract: 'BACKGROUND & AIMS: Genome-wide association studies have greatly incre
   across cell types, whereas others are specific to the sampled location. Our findings
   confirm and expand the number of known genotypes associated with expression and
   could help elucidate mechanisms of intestinal disease.'
-featured: false
 publication: '*Gastroenterology*'
-tags:
-- '"Humans"'
-- '"Genetic Predisposition to Disease"'
-- '"Genome-Wide Association Study"'
-- '"Polymorphism"'
-- '"Single Nucleotide"'
-- '"Genotype"'
-- '"Phenotype"'
-- '"RNA"'
-- '"Messenger"'
-- '"Quantitative Trait Loci"'
-- '"Polymorphism"'
-- '"Genetic"'
-- '"Ileum"'
-- '"Cohort Studies"'
-- '"Gene Expression Profiling"'
-- '"Gene Expression"'
 doi: 10.1053/j.gastro.2013.03.001
 ---
-

@@ -1,8 +1,10 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: A Method to Exploit the Structure of Genetic Ancestry Space to Enhance Case-Control
   Studies.
-date: '2016-05-01'
-publishDate: '2021-02-15T12:57:07.733994Z'
+subtitle: ''
+summary: ''
 authors:
 - Corneliu A. Bodea
 - Benjamin M. Neale
@@ -10,6 +12,42 @@ authors:
 - Mark J. Daly
 - Bernie Devlin
 - Kathryn Roeder
+tags:
+- '"Humans"'
+- '"Software"'
+- '"Case-Control Studies"'
+- '"Genotype"'
+- '"*Genetic Predisposition to Disease"'
+- '"Gene Frequency"'
+- '"*Genetics"'
+- '"Population"'
+- '"Bayes Theorem"'
+- '"Disease/*genetics"'
+- '"Genetic Linkage"'
+- '"Heredity/*genetics"'
+- '"Polymorphism"'
+- '"Single Nucleotide/genetics"'
+categories: []
+date: '2016-05-01'
+lastmod: 2021-11-01T08:41:12-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:12.360768Z'
 publication_types:
 - '2'
 abstract: One goal of human genetics is to understand the genetic basis of disease,
@@ -33,23 +71,6 @@ abstract: One goal of human genetics is to understand the genetic basis of disea
   enhances power when control data are limiting or even imperfectly matched ancestrally.
   These results highlight how UNICORN can enable reliable, powerful, and convenient
   genetic association analyses without access to the individual-level data.
-featured: false
 publication: '*American journal of human genetics*'
-tags:
-- '"Humans"'
-- '"Case-Control Studies"'
-- '"Gene Frequency"'
-- '"Genotype"'
-- '"Genetic Linkage"'
-- '"*Genetic Predisposition to Disease"'
-- '"Polymorphism"'
-- '"Single Nucleotide/genetics"'
-- '"*Genetics"'
-- '"Population"'
-- '"Bayes Theorem"'
-- '"Disease/*genetics"'
-- '"Heredity/*genetics"'
-- '"Software"'
 doi: 10.1016/j.ajhg.2016.02.025
 ---
-

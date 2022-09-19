@@ -1,8 +1,10 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: Genetic variants in the region harbouring IL2/IL21 associated with ulcerative
   colitis
-date: '2009-06-01'
-publishDate: '2021-02-15T12:57:03.078501Z'
+subtitle: ''
+summary: ''
 authors:
 - E. a. M. Festen
 - P. Goyette
@@ -26,6 +28,52 @@ authors:
 - C. Wijmenga
 - R. K. Weersma
 - J. D. Rioux
+tags:
+- '"Humans"'
+- '"Polymorphism"'
+- '"Single Nucleotide"'
+- '"Colitis"'
+- '"Ulcerative"'
+- '"Colitis"'
+- '"Ulcerative/*genetics"'
+- '"Crohn Disease"'
+- '"Crohn Disease/genetics"'
+- '"Genome-Wide Association Study"'
+- '"Genetic Predisposition to Disease"'
+- '"Genotype"'
+- '"United States"'
+- '"Gene Frequency"'
+- '"*Polymorphism"'
+- '"Single Nucleotide"'
+- '"Odds Ratio"'
+- '"Interleukins"'
+- '"Italy"'
+- '"Chi-Square Distribution"'
+- '"Interleukin-2"'
+- '"Interleukin-2/*genetics"'
+- '"Interleukins/*genetics"'
+- '"Netherlands"'
+categories: []
+date: '2009-06-01'
+lastmod: 2021-11-01T08:42:02-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:42:02.087488Z'
 publication_types:
 - '2'
 abstract: "OBJECTIVES: Genetic susceptibility is known to play a large part in the\
@@ -48,33 +96,6 @@ abstract: "OBJECTIVES: Genetic susceptibility is known to play a large part in t
   \ found in the pooled analysis (p value range 0.0016-9.86 x 10(-5)). CONCLUSIONS:\
   \ A strong association for the IL2/IL21 locus with UC was found, which also confirms\
   \ it as a general susceptibility locus for inflammatory disease."
-featured: false
 publication: '*Gut*'
-tags:
-- '"Humans"'
-- '"United States"'
-- '"Colitis"'
-- '"Ulcerative"'
-- '"Crohn Disease"'
-- '"Genetic Predisposition to Disease"'
-- '"Genome-Wide Association Study"'
-- '"Polymorphism"'
-- '"Single Nucleotide"'
-- '"Gene Frequency"'
-- '"Genotype"'
-- '"Odds Ratio"'
-- '"Interleukins"'
-- '"Italy"'
-- '"Chi-Square Distribution"'
-- '"Interleukin-2"'
-- '"Netherlands"'
-- '"Colitis"'
-- '"Ulcerative/*genetics"'
-- '"*Polymorphism"'
-- '"Single Nucleotide"'
-- '"Crohn Disease/genetics"'
-- '"Interleukin-2/*genetics"'
-- '"Interleukins/*genetics"'
 doi: 10.1136/gut.2008.166918
 ---
-

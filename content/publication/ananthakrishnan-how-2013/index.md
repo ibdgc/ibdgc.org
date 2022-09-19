@@ -1,10 +1,40 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: How does genotype influence disease phenotype in inflammatory bowel disease?
-date: '2013-08-01'
-publishDate: '2021-02-15T12:57:03.832744Z'
+subtitle: ''
+summary: ''
 authors:
 - Ashwin N. Ananthakrishnan
 - Ramnik J. Xavier
+tags:
+- '"Humans"'
+- '"Inflammatory Bowel Diseases"'
+- '"Genetic Predisposition to Disease"'
+- '"Genotype"'
+- '"Phenotype"'
+- '"Genetic Association Studies"'
+categories: []
+date: '2013-08-01'
+lastmod: 2021-11-01T08:41:16-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:16.394280Z'
 publication_types:
 - '2'
 abstract: Inflammatory bowel diseases (Crohn's disease and ulcerative colitis) are
@@ -26,15 +56,6 @@ abstract: Inflammatory bowel diseases (Crohn's disease and ulcerative colitis) a
   and dynamic assessments of external (e.g., diet) and internal (microbiome) environment
   to allow us to progress toward personalized and precision medicine in the management
   of these complex diseases.
-featured: false
 publication: '*Inflammatory Bowel Diseases*'
-tags:
-- '"Humans"'
-- '"Genetic Predisposition to Disease"'
-- '"Genotype"'
-- '"Genetic Association Studies"'
-- '"Inflammatory Bowel Diseases"'
-- '"Phenotype"'
 doi: 10.1097/MIB.0b013e318281f5c5
 ---
-

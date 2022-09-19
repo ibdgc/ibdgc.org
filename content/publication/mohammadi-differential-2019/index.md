@@ -1,15 +1,39 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: Differential miRNA expression in ileal and colonic tissues reveals an altered
   immunoregulatory molecular profile in individuals with Crohn's disease versus healthy
   subjects.
-date: '2019-04-01'
-publishDate: '2021-02-15T12:56:53.935480Z'
+subtitle: ''
+summary: ''
 authors:
 - A Mohammadi
 - OB Kelly
 - MI Smith
 - B Kabakchiev
 - MS Silverberg
+tags: []
+categories: []
+date: '2019-04-01'
+lastmod: 2021-11-01T08:41:35-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:35.315322Z'
 publication_types:
 - '2'
 abstract: MicroRNAs (miRNAs) are key modulators of gene expression in Crohn's disease
@@ -32,10 +56,7 @@ abstract: MicroRNAs (miRNAs) are key modulators of gene expression in Crohn's di
   expression patterns in CD and HC suggesting site-specific regulation in subjects
   with no or minimal intestinal inflammation. These miRNAs target genes involved in
   immunoregulatory processes, suggesting a functional, tissue-specific role in CD.
-featured: false
 publication: '*J Crohns Colitis*'
 url_pdf: https://academic.oup.com/ecco-jcc/article-lookup/doi/10.1093/ecco-jcc/jjz076
-grcs: [toronto]
 doi: 10.1093/ecco-jcc/jjz076
 ---
-

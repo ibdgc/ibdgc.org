@@ -1,7 +1,9 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: CX3CR1+ mononuclear phagocytes control immunity to intestinal fungi
-date: '2018-01-01'
-publishDate: '2021-02-15T12:56:57.320361Z'
+subtitle: ''
+summary: ''
 authors:
 - Irina Leonardi
 - Xin Li
@@ -15,6 +17,50 @@ authors:
 - Dermot P. B. McGovern
 - Jesus Pla
 - Iliyan D. Iliev
+tags:
+- '"Humans"'
+- '"Animals"'
+- '"Crohn Disease"'
+- '"Mice"'
+- '"Mutation"'
+- '"Missense"'
+- '"Immunity"'
+- '"Mucosal"'
+- '"Intestines"'
+- '"Phagocytes"'
+- '"Colitis"'
+- '"Dendritic Cells"'
+- '"Gastrointestinal Microbiome"'
+- '"T-Lymphocytes"'
+- '"Regulatory"'
+- '"Antibodies"'
+- '"Fungal"'
+- '"Candida albicans"'
+- '"CX3C Chemokine Receptor 1"'
+- '"Immunoglobulin G"'
+- '"Mycobiome"'
+- '"Th17 Cells"'
+categories: []
+date: '2018-01-01'
+lastmod: 2021-11-01T08:41:22-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:22.090067Z'
 publication_types:
 - '2'
 abstract: Intestinal fungi are an important component of the microbiota, and recent
@@ -29,31 +75,6 @@ abstract: Intestinal fungi are an important component of the microbiota, and rec
   CX3CR1 was identified and found to be associated with impaired antifungal responses.
   These results unravel a role of CX3CR1+ MNPs in mediating interactions between intestinal
   mycobiota and host immunity at steady state and during inflammatory disease.
-featured: false
 publication: '*Science (New York, N.Y.)*'
-tags:
-- '"Humans"'
-- '"Crohn Disease"'
-- '"Animals"'
-- '"Mice"'
-- '"Mutation"'
-- '"Missense"'
-- '"Gastrointestinal Microbiome"'
-- '"Intestines"'
-- '"Dendritic Cells"'
-- '"T-Lymphocytes"'
-- '"Regulatory"'
-- '"Antibodies"'
-- '"Fungal"'
-- '"Candida albicans"'
-- '"Colitis"'
-- '"CX3C Chemokine Receptor 1"'
-- '"Immunity"'
-- '"Mucosal"'
-- '"Immunoglobulin G"'
-- '"Mycobiome"'
-- '"Phagocytes"'
-- '"Th17 Cells"'
 doi: 10.1126/science.aao1503
 ---
-

@@ -1,8 +1,10 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: Somatic mosaicism and common genetic variation contribute to the risk of very-early-onset
   inflammatory bowel disease
-date: '2020-02-01'
-publishDate: '2021-02-15T12:57:08.361758Z'
+subtitle: ''
+summary: ''
 authors:
 - Eva Gonçalves Serra
 - Tobias Schwerd
@@ -55,6 +57,28 @@ authors:
 - David C. Wilson
 - Holm H. Uhlig
 - Carl A. Anderson
+tags: []
+categories: []
+date: '2020-02-01'
+lastmod: 2021-11-01T08:41:52-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:52.042392Z'
 publication_types:
 - '2'
 abstract: Very-early-onset inflammatory bowel disease (VEO-IBD) is a heterogeneous
@@ -70,8 +94,6 @@ abstract: Very-early-onset inflammatory bowel disease (VEO-IBD) is a heterogeneo
   P textless 4 × 10-10), and replicate this finding in an independent cohort of VEO-IBD
   cases and controls (117 patients and 2,603 controls; P textless 5 × 10-10). This
   discovery indicates that a polygenic component operates in VEO-IBD pathogenesis.
-featured: false
 publication: '*Nature Communications*'
 doi: 10.1038/s41467-019-14275-y
 ---
-

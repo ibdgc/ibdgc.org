@@ -1,8 +1,10 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: Development of Chemical Probes for Investigation of Salt-Inducible Kinase Function
   in Vivo
-date: '2016-01-01'
-publishDate: '2021-02-15T12:57:04.577129Z'
+subtitle: ''
+summary: ''
 authors:
 - Thomas B. Sundberg
 - Yanke Liang
@@ -21,6 +23,39 @@ authors:
 - Alykhan F. Shamji
 - Nathanael S. Gray
 - Ramnik J. Xavier
+tags:
+- '"Animals"'
+- '"Mice"'
+- '"Cells"'
+- '"Cultured"'
+- '"Mice"'
+- '"Knockout"'
+- '"Protein-Serine-Threonine Kinases"'
+- '"Inhibitory Concentration 50"'
+- '"Molecular Probes"'
+- '"Phosphorylation"'
+- '"Protein Kinase Inhibitors"'
+categories: []
+date: '2016-01-01'
+lastmod: 2021-11-01T08:41:18-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:18.696791Z'
 publication_types:
 - '2'
 abstract: Salt-inducible kinases (SIKs) are promising therapeutic targets for modulating
@@ -37,20 +72,6 @@ abstract: Salt-inducible kinases (SIKs) are promising therapeutic targets for mo
   mice. These results identify YKL-05-099 as a useful probe to investigate SIK function
   in vivo and further support the development of SIK inhibitors for treatment of inflammatory
   disorders.
-featured: false
 publication: '*ACS chemical biology*'
-tags:
-- '"Animals"'
-- '"Mice"'
-- '"Cells"'
-- '"Cultured"'
-- '"Protein-Serine-Threonine Kinases"'
-- '"Mice"'
-- '"Knockout"'
-- '"Inhibitory Concentration 50"'
-- '"Molecular Probes"'
-- '"Phosphorylation"'
-- '"Protein Kinase Inhibitors"'
 doi: 10.1021/acschembio.6b00217
 ---
-

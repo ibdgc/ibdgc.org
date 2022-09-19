@@ -1,8 +1,10 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: 'Appendectomy does not decrease the risk of future colectomy in UC: results
   from a large cohort and meta-analysis'
-date: '2017-01-01'
-publishDate: '2021-02-15T12:57:04.680024Z'
+subtitle: ''
+summary: ''
 authors:
 - Alyssa Parian
 - Berkeley Limketkai
@@ -21,6 +23,58 @@ authors:
 - A. Hillary Steinhart
 - Ruben Hernaez
 - Mark Lazarev
+tags:
+- '"Humans"'
+- '"Colitis"'
+- '"Ulcerative"'
+- '"Adult"'
+- '"Female"'
+- '"Male"'
+- '"Middle Aged"'
+- '"Severity of Illness Index"'
+- '"Young Adult"'
+- '"Adolescent"'
+- '"Risk Factors"'
+- '"Time Factors"'
+- '"INFLAMMATORY BOWEL DISEASE"'
+- '"ULCERATIVE COLITIS"'
+- '"Smoking"'
+- '"Retrospective Studies"'
+- '"Colectomy"'
+- '"Databases"'
+- '"Factual"'
+- '"*APPENDIX"'
+- '"*COLORECTAL SURGERY"'
+- '"*INFLAMMATORY BOWEL DISEASE"'
+- '"*ULCERATIVE COLITIS"'
+- '"Appendectomy"'
+- '"Appendectomy/*statistics & numerical data"'
+- '"APPENDIX"'
+- '"Colectomy/*statistics & numerical data"'
+- '"Colitis"'
+- '"Ulcerative/diagnosis/*surgery"'
+- '"COLORECTAL SURGERY"'
+categories: []
+date: '2017-01-01'
+lastmod: 2021-11-01T08:41:56-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:56.010360Z'
 publication_types:
 - '2'
 abstract: 'OBJECTIVES: Early appendectomy is inversely associated with the development
@@ -43,40 +97,6 @@ abstract: 'OBJECTIVES: Early appendectomy is inversely associated with the devel
   In fact, appendectomy after UC diagnosis may be associated with a higher risk of
   colectomy. These findings question the proposed use of appendectomy as treatment
   for UC.'
-featured: false
 publication: '*Gut*'
-tags:
-- '"Female"'
-- '"Humans"'
-- '"Male"'
-- '"Middle Aged"'
-- '"Adult"'
-- '"Risk Factors"'
-- '"Young Adult"'
-- '"Adolescent"'
-- '"Time Factors"'
-- '"Colitis"'
-- '"Ulcerative"'
-- '"Smoking"'
-- '"Severity of Illness Index"'
-- '"Databases"'
-- '"Factual"'
-- '"Retrospective Studies"'
-- '"INFLAMMATORY BOWEL DISEASE"'
-- '"ULCERATIVE COLITIS"'
-- '"Appendectomy"'
-- '"APPENDIX"'
-- '"Colectomy"'
-- '"COLORECTAL SURGERY"'
-- '"*APPENDIX"'
-- '"*COLORECTAL SURGERY"'
-- '"*INFLAMMATORY BOWEL DISEASE"'
-- '"*ULCERATIVE COLITIS"'
-- '"Appendectomy/*statistics & numerical data"'
-- '"Colectomy/*statistics & numerical data"'
-- '"Colitis"'
-- '"Ulcerative/diagnosis/*surgery"'
-grcs: [mssm, pittsburgh, rutgers]
 doi: 10.1136/gutjnl-2016-311550
 ---
-

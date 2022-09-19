@@ -1,8 +1,10 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: Genomic architecture of inflammatory bowel disease in five families with multiple
   affected individuals.
-date: '2016-01-01'
-publishDate: '2021-02-15T12:57:06.325171Z'
+subtitle: ''
+summary: ''
 authors:
 - Anna B. Stittrich
 - Justin Ashworth
@@ -22,6 +24,28 @@ authors:
 - Leroy Hood
 - Jared C. Roach
 - Gustavo Glusman
+tags: []
+categories: []
+date: '2016-01-01'
+lastmod: 2021-11-01T08:41:08-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:08.512045Z'
 publication_types:
 - '2'
 abstract: Currently, the best clinical predictor for inflammatory bowel disease (IBD)
@@ -42,9 +66,6 @@ abstract: Currently, the best clinical predictor for inflammatory bowel disease 
   for the high incidence of IBD in most, but not all families we analyzed  and that
   a family study design can identify novel rare variants conferring risk for IBD with
   potentially large effect size, such as the TRIM11 p.H414Y mutation.
-featured: false
 publication: '*Human genome variation*'
-grcs: [pittsburgh]
 doi: 10.1038/hgv.2015.60
 ---
-

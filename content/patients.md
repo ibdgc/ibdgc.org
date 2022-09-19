@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "For Patients Undergoing Ileocolic Resection Surgery"
+title: "Patients"
 subtitle: ""
 summary: ""
 authors: []
@@ -27,6 +27,12 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
+The Inflammatory Bowel Disease (IBD) Genetics Consortium is currently recruiting patients with IBD to participate in research studies. We are especially interested in individuals who are members of racial or ethnic minorities or who are undergoing an ileal resection for Crohn's disease. If you are in one of these groups and would like more information about participating in a Consortium study, please contact us at cholabIBD@mssm.edu.
+
+{{< youtube TmBKpVxbZUg >}}
+
+### FAQ For Patients Undergoing Ileocolic Resection
 
 <details>
   <summary><strong>What is a Research Study?</strong></summary>

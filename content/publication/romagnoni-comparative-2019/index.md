@@ -1,14 +1,38 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: Comparative performances of machine learning methods for classifying Crohn
   Disease patients using genome-wide genotyping data.
-date: '2019-07-01'
-publishDate: '2021-02-15T12:57:06.869269Z'
+subtitle: ''
+summary: ''
 authors:
 - Alberto Romagnoni
 - Simon Jegou
 - Kristel Van Steen
 - Gilles Wainrib
 - Jean-Pierre Hugot
+tags: []
+categories: []
+date: '2019-07-01'
+lastmod: 2021-11-01T08:41:10-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:10.107662Z'
 publication_types:
 - '2'
 abstract: 'Crohn Disease (CD) is a complex genetic disorder for which more than 140
@@ -33,9 +57,6 @@ abstract: 'Crohn Disease (CD) is a complex genetic disorder for which more than 
   The robustness and complementarity of the different methods are also studied. Compared
   to LR, non-linear models such as GBT or NN may provide robust complementary approaches
   to identify and classify genetic markers.'
-featured: false
 publication: '*Scientific reports*'
-grcs: [toronto]
 doi: 10.1038/s41598-019-46649-z
 ---
-

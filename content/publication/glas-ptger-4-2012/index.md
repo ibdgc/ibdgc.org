@@ -1,8 +1,10 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: PTGER4 expression-modulating polymorphisms in the 5p13.1 region predispose
   to Crohn's disease and affect NF-kappaB and XBP1 binding sites.
-date: '2012-01-01'
-publishDate: '2021-02-15T12:57:05.659671Z'
+subtitle: ''
+summary: ''
 authors:
 - Jurgen Glas
 - Julia Seiderer
@@ -19,6 +21,61 @@ authors:
 - Andre Franke
 - Richard H. Duerr
 - Stephan Brand
+tags:
+- '"Humans"'
+- '"Adult"'
+- '"Aged"'
+- '"Female"'
+- '"Male"'
+- '"Middle Aged"'
+- '"Young Adult"'
+- '"Gene Expression"'
+- '"Genetic Predisposition to Disease"'
+- '"Gene Frequency"'
+- '"*Polymorphism"'
+- '"Single Nucleotide"'
+- '"Chromosomes"'
+- '"Human"'
+- '"Pair 5/*genetics"'
+- '"Adolescent"'
+- '"Aged"'
+- '"80 and over"'
+- '"Binding Sites"'
+- '"Child"'
+- '"Crohn Disease/*genetics"'
+- '"DNA-Binding Proteins/*metabolism"'
+- '"Epistasis"'
+- '"Genetic"'
+- '"NF-kappa B/*metabolism"'
+- '"Receptors"'
+- '"Prostaglandin E"'
+- '"EP4 Subtype/*genetics/metabolism"'
+- '"Regulatory Factor X Transcription Factors"'
+- '"Sequence Analysis"'
+- '"DNA"'
+- '"Transcription Factors/*metabolism"'
+- '"X-Box Binding Protein 1"'
+categories: []
+date: '2012-01-01'
+lastmod: 2021-11-01T08:41:07-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:07.326032Z'
 publication_types:
 - '2'
 abstract: "BACKGROUND: Genome-wide association studies identified a PTGER4 expression-modulating\
@@ -36,42 +93,6 @@ abstract: "BACKGROUND: Genome-wide association studies identified a PTGER4 expre
   \ 0.81 [0.71-0.91]) with susceptibility to CD was demonstrated. These associations\
   \ were  confirmed in both replication cohorts. In silico analysis predicted rs4495224\
   \ and rs7720838 as essential parts of binding sites for the transcription factors"
-featured: false
 publication: '*PloS one*'
-tags:
-- '"Aged"'
-- '"Female"'
-- '"Humans"'
-- '"Male"'
-- '"Middle Aged"'
-- '"Adult"'
-- '"Aged"'
-- '"80 and over"'
-- '"Young Adult"'
-- '"Adolescent"'
-- '"Child"'
-- '"Genetic Predisposition to Disease"'
-- '"Gene Frequency"'
-- '"Sequence Analysis"'
-- '"DNA"'
-- '"Binding Sites"'
-- '"Epistasis"'
-- '"Genetic"'
-- '"Gene Expression"'
-- '"*Polymorphism"'
-- '"Single Nucleotide"'
-- '"Chromosomes"'
-- '"Human"'
-- '"Pair 5/*genetics"'
-- '"Crohn Disease/*genetics"'
-- '"DNA-Binding Proteins/*metabolism"'
-- '"NF-kappa B/*metabolism"'
-- '"Receptors"'
-- '"Prostaglandin E"'
-- '"EP4 Subtype/*genetics/metabolism"'
-- '"Regulatory Factor X Transcription Factors"'
-- '"Transcription Factors/*metabolism"'
-- '"X-Box Binding Protein 1"'
 doi: 10.1371/journal.pone.0052873
 ---
-

@@ -1,8 +1,10 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: Ulcerative colitis-risk loci on chromosomes 1p36 and 12q15 found by genome-wide
   association study
-date: '2009-02-01'
-publishDate: '2021-02-15T12:57:00.696308Z'
+subtitle: ''
+summary: ''
 authors:
 - Mark S. Silverberg
 - Judy H. Cho
@@ -38,6 +40,71 @@ authors:
 - Kent D. Taylor
 - Kathryn Roeder
 - Richard H. Duerr
+tags:
+- '"Humans"'
+- '"Polymorphism"'
+- '"Single Nucleotide"'
+- '"Colitis"'
+- '"Ulcerative"'
+- '"Colitis"'
+- '"Ulcerative/*genetics"'
+- '"Genome-Wide Association Study"'
+- '"Case-Control Studies"'
+- '"Female"'
+- '"Male"'
+- '"Genetic Predisposition to Disease"'
+- '"Genotype"'
+- '"*Genetic Predisposition to Disease"'
+- '"Risk Factors"'
+- '"Membrane Glycoproteins"'
+- '"Receptors"'
+- '"Interleukin"'
+- '"HLA-DQ beta-Chains"'
+- '"Receptors"'
+- '"Interleukin/genetics"'
+- '"*Chromosomes"'
+- '"Human"'
+- '"Pair 1"'
+- '"*Chromosomes"'
+- '"Human"'
+- '"Pair 12"'
+- '"*Genome-Wide Association Study"'
+- '"Butyrophilins"'
+- '"Chromosomes"'
+- '"Human"'
+- '"Pair 1"'
+- '"Chromosomes"'
+- '"Human"'
+- '"Pair 12"'
+- '"Chromosomes"'
+- '"Human"'
+- '"Pair 6"'
+- '"HLA-DQ Antigens"'
+- '"HLA-DQ Antigens/genetics"'
+- '"Membrane Glycoproteins/genetics"'
+- '"Recombination"'
+- '"Genetic"'
+categories: []
+date: '2009-02-01'
+lastmod: 2021-11-01T08:41:54-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:53.899054Z'
 publication_types:
 - '2'
 abstract: Ulcerative colitis is a chronic inflammatory disease of the colon that presents
@@ -53,53 +120,6 @@ abstract: Ulcerative colitis is a chronic inflammatory disease of the colon that
   = 1.0 x 10(-16), combined OR = 0.66) and at the IL23R locus on chromosome 1p31 (rs11209026,
   combined P = 1.3 x 10(-8), combined OR = 0.56; rs10889677, combined P = 1.3 x 10(-8),
   combined OR = 1.29).
-featured: false
 publication: '*Nature Genetics*'
-tags:
-- '"Female"'
-- '"Humans"'
-- '"Male"'
-- '"Risk Factors"'
-- '"Case-Control Studies"'
-- '"Colitis"'
-- '"Ulcerative"'
-- '"Genetic Predisposition to Disease"'
-- '"Genome-Wide Association Study"'
-- '"Polymorphism"'
-- '"Single Nucleotide"'
-- '"Receptors"'
-- '"Interleukin"'
-- '"Genotype"'
-- '"Butyrophilins"'
-- '"Chromosomes"'
-- '"Human"'
-- '"Pair 1"'
-- '"Chromosomes"'
-- '"Human"'
-- '"Pair 12"'
-- '"Chromosomes"'
-- '"Human"'
-- '"Pair 6"'
-- '"HLA-DQ Antigens"'
-- '"HLA-DQ beta-Chains"'
-- '"Membrane Glycoproteins"'
-- '"Recombination"'
-- '"Genetic"'
-- '"*Chromosomes"'
-- '"Human"'
-- '"Pair 1"'
-- '"*Chromosomes"'
-- '"Human"'
-- '"Pair 12"'
-- '"*Genetic Predisposition to Disease"'
-- '"*Genome-Wide Association Study"'
-- '"Colitis"'
-- '"Ulcerative/*genetics"'
-- '"HLA-DQ Antigens/genetics"'
-- '"Membrane Glycoproteins/genetics"'
-- '"Receptors"'
-- '"Interleukin/genetics"'
-grcs: [pittsburgh]
 doi: 10.1038/ng.275
 ---
-

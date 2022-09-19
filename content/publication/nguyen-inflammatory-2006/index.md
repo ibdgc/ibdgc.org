@@ -1,8 +1,10 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: 'Inflammatory bowel disease characteristics among African Americans, Hispanics,
   and non-Hispanic Whites: characterization of a large North American cohort.'
-date: '2006-05-01'
-publishDate: '2021-02-15T12:57:05.873020Z'
+subtitle: ''
+summary: ''
 authors:
 - Geoffrey C. Nguyen
 - Esther A. Torres
@@ -30,6 +32,49 @@ authors:
 - A. Hillary Steinhart
 - Steven R. Brant
 - Mark S. Silverberg
+tags:
+- '"Humans"'
+- '"Adult"'
+- '"Female"'
+- '"Male"'
+- '"*Colitis"'
+- '"Ulcerative"'
+- '"*Crohn Disease/complications/epidemiology"'
+- '"*Hispanic Americans"'
+- '"African Americans"'
+- '"Colonic Diseases"'
+- '"Duodenal Diseases"'
+- '"Erythema Nodosum/complications"'
+- '"Esophageal Diseases"'
+- '"European Continental Ancestry Group"'
+- '"Minority Groups"'
+- '"Prevalence"'
+- '"Rectal Diseases"'
+- '"Sacroiliac Joint"'
+- '"Stomach Diseases"'
+- '"United States"'
+- '"Uveitis/etiology"'
+categories: []
+date: '2006-05-01'
+lastmod: 2021-11-01T08:41:05-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:05.046821Z'
 publication_types:
 - '2'
 abstract: "OBJECTIVES: Inflammatory bowel disease (IBD), comprising primarily of Crohn's\
@@ -54,31 +99,6 @@ abstract: "OBJECTIVES: Inflammatory bowel disease (IBD), comprising primarily of
   \ family history, disease location, and EIMs that may reflect underlying genetic\
   \ variations and have important implications for diagnosis and management of disease.\
   \ These findings underscore the need for further studies in minority populations."
-featured: false
 publication: '*The American journal of gastroenterology*'
-tags:
-- '"Female"'
-- '"Humans"'
-- '"Male"'
-- '"Adult"'
-- '"United States"'
-- '"African Americans"'
-- '"European Continental Ancestry Group"'
-- '"Colonic Diseases"'
-- '"*Colitis"'
-- '"Ulcerative"'
-- '"*Crohn Disease/complications/epidemiology"'
-- '"*Hispanic Americans"'
-- '"Duodenal Diseases"'
-- '"Erythema Nodosum/complications"'
-- '"Esophageal Diseases"'
-- '"Minority Groups"'
-- '"Prevalence"'
-- '"Rectal Diseases"'
-- '"Sacroiliac Joint"'
-- '"Stomach Diseases"'
-- '"Uveitis/etiology"'
-grcs: [rutgers]
 doi: 10.1111/j.1572-0241.2006.00504.x
 ---
-

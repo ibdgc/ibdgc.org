@@ -1,8 +1,10 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: Comprehensive and Reproducible Untargeted Lipidomic Workflow Using LC-QTOF
   Validated for Human Plasma Analysis
-date: '2018-01-01'
-publishDate: '2021-02-15T12:57:04.898523Z'
+subtitle: ''
+summary: ''
 authors:
 - Anik Forest
 - Matthieu Ruiz
@@ -17,6 +19,49 @@ authors:
 - Jean-Claude Tardif
 - John D. Rioux
 - Christine Des Rosiers
+tags:
+- '"Computational Biology"'
+- '"Humans"'
+- '"Reproducibility of Results"'
+- '"annotation"'
+- '"Chromatography"'
+- '"Liquid"'
+- '"coverage"'
+- '"Healthy Volunteers"'
+- '"lipid isomers"'
+- '"lipidomics"'
+- '"lipids"'
+- '"Lipids"'
+- '"mass spectrometry"'
+- '"Metabolome"'
+- '"Molecular Sequence Annotation"'
+- '"Principal Component Analysis"'
+- '"reproducibility"'
+- '"Tandem Mass Spectrometry"'
+- '"untargeted"'
+- '"WGCNA"'
+- '"workflow"'
+categories: []
+date: '2018-01-01'
+lastmod: 2021-11-01T08:41:19-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:18.966090Z'
 publication_types:
 - '2'
 abstract: 'The goal of this work was to develop a label-free, comprehensive, and reproducible
@@ -37,31 +82,6 @@ abstract: 'The goal of this work was to develop a label-free, comprehensive, and
   which 100 samples from healthy human subjects were analyzed and the data set was
   investigated using three different statistical testing strategies in order to compare
   their capacity in identifying the impact of sex and age on circulating lipids.'
-featured: false
 publication: '*Journal of Proteome Research*'
-tags:
-- '"Humans"'
-- '"Reproducibility of Results"'
-- '"Computational Biology"'
-- '"Metabolome"'
-- '"Principal Component Analysis"'
-- '"annotation"'
-- '"Chromatography"'
-- '"Liquid"'
-- '"coverage"'
-- '"Healthy Volunteers"'
-- '"lipid isomers"'
-- '"lipidomics"'
-- '"lipids"'
-- '"Lipids"'
-- '"mass spectrometry"'
-- '"Molecular Sequence Annotation"'
-- '"reproducibility"'
-- '"Tandem Mass Spectrometry"'
-- '"untargeted"'
-- '"WGCNA"'
-- '"workflow"'
-grcs: [montreal]
 doi: 10.1021/acs.jproteome.8b00270
 ---
-

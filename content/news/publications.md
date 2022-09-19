@@ -34,7 +34,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 1
+  view = 2
 
 [design.spacing]
   padding = [ "", "", "", "50px" ]

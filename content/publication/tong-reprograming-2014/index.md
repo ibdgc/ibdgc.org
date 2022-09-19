@@ -1,8 +1,10 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: Reprograming of gut microbiome energy metabolism by the FUT2 Crohn's disease
   risk polymorphism
-date: '2014-11-01'
-publishDate: '2021-02-15T12:56:59.819588Z'
+subtitle: ''
+summary: ''
 authors:
 - Maomeng Tong
 - Ian McHardy
@@ -19,6 +21,52 @@ authors:
 - Dermot P. B. McGovern
 - James Borneman
 - Jonathan Braun
+tags:
+- '"Humans"'
+- '"Animals"'
+- '"Crohn Disease"'
+- '"Intestinal Mucosa"'
+- '"Mice"'
+- '"Polymorphism"'
+- '"Genetic"'
+- '"Adult"'
+- '"Aged"'
+- '"Female"'
+- '"Male"'
+- '"Middle Aged"'
+- '"Mice"'
+- '"Knockout"'
+- '"Risk Factors"'
+- '"Bacteria"'
+- '"Microbiota"'
+- '"Metabolome"'
+- '"Mice"'
+- '"Inbred C57BL"'
+- '"Fucosyltransferases"'
+- '"Energy Metabolism"'
+- '"Metagenome"'
+- '"Proteome"'
+categories: []
+date: '2014-11-01'
+lastmod: 2021-11-01T08:41:29-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:29.190011Z'
 publication_types:
 - '2'
 abstract: Fucosyltransferase 2 (FUT2) is an enzyme that is responsible for the synthesis
@@ -40,33 +88,6 @@ abstract: Fucosyltransferase 2 (FUT2) is an enzyme that is responsible for the s
   in the local intestinal mucosa. Therefore, the colonic microbiota of non-secretors
   is altered at both the compositional and functional levels, affecting the host mucosal
   state and potentially explaining the association of FUT2 genotype and CD susceptibility.
-featured: false
 publication: '*The ISME journal*'
-tags:
-- '"Aged"'
-- '"Female"'
-- '"Humans"'
-- '"Male"'
-- '"Middle Aged"'
-- '"Adult"'
-- '"Risk Factors"'
-- '"Crohn Disease"'
-- '"Animals"'
-- '"Mice"'
-- '"Mice"'
-- '"Inbred C57BL"'
-- '"Microbiota"'
-- '"Intestinal Mucosa"'
-- '"Polymorphism"'
-- '"Genetic"'
-- '"Mice"'
-- '"Knockout"'
-- '"Fucosyltransferases"'
-- '"Bacteria"'
-- '"Energy Metabolism"'
-- '"Metabolome"'
-- '"Metagenome"'
-- '"Proteome"'
 doi: 10.1038/ismej.2014.64
 ---
-

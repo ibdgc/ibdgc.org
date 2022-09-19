@@ -1,8 +1,10 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: Colonic Phenotypes Are Associated with Poorer Response to Anti-TNF Therapies
   in Patients with IBD
-date: '2017-08-01'
-publishDate: '2021-02-15T12:57:01.232442Z'
+subtitle: ''
+summary: ''
 authors:
 - Soon Man Yoon
 - Talin Haritunians
@@ -19,6 +21,28 @@ authors:
 - Stephan R. Targan
 - Gil Y. Melmed
 - Dermot P. B. McGovern
+tags: []
+categories: []
+date: '2017-08-01'
+lastmod: 2021-11-01T08:41:32-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:32.291879Z'
 publication_types:
 - '2'
 abstract: Background Although anti–tumor necrosis factor (TNF) agents are effective
@@ -44,9 +68,7 @@ abstract: Background Although anti–tumor necrosis factor (TNF) agents are effe
   or time to loss of response.  Conclusions Our results may help to optimize the use
   of anti-TNF agents in clinical practice and position these therapies appropriately
   as clinicians strive for a more personalized approach to managing IBD.
-featured: false
 publication: '*Inflammatory Bowel Diseases*'
 url_pdf: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6510223/
 doi: 10.1097/MIB.0000000000001150
 ---
-

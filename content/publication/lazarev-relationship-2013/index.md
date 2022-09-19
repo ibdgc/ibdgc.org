@@ -1,8 +1,10 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: "Relationship between proximal Crohn's disease location and disease behavior\
   \ and surgery: a cross-sectional study of the IBD Genetics Consortium"
-date: '2013-01-01'
-publishDate: '2021-02-15T12:56:57.209771Z'
+subtitle: ''
+summary: ''
 authors:
 - Mark Lazarev
 - Chengrui Huang
@@ -19,6 +21,54 @@ authors:
 - A. Hillary Steinhart
 - Susan Hutfless
 - Steven R. Brant
+tags:
+- '"Humans"'
+- '"Crohn Disease"'
+- '"Adult"'
+- '"Female"'
+- '"Male"'
+- '"Phenotype"'
+- '"Risk Factors"'
+- '"Constriction"'
+- '"Pathologic"'
+- '"Cross-Sectional Studies"'
+- '"Databases"'
+- '"Factual"'
+- '"Multivariate Analysis"'
+- '"Constriction"'
+- '"Pathologic/etiology/surgery"'
+- '"Crohn Disease/classification/complications/*pathology/surgery"'
+- '"Duodenum"'
+- '"Duodenum/*pathology"'
+- '"Esophagus"'
+- '"Esophagus/*pathology"'
+- '"Ileitis"'
+- '"Ileitis/complications/pathology/surgery"'
+- '"Intestinal Obstruction"'
+- '"Intestinal Obstruction/etiology/surgery"'
+- '"Jejunum"'
+- '"Jejunum/*pathology"'
+categories: []
+date: '2013-01-01'
+lastmod: 2021-11-01T08:41:57-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:57.461212Z'
 publication_types:
 - '2'
 abstract: "OBJECTIVES: In classifying Crohn's disease (CD) location, proximal (L4)\
@@ -53,36 +103,6 @@ abstract: "OBJECTIVES: In classifying Crohn's disease (CD) location, proximal (L
   \ greater risk factor for stricturing disease and multiple abdominal surgeries than\
   \ either EGD or ileal (without proximal) disease. The Montreal site classification\
   \ should be revised to include separate designations for jejunal and EGD disease."
-featured: false
 publication: '*The American Journal of Gastroenterology*'
-tags:
-- '"Female"'
-- '"Humans"'
-- '"Male"'
-- '"Adult"'
-- '"Risk Factors"'
-- '"Cross-Sectional Studies"'
-- '"Crohn Disease"'
-- '"Phenotype"'
-- '"Constriction"'
-- '"Pathologic"'
-- '"Databases"'
-- '"Factual"'
-- '"Duodenum"'
-- '"Esophagus"'
-- '"Ileitis"'
-- '"Intestinal Obstruction"'
-- '"Jejunum"'
-- '"Multivariate Analysis"'
-- '"Constriction"'
-- '"Pathologic/etiology/surgery"'
-- '"Crohn Disease/classification/complications/*pathology/surgery"'
-- '"Duodenum/*pathology"'
-- '"Esophagus/*pathology"'
-- '"Ileitis/complications/pathology/surgery"'
-- '"Intestinal Obstruction/etiology/surgery"'
-- '"Jejunum/*pathology"'
-grcs: [rutgers]
 doi: 10.1038/ajg.2012.389
 ---
-

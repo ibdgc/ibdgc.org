@@ -1,8 +1,10 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: Identification of two independent risk factors for lupus within the MHC in
   United Kingdom families
-date: '2007-11-01'
-publishDate: '2021-02-15T12:57:01.677305Z'
+subtitle: ''
+summary: ''
 authors:
 - Michelle M. A. Fernando
 - Christine R. Stevens
@@ -13,6 +15,54 @@ authors:
 - Todd Green
 - John D. Rioux
 - Timothy J. Vyse
+tags:
+- '"Humans"'
+- '"Polymorphism"'
+- '"Single Nucleotide"'
+- '"Case-Control Studies"'
+- '"Female"'
+- '"Male"'
+- '"Cohort Studies"'
+- '"Genetic Predisposition to Disease"'
+- '"Phenotype"'
+- '"United States"'
+- '"Alleles"'
+- '"Gene Frequency"'
+- '"Haplotypes"'
+- '"Linkage Disequilibrium"'
+- '"Genetic Markers"'
+- '"African Continental Ancestry Group"'
+- '"Family"'
+- '"Histocompatibility Antigens Class II"'
+- '"HLA-DR Antigens"'
+- '"HLA-DRB1 Chains"'
+- '"Lupus Erythematosus"'
+- '"Systemic"'
+- '"Major Histocompatibility Complex"'
+- '"Pedigree"'
+- '"Regression Analysis"'
+- '"United Kingdom"'
+categories: []
+date: '2007-11-01'
+lastmod: 2021-11-01T08:41:13-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:12.731803Z'
 publication_types:
 - '2'
 abstract: 'The association of the major histocompatibility complex (MHC) with SLE
@@ -38,35 +88,6 @@ abstract: 'The association of the major histocompatibility complex (MHC) with SL
   alone. Our class III signal importantly excludes independent association at the
   TNF promoter polymorphism, TNF-308G/A, in our SLE cohort and provides a potentially
   novel locus for future genetic and functional studies.'
-featured: false
 publication: '*PLoS genetics*'
-tags:
-- '"Female"'
-- '"Humans"'
-- '"Male"'
-- '"United Kingdom"'
-- '"United States"'
-- '"Case-Control Studies"'
-- '"Genetic Predisposition to Disease"'
-- '"HLA-DRB1 Chains"'
-- '"Polymorphism"'
-- '"Single Nucleotide"'
-- '"Alleles"'
-- '"Gene Frequency"'
-- '"Haplotypes"'
-- '"Phenotype"'
-- '"Major Histocompatibility Complex"'
-- '"Pedigree"'
-- '"Linkage Disequilibrium"'
-- '"Cohort Studies"'
-- '"African Continental Ancestry Group"'
-- '"Family"'
-- '"Genetic Markers"'
-- '"Histocompatibility Antigens Class II"'
-- '"HLA-DR Antigens"'
-- '"Lupus Erythematosus"'
-- '"Systemic"'
-- '"Regression Analysis"'
 doi: 10.1371/journal.pgen.0030192
 ---
-

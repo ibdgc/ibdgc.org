@@ -1,8 +1,10 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: Host-microbe interactions have shaped the genetic architecture of inflammatory
   bowel disease
-date: '2012-11-01'
-publishDate: '2021-02-15T12:56:54.609041Z'
+subtitle: ''
+summary: ''
 authors:
 - Luke Jostins
 - Stephan Ripke
@@ -111,6 +113,61 @@ authors:
 - Severine Vermeire
 - Jeffrey C. Barrett
 - Judy H. Cho
+tags:
+- '"Genome"'
+- '"Human"'
+- '"Humans"'
+- '"Polymorphism"'
+- '"Single Nucleotide"'
+- '"Colitis"'
+- '"Ulcerative"'
+- '"Crohn Disease"'
+- '"Genome-Wide Association Study"'
+- '"Inflammatory Bowel Diseases"'
+- '"Genetic Predisposition to Disease"'
+- '"Phenotype"'
+- '"Haplotypes"'
+- '"Genetic Predisposition to Disease/*genetics"'
+- '"Reproducibility of Results"'
+- '"Polymorphism"'
+- '"Single Nucleotide/genetics"'
+- '"Host-Pathogen Interactions"'
+- '"*Genome-Wide Association Study"'
+- '"*Host-Pathogen Interactions/genetics/immunology"'
+- '"Colitis"'
+- '"Ulcerative/genetics/immunology/microbiology/physiopathology"'
+- '"Crohn Disease/genetics/immunology/microbiology/physiopathology"'
+- '"Genome"'
+- '"Human/genetics"'
+- '"Haplotypes/genetics"'
+- '"Inflammatory Bowel Diseases/*genetics/immunology/*microbiology/physiopathology"'
+- '"Mycobacterium"'
+- '"Mycobacterium Infections"'
+- '"Mycobacterium Infections/genetics/microbiology"'
+- '"Mycobacterium tuberculosis"'
+- '"Mycobacterium tuberculosis/immunology/pathogenicity"'
+- '"Mycobacterium/*immunology/pathogenicity"'
+categories: []
+date: '2012-11-01'
+lastmod: 2021-11-01T08:41:59-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:58.904580Z'
 publication_types:
 - '2'
 abstract: Crohn's disease and ulcerative colitis, the two common forms of inflammatory
@@ -131,43 +188,6 @@ abstract: Crohn's disease and ulcerative colitis, the two common forms of inflam
   overlap between susceptibility loci for IBD and mycobacterial infection. Gene co-expression
   network analysis emphasizes this relationship, with pathways shared between host
   responses to mycobacteria and those predisposing to IBD.
-featured: false
 publication: '*Nature*'
-tags:
-- '"Humans"'
-- '"Reproducibility of Results"'
-- '"Colitis"'
-- '"Ulcerative"'
-- '"Crohn Disease"'
-- '"Genetic Predisposition to Disease"'
-- '"Genome-Wide Association Study"'
-- '"Polymorphism"'
-- '"Single Nucleotide"'
-- '"Host-Pathogen Interactions"'
-- '"Inflammatory Bowel Diseases"'
-- '"Genome"'
-- '"Human"'
-- '"Haplotypes"'
-- '"Mycobacterium"'
-- '"Mycobacterium Infections"'
-- '"Mycobacterium tuberculosis"'
-- '"Phenotype"'
-- '"*Genome-Wide Association Study"'
-- '"Genetic Predisposition to Disease/*genetics"'
-- '"*Host-Pathogen Interactions/genetics/immunology"'
-- '"Colitis"'
-- '"Ulcerative/genetics/immunology/microbiology/physiopathology"'
-- '"Crohn Disease/genetics/immunology/microbiology/physiopathology"'
-- '"Genome"'
-- '"Human/genetics"'
-- '"Haplotypes/genetics"'
-- '"Inflammatory Bowel Diseases/*genetics/immunology/*microbiology/physiopathology"'
-- '"Mycobacterium Infections/genetics/microbiology"'
-- '"Mycobacterium tuberculosis/immunology/pathogenicity"'
-- '"Mycobacterium/*immunology/pathogenicity"'
-- '"Polymorphism"'
-- '"Single Nucleotide/genetics"'
-grcs: [pittsburgh, rutgers]
 doi: 10.1038/nature11582
 ---
-

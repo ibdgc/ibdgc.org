@@ -1,8 +1,10 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: Association of Ribonuclease T2 Gene Polymorphisms With Decreased Expression
   and Clinical Characteristics of Severity in Crohn's Disease
-date: '2017-01-01'
-publishDate: '2021-02-15T12:56:56.003369Z'
+subtitle: ''
+summary: ''
 authors:
 - Rivkah Gonsky
 - Phillip Fleshner
@@ -14,6 +16,55 @@ authors:
 - Shaohong Yang
 - Dermot P. B. McGovern
 - Stephan R. Targan
+tags:
+- '"Humans"'
+- '"Polymorphism"'
+- '"Single Nucleotide"'
+- '"Gene Expression Regulation"'
+- '"Crohn Disease"'
+- '"Intestinal Mucosa"'
+- '"Severity of Illness Index"'
+- '"Alleles"'
+- '"Cells"'
+- '"Cultured"'
+- '"Prognosis"'
+- '"SNP"'
+- '"Interferon-gamma"'
+- '"Tumor Necrosis Factor Ligand Superfamily Member 15"'
+- '"Transcriptome"'
+- '"Cell Aggregation"'
+- '"DNA Methylation"'
+- '"Down-Regulation"'
+- '"Gene Silencing"'
+- '"Genetics"'
+- '"Intercellular Adhesion Molecule-1"'
+- '"Lymphocyte Function-Associated Antigen-1"'
+- '"Proto-Oncogene Proteins c-ets"'
+- '"Ribonucleases"'
+- '"Risk Factor"'
+- '"T-Lymphocytes"'
+- '"Tumor Suppressor Proteins"'
+categories: []
+date: '2017-01-01'
+lastmod: 2021-11-01T08:41:51-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:51.498126Z'
 publication_types:
 - '2'
 abstract: "BACKGROUND & AIMS: Variants in the tumor necrosis factor superfamily member\
@@ -55,36 +106,6 @@ abstract: "BACKGROUND & AIMS: Variants in the tumor necrosis factor superfamily 
   \ increase in production of IFNG and as a potential biomarker for patients with\
   \ severe CD. Further study of the role of RNASET2 in regulating mucosal inflammation\
   \ may lead to development of novel therapeutic targets."
-featured: false
 publication: '*Gastroenterology*'
-tags:
-- '"Humans"'
-- '"Crohn Disease"'
-- '"Polymorphism"'
-- '"Single Nucleotide"'
-- '"Risk Factor"'
-- '"SNP"'
-- '"Alleles"'
-- '"Genetics"'
-- '"Prognosis"'
-- '"Cell Aggregation"'
-- '"Cells"'
-- '"Cultured"'
-- '"DNA Methylation"'
-- '"Down-Regulation"'
-- '"Gene Expression Regulation"'
-- '"Gene Silencing"'
-- '"Intercellular Adhesion Molecule-1"'
-- '"Interferon-gamma"'
-- '"Intestinal Mucosa"'
-- '"Lymphocyte Function-Associated Antigen-1"'
-- '"Proto-Oncogene Proteins c-ets"'
-- '"Ribonucleases"'
-- '"Severity of Illness Index"'
-- '"T-Lymphocytes"'
-- '"Transcriptome"'
-- '"Tumor Necrosis Factor Ligand Superfamily Member 15"'
-- '"Tumor Suppressor Proteins"'
 doi: 10.1053/j.gastro.2017.04.002
 ---
-

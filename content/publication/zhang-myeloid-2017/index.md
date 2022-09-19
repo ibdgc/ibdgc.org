@@ -1,8 +1,10 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: Myeloid ATG16L1 Facilitates Host-Bacteria Interactions in Maintaining Intestinal
   Homeostasis
-date: '2017-01-01'
-publishDate: '2021-02-15T12:57:01.341000Z'
+subtitle: ''
+summary: ''
 authors:
 - Hong Zhang
 - Libo Zheng
@@ -18,6 +20,57 @@ authors:
 - David M. Underhill
 - Xiaolan Zhang
 - David Q. Shih
+tags:
+- '"Humans"'
+- '"Animals"'
+- '"Crohn Disease"'
+- '"Risk"'
+- '"Mice"'
+- '"Polymorphism"'
+- '"Genetic"'
+- '"Autophagy"'
+- '"Autophagy-Related Proteins"'
+- '"Genetic Predisposition to Disease"'
+- '"Genotype"'
+- '"Cells"'
+- '"Cultured"'
+- '"Nod2 Signaling Adaptor Protein"'
+- '"Genetic Association Studies"'
+- '"Mice"'
+- '"Knockout"'
+- '"Homeostasis"'
+- '"Host-Pathogen Interactions"'
+- '"Intestines"'
+- '"Colitis"'
+- '"Mice"'
+- '"Inbred C57BL"'
+- '"Paneth Cells"'
+- '"Disease Models"'
+- '"Animal"'
+- '"Myeloid Cells"'
+- '"Salmonella Infections"'
+- '"Salmonella typhimurium"'
+categories: []
+date: '2017-01-01'
+lastmod: 2021-11-01T08:41:33-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:32.658910Z'
 publication_types:
 - '2'
 abstract: Intact ATG16L1 plays an essential role in Paneth cell function and intestinal
@@ -41,38 +94,6 @@ abstract: Intact ATG16L1 plays an essential role in Paneth cell function and int
   were controlled for NOD2 CD-associated variants. This study revealed that ATG16L1
   deficiency led to alterations in macrophage function that contribute to the severity
   of CD.
-featured: false
 publication: '*Journal of Immunology (Baltimore, Md.: 1950)*'
-tags:
-- '"Humans"'
-- '"Crohn Disease"'
-- '"Genetic Predisposition to Disease"'
-- '"Animals"'
-- '"Disease Models"'
-- '"Animal"'
-- '"Genotype"'
-- '"Mice"'
-- '"Genetic Association Studies"'
-- '"Host-Pathogen Interactions"'
-- '"Mice"'
-- '"Inbred C57BL"'
-- '"Nod2 Signaling Adaptor Protein"'
-- '"Intestines"'
-- '"Autophagy"'
-- '"Risk"'
-- '"Cells"'
-- '"Cultured"'
-- '"Autophagy-Related Proteins"'
-- '"Polymorphism"'
-- '"Genetic"'
-- '"Colitis"'
-- '"Paneth Cells"'
-- '"Mice"'
-- '"Knockout"'
-- '"Homeostasis"'
-- '"Myeloid Cells"'
-- '"Salmonella Infections"'
-- '"Salmonella typhimurium"'
 doi: 10.4049/jimmunol.1601293
 ---
-

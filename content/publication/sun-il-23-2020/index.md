@@ -1,13 +1,58 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: IL23 induces IL23R recycling and amplifies innate receptor-induced signalling
   and cytokines in human macrophages, and the IBD-protective IL23R R381Q variant modulates
   these outcomes
-date: '2020-01-01'
-publishDate: '2021-02-15T12:57:08.789118Z'
+subtitle: ''
+summary: ''
 authors:
 - Rui Sun
 - Matija Hedl
 - Clara Abraham
+tags:
+- '"Humans"'
+- '"inflammatory bowel disease"'
+- '"Inflammatory Bowel Diseases"'
+- '"Signal Transduction"'
+- '"Genetic Variation"'
+- '"Cytokines"'
+- '"Receptors"'
+- '"Interleukin"'
+- '"cytokines"'
+- '"Immunity"'
+- '"Innate"'
+- '"Interleukin-23"'
+- '"Autocrine Communication"'
+- '"Endocytosis"'
+- '"Endosomes"'
+- '"Janus Kinase 2"'
+- '"macrophages"'
+- '"Macrophages"'
+- '"Paracrine Communication"'
+- '"Receptors"'
+- '"Pattern Recognition"'
+categories: []
+date: '2020-01-01'
+lastmod: 2021-11-01T08:41:47-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-11-01T12:41:47.516222Z'
 publication_types:
 - '2'
 abstract: 'OBJECTIVE: The interleukin (IL)23 pathway contributes to IBD pathogenesis
@@ -35,30 +80,6 @@ abstract: 'OBJECTIVE: The interleukin (IL)23 pathway contributes to IBD pathogen
   that IL23R undergoes ligand-induced recycling, define mechanisms regulating IL23R-induced
   signalling and determine how the IBD-protective IL23R R381Q variant modulates these
   processes.'
-featured: false
 publication: '*Gut*'
-tags:
-- '"cytokines"'
-- '"Humans"'
-- '"Receptors"'
-- '"Interleukin"'
-- '"Inflammatory Bowel Diseases"'
-- '"Signal Transduction"'
-- '"inflammatory bowel disease"'
-- '"Genetic Variation"'
-- '"Macrophages"'
-- '"Cytokines"'
-- '"Autocrine Communication"'
-- '"Endocytosis"'
-- '"Endosomes"'
-- '"Immunity"'
-- '"Innate"'
-- '"Interleukin-23"'
-- '"Janus Kinase 2"'
-- '"macrophages"'
-- '"Paracrine Communication"'
-- '"Receptors"'
-- '"Pattern Recognition"'
 doi: 10.1136/gutjnl-2018-316830
 ---
-

@@ -49,6 +49,11 @@ publications:
 - Ksenija Sabic (Lab Manager)
 - Nai-Yun Hsu PhD (Senior staff scientist)
 
+# Analysts & Scientific Associates
+
+- Rachel Levantovsky
+- Jiayu Zhang
+
 # Clinical Coordinators
 
 - Colleen Chasteau

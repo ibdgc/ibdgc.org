@@ -47,6 +47,7 @@ publications:
 - Haim Leibovitzh, MD, Former IBD Fellow
 
 # Analysts & Scientific Associates
+
 - Shadi Nayeri, PhD
 - Krzysztof Borowski, MMath
 

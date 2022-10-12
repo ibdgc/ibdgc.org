@@ -58,6 +58,7 @@ publications:
 - Valeriya Pozdnyakova
 
 # Lab Team Members
+
 - Emebet Mengesha (Lab Manager)
 - Philip Debbas
 - Shell Shaohong (Phenotyper)

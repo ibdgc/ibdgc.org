@@ -66,11 +66,13 @@ publications:
 
 ### NIDDK IBDGC-related goals
 
-**Specific Aim 1:** Define genetic determinants of unmet medical needs in IBD. Sub-aim 1a: Define genetic factors associated with true non-response (TNR), pharmacokinetic, and immunogenic parameters of biologic therapies in IBD. Sub-aim 1b: Define genetic variation associated with perianal Crohn’s disease.
+#### Specific Aims
 
-**Specific Aim 2:** Functional characterization of genetic risk variants associated with IBD. Sub-aim 2a: Characterization of the regulatory landscape in ileal CD tissues. Sub-aim 2b: Functional characterization of tissue specific regulatory and transcriptomic landscapes for IBD risk loci. Expression quantitative trait locus (eQTL) analysis of IBD risk regions. Connecting IBD-associated regulatory variants to target genes using chromosome conformation capture assays.
+**Aim 1:** Define genetic determinants of unmet medical needs in IBD. Sub-aim 1a: Define genetic factors associated with true non-response (TNR), pharmacokinetic, and immunogenic parameters of biologic therapies in IBD. Sub-aim 1b: Define genetic variation associated with perianal Crohn’s disease.
 
-**Specific Aim 3:** Defining novel genetic determinants and environment interplay of Paneth cell phenotypes in CD patients. Determine the genetic associations, molecular mechanisms, and clinical relevance of Paneth cell defects in European ancestry, East Asian, African American, and Hispanic IBD patients.
+**Aim 2:** Functional characterization of genetic risk variants associated with IBD. Sub-aim 2a: Characterization of the regulatory landscape in ileal CD tissues. Sub-aim 2b: Functional characterization of tissue specific regulatory and transcriptomic landscapes for IBD risk loci. Expression quantitative trait locus (eQTL) analysis of IBD risk regions. Connecting IBD-associated regulatory variants to target genes using chromosome conformation capture assays.
+
+**Aim 3:** Defining novel genetic determinants and environment interplay of Paneth cell phenotypes in CD patients. Determine the genetic associations, molecular mechanisms, and clinical relevance of Paneth cell defects in European ancestry, East Asian, African American, and Hispanic IBD patients.
 
 #### Administrative Supplement
 

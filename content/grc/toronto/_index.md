@@ -62,15 +62,13 @@ publications:
 
 ### NIDDK IBDGC-related funding
 
-#### Elucidating Pathophysiological Mechanisms of Intestinal Inflammation. Parent Grant 2017-2022
-
 #### Specific Aims:
 
-**Specific Aim 1)** To support the IBD Genetics Consortium (IBDGC) to continue the discovery of genetic variation associated with IBD and its meaningful phenotypes. In particular, the IBDGC proposes to fully characterize: (a) the genetic architecture of inflammatory bowel disease (IBD) in patients of non-European ancestry (EA) as well as important phenotypes with significant etiological and clinical unmet needs, namely; (b) acute severe ulcerative colitis (ASUC) and; (c) perianal Crohn’s disease (pCD).
+**Aim 1)** To support the IBD Genetics Consortium (IBDGC) to continue the discovery of genetic variation associated with IBD and its meaningful phenotypes. In particular, the IBDGC proposes to fully characterize: (a) the genetic architecture of inflammatory bowel disease (IBD) in patients of non-European ancestry (EA) as well as important phenotypes with significant etiological and clinical unmet needs, namely; (b) acute severe ulcerative colitis (ASUC) and; (c) perianal Crohn’s disease (pCD).
 
-**Specific Aim 2)** To identify the cellular, genomic and microbial characteristics underlying persistent microscopic colonic inflammation in ulcerative colitis (UC) and the mechanisms leading to disease relapse and colitis-associated neoplasia.
+**Aim 2)** To identify the cellular, genomic and microbial characteristics underlying persistent microscopic colonic inflammation in ulcerative colitis (UC) and the mechanisms leading to disease relapse and colitis-associated neoplasia.
 
-**Specific Aim 3)** Intestinal Cell State and Immune Profiling to Characterize Advanced Therapy  (AT) responsive and Refractory Crohn’s disease (CD).
+**Aim 3)** Intestinal Cell State and Immune Profiling to Characterize Advanced Therapy  (AT) responsive and Refractory Crohn’s disease (CD).
 
 #### Administrative Supplement
 

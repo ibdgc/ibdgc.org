@@ -50,11 +50,13 @@ publications:
 
 The objective of this study is to identify the root causes of disease, so that we reveal the key targets for more precise and effective therapies for CD and UC in order to improve the quality of life of patients with CD and UC and eventually lead to the cure of these otherwise lifelong debilitating diseases.
 
-**Specific Aim 1:**  To characterize the genetic architecture of IBD phenotypes within populations currently underrepresented in IBD genomic research.
+#### Specific Aims
 
-**Specific Aim 2:** To exploit longitudinal multi ‘omic approaches to reveal the biological causes of the clinical heterogeneity of IBD and differential treatment response.
+**Aim 1:**  To characterize the genetic architecture of IBD phenotypes within populations currently underrepresented in IBD genomic research.
 
-**Specific Aim 3:** Analysis of the newly identified CD gene PDLIM5 and its splice region variant and their impact on epithelial functions.
+**Aim 2:** To exploit longitudinal multi ‘omic approaches to reveal the biological causes of the clinical heterogeneity of IBD and differential treatment response.
+
+**Aim 3:** Analysis of the newly identified CD gene PDLIM5 and its splice region variant and their impact on epithelial functions.
 
 #### Major interests
 

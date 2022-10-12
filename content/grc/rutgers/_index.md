@@ -1,7 +1,7 @@
 ---
 # Adapted from themes/academic/archetypes/project/index.md
 title: "Rutgers—Johns Hopkins IBD Genetic Research Center"
-subtitle: ""
+subtitle: "IBD Genetics Research Center"
 pi: "Steve R. Brant, MD"
 pi_titles: ["Principal Investigator", "Professor of Medicine and Chancellor Scholar", "Chief, Division of Gastroenterology and Hepatology, Rutgers Robert Wood Johnson Medical School", "Adjunct Professor, Rutgers University Dept. of Genetics and Human Genetics Institute of New Jersey", "Adjunct Professor, Gastroenterology and Hepatology, Dept. of Medicine, Johns Hopkins University School of Medicine"]
 picture: "/img/rutgers/steve-brant.png"

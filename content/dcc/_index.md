@@ -32,16 +32,16 @@ The Data Coordinating Center (DCC) of the NIDDK IBDGC plays a lead role in a) as
 
 # Specific Aims
 
-<display>
+<details>
   <summary><strong>Aim 1:</strong> To maximize power and enhance pathophysiologic insight across diverse populations affected by IBD.</summary>
 
   - The DCC will coordinate, standardize and monitor increased recruitment of African American and Hispanic IBD patients by the Genetics Research Centers (GRCs).
   - Integrating genetic associations with multi-omic ATAC + transcriptome single cell data to further refine association signals between Crohn’s disease and ulcerative colitis and across populations.
 
-</display>
+</details>
 
-<display>
-  <summary><strong>Aim 2:</strong>To provide high-quality operational services targeted to the scientific objectives of the IBDGC, including:</summary>
+<details>
+  <summary><strong>Aim 2:</strong> To provide high-quality operational services targeted to the scientific objectives of the IBDGC, including:</summary>
 
   - Streamlined data collection, management and distribution;
   - Providing guidance in study design and data analysis;
@@ -49,15 +49,16 @@ The Data Coordinating Center (DCC) of the NIDDK IBDGC plays a lead role in a) as
   - Expanding the DCC’s infrastructure to accommodate new recruitment workflows, new GRC(s) and collaborators, and new analytic pipelines to accommodate the scale and richness of newly acquired data.
   - Enhance the IBDGC Data Commons and IBDGC website to promote and facilitate discovery and usage of our resources (including those accessible through the NIDDK Central Repository and dbGaP) throughout the IBDGC and IIIBDGC and by the broader research community.
 
-</display>
+</details>
 
-<display>
-  <summary><strong>Aim 3:</strong>In selected clinical scenarios of unmet medical needs, to enable longitudinal analyses prioritized by the NIDDK IBDGC Steering Committee. To scale and standardize multi-omic cellular data.</summary>
+<details>
+  <summary><strong>Aim 3:</strong> In selected clinical scenarios of unmet medical needs, to enable longitudinal analyses prioritized by the NIDDK IBDGC Steering Committee. To scale and standardize multi-omic cellular data.</summary>
+
   - Performing multi-omic integration of the Crohn's disease ileal resection cohort to predict recurrence and therapeutic response.
   - Adapting data collection workflows to capture new clinical priorities for prospective collections (eg. ulcerative colitis flares, and perianal Crohn's disease)
   - Incorporating GRC analytic capacities in innovative endoscopy, radiology and pathology data
 
-</display>
+</details>
 
 ---
 

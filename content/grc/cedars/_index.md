@@ -1,7 +1,7 @@
 ---
 # Adapted from themes/academic/archetypes/project/index.md
-title: "Cedars-Sinai IBD Genetic Research Center"
-subtitle: ""
+title: "Cedars-Sinai"
+subtitle: "IBD Genetics Research Center"
 pi: "Dermot McGovern, MD, PhD, FRCP(Lon)"
 pi_titles: ["Principal Investigator", "Professor, Medicine and Biomedical Sciences", "Director, Translational Research in the Inflammatory Bowel and Immunobiology Research Institute"]
 picture: "/img/cedars/dermot-mcgovern.jpeg"

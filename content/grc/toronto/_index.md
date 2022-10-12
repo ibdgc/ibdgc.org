@@ -1,7 +1,7 @@
 ---
 # Adapted from themes/academic/archetypes/project/index.md
 title: "University of Toronto-Mount Sinai Hospital"
-subtitle: ""
+subtitle: "IBD Genetics Research Center"
 pi: "Mark Silverberg, MD, PhD, FRCPC"
 pi_titles: ["Principal Investigator", "Professor of Medicine, University of Toronto", "Gastroenterologist, Department of Medicine", "Senior Investigator, Lunenfeld-Tanenbaum Research Institute Inflammatory Bowel Disease Group"]
 picture: "/img/toronto/mark-silverberg.jpg"

@@ -1,7 +1,7 @@
 ---
 # Adapted from themes/academic/archetypes/project/index.md
 title: "Emory University School of Medicine"
-subtitle: ""
+subtitle: "IBD Genetics Research Center"
 pi: "Subra Kugathasan, MD"
 pi_titles: ["Principal Investigator", "Marcus Professor of Pediatric Gastroenterology / Inflammatory Bowel Diseases", "Professor of Human Genetics", "Scientific Director of Pediatric IBD program / Children's Healthcare of Atlanta", "Co-Director, Center for Immunology and Applied Genomics", ]
 picture: "/img/emory/subra_kugathasan.jpg"

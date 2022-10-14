@@ -39,7 +39,7 @@ publications:
 - Geoffrey Nguyen, MD, PhD, FRCPC
 - Zane Gallinger, MD, MSc, FRCPC
 - Vivian Huang, MD, MSc, FRCPC
-- Sun Ho Lee, MD, PhD
+- Sun-Ho Lee, MD, PhD
 - Cristian Hernandez, MD, Former IBD Fellow
 - Helena Martinez Lozano, MD,  Former IBD Fellow
 - Pablo Olivera Sendra, MD, IBD Fellow

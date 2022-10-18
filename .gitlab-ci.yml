@@ -10,6 +10,7 @@ build:
     - git submodule update --init --recursive
   script:
     - hugo
+    - ls
   artifacts:
     paths:
       - public

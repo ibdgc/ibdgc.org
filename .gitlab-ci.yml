@@ -14,7 +14,6 @@ build:
     - git submodule update --init --recursive
   script:
     - hugo
-    - ls
   artifacts:
     paths:
       - public
@@ -23,14 +22,10 @@ build:
 
 deploy:
   stage: deploy
-  dependencies:
-    - build
   image:
     name: banst/awscli
     entrypoint: [""]
   script:
-    - pwd
-    - ls
     - aws configure set region us-east-1
     - aws s3 cp public s3://$S3_BUCKET/ --recursive --include "*" 
 

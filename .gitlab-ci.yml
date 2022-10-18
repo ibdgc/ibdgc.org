@@ -1,3 +1,7 @@
+stages:
+  - build
+  - deploy
+
 variables:
   GIT_SUBMODULE_STRATEGY: recursive
 
@@ -14,8 +18,8 @@ build:
   artifacts:
     paths:
       - public
-  only:
-    - production
+  #only:
+  #  - production
 
 deploy:
   stage: deploy

@@ -18,11 +18,11 @@ build:
 deploy:
   stage: deploy
   dependencies:
-    - public
+    - build
   image:
     name: banst/awscli
     entrypoint: [""]
   script:
     - aws configure set region us-east-1
     - aws s3 cp public/ s3://$S3_BUCKET/ --recursive --include "*" 
-    
+

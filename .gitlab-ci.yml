@@ -1,7 +1,7 @@
 variables:
   GIT_SUBMODULE_STRATEGY: recursive
 
-pages:
+build:
   image:
     name: klakegg/hugo:0.88.1-ext-alpine-ci
     entrypoint : ['']
@@ -15,3 +15,11 @@ pages:
   only:
     - production
 
+deploy:
+  stage: deploy
+  image:
+    name: banst/awscli
+    entrypoint: [""]
+  script:
+    - aws configure set region us-east-1
+    - aws s3 cp /home/gitlab-runner/builds/wydXNp9p/0/devopshint/demo1/build/libs/AWS-0.0.1-SNAPSHOT.jar s3://$S3_BUCKET 

@@ -22,4 +22,4 @@ deploy:
     entrypoint: [""]
   script:
     - aws configure set region us-east-1
-    - aws s3 cp public arn:aws:s3:::$S3_BUCKET 
+    - aws s3 cp public s3://$S3_BUCKET 

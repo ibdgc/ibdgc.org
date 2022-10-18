@@ -17,11 +17,13 @@ build:
   artifacts:
     paths:
       - public
-  #only:
-  #  - production
+  only:
+    - production
 
 deploy:
   stage: deploy
+  dependencies:
+    - build
   image:
     name: banst/awscli
     entrypoint: [""]

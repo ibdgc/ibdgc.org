@@ -29,7 +29,7 @@ deploy:
     entrypoint: [""]
   script:
     - aws configure set region us-east-1
-    - aws s3 sync public s3://$S3_BUCKET --delete --recursive --include "*" 
+    - aws s3 sync public s3://$S3_BUCKET --delete
   only:
     - production
 

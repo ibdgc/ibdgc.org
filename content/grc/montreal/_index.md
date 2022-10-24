@@ -8,7 +8,7 @@ picture: "/img/montreal/john-rioux.jpg"
 #bio: ["Since his move to Montreal in 2005 Dr. Rioux has been the Director of the Laboratory in Genetics and Genomic Medicine of Inflammation, and more recently the Director of the MHI/UdeM Integrative Biology Platform and the High-Performance Sorting Platform. He is a founding member of multiple international consortia and currently co-leads the International IBD Genetics Consortium, is Chair of the Steering Committee of the NIDDK IBD Genetics Consortium and is the leader of the IBD Genomic Medicine (iGenoMed) Consortium.", "Dr. Rioux’s research focuses on three main areas: (1) genetic studies to identify risk factors for common and rare diseases; (2) functional studies using human models, including iPSC-derived epithelial and immune models, to understand how genetic risk factors protect or predispose to disease; and (3) integrative human studies to identify biomarkers of important clinical outcomes, in particular response to molecularly-targeted therapies. Dr. Rioux’s work has led to over 200 publications, cited over 30,000 times."]
 tags: []
 categories: []
-date: 2020-10-12
+date: 2022-10-12
 
 # Optional external URL for PI
 external_link: "https://www.medgeni.org"

@@ -8,7 +8,7 @@ picture: "/img/mssm/judy-cho-pic.jpg"
 bio: ["My major research efforts currently are: a) defining mechanisms of stromal/epithelial/myeloid cell cross talk in IBD; b) predicting differences in clinical outcomes of interest across IBD clinical subtypes and populations; c) exploring the role of rare, IBD-associated variants of high effects; and d) developing new treatment targets based on IBD genetic and single cell expression findings. The explosion of data and new data tools that are accelerating collaborative efforts to benefit patients through genetic and genomic studies; applying new data and technology approaches will broadly benefit the NIDDK IBDGC."]
 tags: []
 categories: []
-date: 2020-10-12
+date: 2022-10-12
 
 # Optional external URL for PI
 external_link: "https://icahn.mssm.edu/profiles/judy-h-cho"

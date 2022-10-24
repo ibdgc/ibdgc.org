@@ -8,7 +8,7 @@ picture: "/img/emory/subra_kugathasan.jpg"
 #bio: [""]
 tags: []
 categories: []
-date: 2020-10-12
+date: 2022-10-12
 
 # Optional external URL for PI
 external_link: "https://pedsresearch.org/research-group/kugathasan-laboratory"

@@ -65,7 +65,7 @@ publications:
 
 ---
 
-#### Additional resources at Cedars-Sinai
+#### Additional resources at University of Miami
 
 - UM IBD Clinical Phenotype Database and Tissue Repository: Overseen by Drs. Abreu and McCauley, this resource contains >3,000 enrolled IBD patients with deep phenotyping and a wealth of stored biospecimens including endoscopic biopsies, DNA, serum, plasma, PBMCs, feces/colon washes, and Paxgene RNA.
 - John P. Hussman Institute for Human Genomics: Dr. McCauley directs multiple core laboratories for biobanking, sequencing, and genotyping within the Institute.

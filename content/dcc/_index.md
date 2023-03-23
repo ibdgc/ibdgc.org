@@ -8,7 +8,7 @@ picture: "/img/mssm/judy-cho-pic.jpg"
 bio: ["Dr. Cho has served as the Principal Investigator of the NIDDK IBDGC since 2003. She plays a lead role in setting scientific and operational priorities, assessing new sample and analytic approaches, and overseeing internal and external communication."]
 tags: []
 categories: []
-date: 2020-08-07T09:46:16-04:00
+date: 2020-10-12
 
 # Optional external URL for PI
 external_link: "https://icahn.mssm.edu/profiles/judy-h-cho"
@@ -30,18 +30,35 @@ The Data Coordinating Center (DCC) of the NIDDK IBDGC plays a lead role in a) as
 
 ---
 
-# Specific Aims: 2017-2022
+# Specific Aims
 
-**Aim 1:** To apply new laboratory and computing technologies and collect accurate, detailed data on disease pathogenesis from the clinical all the way down to the cellular level and genetic level, sharing with the broader research community.
-- Expand platforms for collecting detailed, longitudinal cohort collections
-- Efficiently collaborate with top laboratories, operationalizing sample and data flows and linking results to genetics
-- Develop and scale objective assessments of disease activity and treatment including automated methods for extracting information from endoscopy and pathology reports, virtual slides of endoscopic biopsies, endoscopic video and Electronic Medical Records (EMRs)
-- Develop and apply a cloud-based IBD Data Commons, for broad investigator use
+<details>
+  <summary><strong>Aim 1:</strong> To maximize power and enhance pathophysiologic insight across diverse populations affected by IBD.</summary>
 
-**Aim 2:** To prioritize scientific directions for the Consortium and scale new technologies, sampling strategies and analyses to larger cohorts, including longitudinal data.
-- To fine-map established loci by expanding sample size and diversity. To distinguish credible SNPs between CD and UC
-- Comprehensively define the genetic basis for altered intestinal epithelial gene expression and function in UC. We will analyze sources of variation in mRNA expression from spheroids grown from biopsies taken from inflamed and uninflamed UC colon.
-- Determine the genetic basis for how pathophysiologic mechanisms function over time, including in response to therapeutic interventions
+  - The DCC will coordinate, standardize and monitor increased recruitment of African American and Hispanic IBD patients by the Genetics Research Centers (GRCs).
+  - Integrating genetic associations with multi-omic ATAC + transcriptome single cell data to further refine association signals between Crohn’s disease and ulcerative colitis and across populations.
+
+</details>
+
+<details>
+  <summary><strong>Aim 2:</strong> To provide high-quality operational services targeted to the scientific objectives of the IBDGC, including:</summary>
+
+  - Streamlined data collection, management and distribution;
+  - Providing guidance in study design and data analysis;
+  - Supporting Consortium governance, communication and administration.
+  - Expanding the DCC’s infrastructure to accommodate new recruitment workflows, new GRC(s) and collaborators, and new analytic pipelines to accommodate the scale and richness of newly acquired data.
+  - Enhance the IBDGC Data Commons and IBDGC website to promote and facilitate discovery and usage of our resources (including those accessible through the NIDDK Central Repository and dbGaP) throughout the IBDGC and IIIBDGC and by the broader research community.
+
+</details>
+
+<details>
+  <summary><strong>Aim 3:</strong> In selected clinical scenarios of unmet medical needs, to enable longitudinal analyses prioritized by the NIDDK IBDGC Steering Committee. To scale and standardize multi-omic cellular data.</summary>
+
+  - Performing multi-omic integration of the Crohn's disease ileal resection cohort to predict recurrence and therapeutic response.
+  - Adapting data collection workflows to capture new clinical priorities for prospective collections (eg. ulcerative colitis flares, and perianal Crohn's disease)
+  - Incorporating GRC analytic capacities in innovative endoscopy, radiology and pathology data
+
+</details>
 
 ---
 

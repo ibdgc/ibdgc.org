@@ -2,6 +2,7 @@
 widget = "portfolio"
 headless = true
 title = "IBDGC Projects"
+weight = 20
 
 [content]
 page_type = "project"

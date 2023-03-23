@@ -1,7 +1,7 @@
 ---
 # Adapted from themes/academic/archetypes/project/index.md
 title: "Rutgers—Johns Hopkins IBD Genetic Research Center"
-subtitle: ""
+subtitle: "IBD Genetics Research Center"
 pi: "Steve R. Brant, MD"
 pi_titles: ["Principal Investigator", "Professor of Medicine and Chancellor Scholar", "Chief, Division of Gastroenterology and Hepatology, Rutgers Robert Wood Johnson Medical School", "Adjunct Professor, Rutgers University Dept. of Genetics and Human Genetics Institute of New Jersey", "Adjunct Professor, Gastroenterology and Hepatology, Dept. of Medicine, Johns Hopkins University School of Medicine"]
 picture: "/img/rutgers/steve-brant.png"
@@ -60,13 +60,15 @@ publications:
 
 Major goals are to recruit African American patients and controls for an NIDDK repository, assess and identify susceptibility genes for IBD in the African American population and work on other gene discovery in conjunction with the NIDDK IBD Genetics Consortium
 
-**Specific Aim 1:**  Expand the African American (AA) IBD study population for gene mapping
+#### Specific Aims
 
-**Specific Aim 2:**  Further identify disease variants for AA IBD by various methods including WGS for low frequency alleles, sex-specific analyses, admixture mapping, sex-based analyses, and novel association discovery by incorporating gene expression data and pathway analyses
+**Aim 1:**  Expand the African American (AA) IBD study population for gene mapping
 
-**Specific Aim 3:** examine gene expression in colonic epithelium from African Americans to identify differentially expressed genes and eQTLs relevant to ulcerative colitis in African Americans.
+**Aim 2:**  Further identify disease variants for AA IBD by various methods including WGS for low frequency alleles, sex-specific analyses, admixture mapping, sex-based analyses, and novel association discovery by incorporating gene expression data and pathway analyses
 
-**Specific Aim 4:** determine if differences in open chromatin explains genetic loci with differential IBD genetic association by ethnic ancestry between whites, East Asians and AA’s.
+**Aim 3:** examine gene expression in colonic epithelium from African Americans to identify differentially expressed genes and eQTLs relevant to ulcerative colitis in African Americans.
+
+**Aim 4:** determine if differences in open chromatin explains genetic loci with differential IBD genetic association by ethnic ancestry between whites, East Asians and AA’s.
 
 #### Administrative Supplement
 

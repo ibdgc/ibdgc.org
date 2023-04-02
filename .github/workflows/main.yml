@@ -28,5 +28,5 @@ jobs:
       - name: Sync to S3
         uses: aws-actions/aws-cli@v1
         with:
-          args: s3 sync public s3://${{ variables.S3_BUCKET }} --delete
+          args: s3 sync public s3://${{ secrets.S3_BUCKET }} --delete
 

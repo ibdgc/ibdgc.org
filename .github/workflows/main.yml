@@ -1,4 +1,4 @@
-name: site build and deploy
+name: Build and Deploy
 
 on:
   push:
@@ -8,12 +8,22 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    container: klakegg/hugo@0.88.1-ext-alpine-ci
-
     steps:
-    - uses: actions/checkout@v1
-
-    - run: git submodule update --init --recursive
-
-    - run: hugo
+      - name: Checkout code
+        uses: actions/checkout@v2
+        with:
+          submodules: 'recursive'
+      - name: Build site
+        uses: docker://klakegg/hugo:0.88.1-ext-alpine-ci
+        run: hugo
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Upload to S3
+        if: success()
+        uses: jakejarvis/s3-sync-action@master
+        with:
+          args: --acl public-read --follow-symlinks --delete
+          source_dir: public/
+          bucket_url: s3://${{ secrets.S3_BUCKET }}
 

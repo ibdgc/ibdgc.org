@@ -7,13 +7,10 @@ on:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    container: klakegg/hugo@0.88.1-ext-alpine-ci
 
     steps:
     - uses: actions/checkout@v1
-
-    - name: hugo
-      uses: klakegg/hugo@0.88.1-ext-alpine-ci
 
     - run: git submodule update --init --recursive
 

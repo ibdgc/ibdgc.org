@@ -14,10 +14,8 @@ jobs:
         with:
           submodules: 'recursive'
       - name: Build site
-        uses: docker://klakegg/hugo:0.88.1-ext-alpine-ci
-        with:
-          entrypoint: ""
-          args: -c "hugo"
+        run: |
+          docker run --rm -v ${{ github.workspace }}:/src klakegg/hugo:0.88.1-ext-alpine-ci hugo --minify --destination public
       - name: Upload to S3
         if: success()
         uses: jakejarvis/s3-sync-action@master

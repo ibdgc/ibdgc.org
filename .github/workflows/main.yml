@@ -16,9 +16,6 @@ jobs:
       - name: Build site
         run: |
           docker run --rm -v ${{ github.workspace }}:/src klakegg/hugo:0.88.1-ext-alpine-ci hugo --minify --destination public
-  deploy:
-    runs-on: ubuntu-latest
-    steps:
       - name: Configure AWS
         uses: aws-actions/configure-aws-credentials@v2
         with:

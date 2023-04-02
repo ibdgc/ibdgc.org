@@ -14,7 +14,10 @@ jobs:
         with:
           submodules: 'recursive'
       - name: Build site
-        run: docker://klakegg/hugo:0.88.1-ext-alpine-ci sh -c "hugo"
+        uses: docker://klakegg/hugo:0.88.1-ext-alpine-ci
+        with:
+          entrypoint: ""
+          args: -c "hugo"
       - name: Upload to S3
         if: success()
         uses: jakejarvis/s3-sync-action@master

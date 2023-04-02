@@ -1,0 +1,21 @@
+name: site build and deploy
+
+on:
+  push:
+    branches:
+      - production
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v1
+
+    - name: hugo
+      uses: klakegg/actions-hugo@0.88.1-ext-alpine-ci
+      
+    - run: git submodule update --init --recursive
+    
+    - run: hugo
+    

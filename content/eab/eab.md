@@ -5,9 +5,10 @@ active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
 title = "External Advisory Board"
-subtitle = ""
+subtitle = "External Advisory Board (EAB) NIDDK Inflammatory Bowel Disease Genetics Consortium (IBDGC)  
+"
 
-[content]
+[The EAB of the NIDDK IBDGC is comprised of a diverse, multi-disciplinary group of distinguished investigators dedicated to advising  NIDDK and IBDGC in advancing cellular, molecular and genetic mechanisms driving IBD pathogenesis. By so doing, new therapeutic targets, and Precision IBD approaches to help patients will be accelerated.]
   # Page type to display. E.g. post, talk, or publication.
   page_type = "project"
 

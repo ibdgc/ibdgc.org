@@ -33,6 +33,12 @@
   parent = "about-menu"
 
 [[main]]
+  name = "External Advisory Board"
+  url = "/eab"
+  weight = 50
+  parent = "about-menu"
+
+[[main]]
   name = "NEWS"
   url = "/news"
   weight = 300

@@ -4,7 +4,7 @@
 title: "Functional Molecular Investigation of Inflammatory Bowel Disease (IBD) Risk Variants"
 summary: ""
 authors: ["Alexander Marson", "Liaison: Rick Duerr"]
-tags: [R01, Ancillary, NIDDK, Current]
+tags: [R01, Ancillary, NIDDK, Past]
 categories: [R01]
 date: 2021-03-12T16:56:38-06:00
 

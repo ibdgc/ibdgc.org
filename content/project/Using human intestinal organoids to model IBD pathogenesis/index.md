@@ -4,7 +4,7 @@
 title: "Using Human Intestinal Organoids to Model IBD Pathogenesis"
 summary: ""
 authors: ["Ophir Klein"]
-tags: [R21, Ancillary, NIDDK, Current]
+tags: [R21, Ancillary, NIDDK, Past]
 categories: []
 date: 2021-04-12T10:32:38-05:00
 

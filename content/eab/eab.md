@@ -1,18 +1,19 @@
 +++
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 20  # Order that this section will appear.
 
-title = "Webinar Series"
-subtitle = "Learn about the forefront of IBD discovery with the field's top researchers."
+title = "External Advisory Board"
+subtitle = "External Advisory Board (EAB) NIDDK Inflammatory Bowel Disease Genetics Consortium (IBDGC)  
+"
 
-[content]
+[The EAB of the NIDDK IBDGC is comprised of a diverse, multi-disciplinary group of distinguished investigators dedicated to advising  NIDDK and IBDGC in advancing cellular, molecular and genetic mechanisms driving IBD pathogenesis. By so doing, new therapeutic targets, and Precision IBD approaches to help patients will be accelerated.]
   # Page type to display. E.g. post, talk, or publication.
-  page_type = "talk"
+  page_type = "project"
 
   # Choose how much pages you would like to display (0 = all pages)
-  count = 1
+  count = 0
 
   # Choose how many pages you would like to offset by
   offset = 0
@@ -23,10 +24,10 @@ subtitle = "Learn about the forefront of IBD discovery with the field's top rese
   # Filter posts by a taxonomy term.
   [content.filters]
     tag = ""
-    category = ""
+    category = "eab"
     publication_type = ""
     author = ""
-    exclude_featured = false
+    exclude_featured = true
 
 [design]
   # Toggle between the various page layout types.
@@ -46,8 +47,7 @@ subtitle = "Learn about the forefront of IBD discovery with the field's top rese
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  color = "#36465a"
-
+  # color = "navy"
 
   # Background gradient.
   # gradient_start = "DeepSkyBlue"
@@ -58,12 +58,12 @@ subtitle = "Learn about the forefront of IBD discovery with the field's top rese
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
-  text_color_light = true
+  # text_color_light = true
 
 [advanced]
  # Custom CSS.
  css_style = ""
 
  # CSS class.
- css_class = "news-webinar"
+ css_class = ""
 +++

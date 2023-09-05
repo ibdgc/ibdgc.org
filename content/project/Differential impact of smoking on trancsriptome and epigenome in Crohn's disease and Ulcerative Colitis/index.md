@@ -4,7 +4,7 @@
 title: "Differential Impact of Smoking on Trancsriptome and Epigenome in Crohn's Disease and Ulcerative Colitis"
 summary: ""
 authors: ["Ashwin Ananthakrishnan"]
-tags: [R21, Ancillary, NIDDK, Current]
+tags: [R21, Ancillary, NIDDK, Past]
 categories: []
 date: 2021-04-12T10:32:19-05:00
 

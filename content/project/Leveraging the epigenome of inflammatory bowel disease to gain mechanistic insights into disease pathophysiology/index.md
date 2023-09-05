@@ -4,7 +4,7 @@
 title: "Leveraging the Epigenome of Inflammatory Bowel Disease to Gain Mechanistic Insights Into Disease Pathophysiology"
 summary: ""
 authors: ["Subra Kugathasan", "Liaison: Judy Cho"]
-tags: [R21, Ancillary, NIDDK, Current]
+tags: [R21, Ancillary, NIDDK, Past]
 categories: [R21]
 date: 2021-03-12T16:57:09-06:00
 

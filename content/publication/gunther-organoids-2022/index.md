@@ -1,0 +1,13 @@
+---
+title: "Organoids in gastrointestinal diseases: from experimental models to clinical translation"
+date: 2022-09-01
+publishDate: 2023-08-08T19:19:19.305223Z
+authors: ["Claudia Günther", "Beate Winner", "Markus F. Neurath", "Thaddeus S. Stappenbeck"]
+publication_types: ["2"]
+abstract: "We are entering an era of medicine where increasingly sophisticated data will be obtained from patients to determine proper diagnosis, predict outcomes and direct therapies. We predict that the most valuable data will be produced by systems that are highly dynamic in both time and space. Three-dimensional (3D) organoids are poised to be such a highly valuable system for a variety of gastrointestinal (GI) diseases. In the lab, organoids have emerged as powerful systems to model molecular and cellular processes orchestrating natural and pathophysiological human tissue formation in remarkable detail. Preclinical studies have impressively demonstrated that these organs-in-a-dish can be used to model immunological, neoplastic, metabolic or infectious GI disorders by taking advantage of patient-derived material. Technological breakthroughs now allow to study cellular communication and molecular mechanisms of interorgan cross-talk in health and disease including communication along for example, the gut-brain axis or gut-liver axis. Despite considerable success in culturing classical 3D organoids from various parts of the GI tract, some challenges remain to develop these systems to best help patients. Novel platforms such as organ-on-a-chip, engineered biomimetic systems including engineered organoids, micromanufacturing, bioprinting and enhanced rigour and reproducibility will open improved avenues for tissue engineering, as well as regenerative and personalised medicine. This review will highlight some of the established methods and also some exciting novel perspectives on organoids in the fields of gastroenterology. At present, this field is poised to move forward and impact many currently intractable GI diseases in the form of novel diagnostics and therapeutics."
+featured: false
+publication: ""
+tags: ["Humans", "Reproducibility of Results", "Models", "Theoretical", "Bioprinting", "Gastrointestinal Diseases", "gastrointestinal pathology", "gastrointestinal physiology", "intestinal stem cell", "Organoids", "stem cells"]
+doi: "10.1136/gutjnl-2021-326560"
+---
+
